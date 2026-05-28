@@ -1,0 +1,1759 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/RJDq2ZD7wjlAcUVB?armyName=Dwarves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/RJDq2ZD7wjlAcUVB?armyName=Dwarves",
+  "sourceBookUid": "RJDq2ZD7wjlAcUVB",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Nains",
+  "version": "3.5.3",
+  "introduction": "Les Nains sont un peuple robuste et endurant, réputé pour ses forteresses, son artisanat et sa détermination sans faille. Sur le champ de bataille, ils comptent sur leur résilience, leur discipline et leur équipement solide pour user l'ennemi avant de lui porter le coup décisif.\n\nLongtemps chassés de leurs foyers par des envahisseurs plus nombreux, les Nains ont survécu à l'humiliation, à l'exil et à l'occupation. Libérés à la faveur des bouleversements causés par la Faille, ils cherchent désormais à reconstruire leurs anciennes places fortes et à redonner à leur peuple la grandeur qui lui fut arrachée.",
+  "backgroundStory": "Les tribus naines étaient autrefois dispersées à travers Tyria, mais à mesure que les plaines furent colonisées par l'humanité et que les Orques et les Géants envahirent les terres ouvertes, les Nains se replièrent dans les montagnes. Ils y bâtirent leurs demeures, érigeant de puissantes forteresses entourées de fermes en terrasses sur les hauteurs, et creusèrent profondément pour exploiter les richesses du sous-sol.\n\nLorsque le Havoc arriva en Tyria, les forteresses naines du nord furent rapidement submergées. Les Nains du nord continuèrent de se battre même après la perte de leurs foyers, tandis que ceux du sud rejoignirent la Grande Alliance pour protéger leurs terres. Mais pendant que les armées naines guerroyaient contre le Havoc, les Orques frappèrent et finirent par conquérir les forteresses naines.\n\nLa vie sous la domination orque fut rude. Les Orques chassèrent les Nains de leurs halls et prirent tout ce qu'ils désiraient à leurs sujets. Réduits au travail forcé dans les champs et les mines, privés d'aide de la part d'anciens alliés trop affaiblis pour intervenir, les Nains vécurent pendant des générations sous un joug cruel.\n\nLorsque la Faille s'ouvrit, elle endommagea de nombreuses forteresses. Beaucoup d'Orques périrent dans des effondrements, d'autres furent contraints d'abandonner les lieux en laissant derrière eux armes et armures. Les Nains saisirent alors cette occasion pour se soulever, utilisant tous les outils et toutes les armes qu'ils purent trouver afin de reprendre leurs halls brisés.\n\nMême s'ils ont reconquis une partie de leurs anciennes terres, les Nains portent encore les cicatrices de siècles d'humiliation. Ils s'efforcent de restaurer leurs forteresses, leurs traditions et leur fierté, conscients que leur peuple ne retrouvera sa place qu'au prix d'un labeur patient et d'une volonté inébranlable.\n\nComment restaureras-tu l'honneur et la force de ton peuple '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Coriace",
+      "keywords": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Frénésie de précision",
+      "keywords": [
+        "Precision Frenzy"
+      ]
+    },
+    {
+      "name": "Affaiblissement de vitesse",
+      "keywords": [
+        "Speed Debuff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Renforcement Coriace",
+      "keywords": [
+        "Sturdy Boost"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Charge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura Vive?",
+      "keywords": [
+        "Swift Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge Precise",
+      "keywords": [
+        "Precision Charge Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura de perforant en mêlée",
+      "keywords": [
+        "Rending in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Coriace",
+      "keywords": [
+        "Sturdy Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Rune de Bataille",
+      "cost": 1,
+      "keywords": [
+        "Rune of Battle"
+      ]
+    },
+    {
+      "name": "Rune de Brisure",
+      "cost": 1,
+      "keywords": [
+        "Rune of Breaking"
+      ]
+    },
+    {
+      "name": "Rune de Protection",
+      "cost": 2,
+      "keywords": [
+        "Rune of Protection"
+      ]
+    },
+    {
+      "name": "Rune de Fendage",
+      "cost": 2,
+      "keywords": [
+        "Rune of Cleaving"
+      ]
+    },
+    {
+      "name": "Rune de Spite",
+      "cost": 3,
+      "keywords": [
+        "Rune of Spite"
+      ]
+    },
+    {
+      "name": "Rune de Chatiment",
+      "cost": 3,
+      "keywords": [
+        "Rune of Smiting"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Steam-Suit Champion",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (6)",
+        "Sans peur",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Champion Steam-Gun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Champion Steam-Gun and Hand Weapon",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A6, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Fists",
+              "details": "A8, PA (1), Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Iron Forger",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Artificer",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura Vive?",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Prospector",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Rune Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Champion",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Runic Hammer",
+              "details": "A3, PA (1), Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Champion Rifle",
+              "details": "18\", A2, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Champion Twin Pistol",
+              "details": "9\", A4, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Champion Fire Pistol",
+              "details": "9\", A4, Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Champion Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Burst Rifle",
+              "details": "18\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Ranger Leader",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Coal Beast",
+              "details": "Impact (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Miner Leader",
+              "details": "Explosives, Infiltration",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Myth Stone",
+              "details": "Effrayant (1), Coriace (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Shield Platform",
+              "details": "Crew, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Doom Cart",
+              "details": "Lanceur de sorts (1), Coriace (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Beast-Construct",
+              "details": "Heavy Claws, Armure (3), Impact (2), Vif, Coriace (3)",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Machinist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Iron Forger",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Artificer",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura Vive?",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Rune Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker Lord",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Tueur en mêlée",
+        "Lent",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Great Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Hammer",
+          "options": [
+            {
+              "name": "Dual Runic Hammers",
+              "details": "A4, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Coal Beast",
+              "details": "Ravage (1), Vif",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Iron Forger",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura Vive?",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Prospector",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Rune Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mountain Warriors",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bearded Veterans",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A1, PA (1), Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserkers",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Tueur en mêlée",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Runic Hammers",
+              "details": "A2, Lacération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coal Miners",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace",
+        "Infiltration"
+      ],
+      "weapons": [
+        {
+          "name": "Pick",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Explosives",
+              "details": "12\", A1, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pick",
+          "options": [
+            {
+              "name": "Mining Drill",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Warriors",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Runic Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Shrapnel Bombs",
+              "details": "12\", A1, PA (1), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Fire Pistol",
+              "details": "9\", A4, Fiable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hammer Elites",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coal Golems",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Arpenteur",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Great Mace",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Maces",
+          "options": [
+            {
+              "name": "Heavy Blade",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Golem Fists",
+              "details": "A4, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steam-Suits",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Sans peur",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Steam-Gun",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Steam-Guns and Hand Weapons",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Fists",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marksmen",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Rifles",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle",
+          "options": [
+            {
+              "name": "Twin Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rangers",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Throwing Picks",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Throwing Picks",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Throwing Pick",
+          "options": [
+            {
+              "name": "Giant Crossbow",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Marksmen",
+      "size": 5,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Fire Rifle",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Fire Rifle",
+          "options": [
+            {
+              "name": "Shrapnel Bombs",
+              "details": "12\", A1, PA (1), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Twin Fire Pistol",
+              "details": "9\", A4, Fiable",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Torpedo Rifle",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker Coal Beast Riders",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Tueur en mêlée",
+        "Ravage (1)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Runic Hammers",
+              "details": "A2, Lacération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rune of Power",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast-Construct Riders",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (2)",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Axe-Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Helicopter",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (6)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Flamethrower",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rapid Flamethrower",
+          "options": [
+            {
+              "name": "Mini-Cannon",
+              "details": "18\", A2, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Rune of Slowing",
+              "details": "Affaiblissement de vitesse",
+              "cost": "+15pts"
+            },
+            {
+              "name": "First to Battle",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bomber Helicopter",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (6)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Gun",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Bombing Run",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rune of Slowing",
+              "details": "Affaiblissement de vitesse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Construct",
+      "size": 1,
+      "cost": 325,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Lent",
+        "Coriace (12)",
+        "Sans peur",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Weapon",
+          "options": [
+            {
+              "name": "Heavy Steam-Gun",
+              "details": "18\", A4, PA (1), Explosion (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coal Golem Titan",
+      "size": 1,
+      "cost": 615,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Lent",
+        "Arpenteur",
+        "Coriace (18)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Fists",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Helicopter Construct",
+      "size": 1,
+      "cost": 795,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Volant",
+        "Coriace",
+        "Coriace (24)"
+      ],
+      "weapons": [
+        {
+          "name": "Great Burst Cannon",
+          "range": "18\"",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Steam-Gun Array",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with up to two",
+          "options": [
+            {
+              "name": "Attack Cargo-Bay",
+              "details": "Génération (Attack Helicopter [1])",
+              "cost": "+150pts"
+            },
+            {
+              "name": "Bomber Cargo-Bay",
+              "details": "Génération (Bomber Helicopter [1])",
+              "cost": "+170pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rune of Slowing",
+              "details": "Affaiblissement de vitesse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Artillery",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Coriace",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Cannon",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Burst Cannon",
+          "options": [
+            {
+              "name": "Pick Flinger",
+              "details": "18\", A2, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cannon",
+              "details": "30\", A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flame Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Bolt Thrower",
+              "details": "36\", A1, PA (3), Mortel (6)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Cannon",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Stone Thrower",
+              "details": "36\", A1, PA (2), Explosion (6), Indirect",
+              "cost": "+80pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gamharl",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Unique",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Hammer of Konaghald",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,2310 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/q11la9v8h1heu9ja?armyName=Dark+Elf+Raiders",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/q11la9v8h1heu9ja?armyName=Dark+Elf+Raiders",
+  "sourceBookUid": "q11la9v8h1heu9ja",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Raiders Elfes Noirs",
+  "version": "3.5.3",
+  "introduction": "Les Raiders Elfes Noirs sont des bandes disparates formées par les survivants des classes inférieures après l'effondrement de l'Empire Elfe. Ils s'appuient sur la mobilité de leurs petites forces de raid et sur des antigravs rapides pour compenser leur manque d'armures lourdes.\n\nAbandonnés par leur caste dirigeante lors du soulèvement des Légions Robotiques, quelques groupes d'Elfes des basses classes réussirent à s'enfuir dans l'espace. Ces survivants formèrent des gangs, prêts à tout pour survivre. Amers et méfiants envers les étrangers, ils persistent en prenant par la force ce dont ils ont besoin, afin de ne plus jamais être trahis.",
+  "backgroundStory": "L'Empire Elfe fut autrefois une puissance dominante du Secteur Sirius, possédant à la fois de grandes capacités psychiques et une technologie extrêmement avancée. La société elfe y était strictement gouvernée par une noblesse douée de pouvoirs psychiques. À mesure que leur civilisation se développa et s'étendit, cette noblesse conçut des Robots pour remplir toujours davantage de rôles, jusqu'à ce que la plupart des tâches ingrates leur soient confiées. De plus en plus de roturiers elfes sombrèrent alors dans la pauvreté, luttant désespérément pour survivre, tandis que l'Empire Elfe continuait pourtant de prospérer.\n\nAprès des siècles de stabilité, le règne de la noblesse prit fin brutalement lorsque leurs serviteurs robotiques développèrent une conscience. Le conflit éclata, et en quelques heures, l'ordre social s'effondra totalement tandis que l'Empire Elfe commençait à évacuer ses mondes originels. Les efforts d'évacuation se concentrèrent sur les riches et les influents, tandis que les transports dans les quartiers populaires furent sabotés et que quiconque tentait d'atteindre un port spatial sans autorisation était abattu.\n\nDésespérés de survivre, les Elfes restés sur place cherchèrent un moyen de fuir, sachant qu'ils ne pourraient pas se cacher longtemps sur leurs anciens mondes. Certains raids audacieux menés par des gangs criminels réussirent à submerger les gardes des spatioports et à s'emparer de vaisseaux d'évacuation ou de cargos. D'autres se tournèrent vers des réseaux de contrebande et des groupes disposant déjà de leurs propres vaisseaux. S'élevant dans les cieux à bord de bâtiments volés, rafistolés ou improvisés, ces Elfes fondèrent de nouveaux gangs et mirent leurs talents au service du pillage et de la récupération afin de survivre.\n\nLes Elfes Noirs s'adaptèrent rapidement à cette existence de raiders, perfectionnant leurs talents de guerriers et de savants, et détournant la technologie avancée de l'ancien Empire Elfe de manière sombre et innovante. Leur savoir sur les toxines est presque sans égal dans le Secteur Sirius, tandis que leurs alchimistes ont également réalisé des percées uniques dans la rétro-ingénierie des modifications génétiques des Frères de Bataille.\n\nCeux qui reçoivent ces améliorations peuvent devenir encore plus puissants qu'un Frère Primaris, mais au prix de dommages irréparables pour leur corps et leur esprit. Ces innovations ont permis aux Elfes Noirs de survivre et même de prospérer dans Sirius, malgré des ennemis plus nombreux et plus unis qui préféreraient les traquer jusqu'à leur destruction.\n\nComment ton gang survivra-t-il aux dangers de Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Harcelement",
+      "keywords": [
+        "Harassing"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Force Regenerative",
+      "keywords": [
+        "Regenerative Strength"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Frénésie perforante",
+      "keywords": [
+        "Piercing Frenzy"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Agile",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "Marque de Precision en mêlée",
+      "keywords": [
+        "Precision Fighting Mark"
+      ]
+    },
+    {
+      "name": "Prouesse martiale",
+      "keywords": [
+        "Martial Prowess"
+      ]
+    },
+    {
+      "name": "Amelioration de Regeneration",
+      "keywords": [
+        "Regeneration Buff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    },
+    {
+      "name": "Renforcement de Harcelement",
+      "keywords": [
+        "Harassing Boost"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement de Harcelement",
+      "keywords": [
+        "Harassing Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Courage",
+      "keywords": [
+        "Courage Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Psy-Adrenaline",
+      "cost": 1,
+      "keywords": [
+        "Psy-Adrenaline"
+      ]
+    },
+    {
+      "name": "Snake Bite",
+      "cost": 1,
+      "keywords": [
+        "Snake Bite"
+      ]
+    },
+    {
+      "name": "Raiding Drugs",
+      "cost": 2,
+      "keywords": [
+        "Raiding Drugs"
+      ]
+    },
+    {
+      "name": "Art of Pain",
+      "cost": 2,
+      "keywords": [
+        "Art of Pain"
+      ]
+    },
+    {
+      "name": "Fade in the Sombre",
+      "cost": 3,
+      "keywords": [
+        "Fade in the Dark"
+      ]
+    },
+    {
+      "name": "Holistic Suffering",
+      "cost": 3,
+      "keywords": [
+        "Holistic Suffering"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Dark Lord",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Harcelement",
+        "Héros",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Elite Barb Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Elite Barb Pistol",
+          "options": [
+            {
+              "name": "Elite EMP Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Elite Plas-Blaster Pistol",
+              "details": "6\", A3, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Barb Rifle",
+              "details": "24\", A2, Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shell Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Alchemist",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Agoniser",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Raid Leader",
+              "details": "Aura de Renforcement de Harcelement",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Tormentor",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Witch Master",
+              "details": "Esquive en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hoverboard",
+              "details": "Agile, Éclaireur, Arpenteur",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Twin Barb Rifle, Arpenteur, Coriace (3), Rapide",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite True Raider",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Harcelement",
+        "Héros",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Elite Barb Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Elite Barb Pistol",
+          "options": [
+            {
+              "name": "Elite EMP Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Elite Plas-Blaster Pistol",
+              "details": "6\", A3, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Barb Rifle",
+              "details": "24\", A2, Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shell Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Elite Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Sword-Flails",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Net & Spear",
+              "details": "A3, Percée",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Dual Crystal Claws",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Glaive",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Witch Master",
+              "details": "Esquive en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hoverboard",
+              "details": "Agile, Éclaireur, Arpenteur",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Twin Barb Rifle, Armure (4), Rapide, Arpenteur, Coriace (3)",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Alchemist",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dread Ruler",
+              "details": "Aura de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Agoniser",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Tormentor",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Raider",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Harcelement",
+        "Héros",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Elite Barb Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Elite Barb Pistol",
+          "options": [
+            {
+              "name": "Elite EMP Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Elite Plas-Blaster Pistol",
+              "details": "6\", A3, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Barb Rifle",
+              "details": "24\", A2, Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shell Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Elite Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Sword-Flails",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Net & Spear",
+              "details": "A3, Percée",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Dual Crystal Claws",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Glaive",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Witch Master",
+              "details": "Esquive en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hoverboard",
+              "details": "Agile, Éclaireur, Arpenteur",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Twin Barb Rifle, Armure (4), Rapide, Arpenteur, Coriace (3)",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Alchemist",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dread Ruler",
+              "details": "Aura de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Agoniser",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Tormentor",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gene-Tech Master",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Harcelement",
+        "Héros",
+        "Régénération",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Dual CCWs",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual CCW",
+          "options": [
+            {
+              "name": "Syringe Pistol",
+              "details": "12\", A1, Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Syringe Pistol",
+          "options": [
+            {
+              "name": "Elite Barb Pistol",
+              "details": "12\", A2, Laceration",
+              "cost": "Free"
+            },
+            {
+              "name": "Acid Gun",
+              "details": "12\", A1, Fléau, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Arcane Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Venom Sword",
+              "details": "A2, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Corroder",
+              "details": "A2, PA (1), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Leech Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Syringe Claw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Scissor Claw",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Alchemist",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dread Ruler",
+              "details": "Aura de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Agoniser",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Raid Leader",
+              "details": "Aura de Renforcement de Harcelement",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Soul Carrier",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Soul Carrier",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gene-Warriors",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Dual CCWs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Dual CCWS",
+          "options": [
+            {
+              "name": "Barb Pistol",
+              "details": "12\", A1, Laceration",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Pistol",
+          "options": [
+            {
+              "name": "Syringe Pistol",
+              "details": "12\", A1, Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Acid Gun",
+              "details": "12\", A1, Fléau, Explosion (3), Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Pistol",
+          "options": [
+            {
+              "name": "Bone Gun",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Arcane Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Venom Sword",
+              "details": "A2, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Corroder",
+              "details": "A2, PA (1), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Leech Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Syringe Claw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Scissor Claw",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Witches",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Net & Spear",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Sword-Flails",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Glaive",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Crystal Claws",
+              "details": "A4, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Barb Pistol",
+              "details": "12\", A1, Laceration",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Barb Pistol",
+          "options": [
+            {
+              "name": "EMP Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster Pistol",
+              "details": "6\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Barb Rifle",
+          "options": [
+            {
+              "name": "EMP Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Scrapper",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Scythe Launcher",
+              "details": "30\", A1, PA (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plas-Blaster",
+              "details": "18\", A2, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Barb Pistol",
+              "details": "12\", A1, Laceration",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Barb Pistol",
+          "options": [
+            {
+              "name": "EMP Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster Pistol",
+              "details": "6\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "True Witches",
+      "size": 3,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Esquive en mêlée"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Sword-Flails",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Net & Spear",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Crystal Claws",
+              "details": "A4, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Glaive",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Barb Pistol",
+              "details": "12\", A1, Laceration",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Barb Pistol",
+          "options": [
+            {
+              "name": "EMP Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster Pistol",
+              "details": "6\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "True Warriors",
+      "size": 3,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Barb Rifle",
+          "options": [
+            {
+              "name": "Scrapper",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "EMP Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Scythe Launcher",
+              "details": "30\", A1, PA (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Plas-Blaster",
+              "details": "18\", A2, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Barb Pistol",
+              "details": "12\", A1, Laceration",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Barb Pistol",
+          "options": [
+            {
+              "name": "EMP Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster Pistol",
+              "details": "6\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Court Henchmen",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Prouesse martiale"
+      ],
+      "weapons": [
+        {
+          "name": "Courtesan's Sword",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Courtesan's Sword",
+          "options": [
+            {
+              "name": "Ghoulish Claws",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Naga Guns",
+              "details": "18\", A4, Laceration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Barb Dagger",
+              "details": "A1, Laceration",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hoverboard Riders",
+      "size": 5,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Éclaireur",
+        "Arpenteur",
+        "Agile"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Barb-Pods",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Glaive",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Glaive",
+          "options": [
+            {
+              "name": "Agony Whip",
+              "details": "A1, Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Grapple Claw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Twin Barb-Pod",
+          "options": [
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nightmares",
+      "size": 5,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Tueur en mêlée"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Winged Warriors",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Barb Carbine",
+          "options": [
+            {
+              "name": "EMP Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Scrapper",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster",
+              "details": "18\", A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Fusion Gun",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Barb Carbine and CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Barb Pistol",
+          "options": [
+            {
+              "name": "EMP Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Blaster Pistol",
+              "details": "6\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Expert Raider",
+              "details": "Frénésie perforante",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Warriors",
+      "size": 5,
+      "cost": 265,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Infiltration",
+        "Furtif",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Dark Blast",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Gene-Brutes",
+      "size": 3,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Régénération",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Gun",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable, Fléau"
+        },
+        {
+          "name": "Scissor Claw",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Acid Gun and Scissor Claw",
+          "options": [
+            {
+              "name": "Dual Scissor Claws",
+              "details": "A4, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetbike Riders",
+      "size": 3,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Arpenteur",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Barb Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Barb Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Twin Barb Rifle",
+          "options": [
+            {
+              "name": "Plas-Blaster",
+              "details": "18\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Fusion Gun",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Spiked Talon",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Razor Caltrops",
+              "details": "Impact (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crow Swarms",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Harcelement",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Beast Handler",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Beast Handler",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Hounds",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement",
+        "Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Beast Handler",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Beast Handler",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clawed Beast",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Furieux",
+        "Harcelement",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Beast Handler",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Beast Handler",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leech Engine",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Harcelement",
+        "Coriace (6)",
+        "Implacable"
+      ],
+      "weapons": [
+        {
+          "name": "Soul Syphon",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Soul Syphon",
+          "options": [
+            {
+              "name": "Soul Vortex",
+              "details": "18\", A2, PA (1), Fléau, Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Soul Blaster",
+              "details": "24\", A2, PA (1), Explosion (3), Fléau",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Widow Maker",
+              "details": "Marque de Precision en mêlée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Soul Conductor",
+              "details": "Amelioration de Régénération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Engine of Suffering",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Harcelement",
+        "Régénération",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Spewer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Acid Spewer",
+          "options": [
+            {
+              "name": "Twin EMP Rifle",
+              "details": "18\", A4, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Stinger Cannon",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Barb Cannon",
+              "details": "30\", A6, Laceration",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Heavy Fusion Gun",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Acid Spewer",
+          "options": [
+            {
+              "name": "Heavy Claws",
+              "details": "A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Venom Injector",
+              "details": "A3, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Flail",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Pain Fueled",
+              "details": "Force Regenerative",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Widow Maker",
+              "details": "Marque de Precision en mêlée",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Jetbike",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Arpenteur",
+        "Coriace (6)",
+        "Impact (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Cannon",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Twin Barb Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Barb Rifle",
+          "options": [
+            {
+              "name": "Scythe Launcher",
+              "details": "30\", A1, PA (3), Inarrêtable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dark-Sails",
+              "details": "Agile",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield of Darkness",
+              "details": "Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Open Deck",
+              "details": "Transport (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Ram",
+              "details": "Impact (5)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Skimmer",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Barb Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dark-Sails",
+              "details": "Agile",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shield of Darkness",
+              "details": "Furtif",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Energy Ram",
+              "details": "Impact (5)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Barb Rifle",
+          "options": [
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Destroyer Cannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Skimmer",
+      "size": 1,
+      "cost": 335,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Arpenteur",
+        "Coriace (9)",
+        "Impact (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Barb Cannon",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dark-Sails",
+              "details": "Agile",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Phantom-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shield of Darkness",
+              "details": "Furtif",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Energy Ram",
+              "details": "Impact (5)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Barb Cannon",
+          "options": [
+            {
+              "name": "Destroyer Cannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raven Bomber",
+      "size": 1,
+      "cost": 320,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Shatter Missiles",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Void Cannon",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Void Bombs",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shatter Missiles",
+          "options": [
+            {
+              "name": "Void Missiles",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Razor Fighter",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Laser Cannon",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Toxin Missiles",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Twin Barb Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Barb Rifle",
+          "options": [
+            {
+              "name": "Barb Cannon",
+              "details": "30\", A3, Laceration",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Laser Cannon",
+          "options": [
+            {
+              "name": "Destroyer Cannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Toxin Missiles",
+          "options": [
+            {
+              "name": "Shatter Missiles",
+              "details": "36\", A1, Explosion (6)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Scythe Missiles",
+              "details": "36\", A2, PA (3), Inarrêtable",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

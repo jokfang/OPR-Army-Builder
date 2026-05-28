@@ -1,0 +1,1066 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/AcDXPPXmWrgHChlS?armyName=Sky-City+Dwarves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/AcDXPPXmWrgHChlS?armyName=Sky-City+Dwarves",
+  "sourceBookUid": "AcDXPPXmWrgHChlS",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Nains des Cités du Ciel",
+  "version": "3.5.3",
+  "introduction": "Les Nains des Cités du Ciel sont des Nains ayant développé la technologie nécessaire pour vivre dans des cités aériennes, à l'abri des dangers du monde d'en bas. Plus légèrement armés que les autres Nains, ils comptent sur le vol et les armes à distance pour vaincre leurs ennemis.\n\nLes cités flottantes des Nains des Cités du Ciel leur ont permis d'échapper aux armées orques qui conquirent leurs semblables. Ces réfugiés transformèrent leurs petites flottes en villes aériennes, parcourant Tyria et vivant du commerce tout en essayant lentement de reconstruire ce qu'ils avaient perdu. Pourtant, lorsque les autres Nains furent libérés, les Nains du Ciel furent méprisés comme des lâches et traités en étrangers.",
+  "backgroundStory": "Les tribus naines étaient autrefois dispersées à travers Tyria, mais à mesure que les plaines furent colonisées par l'humanité et que les Orques et les Géants gagnèrent les prairies, les Nains se replièrent dans les montagnes. Ils y bâtirent de puissantes forteresses entourées de fermes en terrasses sur les hauteurs, et creusèrent des mines dans les profondeurs. Pendant la plus grande partie de leur histoire, les Nains durent voyager par voie terrestre, souvent à travers des territoires hostiles, pour visiter et commercer avec d'autres forteresses naines.\n\nIls expérimentèrent diverses méthodes pour voyager en sécurité, jusqu'à découvrir le vol motorisé, et leurs convois d'hélicoptères devinrent bientôt une vision familière entre les montagnes de Tyria. Afin de faciliter ces déplacements, on construisit de grands navires maintenus en l'air par des ballons plus légers que l'air, servant de relais aux convois d'hélicoptères. Ce furent les premiers Sky-Ports, qui offraient carburant, ravitaillement et sécurité à tous les Nains qui s'y arrêtaient.\n\nLorsque les Orques conquirent les forteresses naines des montagnes, certains Nains vivaient déjà et travaillaient dans ces premiers Sky-Ports. Leurs habitants étaient surtout des ouvriers, des marchands et des ingénieurs, disposant de peu d'armes et d'équipement. Sans soldats ni arsenal digne de ce nom, les Nains des Sky-Ports décidèrent d'accueillir autant de réfugiés qu'ils le pouvaient avant de fuir les armées orques.\n\nCes Nains découvrirent de nouvelles ressources qu'ils pouvaient tamiser dans les nuages, ce qui leur permit de rester en altitude indéfiniment. Les Nains du ciel commencèrent à commercer avec d'autres peuples afin d'obtenir le métal, la toile et le bois nécessaires à l'entretien de leurs navires et à la construction de nouveaux. Lentement, à mesure que leur richesse grandissait, les Sky-Ports continuèrent de s'étendre jusqu'à devenir des colonies autosuffisantes appelées Cités du Ciel. Bien qu'il leur fallût des générations pour devenir autonomes, les Nains des Cités du Ciel n'oublièrent jamais leurs proches conquis. Ils développèrent des armes pour combattre les Orques et cherchèrent des alliés pour les y aider.\n\nLes Nains des Cités du Ciel préparaient encore leur armée lorsque la Faille déchira Tyria. Ils se replièrent dans les cieux, pour découvrir que la Faille avait endommagé plusieurs anciennes forteresses naines et offert à leurs semblables l'occasion de se soulever contre les Orques. Ils envoyèrent des émissaires, impatients de renouer avec leurs frères, mais à leur grande surprise, ils furent accueillis avec amertume et hostilité, les autres Nains estimant avoir été abandonnés. Désormais, les Nains des Cités du Ciel ont repris leur vie dans les nuages, laissant leurs parents éloignés rebâtir les anciennes forteresses tandis qu'eux poursuivent leur nouvelle existence parmi les vents.\n\nComment suivras-tu les vents changeants vers la prospérité ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Boucanier",
+      "keywords": [
+        "Buccaneer"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Portée polyvalente",
+      "keywords": [
+        "Versatile Reach"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Fracasse",
+      "keywords": [
+        "Shatter"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Malus de magie",
+      "keywords": [
+        "Casting Debuff"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Boost du boucanier",
+      "keywords": [
+        "Buccaneer Boost"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de Perforation au tir",
+      "keywords": [
+        "Rending when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du boucanier",
+      "keywords": [
+        "Buccaneer Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Lacération en mêlée",
+      "keywords": [
+        "Shred in Melee Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Rune de Nuage d'Aether",
+      "cost": 1,
+      "keywords": [
+        "Aether-Cloud Rune"
+      ]
+    },
+    {
+      "name": "Choc d'Aether",
+      "cost": 1,
+      "keywords": [
+        "Aether Shock"
+      ]
+    },
+    {
+      "name": "Rune du Vent",
+      "cost": 2,
+      "keywords": [
+        "Wind Rune"
+      ]
+    },
+    {
+      "name": "Choc de Foudre",
+      "cost": 2,
+      "keywords": [
+        "Lightning Shock"
+      ]
+    },
+    {
+      "name": "Rune de Bricolage",
+      "cost": 3,
+      "keywords": [
+        "Tinkering Rune"
+      ]
+    },
+    {
+      "name": "Choc de Tonnerre",
+      "cost": 3,
+      "keywords": [
+        "Thunder Shock"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Balloon Master",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (6)",
+        "Éclaireur",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Cannon-Gun",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Sky-Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Weapon-Rig",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Chain-Sword",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Sky-Pistol",
+          "options": [
+            {
+              "name": "Rivet Gun",
+              "details": "12\", A2, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Chain-Sword",
+          "options": [
+            {
+              "name": "Sky-Pike",
+              "details": "A4, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cannon-Gun",
+          "options": [
+            {
+              "name": "Aether-Gun",
+              "details": "18\", A3, Fracasse",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Admiral",
+              "details": "Aura de Boost du boucanier",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Code Enforcer",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Sky-Seer",
+              "details": "Aura de Résistance",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Engine Master",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Chemist",
+              "details": "Aura de Perforation au tir",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Fine-Tuned Weapons",
+              "details": "Portée polyvalente",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky-Captain",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Pistol",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Great Hammer",
+              "details": "A1, PA (1), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sky-Pike",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flame Pistol",
+          "options": [
+            {
+              "name": "Twin Sky-Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chem-Gun",
+              "details": "12\", A1, Fléau, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Sky-Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Navigator",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Admiral",
+              "details": "Aura de Boost du boucanier",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sky-Seer",
+              "details": "Aura de Résistance",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Engine Master",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Aether Master",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Chemist",
+              "details": "Aura de Perforation au tir",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Fine-Tuned Weapons",
+              "details": "Portée polyvalente",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crew",
+      "size": 10,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Sky-Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Sky-Pistol and Hand Weapon",
+          "options": [
+            {
+              "name": "Sky-Pike",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Sky-Pistol",
+          "options": [
+            {
+              "name": "Hook Rifle",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Volley Rifle",
+              "details": "18\", A4, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Sky-Pistol",
+          "options": [
+            {
+              "name": "Flame Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Sky-Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Fine-Tuned Weapons",
+              "details": "Portée polyvalente",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gunners",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Sky-Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Sky-Rifle",
+          "options": [
+            {
+              "name": "Twin Sky-Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Aether-Gun",
+              "details": "18\", A3, Fracasse",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Gunners",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Implacable",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Flame-Gun",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Flame-Gun",
+          "options": [
+            {
+              "name": "Organ-Gun",
+              "details": "12\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Mortar-Gun",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cannon-Gun",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Aether-Gun",
+              "details": "18\", A3, Fracasse",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balloon Hunters",
+      "size": 3,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Boucanier",
+        "Tueur en mêlée"
+      ],
+      "weapons": [
+        {
+          "name": "Sky-Pike",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Twin Sky-Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Grappling Hook Pistol",
+              "details": "12\", A3, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Fine-Tuned Weapons",
+              "details": "Portée polyvalente",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balloon Riggers",
+      "size": 3,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Éclaireur",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Rivet Gun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Chain-Sword",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Rivet Gun and Chain-Sword",
+          "options": [
+            {
+              "name": "Knife",
+              "details": "A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Knife",
+              "details": "A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Knife",
+              "details": "A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grappling Hook Launcher",
+              "details": "18\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Fine-Tuned Weapons",
+              "details": "Portée polyvalente",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Sky-Rigger",
+              "details": "Guérison",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balloon Wardens",
+      "size": 3,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Sky-Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Sky-Pike",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Twin Sky-Pistol and Sky-Pike",
+          "options": [
+            {
+              "name": "Drill Shooter",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Hook Rifle",
+              "details": "24\", A1, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Volley Rifle",
+              "details": "18\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grappling Hook Launcher",
+              "details": "18\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Twin Sky-Pistol",
+          "options": [
+            {
+              "name": "Sky-Charges",
+              "details": "A1, PA (1), Explosion (3), Mitraillage",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Sky-Mines",
+              "details": "Aura de Contre-attaque",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky-Gunboat",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (6)",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Deck Gun",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Drop Bombs",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Deck Gun and Drop Bombs",
+          "options": [
+            {
+              "name": "Drill Cannon",
+              "details": "18\", A1, PA (2), Mortel (6)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sky-Cannon",
+              "details": "24\", A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Aether-Cannon",
+              "details": "18\", A6, Fracasse",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sky-Barrage",
+          "options": [
+            {
+              "name": "Cargo Hold",
+              "details": "Transport (6)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Aether-Cloud Generator",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky-Frigate",
+      "size": 1,
+      "cost": 245,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (9)",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Deck Gun",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Drop Bombs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Drop Bombs",
+          "options": [
+            {
+              "name": "Aether-Cannon",
+              "details": "18\", A6, Fracasse",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Hook Cannon",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Heavy Sky-Cannon",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sky-Barrage",
+          "options": [
+            {
+              "name": "Cargo Hold",
+              "details": "Transport (11)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Aether-Cloud Generator",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky-Ironclad",
+      "size": 1,
+      "cost": 365,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (12)",
+        "Boucanier"
+      ],
+      "weapons": [
+        {
+          "name": "Deck Gun",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Drop Bombs",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Drop Bombs",
+          "options": [
+            {
+              "name": "Volley Cannon",
+              "details": "18\", A6, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Hook Cannon",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Sky-Cannon",
+              "details": "24\", A2, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sky-Barrage",
+          "options": [
+            {
+              "name": "Cargo Hold",
+              "details": "Transport (16)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Aether-Cloud Generator",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

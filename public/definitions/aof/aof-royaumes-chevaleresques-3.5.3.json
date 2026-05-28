@@ -1,0 +1,1200 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/FF4UemWHh60T1VRq?armyName=Chivalrous+Kingdoms",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/FF4UemWHh60T1VRq?armyName=Chivalrous+Kingdoms",
+  "sourceBookUid": "FF4UemWHh60T1VRq",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Royaumes Chevaleresques",
+  "version": "3.5.3",
+  "introduction": "Les Royaumes Chevaleresques sont peuplés de chevaliers vaillants qui commandent des masses de paysans misérables. Les fantassins paysans en formation tiennent les positions stratégiques et absorbent les assauts ennemis, tandis que les chevaliers abattent les menaces les plus redoutables.\n\nEnsemble de royaumes féodaux gouvernés par des chevaliers fiers de leurs talents de chasseurs de monstres, les Royaumes Chevaleresques se sont laissés aveugler par leur vanité et leurs rivalités mesquines, au point d'abandonner l'esprit même de leur code de chevalerie. Jadis protecteurs du peuple, ils ne sont plus guère que des chasseurs de gros gibier et des oppresseurs de leurs propres sujets.",
+  "backgroundStory": "Les légendes racontent que les Royaumes Chevaleresques étaient autrefois le domaine des dragons et d'autres créatures monstrueuses. Les terres fertiles de leurs Vallées d'Or attirèrent les premiers clans humains, mais ces peuples vivaient dans la peur des dragons qui parcouraient la région, détruisant souvent leurs foyers et leurs récoltes. Les habitants des vallées vivaient dans une crainte constante de ces créatures et se tournaient vers quiconque pourrait leur apporter le salut.\n\nUne déesse mystérieuse, connue seulement sous le nom de la Chasseresse, apparut au peuple du royaume sous une forme mortelle et marcha parmi eux. Elle jura de protéger le peuple contre les monstres et attira à elle de nombreux nouveaux fidèles à travers le royaume. Elle désigna ses partisans les plus loyaux et les plus habiles comme ses chevaliers, et grâce à sa bénédiction et à leur foi, les chevaliers de la Chasseresse terrassèrent nombre des monstres qui ravageaient le pays. Un temps, la paix revint. Pourtant, peu après sa plus grande victoire contre les derniers dragons, la Chasseresse disparut.\n\nLorsque la Chasseresse quitta les chevaliers, il leur revint de maintenir l'ordre. Ils commencèrent à rivaliser entre eux pour le prestige, abattant et traquant toute créature qu'ils pouvaient trouver. Les plus influents s'arrogèrent le titre de roi et taillèrent des royaumes dans toute la vallée où leur autorité était absolue. Leur pouvoir et leur cupidité plongèrent les paysans dans la pauvreté, au point que certains les comparèrent amèrement aux dragons.\n\nC'est alors que la Chasseresse revint auprès du peuple des vallées. Elle donna aux rois et aux chevaliers un code chevaleresque, fixant une conduite stricte et exigeant des chevaliers qu'ils agissent avec honneur et grâce. Aujourd'hui, les chevaliers se glorifient de suivre le code à la lettre, multipliant les cérémonies élaborées pour démontrer leur honneur et leur talent, mais ils réservent rarement le respect exigé par ce code à quiconque autre que leurs semblables.\n\nPendant un temps, les royaumes chevaleresques rivaux furent soumis par leurs voisins du sud, le Grand Empire. Beaucoup, dans l'Empire, considéraient ces royaumes comme arriérés, mais leurs chevaliers constituaient la meilleure cavalerie impériale, même s'ils semblaient préférer leur code d'honneur à toute tactique pragmatique. Durant cette période, les Guerres du Havoc dévastèrent les vallées, les forces du Havoc ravageant la région sur leur route vers la capitale. Cela laissa une amertume durable envers leurs voisins méridionaux, et lorsque la Faille s'ouvrit et que l'Empereur mourut, les royaumes se hâtèrent de proclamer leur indépendance. Désormais libres, ils cherchent à accroître leur puissance et leur prestige au nom de la Chasseresse.\n\nComment apporteras-tu la gloire à ton royaume '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Serment du Val",
+      "keywords": [
+        "Vale Oath"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Croissance de Précision",
+      "keywords": [
+        "Precision Growth"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Bonus de Courage",
+      "keywords": [
+        "Courage Buff"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Riposte en mêlée",
+      "keywords": [
+        "Counter in Melee"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Bonus de Furieux",
+      "keywords": [
+        "Furious Buff"
+      ]
+    },
+    {
+      "name": "Marque de Déferlement",
+      "keywords": [
+        "Surge Mark"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Tireur Perforant",
+      "keywords": [
+        "Piercing Shooter"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer"
+      ]
+    },
+    {
+      "name": "Boost du Serment du Val",
+      "keywords": [
+        "Vale Oath Boost"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Rush"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Serment du Val",
+      "keywords": [
+        "Vale Oath Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge rapide",
+      "keywords": [
+        "Rapid Rush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Protection de la Chasseresse",
+      "cost": 1,
+      "keywords": [
+        "Protection of the Huntress"
+      ]
+    },
+    {
+      "name": "Lumiere Purificatrice",
+      "cost": 1,
+      "keywords": [
+        "Cleansing Light"
+      ]
+    },
+    {
+      "name": "Grande Chasse",
+      "cost": 2,
+      "keywords": [
+        "Great Hunt"
+      ]
+    },
+    {
+      "name": "Regard Brulant",
+      "cost": 2,
+      "keywords": [
+        "Searing Gaze"
+      ]
+    },
+    {
+      "name": "Malediction de la Chasseresse",
+      "cost": 3,
+      "keywords": [
+        "Curse of the Huntress"
+      ]
+    },
+    {
+      "name": "Colere de la Chasseresse",
+      "cost": 3,
+      "keywords": [
+        "Wrath of the Huntress"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "High Champion",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Holy Sword",
+              "details": "A3, Fléau, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Monster Hunting Spear",
+              "details": "A3, Dechirure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Vale Knight",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pledge Knight",
+              "details": "Rapide, Impact (1), Attaque polyvalente",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Quest Knight",
+              "details": "Armure (3), Rapide, Impact (1), Tueur en mêlée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Grail Knight",
+              "details": "Armure (3), Rapide, Impact lourd (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Pegasus Knight",
+              "details": "Heavy Hooves, Rapide, Volant, Impact lourd (2), Coriace (3)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Hippogryph Knight",
+              "details": "Perforant Claws, Armure (3), Rapide, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+170pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Paladin",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Crusader",
+              "details": "Aura de Boost du Serment du Val",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Vanguard Master",
+              "details": "Aura de Charge rapide",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vale Defender",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Errant Leader",
+              "details": "Avant-garde",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Longbow",
+              "details": "30\", A2",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Mythical Beast",
+              "details": "Heavy Hooves, Rapide, Impact lourd (1), Coriace (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Paladin",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Crusader",
+              "details": "Aura de Boost du Serment du Val",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Enchanter",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Monster Hunter",
+              "details": "Aura de Tueur a Distance",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peasant Levy",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Throw Stones",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Peasant's Oath",
+              "details": "Croissance de Précision",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Men-at-Arms",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Foot Knights",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peasant Longbowmen",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Longbow",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Defensive Stakes",
+              "details": "Riposte en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fire Braziers",
+              "details": "Tireur Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Peasant's Oath",
+              "details": "Croissance de Précision",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mounted Bowmen",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Errant Knights",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Serment du Val",
+        "Avant-garde"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pledge Knights",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Serment du Val",
+        "Attaque polyvalente",
+        "Impact (1)"
+      ],
+      "weapons": [
+        {
+          "name": "Holy Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau, Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vale Knights",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Serment du Val",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Lances",
+          "options": [
+            {
+              "name": "Monster Hunting Spear",
+              "details": "A1, Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quest Knights",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (1)",
+        "Serment du Val",
+        "Tueur en mêlée"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grail Knights",
+      "size": 5,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact lourd (1)",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Lances",
+          "options": [
+            {
+              "name": "Monster Hunting Spear",
+              "details": "A1, Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pegasus Knights",
+      "size": 3,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Volant",
+        "Impact lourd (2)",
+        "Coriace (3)",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hooves",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Lances",
+          "options": [
+            {
+              "name": "Monster Hunting Spear",
+              "details": "A1, Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grail Relic",
+      "size": 1,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Furieux",
+        "Coriace (6)",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Pilgrim Crew",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Peasant's Oath",
+              "details": "Croissance de Précision",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Knight's Oath",
+              "details": "Marque de Déferlement",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivalrous Artillery",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Serment du Val"
+      ],
+      "weapons": [
+        {
+          "name": "Stone Thrower",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Explosion (6), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Stone Thrower",
+          "options": [
+            {
+              "name": "Boulder Thrower",
+              "details": "36\", A1, PA (3), Mortel (6), Indirect",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Knight's Oath",
+              "details": "Marque de Déferlement",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

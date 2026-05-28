@@ -1,0 +1,1189 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/mdT4HVzHUmxGevc_?armyName=Ghostly+Undead",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/mdT4HVzHUmxGevc_?armyName=Ghostly+Undead",
+  "sourceBookUid": "mdT4HVzHUmxGevc_",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Légions spectrales",
+  "version": "3.5.3",
+  "introduction": "Les Légions Spectrales sont des êtres intangibles qui s'aventurent sur Tyria depuis le Plan Empyréen. Leurs armées sont composées de lignes de guerriers fantomatiques maniant des armes rouillées, soutenus par des banshees et des spectres, poussés par leurs geôliers spectraux.",
+  "backgroundStory": "Les Légions Spectrales pénètrent sur Tyria depuis le Plan Empyréen, que certains considèrent comme l'au-delà, régi par un panthéon de dieux de la mort. En réalité, les dieux de ce plan tirent leur énergie des âmes de ceux qui y vivent, drainant progressivement leurs souvenirs, leurs pensées et leurs personnalités, jusqu'à ce qu'il ne reste plus que l'ombre de leur esprit.\n\nLes dieux des Légions Spectrales règnent chacun sur leur propre domaine du Plan Empyréen, où ceux qui y sont piégés perçoivent le monde qui les entoure selon la volonté de leur dieu : qu'il s'agisse d'un magnifique et céleste royaume, d'un paradis pour les guerriers ou d'un lieu de souffrance et de torture. Les rares mortels qui se sont rendus sur ces étranges contrées et qui s'en sont échappés racontent ce qu'ils ont vu : quelque chose de complètement irréel. Ils en sont revenus avec des récits d'esprits rampants qui rôdent sur des ruines désolées, jouant avec la vie de mortels depuis longtemps perdues. Nombre de ces esprits ont complètement oublié leur vie de mortel, tandis que d'autres ne se souviennent que de fragments.\n\nLes Légions Spectrales sont parfois envoyées sur d'autres plans par leurs dieux, à la recherche d'âmes à récolter. Les esprits ne comprennent que partiellement leur mission, certains pensent qu'ils recherchent des âmes dignes pour les récompenser, d'autres croient qu'ils sont venus apporter le châtiment divin sur les ennemis de leurs dieux. Les Légions Spectrales savent seulement qu'ils ne reviendront qu'une fois qu'ils auront collectés suffisamment d'âmes pour satisfaire leurs maîtres.\n\nLorsque les Légions Spectrales errent à l'extérieur du Plan Empyréen, l'emprise de leurs dieux se dissipe peu à peu et ils prennent alors conscience de leur véritable apparence et de ce qui les entoure. De nombreux êtres éthérés sont alors horrifiés lorsqu'ils sont confrontés à leur véritable nature, les conduisant à une folie furieuse, où ils perdent toute notion d'eux-mêmes et qui s'en prennent furieusement à toutes les créatures vivantes. D'autres se convainquent qu'ils ont été piégés dans une illusion, en guise de punition pour avoir déplu à leur dieu d'une manière ou d'une autre, et cherchant désespérément à se racheter pour pouvoir retourner dans le Plan Empyréen.\n\nLes Légions Spectrales commencèrent à affluer sur Tyria depuis que la Faille ouvrit de nombreuses Portes du Néant autrefois cachées. Jadis considérés comme de simples légendes, il n'est pas rare de voir de grands cortèges de Légions Spectrales rôder dans les franges oubliées de Tyria, cherchant à s'emparer de ceux qui se sont éloignés de leur foyer. Parfois, ils marchandent avec les mortels de Tyria qui peuvent leur offrir magie, âmes ou toute un moyen de retourner chez eux.\n\nComment allez-vous vous frayer un chemin à travers les plans mortels ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Éthéré",
+      "keywords": [
+        "Ethereal"
+      ]
+    },
+    {
+      "name": "Esprit empyréen",
+      "keywords": [
+        "Empyrean Spirit"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Transversant",
+      "keywords": [
+        "Traversal"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Précision extraordinaire",
+      "keywords": [
+        "Precision Feat"
+      ]
+    },
+    {
+      "name": "Attaque croisée",
+      "keywords": [
+        "Crossing Attack"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Marque de Fléau",
+      "keywords": [
+        "Bane Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost de l'Esprit empyréen",
+      "keywords": [
+        "Empyrean Spirit Boost"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Boost de l'Esprit empyréen",
+      "keywords": [
+        "Empyrean Spirit Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Protection éthérée",
+      "cost": 1,
+      "keywords": [
+        "Ethereal Warding"
+      ]
+    },
+    {
+      "name": "Cri terrifiant",
+      "cost": 1,
+      "keywords": [
+        "Dread Shriek"
+      ]
+    },
+    {
+      "name": "Chagrin irrésistible",
+      "cost": 2,
+      "keywords": [
+        "Irresistible Grief"
+      ]
+    },
+    {
+      "name": "Terreur faucheuse",
+      "cost": 2,
+      "keywords": [
+        "Reaping Terror"
+      ]
+    },
+    {
+      "name": "Esprits vicieux",
+      "cost": 3,
+      "keywords": [
+        "Vicious Spirits"
+      ]
+    },
+    {
+      "name": "Mange-âmes",
+      "cost": 3,
+      "keywords": [
+        "Eat Soul"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Ancient Banshee",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Éthéré",
+        "Héros",
+        "Coriace (3)",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Howl",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Tormentor",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura de Blindage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Jailor",
+              "details": "Aura d’Éclaireur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Knight",
+              "details": "Aura de Boost de l'Esprit empyréen",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ancient Wraith",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Embuscade",
+        "Éthéré",
+        "Héros",
+        "Coriace (3)",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Scythe",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warden",
+              "details": "Aura de Blindage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Executioner",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Knight",
+              "details": "Aura de Boost de l'Esprit empyréen",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grim Leader",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Éthéré",
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Esprit empyréen"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Scythe",
+              "details": "A3, PA (2), Désintegration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Sword",
+              "details": "A3, PA (2), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ghost Steed",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chain-Spirit Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Monarch Throne",
+              "details": "Herald, Armure (4), Effrayant (1), Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Great Steed",
+              "details": "Horns, Armure (4), Rapide, Impact (2), Coriace (3), Transversant",
+              "cost": "+85pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warden",
+              "details": "Aura de Blindage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Executioner",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Jailor",
+              "details": "Aura d’Éclaireur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Knight",
+              "details": "Aura de Boost de l'Esprit empyréen",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Soul Guardian",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Soul Guardian",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Éthéré",
+        "Héros",
+        "Coriace (3)",
+        "Esprit empyréen"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Soul Crossbow",
+              "details": "18\", A2, Indirect, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Chain-Spirit Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Tormentor",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura de Blindage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Executioner",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Jailor",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Soul Guardian",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Soul Guardian",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghost Horde",
+      "size": 10,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esprit empyréen",
+        "Éthéré"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Soul Eater",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghost Reapers",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Esprit empyréen"
+      ],
+      "weapons": [
+        {
+          "name": "Scythe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Scythe",
+          "options": [
+            {
+              "name": "Death Bell",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mourner Banshees",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Mourning Blade",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Shriek",
+              "details": "12\", A1, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scythed Ghosts",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Scythe-Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Soul Eater",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghost Revenants",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Furieux",
+        "Esprit empyréen"
+      ],
+      "weapons": [
+        {
+          "name": "Scythe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Scythes",
+          "options": [
+            {
+              "name": "Great Sword",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wraiths",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Éthéré",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Scythe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Craven Shooters",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esprit empyréen",
+        "Éthéré"
+      ],
+      "weapons": [
+        {
+          "name": "Soul Crossbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Indirect, Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Soul Eater",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Soul Crossbows",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Banshees",
+      "size": 5,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Howl",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ghost Swarms",
+      "size": 3,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Coriace (3)",
+        "Esprit empyréen",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Glaive Stalkers",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esprit empyréen",
+        "Éthéré",
+        "Rapide",
+        "Impact (1)"
+      ],
+      "weapons": [
+        {
+          "name": "Glaive",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Soul Eater",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hexed Knights",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Esprit empyréen",
+        "Rapide",
+        "Transversant"
+      ],
+      "weapons": [
+        {
+          "name": "Scythe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Spectral Touch",
+              "details": "Attaque croisée (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dread Knights",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Impact (1)",
+        "Esprit empyréen"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Aggressors",
+          "options": [
+            {
+              "name": "Tormentor",
+              "details": "Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Funeral Coach",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Éthéré",
+        "Effrayant (1)",
+        "Impact (4)",
+        "Coriace (6)",
+        "Esprit empyréen",
+        "Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Scythe Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Eternal Haunt",
+              "details": "Marque de Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghost Chariot",
+      "size": 1,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Éthéré",
+        "Impact (4)",
+        "Coriace (6)",
+        "Esprit empyréen",
+        "Résistance",
+        "Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Howl",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Eternal Haunt",
+              "details": "Marque de Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

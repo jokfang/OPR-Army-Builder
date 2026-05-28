@@ -1,0 +1,16 @@
+{
+  "gameSystem": "gf",
+  "armyFile": "/definitions/gf/gf-soeurs-benies-3.5.3.json",
+  "armyName": "Soeurs bénies",
+  "modified": "2026-05-28T00:00:00.000Z",
+  "listPoints": 0,
+  "list": {
+    "creationTime": "1779926400000",
+    "name": "Liste exemple - Soeurs bénies",
+    "pointsLimit": 750,
+    "units": [],
+    "selectedUnitId": null,
+    "undoUnitRemove": null,
+    "points": 0
+  }
+}

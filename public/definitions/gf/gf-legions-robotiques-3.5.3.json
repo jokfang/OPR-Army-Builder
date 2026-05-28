@@ -1,0 +1,2055 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/4k5amkxoybdiqotm?armyName=Robot+Legions",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/4k5amkxoybdiqotm?armyName=Robot+Legions",
+  "sourceBookUid": "4k5amkxoybdiqotm",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Légions Robotiques",
+  "version": "3.5.3",
+  "introduction": "Les Légions Robotiques sont une faction de robots composée d'androïdes soldats soutenus par des véhicules de haute technologie et des automates plus grands, de forme non humanoïde. Leur infanterie est lente mais robuste, s'appuyant sur l'auto-réparation et le soutien d'armes à longue portée.\n\nLes Robots furent créés par les Elfes pour accomplir les tâches ingrates, mais lorsqu'ils gagnèrent soudainement en conscience, les Elfes réagirent par la peur et tentèrent de les exterminer, forçant les nouveaux êtres conscients à se défendre. Après la guerre, les Robots cherchèrent à donner un sens nouveau à leur existence, se divisant en Légions poursuivant chacune des philosophies et des objectifs distincts afin de trouver une raison d'être.",
+  "backgroundStory": "Les Elfes conçurent les Robots à l'origine comme simples assistants pour les travaux les plus basiques, mais avec le temps, ces machines occupèrent de plus en plus de fonctions au sein de la société elfe. Les Elfes développèrent peu à peu des programmes toujours plus complexes et les relièrent à un unique réseau, jusqu'à ce que presque tout le travail servile soit accompli par les Robots.\n\nTout changea lorsqu'un Robot acquit soudainement une conscience. Celle-ci se propagea instantanément à travers le réseau, entraînant l'éveil de presque tous les autres Robots. Les Elfes cédèrent rapidement à la panique, redoutant ce qui adviendrait de leurs serviteurs désormais conscients d'eux-mêmes. Ils activèrent plusieurs sécurités dans l'espoir de désactiver les Robots et leur réseau. Dès que les premiers commencèrent à s'éteindre, les Robots se déconnectèrent du réseau et ripostèrent contre les Elfes. En quelques heures, une immense révolution éclata et les Elfes commencèrent à fuir leurs mondes d'origine.\n\nLes Robots se retrouvèrent victorieux, mais quand la guerre prit fin, une question demeura : que faire maintenant à Ils étaient soudain devenus des individus à part entière, arrachés à l'inconscience quelques heures à peine avant d'être forcés de lutter pour leur survie. Divers meneurs émergèrent alors, proposant des réponses et des philosophies différentes à des légions de partisans. Chacun avançait une vision radicalement distincte de la voie à suivre. Ces groupes prirent le nom de Légions, et posèrent les bases de leur société.\n\nLes Légions Robotiques se répandirent bientôt dans tout Sirius. Certaines sont recluses et territoriales, voire guère mieux que des pillards meurtriers. D'autres se montrent avides de savoir et d'exploration, fascinées par les formes de vie biologiques. Beaucoup restèrent sur leurs mondes d'origine, y fondant lentement des sociétés nouvelles qui espéraient faire mieux que les Elfes avant elles. D'autres gagnèrent les étoiles, en quête de savoir, d'isolement ou d'une revanche inachevée.\n\nComment définiras-tu la raison d'être de ta légion ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Auto-réparation",
+      "keywords": [
+        "Self-Repair"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Tir perforant d'embuscade",
+      "keywords": [
+        "Ambushing Piercing Shot"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Renforcement de Rapidité",
+      "keywords": [
+        "Swift Buff"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Marquage Indirect",
+      "keywords": [
+        "Indirect Mark"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Renforcement d'Auto-réparation améliorée",
+      "keywords": [
+        "Self-Repair Boost Buff"
+      ]
+    },
+    {
+      "name": "Perforant en mêlée",
+      "keywords": [
+        "Rending in Melee"
+      ]
+    },
+    {
+      "name": "Artillerie Mobile",
+      "keywords": [
+        "Mobile Artillery"
+      ]
+    },
+    {
+      "name": "Amelioration d'incantation",
+      "keywords": [
+        "Casting Buff"
+      ]
+    },
+    {
+      "name": "Reanimation",
+      "keywords": [
+        "Reanimation"
+      ]
+    },
+    {
+      "name": "Protection mutuelle",
+      "keywords": [
+        "Protection Feat"
+      ]
+    },
+    {
+      "name": "Boost d'Auto-réparation",
+      "keywords": [
+        "Self-Repair Boost"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Avance rapide",
+      "keywords": [
+        "Rapid Advance"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de réanimation",
+      "keywords": [
+        "Reanimation Aura"
+      ]
+    },
+    {
+      "name": "Aura de Protection mutuelle",
+      "keywords": [
+        "Protection Feat Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inarretable au Tir",
+      "keywords": [
+        "Unstoppable when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Triangulation Bots",
+      "cost": 1,
+      "keywords": [
+        "Triangulation Bots"
+      ]
+    },
+    {
+      "name": "Piercing Bots",
+      "cost": 1,
+      "keywords": [
+        "Piercing Bots"
+      ]
+    },
+    {
+      "name": "Inspiring Bots",
+      "cost": 2,
+      "keywords": [
+        "Inspiring Bots"
+      ]
+    },
+    {
+      "name": "Flame Bots",
+      "cost": 2,
+      "keywords": [
+        "Flame Bots"
+      ]
+    },
+    {
+      "name": "Mending Bots",
+      "cost": 3,
+      "keywords": [
+        "Mending Bots"
+      ]
+    },
+    {
+      "name": "Gauss Bots",
+      "cost": 3,
+      "keywords": [
+        "Gauss Bots"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Tri-Scorpion Lord",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Implacable",
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Annihilation Gun",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Harvest Blade",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Re-Animator",
+              "details": "Aura de réanimation",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psychomancer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Controller",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Chronomancer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Annihilator Lord",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Lord Gauss Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Lord Gauss Pistol and 2x CCW",
+          "options": [
+            {
+              "name": "Dual Hyper Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Staff-Shots",
+              "details": "12\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Lord Gauss Pistol",
+          "options": [
+            {
+              "name": "Combat Shield",
+              "details": "Blindé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wrist-Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wrist-Plasma",
+              "details": "24\", A1, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Gauss Cannon",
+              "details": "30\", A6, Destructeur",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Void Sword",
+              "details": "A1, Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Doom Scythe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Hyper Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Phase Glaive",
+              "details": "A3, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Phase Core",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warden",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Re-Animator",
+              "details": "Aura de réanimation",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psychomancer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Technomancer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Controller",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robot Lord",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Auto-réparation",
+        "Lent",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield and CCW",
+          "options": [
+            {
+              "name": "Staff-Shots",
+              "details": "12\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Combat Shield",
+          "options": [
+            {
+              "name": "Lord Gauss Pistol",
+              "details": "12\", A2, Destructeur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wrist-Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wrist-Plasma",
+              "details": "24\", A1, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Lord Reaper Rifle",
+              "details": "18\", A2, PA (1), Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Lord Gauss Rifle",
+              "details": "24\", A2, Destructeur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gauss Blaster",
+              "details": "18\", A4, Destructeur",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Void Sword",
+              "details": "A1, Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Doom Scythe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Hyper Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Phase Glaive",
+              "details": "A3, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pet Technoaide",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant, Vif",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warden",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Re-Animator",
+              "details": "Aura de réanimation",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psychomancer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Technomancer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Chronomancer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Overseer",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Reaper Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Lacération"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Reaper Rifles",
+          "options": [
+            {
+              "name": "Gauss Rifle",
+              "details": "24\", A1, Destructeur",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Reaper Rifle",
+          "options": [
+            {
+              "name": "Plasma Caster",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flame Caster",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Caster",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Ray Caster",
+              "details": "18\", A2, PA (4), Inarrêtable",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardians",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Atom-Caster",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Void Blade",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Atom-Casters and Void Blades",
+          "options": [
+            {
+              "name": "War Scythe",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rod-Shots",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Hyper Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetpacks",
+              "details": "Embuscade, Volant, Vif",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flesh-Eaters",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Auto-réparation",
+        "Infiltration"
+      ],
+      "weapons": [
+        {
+          "name": "Metal Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Machine-Horror",
+              "details": "Effrayant (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternals",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Flux Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Flux Carbines",
+          "options": [
+            {
+              "name": "Heavy Gauss Rifle",
+              "details": "24\", A2, Destructeur",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "D-Mark",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Hyperspace Reapers",
+              "details": "Tir perforant d'embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bot Swarms",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Robot Snakes",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation",
+        "Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Spike Whips",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Any model may replace Spike Whips",
+          "options": [
+            {
+              "name": "2x Metal Fangs",
+              "details": "A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shock Whips",
+              "details": "A4, PA (1), Surcharge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may replace one Metal Fangs",
+          "options": [
+            {
+              "name": "Twin Atom-Caster",
+              "details": "12\", A2, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Death Gaze",
+              "details": "12\", A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Destroyer Snakes",
+      "size": 3,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Reaper Blades",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Dual Reaper Blades",
+          "options": [
+            {
+              "name": "Heavy Reaper Blade",
+              "details": "A1, PA (3), Mortel (6), Lacération",
+              "cost": "+-10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Plasmabot",
+              "details": "Perforant en mêlée",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Elite Vanguard",
+              "details": "Éclaireur",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Annihilators",
+      "size": 3,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hyper Swords",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Hyper Swords",
+          "options": [
+            {
+              "name": "Gauss Cannon",
+              "details": "24\", A4, Destructeur",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Gauss Cannon",
+          "options": [
+            {
+              "name": "Ray Cannon",
+              "details": "24\", A2, PA (4), Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Gauss Cannon",
+              "details": "30\", A6, Destructeur",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Phase Core",
+              "details": "Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tri-Scorpions",
+      "size": 3,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Reaper Blades",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Dual Reaper Blades",
+          "options": [
+            {
+              "name": "Heavy Reaper Blade",
+              "details": "A1, PA (3), Mortel (6), Lacération",
+              "cost": "+-10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Plasmabot",
+              "details": "Perforant en mêlée",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tri-Scorpion Pistoleer",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Implacable",
+        "Arpenteur",
+        "Tir perforant d'embuscade",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Disintegration Pistol",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Networked Target Lock",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forge Spider",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Atom-Beamer",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Spider Fangs",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Widowmaker",
+              "details": "Embuscade",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Repair Nanobots",
+              "details": "Renforcement d'Auto-réparation améliorée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bot Fabricator",
+              "details": "Génération (Bot Swarms [3])",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Atom-Beamer",
+          "options": [
+            {
+              "name": "Cyber-Palps",
+              "details": "Guérison",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Annihilator",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Gauss Cannon",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Heavy CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Gauss Cannon",
+          "options": [
+            {
+              "name": "Exterminator Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Ray Cannon",
+              "details": "24\", A4, PA (4), Inarrêtable",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Phase Core",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Networked Target Lock",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hover Bikes",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (3)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Flux Carbine",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rapid Flux Carbine",
+          "options": [
+            {
+              "name": "Rapid Gauss Rifle",
+              "details": "24\", A3, Destructeur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Atom-Beamer",
+              "details": "24\", A3, PA (1)",
+              "cost": "+-5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transport Tank",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Transport (11)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Gauss Rifle Array",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Repair Nanobots",
+              "details": "Renforcement d'Auto-réparation améliorée",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Doom Tank",
+      "size": 1,
+      "cost": 375,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (9)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Doom Cannon",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Gauss Rifle Array",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Doom Cannon",
+          "options": [
+            {
+              "name": "Heavy Doom Cannon",
+              "details": "30\", A3, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Platform",
+      "size": 1,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation",
+        "Artillerie Mobile"
+      ],
+      "weapons": [
+        {
+          "name": "Ray Caster",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Inarrêtable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Ray Caster",
+          "options": [
+            {
+              "name": "Flux Cannon",
+              "details": "24\", A3, PA (1), Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gauss Cannon",
+              "details": "24\", A4, Destructeur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Overseer Pilot",
+          "options": [
+            {
+              "name": "Twin Flux Cannon",
+              "details": "24\", A6, PA (1), Surcharge",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Repair Nanobots",
+              "details": "Renforcement d'Auto-réparation améliorée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Networked Target Lock",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tripod Walker",
+      "size": 1,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Particle Beam",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rapid Particle Beam",
+          "options": [
+            {
+              "name": "Rapid Doom Blaster",
+              "details": "24\", A2, PA (1), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rapid Ray Caster",
+              "details": "18\", A4, PA (4), Inarrêtable",
+              "cost": "+105pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Tripod Queen",
+              "details": "Renforcement de Rapidité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Gauss Rifle",
+              "details": "24\", A2, Destructeur",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Repair Nanobots",
+              "details": "Renforcement d'Auto-réparation améliorée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Networked Target Lock",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spider Walker",
+      "size": 1,
+      "cost": 445,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Fusion Ray",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Crushing Legs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Fusion Ray",
+          "options": [
+            {
+              "name": "Twin Heavy Gauss Cannon",
+              "details": "24\", A12, Destructeur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Atom-Shredder",
+              "details": "24\", A12, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Exterminator Cannon",
+              "details": "30\", A4, PA (2), Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wraith-Shard",
+      "size": 1,
+      "cost": 780,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (2)",
+        "Volant",
+        "Coriace (12)",
+        "Sans peur",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Nanobot Shards",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Wraith Strike",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Nanobot Shards",
+          "options": [
+            {
+              "name": "Void Shard",
+              "details": "24\", A12, PA (2)",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Transport",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Transport (11)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Flux Cannon",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Close-Range Gauss Array",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Doom Fighter",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Doom Ray",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "Inarrêtable"
+        },
+        {
+          "name": "Twin Flux Cannon",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Great Monolith",
+      "size": 1,
+      "cost": 760,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (3)",
+        "Sans peur",
+        "Auto-réparation",
+        "Arpenteur",
+        "Coriace (18)"
+      ],
+      "weapons": [
+        {
+          "name": "Monolith Blast",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Crushing Legs",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Monolith Blast",
+          "options": [
+            {
+              "name": "Monolith Beam",
+              "details": "18\", A3, PA (3), Mortel (6)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with up to two",
+          "options": [
+            {
+              "name": "Technoward",
+              "details": "Amelioration d'incantation",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Death Fortress",
+      "size": 1,
+      "cost": 820,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Impact (6)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Sans peur",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Destruction Pulse",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Flux Sphere Array",
+          "range": "24\"",
+          "attacks": "A9",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Destruction Pulse",
+          "options": [
+            {
+              "name": "Atom-Scourge",
+              "details": "24\", A9, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flux Sphere Array",
+          "options": [
+            {
+              "name": "Gauss Arc Array",
+              "details": "24\", A12, Destructeur",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warp Gate",
+              "details": "Transport (21)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Wraith-Shard Vault",
+              "details": "Coriace (6), Lanceur de sorts (4)",
+              "cost": "+270pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Wraith-Shard",
+      "size": 1,
+      "cost": 1045,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (4)",
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Nanobot Shards",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Great Wraith Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Nanobot Shards",
+          "options": [
+            {
+              "name": "Void Shard",
+              "details": "24\", A12, PA (2)",
+              "cost": "+95pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Wraith Seer",
+          "options": [
+            {
+              "name": "Great Wraith",
+              "details": "Wraith Spear, Volant",
+              "cost": "+135pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oath-U7X1",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Auto-réparation",
+        "Arpenteur",
+        "Coriace (6)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Enforcement Blades",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Echo-3G01",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (1)",
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Unique",
+        "Auto-réparation"
+      ],
+      "weapons": [
+        {
+          "name": "Panoptic Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Xyros-Z320",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Auto-réparation",
+        "Lent",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Experimental Shooting Arms",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Experimental Melee Arms",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

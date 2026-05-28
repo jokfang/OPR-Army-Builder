@@ -1,0 +1,988 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/HjmV6_v6dmBmEdy7?armyName=Giant+Tribes",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/HjmV6_v6dmBmEdy7?armyName=Giant+Tribes",
+  "sourceBookUid": "HjmV6_v6dmBmEdy7",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Tribus de Géants",
+  "version": "3.5.3",
+  "introduction": "Les Tribus de Géants sont composées d'humanoïdes massifs dont la taille va de simplement gigantesque à véritablement gargantuesque. Souvent employés comme mercenaires, les Géants compensent leur faible nombre par leur force brute et leur incroyable endurance.\n\nLes Géants sont généralement créés par des moyens magiques, et nombre de tribus font remonter leur origine aux Guerres du Havoc, époque durant laquelle l'Empire utilisa largement cette magie. Lorsque la guerre prit fin, la plupart des Géants furent chassés des terres humaines, et les survivants se regroupèrent en tribus pour apprendre à vivre ensemble dans leur nouvelle condition.",
+  "backgroundStory": "Les alchimistes ogres furent les premiers à développer une magie capable de faire croître les créatures jusqu'à des tailles gigantesques grâce à des potions. Peu à peu, ces alchimistes tombèrent en disgrâce et furent écartés des cours royales de leur patrie. Eux et leurs disciples quittèrent alors leur terre natale au sein d'immenses caravanes, voyageant toujours plus à l'est dans l'espoir de trouver une vie meilleure.\n\nMême après la disparition des alchimistes et de leur savoir, les premiers Géants subsistèrent dans les légendes de la Grande Steppe et d'au-delà. Au fil des siècles, d'anciennes potions alchimiques perdues furent retrouvées dans des cryptes et des caches disséminées dans la steppe. La Guilde des Magiciens de l'Empire s'intéressa à ces concoctions, espérant recréer elle-même cette magie.\n\nAu début, l'étude et l'utilisation de ces potions restèrent lentes et étroitement contrôlées, mais la situation changea lorsque les Guerres du Havoc éclatèrent. L'Empire recruta des sorciers pour utiliser cette magie et créer des guerriers géants capables d'affronter les Démons Majeurs. D'abord, les volontaires étaient choisis parmi les vétérans les plus valeureux. Mais à mesure que la guerre s'enlisait, l'Empire accepta quiconque se déclarait prêt à se porter volontaire. Puis, lorsque les plus puissants magiciens de l'Empire sacrifièrent leur vie pour enfermer le Havoc, les Géants furent privés de tout moyen de retrouver leur taille originelle.\n\nTrop grands pour revenir à leur ancienne existence, la plupart durent se débrouiller seuls. Certains, remplis d'amertume, se mirent à rançonner ou piller les villages. Cela amena rapidement les cités à considérer les Géants avec peur et haine, faisant d'eux des proies pour les chevaliers en quête d'exploits. La plupart commencèrent alors à s'éloigner des villes impériales pour gagner la Grande Steppe.\n\nLes Tribus de Géants cherchent souvent à nouer des amitiés et des alliances avec d'autres espèces capables de les nourrir et de leur fournir tissu, outils et autres biens essentiels. On raconte même que, lorsqu'un Géant voit du potentiel chez quelqu'un, il peut lui offrir l'une de ces anciennes potions afin qu'il rejoigne ses rangs. Mais leur réserve de potions demeure très limitée, et les Géants sont constamment en quête de nouvelles fioles oubliées.\n\nComment tailleras-tu une place pour ta tribu '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Immobile",
+      "keywords": [
+        "Unmovable"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Action Retardee",
+      "keywords": [
+        "Delayed Action"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [],
+  "armySpells": [
+    {
+      "name": "Aura d'Heroisme",
+      "cost": 1,
+      "keywords": [
+        "Aura of Heroism"
+      ]
+    },
+    {
+      "name": "Boule de Feu",
+      "cost": 1,
+      "keywords": [
+        "Fire Ball"
+      ]
+    },
+    {
+      "name": "Ciblage Magique",
+      "cost": 2,
+      "keywords": [
+        "Magic Targeting"
+      ]
+    },
+    {
+      "name": "Malefice de Sang",
+      "cost": 2,
+      "keywords": [
+        "Blood Hex"
+      ]
+    },
+    {
+      "name": "Forme Elementaire",
+      "cost": 3,
+      "keywords": [
+        "Elemental Form"
+      ]
+    },
+    {
+      "name": "Siphon d'Esprit",
+      "cost": 3,
+      "keywords": [
+        "Spirit Leech"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Half-Giant",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (9)",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Fist",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Fist",
+          "options": [
+            {
+              "name": "Heavy Mace",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Pike",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Hammer",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Club",
+              "details": "A3, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Flail",
+              "details": "A3, Precise, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Fist",
+          "options": [
+            {
+              "name": "Hurl Branch",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Throw Debris",
+              "details": "18\", A1, Explosion (3), Indirect",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Vanguard Giant",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunken Giant",
+      "size": 1,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Furieux",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Fist",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Giant Fist",
+          "options": [
+            {
+              "name": "Giant Mace",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Pike",
+              "details": "A6, Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Giant Spear",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Hammer",
+              "details": "A4, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Giant Club",
+              "details": "A6, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Giant Flail",
+              "details": "A6, Precise, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Giant Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Stumbling Giant",
+              "details": "Bond, Arpenteur",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crusher Giant",
+      "size": 1,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Hurl Log",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Giant Fist",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Giant Fist",
+          "options": [
+            {
+              "name": "Giant Mace",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Pike",
+              "details": "A6, Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Giant Spear",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Hammer",
+              "details": "A4, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Giant Club",
+              "details": "A6, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Giant Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Giant Flail",
+              "details": "A6, Precise, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Giant Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Hurl Log",
+          "options": [
+            {
+              "name": "Throw Stones",
+              "details": "18\", A2, Explosion (3), Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Stumbling Giant",
+              "details": "Bond, Arpenteur",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wall Smasher Giant",
+      "size": 1,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Implacable",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Sling",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Hurl Log",
+          "options": [
+            {
+              "name": "Throw Stones",
+              "details": "18\", A2, Explosion (3), Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Giant Sling",
+          "options": [
+            {
+              "name": "2x Hurl Log",
+              "details": "12\", A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Giant Shortbow",
+              "details": "18\", A2, PA (2), Mortel (6)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Stumbling Giant",
+              "details": "Bond, Arpenteur",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monster Eater Mega-Giant",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Furieux",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Mega Fist",
+          "range": "-",
+          "attacks": "A9",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mega Fist",
+          "options": [
+            {
+              "name": "Mega Mace",
+              "details": "A3, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Pike",
+              "details": "A9, Percée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Spear",
+              "details": "A3, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Mega Hammer",
+              "details": "A6, PA (4)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Mega Club",
+              "details": "A9, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Sword",
+              "details": "A9, PA (1), Perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Mega Flail",
+              "details": "A9, Perforant, Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Mega Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hungry Giant",
+              "details": "Arpenteur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Stomper Mega-Giant",
+      "size": 1,
+      "cost": 385,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Throw Rocks",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Mega Fist",
+          "range": "-",
+          "attacks": "A9",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mega Fist",
+          "options": [
+            {
+              "name": "Mega Mace",
+              "details": "A3, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Pike",
+              "details": "A9, Percée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Spear",
+              "details": "A3, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Mega Hammer",
+              "details": "A6, PA (4)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Mega Club",
+              "details": "A9, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mega Sword",
+              "details": "A9, PA (1), Perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Mega Flail",
+              "details": "A9, Perforant, Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Mega Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Throw Rocks",
+          "options": [
+            {
+              "name": "Hurl Trunk",
+              "details": "12\", A3, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hungry Giant",
+              "details": "Arpenteur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Castle Breaker Mega-Giant",
+      "size": 1,
+      "cost": 415,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Implacable",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Throw Rocks",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace 2x Throw Rocks",
+          "options": [
+            {
+              "name": "Mega Sling",
+              "details": "30\", A3, Explosion (6)",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Mega Shortbow",
+              "details": "18\", A3, PA (2), Mortel (6)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Throw Rocks",
+          "options": [
+            {
+              "name": "Hurl Trunk",
+              "details": "12\", A3, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hungry Giant",
+              "details": "Arpenteur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Grinder Ultra-Giant",
+      "size": 1,
+      "cost": 515,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Immobile"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Ultra Fist",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Ultra Fist",
+          "options": [
+            {
+              "name": "Ultra Mace",
+              "details": "A4, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ultra Pike",
+              "details": "A12, Percée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Ultra Spear",
+              "details": "A4, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Ultra Hammer",
+              "details": "A8, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Ultra Sword",
+              "details": "A12, PA (1), Perforant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Ultra Club",
+              "details": "A12, PA (1), Precise",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ultra Flail",
+              "details": "A12, Precise, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Ultra Fist",
+          "options": [
+            {
+              "name": "Giant Shield",
+              "details": "Renforcé",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Ultra Fist",
+          "options": [
+            {
+              "name": "Throw Boulder",
+              "details": "18\", A4, Explosion (3), Indirect",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Hurl Tree",
+              "details": "12\", A4, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Patient Wanderer",
+              "details": "Action Retardee",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hungry Giant",
+              "details": "Arpenteur",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Wandering Mystic",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "War Paint",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

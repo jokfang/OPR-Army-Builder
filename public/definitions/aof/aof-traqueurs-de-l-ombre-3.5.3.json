@@ -1,0 +1,1696 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/gHTrjw-g76vfGCSt?armyName=Shadow+Stalkers",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/gHTrjw-g76vfGCSt?armyName=Shadow+Stalkers",
+  "sourceBookUid": "gHTrjw-g76vfGCSt",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Traqueurs de l'Ombre",
+  "version": "3.5.3",
+  "introduction": "Les Traqueurs de l'Ombre sont des créatures insaisissables et alien venues d'un autre plan, dont l'apparence étrange et troublante déstabilise la plupart des Tyriens. Leurs armées bizarres et inquiétantes sèment la terreur dans le cœur de quiconque ose leur faire face.\n\nLes Traqueurs de l'Ombre furent amenés sur Tyria par une faille dans leurs Portes du Vide, laissant des cicatrices permanentes à travers leur plan natal. Désespérées de sauver leur foyer, ces mystérieuses entités traversèrent les Portes du Vide vers Tyria, coupant derrière elles leur seule voie de retour. Désormais, elles sont piégées dans un monde inconnu, sans savoir si leur sacrifice a suffi à sauver leur foyer.",
+  "backgroundStory": "Les Traqueurs de l'Ombre vivaient en relative harmonie dans leur étrange plan sans lumière, qu'ils appelaient le Labyrinthe. Ils habitaient des cités disséminées le long d'antiques chemins sinueux, utilisant l'aura magique ambiante de leur plan pour se repérer dans les ténèbres. Tout changea lorsque les Portes du Vide commencèrent à apparaître dans leur monde.\n\nLes Portes du Vide perturbaient la magie du Labyrinthe. Les champignons et les mousses proches des nouvelles portes se fanaient, et les animaux les fuyaient. Les Traqueurs de l'Ombre qui restaient trop longtemps près de ces Portes du Vide devenaient faibles et malades. On découvrit bientôt que la magie imprégnant le Labyrinthe drainait lentement la vie du plan à travers ces portes et que, sans intervention, leur foyer deviendrait inhabitable.\n\nLes Traqueurs de l'Ombre commencèrent alors à explorer l'autre côté des Portes du Vide. À proximité de celles-ci, on trouvait encore des traces de la magie du Labyrinthe, se manifestant sous la forme d'un léger miasme qui leur permettait de percevoir leur environnement. Mais en s'éloignant, ils découvrirent que la magie de Tyria fonctionnait très différemment. Au lieu d'imprégner le monde comme l'air, la puissance magique y était bien plus concentrée, et les utilisateurs de magie y ressemblaient à des lumières éclatantes dans une obscurité totale. Ils purent ainsi détecter ces mages ouvrant de nouvelles Portes du Vide à travers leur plan, sans se soucier des dégâts causés par leurs sorts.\n\nAyant découvert l'origine du désastre frappant leur monde, les Traqueurs de l'Ombre cherchèrent des volontaires pour explorer Tyria et refermer les portes. Ils préparèrent des reliques leur permettant de projeter leurs propres auras magiques afin de percevoir ce qui les entourait sur Tyria. Bientôt prêts, ils commencèrent à se déverser à travers les Portes du Vide, détruisant celles qui les avaient laissés passer.\n\nIls traversèrent les anciens Royaumes Ogres, scellant toutes les Portes du Vide qu'ils trouvaient et qui pouvaient encore relier leur monde au Labyrinthe. En détruisant ces portes, ils perdirent tout moyen de rentrer chez eux et se retrouvèrent piégés sur Tyria. Certains se cachèrent dans les ruines des cités qu'ils s'étaient appropriées, apprenant lentement à s'adapter à ce nouveau plan. D'autres poursuivirent les Ogres et leurs Chamans pour les empêcher d'ouvrir de nouvelles portes, tandis que d'autres encore cherchaient un moyen de rentrer chez eux.\n\nComment te frayeras-tu un chemin dans ce monde étrange ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Origine Ombreuse",
+      "keywords": [
+        "Shadowborn"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Cible désignée",
+      "keywords": [
+        "Precision Target"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Éthéré",
+      "keywords": [
+        "Ethereal"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Bon combattant",
+      "keywords": [
+        "Good Fighter"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Marque de Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Mark"
+      ]
+    },
+    {
+      "name": "Boost de l'Origine Ombreuse",
+      "keywords": [
+        "Shadowborn Boost"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Percée en mêlée",
+      "keywords": [
+        "Thrust in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Marcheur",
+      "keywords": [
+        "Strider Aura"
+      ]
+    },
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de boost de l'Origine Ombreuse",
+      "keywords": [
+        "Shadowborn Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Scintillement Labyrinthique",
+      "cost": 1,
+      "keywords": [
+        "Labyrinthian Sparkle"
+      ]
+    },
+    {
+      "name": "Vignes du Labyrinthe",
+      "cost": 1,
+      "keywords": [
+        "Maze Vines"
+      ]
+    },
+    {
+      "name": "Hanteur de Rêves",
+      "cost": 2,
+      "keywords": [
+        "Dream Haunter"
+      ]
+    },
+    {
+      "name": "Frisson de Mort",
+      "cost": 2,
+      "keywords": [
+        "Chill of Death"
+      ]
+    },
+    {
+      "name": "Possession de Combat",
+      "cost": 3,
+      "keywords": [
+        "Combat Possession"
+      ]
+    },
+    {
+      "name": "Lumière Spectrale",
+      "cost": 3,
+      "keywords": [
+        "Spectral Light"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Butcher Champion",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Ravage (1)",
+        "Effrayant (1)",
+        "Héros",
+        "Origine Ombreuse",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Butcher Blade",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Butcher Blade",
+          "options": [
+            {
+              "name": "Throwing Spears",
+              "details": "12\", A6, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A6, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Maze Walker",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shadow Master",
+              "details": "Aura de boost de l'Origine Ombreuse",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dream Stalker",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Night Shade",
+              "details": "Aura de Contre-attaque",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reaper Champion",
+      "size": 1,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Héros",
+        "Coriace (3)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Flayer",
+              "details": "Esquive en mêlée, Rapide, Impact (4), Coriace (6), Heavy Claws",
+              "cost": "+160pts"
+            },
+            {
+              "name": "Flying Beast",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+350pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Maze Walker",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shadow Master",
+              "details": "Aura de boost de l'Origine Ombreuse",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Dream Stalker",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Night Shade",
+              "details": "Aura de Contre-attaque",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phantom Champion",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Éthéré",
+        "Héros",
+        "Coriace (3)",
+        "Origine Ombreuse",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Throwing Spears",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Throwing Spear and Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Assault Blades",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Maze Walker",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dream Stalker",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Night Shade",
+              "details": "Aura de Contre-attaque",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Umbral Horror",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hex Banshee",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectre Champion",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Éthéré",
+        "Héros",
+        "Coriace (3)",
+        "Origine Ombreuse",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Champion Stalker Staff",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Champion Stalker Staff",
+          "options": [
+            {
+              "name": "Champion Stalker Wand",
+              "details": "12\", A4, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Shadow Staff",
+              "details": "18\", A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Shadow Wand",
+              "details": "12\", A4, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Maze Walker",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dream Stalker",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Night Shade",
+              "details": "Aura de Contre-attaque",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Umbral Horror",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hex Banshee",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scourge Champion",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Great Hound",
+              "details": "Coriace (3), Heavy Claws, Arpenteur, Esquive en mêlée",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Maze Walker",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shadow Master",
+              "details": "Aura de boost de l'Origine Ombreuse",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Dream Stalker",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Night Shade",
+              "details": "Aura de Contre-attaque",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scourges",
+      "size": 10,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Scourging Censer",
+              "details": "Aura de boost de l'Origine Ombreuse",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tormentors",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Éclaireur",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Dagger",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Deadly Stinger",
+              "details": "A1, PA (2), Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Shadow Censer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phantoms",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Origine Ombreuse",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Throwing Spears",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Throwing Spears and Hand Weapons",
+          "options": [
+            {
+              "name": "Assault Blades",
+              "details": "A2, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Scourging Censer",
+              "details": "Aura de boost de l'Origine Ombreuse",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reapers",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Halberd",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Halberds",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A2, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Soul-Hunter Censer",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectres",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éthéré",
+        "Origine Ombreuse",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Stalker Wand",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Stalker Wands",
+          "options": [
+            {
+              "name": "Stalker Staff",
+              "details": "18\", A1, PA (1), Désintegration",
+              "cost": "Free"
+            },
+            {
+              "name": "Shadow Staff",
+              "details": "18\", A1, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shadow Wand",
+              "details": "12\", A2, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Soul-Hunter Censer",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flayer Cavalry",
+      "size": 5,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Tueur en mêlée",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Soul-Hunter Censer",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Butchers",
+      "size": 3,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Origine Ombreuse",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Butcher Blade",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Butcher Blades",
+          "options": [
+            {
+              "name": "Throwing Spears",
+              "details": "12\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Soul-Hunter Censer",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Hounds",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Vicious Maw",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Leaping Advances",
+          "options": [
+            {
+              "name": "Hungry Beast",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Shadow Censer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fang Swarms",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Origine Ombreuse",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Vicious Maw",
+              "details": "Fleau en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Needle Spitters",
+              "details": "12\", A3, Désintegration",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Venom Spitters",
+              "details": "12\", A3, Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Shadow Censer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fiends",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Esquive en mêlée",
+        "Coriace (3)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Venom Spitters",
+              "details": "12\", A3, Fléau",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Needle Spitters",
+              "details": "12\", A3, Désintegration",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Shadow Censer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Winged Horror",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Attaque de souffle",
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Scourging Censer",
+              "details": "Boost de l'Origine Ombreuse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Fiend",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Esquive en mêlée",
+        "Coriace (6)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Needle Spitters",
+              "details": "12\", A6, Désintegration",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Venom Spitters",
+              "details": "12\", A6, Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Labyrinthian Censer",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Screecher",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Éthéré",
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Origine Ombreuse",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mind-Blaster Shriek",
+              "details": "12\", A2, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Mind-Piercer Screech",
+              "details": "12\", A2, PA (1), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Scourging Censer",
+              "details": "Boost de l'Origine Ombreuse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terror Beast",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Renforcé",
+        "Arpenteur",
+        "Coriace (12)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Spear Rider",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Sword Rider",
+              "details": "A3, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blind Behemoth",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Origine Ombreuse",
+        "Coriace (12)",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Great Flail",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Flail",
+          "options": [
+            {
+              "name": "Great Mace",
+              "details": "A8, PA (3)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Labyrinthian Censer",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ascended Fiend",
+      "size": 1,
+      "cost": 375,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Esquive en mêlée",
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Venom Spitters",
+              "details": "12\", A12, Fléau",
+              "cost": "+105pts"
+            },
+            {
+              "name": "Needle Spitters",
+              "details": "12\", A12, Désintegration",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Labyrinthian Censer",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Terror Beast",
+      "size": 1,
+      "cost": 505,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (2)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Sans peur",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Great Claws",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Stalker Crew",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Censer Bearer",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Omoshu & Kothiz",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique",
+        "Origine Ombreuse"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

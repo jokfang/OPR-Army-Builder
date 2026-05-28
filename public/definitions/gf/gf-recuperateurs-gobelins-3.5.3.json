@@ -1,0 +1,2100 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/k5T0f2XIfpmPO28h?armyName=Goblin+Reclaimers",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/k5T0f2XIfpmPO28h?armyName=Goblin+Reclaimers",
+  "sourceBookUid": "k5T0f2XIfpmPO28h",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Récupérateurs Gobelins",
+  "version": "3.5.3",
+  "introduction": "Les Gobelins sont de petites créatures qui utilisent des technologies récupérées, d'étranges mutations et le simple poids du nombre. Émergeant de leur planète reculée après une explosion nucléaire dévastatrice qui anéantit les colons humains vivant à la surface, ils n'ont pas perdu de temps pour se répandre sur les mondes voisins et récupérer toute technologie à leur portée.\n\nIls recherchent sans cesse de nouvelles formes de vie intrigantes et de nouveaux gadgets, mais leur goût pour la destruction fait souvent qu'ils laissent derrière eux des foyers aussi irradiés que leur monde d'origine.",
+  "backgroundStory": "Les Gobelins vécurent longtemps dans les profondeurs de leur monde, ne remontant à la surface qu'en période de grande nécessité pour y chasser et y glaner ce qu'ils pouvaient. Nul ne sait vraiment ce qui les poussa à l'origine à vivre sous terre ; certaines légendes gobelines parlent d'une grande guerre, mais la plupart affirment que leurs ancêtres ont toujours vécu ainsi. Pendant une grande partie de leur histoire, leur monde fut ignoré par les grandes espèces, jusqu'à ce qu'un groupe de renégats humains vienne s'y établir, cherchant une planète où vivre hors du contrôle de la Grande Alliance Humaine.\n\nLes Gobelins accueillirent volontiers ces nouveaux voisins, surgissant la nuit pour visiter les cités humaines toujours plus grandes. Humains et Gobelins nouèrent une étrange amitié : les Gobelins apportaient aide et ravitaillement aux nouveaux colons, tandis que les Humains leur donnaient gadgets et outils. Presque un siècle de coopération prit fin dans une série d'explosions cataclysmiques qui faillirent les ensevelir pour toujours dans leurs cavernes.\n\nCherchant à fuir leurs demeures désormais en ruine, les Gobelins remontèrent à la surface. Ils découvrirent que les Humains avaient disparu, mais qu'ils avaient laissé derrière eux une richesse de technologies et d'infrastructures qu'ils pouvaient réutiliser. Une bonne partie demandait toutefois leur touche bien particulière pour être réparée, et certains autres éléments semblaient provoquer d'étranges transformations chez eux. Quelques-uns y virent un dernier cadeau insolite de leurs anciens compagnons, tandis que d'autres se montrèrent plus prudents.\n\nSe souvenant que les Humains étaient venus des étoiles, les Gobelins se mirent aussitôt en quête de vaisseaux capables de prendre l'espace afin de retrouver leurs amis. Ils croisèrent finalement des Humains parmi les étoiles, mais ceux-là ne reconnaissaient pas les Gobelins et supportaient mal leurs excentricités, les considérant davantage comme des nuisibles que comme des amis. Déçus mais pas prêts à abandonner tout espoir de retrouvailles, les Gobelins continuent de chercher leurs vieux compagnons et de nouveaux gadgets parmi les étoiles, alors même que beaucoup jugent leur vision chaotique du monde plus dangereuse qu'attachante.\n\nQuels trésors trouveras-tu parmi les étoiles ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Malicieux",
+      "keywords": [
+        "Mischievous"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Frappe Mortelle",
+      "keywords": [
+        "Deathstrike"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Redéploiement",
+      "keywords": [
+        "Re-Deployment"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Instinctif",
+      "keywords": [
+        "Instinctive"
+      ]
+    },
+    {
+      "name": "Riposte",
+      "keywords": [
+        "Retaliate"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Agile",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Terrain Dangereux",
+      "keywords": [
+        "Dangerous Terrain Debuff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Marquage du Tir Imprévisible",
+      "keywords": [
+        "Unpredictable Shooter Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Renforcement Malicieux",
+      "keywords": [
+        "Mischievous Boost"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Combattant de Precision",
+      "keywords": [
+        "Precision Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Malicieux",
+      "keywords": [
+        "Mischievous Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir rapide",
+      "keywords": [
+        "Quick Shot Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura de Courage",
+      "keywords": [
+        "Courage Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Ammo Renforcement",
+      "cost": 1,
+      "keywords": [
+        "Ammo Boost"
+      ]
+    },
+    {
+      "name": "Zap!",
+      "cost": 1,
+      "keywords": [
+        "Zap!"
+      ]
+    },
+    {
+      "name": "Mob Frenzy",
+      "cost": 2,
+      "keywords": [
+        "Mob Frenzy"
+      ]
+    },
+    {
+      "name": "Boom!",
+      "cost": 2,
+      "keywords": [
+        "Boom!"
+      ]
+    },
+    {
+      "name": "Shroud Field",
+      "cost": 3,
+      "keywords": [
+        "Shroud Field"
+      ]
+    },
+    {
+      "name": "Pow!",
+      "cost": 3,
+      "keywords": [
+        "Pow!"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Death Walker Champ",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Malicieux",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Heavy Claw",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Annoyer",
+              "details": "Aura de Renforcement Malicieux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Scrap Protector",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Junk Technician",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weirdo",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Grand Strategist",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Rocket Launcher",
+          "options": [
+            {
+              "name": "Rapid Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rapid Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Chucker Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Claw",
+          "options": [
+            {
+              "name": "Heavy Saw",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Killer Tank Champ",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Rapide",
+        "Héros",
+        "Malicieux",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Annoyer",
+              "details": "Aura de Renforcement Malicieux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Scrap Protector",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Junk Technician",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weirdo",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Grand Strategist",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Rocket Launcher",
+          "options": [
+            {
+              "name": "Rapid Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rapid Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Chucker Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Self-Destruction Payload",
+              "details": "Frappe Mortelle (6)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boss Champ",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Malicieux",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Boss Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Annoyer",
+              "details": "Aura de Renforcement Malicieux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Scrap Protector",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Junk Technician",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weirdo",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Grand Strategist",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Boss Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Killer Claws",
+              "details": "A4, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Boss Pistol",
+          "options": [
+            {
+              "name": "Chucker Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boss Carbine",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bubble Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Smasher Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boss Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bolt-Smasher Pistol",
+              "details": "9\", A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Boss Carbine attachment",
+          "options": [
+            {
+              "name": "Chucker-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bubble-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bolt-Smasher-Mod",
+              "details": "18\", A1, Mortel (3), Limité, Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Killer Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Killer Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Killer Saw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killer Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Trekker Bike",
+              "details": "Agile, Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Speeder Bike",
+              "details": "Rapide, Avant-garde",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Commando Leader",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bug",
+              "details": "Perforant Claws, Bond, Régénération, Arpenteur, Coriace (3)",
+              "cost": "+85pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champ",
+      "size": 1,
+      "cost": 20,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Boss Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Boss Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Killer Claws",
+              "details": "A4, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Boss Pistol",
+          "options": [
+            {
+              "name": "Bubble Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chucker Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boss Carbine",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Smasher Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boss Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bolt-Smasher Pistol",
+              "details": "9\", A1, Mortel (3), Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Killer Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Killer Saw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killer Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Killer Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Trekker Bike",
+              "details": "Agile, Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Speeder Bike",
+              "details": "Rapide, Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Commando Leader",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Bug",
+              "details": "Perforant Claws, Armure (5), Bond, Régénération, Arpenteur, Coriace (3)",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Expert Tactician",
+              "details": "Aura de Combattant de Precision",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Annoyer",
+              "details": "Aura de Renforcement Malicieux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Junk Technician",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weirdo",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Grand Strategist",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooter Mob",
+      "size": 10,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Scrap Gun",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Scrap Guns",
+          "options": [
+            {
+              "name": "Bubble Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chucker Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Smasher Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt-Smasher Rifle",
+              "details": "18\", A1, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Junk Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Ramshackle Crew",
+              "details": "Instinctif",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Mob",
+      "size": 10,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Pistols",
+          "options": [
+            {
+              "name": "Chucker Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bubble Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Smasher Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bolt-Smasher Pistol",
+              "details": "9\", A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Pistols and CCWS",
+          "options": [
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Killer Claws",
+              "details": "A4, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Ramshackle Crew",
+              "details": "Instinctif",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freaks",
+      "size": 10,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rapid Mutations",
+              "details": "Régénération",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Ramshackle Crew",
+              "details": "Instinctif",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commandos",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Scrap Gun",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Scrap Guns and CCWS",
+          "options": [
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Scrap Gun",
+          "options": [
+            {
+              "name": "Bubble Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chucker Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Smasher Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt-Smasher Rifle",
+              "details": "18\", A1, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to three Scrap Guns",
+          "options": [
+            {
+              "name": "Scrap Sniper",
+              "details": "24\", A1, PA (1), Fiable, Élimination",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Camo Cloaks",
+              "details": "Furtif",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boss Mob",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Boss Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Boss Pistol",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boss Carbine",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Boss Pistol",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chucker Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bubble Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Smasher Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt-Smasher Rifle",
+              "details": "18\", A1, Mortel (3), Dechirure",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Boss Carbine attachment",
+          "options": [
+            {
+              "name": "Chucker-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bubble-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bolt-Smasher-Mod",
+              "details": "18\", A1, Mortel (3), Limité, Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Killer Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Killer Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killer Saw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killer Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Junk Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scout Bikers",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Pistol",
+          "options": [
+            {
+              "name": "Chucker Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bubble Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Smasher Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bolt-Smasher Pistol",
+              "details": "9\", A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol and CCW",
+          "options": [
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Trekker Tires",
+          "options": [
+            {
+              "name": "Speeder Tires",
+              "details": "Rapide, Avant-garde",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Ramshackle Crew",
+              "details": "Instinctif",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Looters",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Machinegun",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Smasher Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Bolt-Smasher Rifle",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Chucker Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bug Riders",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Régénération",
+        "Arpenteur",
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Scrap Gun",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Scrap Guns",
+          "options": [
+            {
+              "name": "Bubble Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chucker Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Smasher Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt-Smasher Rifle",
+              "details": "18\", A1, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Killer Tanks",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rocket Launcher",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chucker Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Self-Destruction Payload",
+              "details": "Frappe Mortelle (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Death Walkers",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Mini-Claw",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mini-Claw",
+          "options": [
+            {
+              "name": "Mini-Saw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Rocket Launcher",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chucker Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Big Bug",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Bond",
+        "Régénération",
+        "Arpenteur",
+        "Coriace (6)",
+        "Malicieux",
+        "Effrayant (1)"
+      ],
+      "weapons": [
+        {
+          "name": "Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rocket Launcher",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chucker Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Targeted Frenzy",
+              "details": "Marquage du Tir Imprévisible",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Super Tank",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (6)",
+        "Malicieux",
+        "Coriace (12)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Lobber Mortar",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6), Indirect"
+        },
+        {
+          "name": "Sponson-Flamers",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Lobber Mortar",
+          "options": [
+            {
+              "name": "Heavy Tractor Beam",
+              "details": "36\", A4, PA (2), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Smasher Cannon",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Bubble Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Bolt-Smasher Cannon",
+              "details": "30\", A2, Mortel (3), Dechirure",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Chucker Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sponson-Flamer",
+          "options": [
+            {
+              "name": "Sponson-MGs",
+              "details": "30\", A6, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Pintle-Gun",
+              "details": "30\", A1, PA (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Self-Destruction Payload",
+              "details": "Frappe Mortelle (12)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Cargo Hold",
+              "details": "Transport (11)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Targeted Frenzy",
+              "details": "Marquage du Tir Imprévisible",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mega Walker",
+      "size": 1,
+      "cost": 405,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Malicieux",
+        "Coriace (12)"
+      ],
+      "weapons": [
+        {
+          "name": "Bubble Cannon",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Lobber Mortar",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Great Saw",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Artillery Gun",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Malicieux",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Lobber Mortar",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Lobber Mortar",
+          "options": [
+            {
+              "name": "Heavy Tractor Beam",
+              "details": "36\", A4, PA (2), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Smasher Cannon",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Bubble Mortar",
+              "details": "24\", A1, PA (4), Explosion (6), Indirect",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Heavy Bolt-Smasher Cannon",
+              "details": "30\", A2, Mortel (3), Dechirure",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Boosted Chucker Cannon",
+              "details": "24\", A6, Perforant, Indirect",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Trash Goggles",
+              "details": "Bon tireur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waskatsin",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Malicieux",
+        "Coriace (6)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Rad-Machinegun",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Ventslicer Chainsaw",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/a_HXTYv06IFtSs9G?armyName=Ossified+Undead",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/a_HXTYv06IFtSs9G?armyName=Ossified+Undead",
+  "sourceBookUid": "a_HXTYv06IFtSs9G",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Morts-Vivants Ossifiés",
+  "version": "3.5.3",
+  "introduction": "Les Morts-Vivants Ossifiés sont des créatures d'os et de magie revêtant une forme humaine. Leurs légions marchent lentement mais avec une terrible détermination, abattant quiconque s'oppose à elles.\n\nIls détruisirent toute vie sur leur propre plan afin d'échapper à l'influence d'un puissant Démon de la Peste, préservant leur peuple sous la forme de constructions immortelles. Lorsqu'ils découvrirent Tyria, ils espérèrent fuir leur monde sans vie, mais furent trahis et bannis vers leur plan d'origine. Cependant, la Grande Faille a rouvert de nouveaux passages vers Tyria, et ils sont désormais résolus à se venger de cette trahison et à s'emparer de leur nouveau foyer par la force.",
+  "backgroundStory": "Le plan natal des Morts-Vivants Ossifiés était autrefois un monde verdoyant et paisible, jusqu'à ce que le regard du Dieu de la Peste se pose sur lui. Sous cette influence maligne, le monde commença à pourrir et à se flétrir. Alors que tout se décomposait autour d'eux, les derniers Sages se réunirent pour élaborer un plan : ils étudièrent une magie sombre et étrange qui leur permettrait de transcender les faiblesses de la chair sur lesquelles le dieu du Havoc se nourrissait, afin de devenir des êtres d'os et d'esprit au-delà de la mort. Certains rejetèrent cette idée, mais bien plus encore furent assez désespérés pour l'accepter, devenant les Morts-Vivants Ossifiés.\n\nTandis que ceux qui refusaient les Sages mouraient de maladie et de corruption, les Morts-Vivants Ossifiés commencèrent à purger leur monde de toute vie. Ils repoussèrent les serviteurs du Dieu de la Peste jusqu'à sauver leur plan, mais il n'y resta plus aucun être vivant. Après cela, ils vécurent un temps en paix. Nul ne sait combien de temps dura cette période, car sans vie, le temps lui-même perdit bientôt toute signification. Certains sombrèrent dans la folie ou le désespoir, et les Sages furent de nouveau chargés de trouver une solution.\n\nLeur espoir renaquit lorsqu'ils découvrirent un Portail du Vide créé par un étrange sage venu du plan de Tyria, qui implorait leur aide pour protéger son peuple. Après discussion, les Sages acceptèrent de partager leur savoir et, en échange, demandèrent le droit de s'établir en Tyria. Mais une fois les Guerres du Havoc terminées, les Tyriens trahirent leur part du marché et coupèrent leur lien avec le plan des Morts-Vivants Ossifiés.\n\nLes Morts-Vivants Ossifiés et leurs Sages tentèrent de rouvrir la connexion à maintes reprises, sans succès. Leur chance ne revint que lorsque la Faille ravagea Tyria, leur permettant d'exploiter le déchaînement soudain d'énergie qui l'avait créée pour rouvrir d'anciens Portails du Vide disséminés à travers le monde.\n\nLes Morts-Vivants Ossifiés ont recommencé à entrer en Tyria, revenant sur une terre de vie, mais ils regardent désormais les autres factions avec méfiance, se souvenant de la trahison passée. Pourtant, ils sont déterminés à forger un foyer pour leur peuple en Tyria, même s'il leur faut combattre chaque autre nation pour y parvenir.\n\nComment tailleras-tu un nouveau foyer dans ce plan de vie ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Ossifie",
+      "keywords": [
+        "Ossified"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Accumulateur de Sorts",
+      "keywords": [
+        "Spell Accumulator"
+      ]
+    },
+    {
+      "name": "Précision extraordinaire",
+      "keywords": [
+        "Precision Feat"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Amelioration de Regeneration",
+      "keywords": [
+        "Regeneration Buff"
+      ]
+    },
+    {
+      "name": "Artillerie Mobile",
+      "keywords": [
+        "Mobile Artillery"
+      ]
+    },
+    {
+      "name": "Tireur Perforant",
+      "keywords": [
+        "Piercing Shooter"
+      ]
+    },
+    {
+      "name": "Marque de Furie",
+      "keywords": [
+        "Furious Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Renforcement Ossifie",
+      "keywords": [
+        "Ossified Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Evasion",
+      "keywords": [
+        "Evasive Aura"
+      ]
+    },
+    {
+      "name": "Aura Vive?",
+      "keywords": [
+        "Swift Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Ossifie",
+      "keywords": [
+        "Ossified Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Drain d'Esprit",
+      "cost": 1,
+      "keywords": [
+        "Drain Spirit"
+      ]
+    },
+    {
+      "name": "Fracture Profonde",
+      "cost": 1,
+      "keywords": [
+        "Deep Fracture"
+      ]
+    },
+    {
+      "name": "Ossification Rapide",
+      "cost": 2,
+      "keywords": [
+        "Rapid Ossification"
+      ]
+    },
+    {
+      "name": "Explosion Brisante",
+      "cost": 2,
+      "keywords": [
+        "Shattering Blast"
+      ]
+    },
+    {
+      "name": "Asservisseur d'Ames",
+      "cost": 3,
+      "keywords": [
+        "Soul Enslaver"
+      ]
+    },
+    {
+      "name": "Briseur d'Os",
+      "cost": 3,
+      "keywords": [
+        "Bone Breaker"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Great Stalker",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Lent",
+        "Coriace (6)",
+        "Combattant imprévisible",
+        "Héros",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Falchions",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Falchion",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Quad Blades",
+              "details": "A8, PA (1)",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Great Bone Mace",
+              "details": "A6, PA (1), Destructeur, Precise",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bone Shaper",
+              "details": "Aura de Renforcement Ossifie",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Lord of Bones",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "High Liege",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Artisan of Shards",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Ur-Dead Master",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herald of Death",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Bone Mace",
+              "details": "A3, PA (1), Destructeur, Precise",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Bone Bow",
+              "details": "18\", A2, Destructeur, Precise",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Master Heavy Bow",
+              "details": "24\", A2, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Skeletal Steed",
+              "details": "Impact (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Steed",
+              "details": "Coriace (3), Impact (3), Vif",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Bone Chariot",
+              "details": "Hooves, Armure (3), Impact (4), Vif, Coriace (6)",
+              "cost": "+125pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bone Shaper",
+              "details": "Aura de Renforcement Ossifie",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Spell Reaper",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lord of Bones",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "High Liege",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ur-Dead Master",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Master",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bone Mace",
+              "details": "A3, Destructeur, Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Heavy Bow",
+              "details": "24\", A2, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Bone Bow",
+              "details": "18\", A2, Destructeur, Precise",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Skeletal Steed",
+              "details": "Impact (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bone Throne",
+              "details": "Stomp, Accumulateur de Sorts (1), Coriace (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Bone Chariot",
+              "details": "Hooves, Armure (3), Impact (4), Vif, Coriace (6)",
+              "cost": "+110pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bone Shaper",
+              "details": "Aura de Renforcement Ossifie",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Spell Reaper",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lord of Bones",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Trophy Banner",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Soul Master",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Artisan of Shards",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardians",
+      "size": 10,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Bone Mace",
+              "details": "A1, Destructeur, Precise",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Hand Weapon",
+          "options": [
+            {
+              "name": "Great Bone Mace",
+              "details": "A3, PA (1), Destructeur, Precise",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Unstoppable Husk",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reapers",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Infiltration",
+        "Ossifie",
+        "Lent",
+        "Furtif"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Smoke Cache",
+              "details": "Aura d'Evasion",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardian Archers",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Unstoppable Husk",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Bows",
+          "options": [
+            {
+              "name": "Bone Bow",
+              "details": "18\", A1, Destructeur, Precise",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Fire Braziers",
+              "details": "Tireur Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Death Riders",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (1)",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bone Mace",
+              "details": "A1, Destructeur, Precise",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Unstoppable Husk",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stalkers",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Quad Blades",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Quad Blades",
+          "options": [
+            {
+              "name": "Dual Falchions",
+              "details": "A2, PA (2), Explosion (3)",
+              "cost": "+-10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Unstoppable Husk",
+              "details": "Précision extraordinaire",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Immortals",
+      "size": 3,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Lent",
+        "Coriace (3)",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Halberds",
+          "options": [
+            {
+              "name": "Great Bone Mace",
+              "details": "A3, PA (1), Destructeur, Precise",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Horror",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Halberd",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Bone Mace",
+              "details": "A6, PA (1), Destructeur, Precise",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Ur-Dead Nightmare",
+              "details": "Marque de Furie",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harvester Beast",
+      "size": 1,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Régénération",
+        "Lent",
+        "Coriace (12)",
+        "Ossifie"
+      ],
+      "weapons": [
+        {
+          "name": "Mace Arms",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Mace Arms",
+          "options": [
+            {
+              "name": "Sickle Arms",
+              "details": "A8, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Spew Death",
+              "details": "Attaque de souffle",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bone Pile",
+              "details": "Amelioration de Régénération",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Ur-Dead Nightmare",
+              "details": "Marque de Furie",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Chariot",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Impact (4)",
+        "Ossifie",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Weapon Crew",
+          "options": [
+            {
+              "name": "Bone Mace Crew",
+              "details": "A2, Destructeur, Precise",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Javelin Crew",
+              "details": "12\", A6, PA (1), Fléau",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Bow Crew",
+              "details": "24\", A6, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Bone Bow Crew",
+              "details": "18\", A6, Destructeur, Precise",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crawler Catapult",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Ossifie",
+        "Coriace (3)",
+        "Artillerie Mobile",
+        "Lent"
+      ],
+      "weapons": [
+        {
+          "name": "Cursed Skulls",
+          "range": "36\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Indirect, Fléau"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Cursed Skulls",
+          "options": [
+            {
+              "name": "Dread Cauldron",
+              "details": "36\", A1, PA (2), Mortel (6), Indirect",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1239 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/lpRj9EBwROpO1um7?armyName=Ogres",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/lpRj9EBwROpO1um7?armyName=Ogres",
+  "sourceBookUid": "lpRj9EBwROpO1um7",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Ogres",
+  "version": "3.5.3",
+  "introduction": "Les Ogres sont une espèce d'humanoïdes massifs, dépassant la plupart des Humains d'une tête. Peu nombreux, ils compensent leur faible effectif par une taille et une force colossales, capables d'encaisser les coups et d'écraser leurs ennemis.\n\nDans les temps anciens, leur maîtrise de la magie et des Portails du Vide leur apporta une richesse et une prospérité rivalisant avec celles de n'importe quel royaume de l'est de Tyria. Cependant, ces portails commencèrent à déchirer la trame d'autres plans, permettant aux Traqueurs de l'Ombre d'envahir leurs terres. Les Ogres survivants furent poussés à l'exil, contraints d'abandonner leurs anciens foyers, leur richesse et leur grandeur pour une vie sur les steppes.",
+  "backgroundStory": "Les Ogres viennent d'une terre située à l'ouest de Tyria, où ils fondèrent plusieurs royaumes qui finirent par dominer la région. C'est là qu'ils découvrirent d'antiques Portails du Vide et de nombreuses reliques, grâce auxquels ils développèrent diverses écoles de magie et amassèrent une grande richesse. Parmi ces traditions, les Chamans Ogres étaient les plus réputés, car ils avaient appris à contrôler et même à créer de nouveaux Portails du Vide. Grâce à eux, les Ogres pouvaient voyager instantanément à travers leurs royaumes et mener une existence de luxe, obtenant presque tout ce que leur coeur et leur estomac pouvaient désirer.\n\nBientôt, les Chamans tournèrent leur regard au-delà de leur patrie, vers les richesses d'autres plans. Des rois envoyèrent commerçants et armées chercher des trésors introuvables en Tyria. Beaucoup revinrent chargés de merveilles, mais certains individus, et même des caravanes entières, disparurent en traversant les portails. Lorsque des groupes plus nombreux furent visés, quelques survivants revinrent enfin. Ils parlèrent d'êtres cruels qui les traquaient dans le vide et qu'ils appelaient les Traqueurs de l'Ombre, mais leurs récits furent balayés comme des hallucinations ou des anomalies. Les Ogres refusèrent pourtant de tenir compte de ces avertissements, leur avidité insatiable les poussant à chercher toujours plus de richesses par les Portails du Vide.\n\nCe ne fut que lorsque les portails menant à leur royaume cessèrent soudain de fonctionner que les Ogres comprirent qu'un désastre s'était produit : les Traqueurs de l'Ombre étaient entrés en Tyria. Bientôt, ils jaillirent de chaque porte créée par les Chamans Ogres, détruisant leurs cités. Avec ces prédateurs tapis dans chaque recoin de leur terre, la plupart des Ogres abandonnèrent leurs anciens foyers. Les Traqueurs de l'Ombre poursuivirent leur chasse, cherchant à tuer les Chamans afin de rouvrir les Portails du Vide.\n\nÀ présent, les Ogres sont arrivés dans l'est de Tyria à la recherche d'un nouveau foyer. Certains viennent en conquérants, taillant de petits royaumes en attaquant les territoires reculés de l'Empire et de ses voisins. D'autres vont plus loin en tant que marchands ou mercenaires, vendant marchandises, sorts et services dans l'espoir de rebâtir une vie meilleure.\n\nComment restaureras-tu la prospérité perdue de ton peuple ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destroyer"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Exploit Perforant",
+      "keywords": [
+        "Piercing Feat"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Grand Sergent",
+      "keywords": [
+        "Great Sergeant"
+      ]
+    },
+    {
+      "name": "Grand Musicien",
+      "keywords": [
+        "Great Musician"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Grande Banniere",
+      "keywords": [
+        "Great Banner"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Bonus d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Buff"
+      ]
+    },
+    {
+      "name": "Affaiblissement Encombrant",
+      "keywords": [
+        "Unwieldy Debuff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Renforcement Destructeur",
+      "keywords": [
+        "Destroyer Boost"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Encombrant",
+      "keywords": [
+        "Unwieldy"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Renforcement Destructeur",
+      "keywords": [
+        "Destroyer Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inarretable au Tir",
+      "keywords": [
+        "Unstoppable when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Courage",
+      "keywords": [
+        "Courage Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Tripes de Bataille",
+      "cost": 1,
+      "keywords": [
+        "Battle Guts"
+      ]
+    },
+    {
+      "name": "Gober",
+      "cost": 1,
+      "keywords": [
+        "Gobble Up"
+      ]
+    },
+    {
+      "name": "Festin Vorace",
+      "cost": 2,
+      "keywords": [
+        "Gorging Feast"
+      ]
+    },
+    {
+      "name": "Grand Pietinement",
+      "cost": 2,
+      "keywords": [
+        "Great Trampling"
+      ]
+    },
+    {
+      "name": "Brise-Esprits",
+      "cost": 3,
+      "keywords": [
+        "Crack Spirits"
+      ]
+    },
+    {
+      "name": "Gueule de Glace",
+      "cost": 3,
+      "keywords": [
+        "Ice Maw"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Tribe Master",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Destructeur",
+        "Héros",
+        "Ravage (2)",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A4, PA (2), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A4, PA (2), Percée",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (2)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Twin Big Pistols",
+              "details": "9\", A6, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Wall Crusher",
+              "details": "Rapide, Furieux",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Mountain Strider",
+              "details": "Furtif, Arpenteur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Death Cheater",
+              "details": "Sans peur, Régénération",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Blood Seeker",
+              "details": "Effrayant (2), Éclaireur",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Fang Beast",
+              "details": "Heavy Jagged Claws, Armure (3), Rapide, Impact (2), Coriace (3)",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Giant Bison",
+              "details": "Stomp, Giant Horns, Armure (3), Effrayant (2), Renforcé, Coriace (12)",
+              "cost": "+315pts"
+            },
+            {
+              "name": "Ice Mammoth",
+              "details": "Stomp, Giant Tusks, Armure (3), Effrayant (2), Esquive en mêlée, Coriace (12)",
+              "cost": "+340pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Chief",
+              "details": "Aura de Courage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Blessed One",
+              "details": "Aura de Fortification",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Executioner",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Instigator",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Great Devourer",
+              "details": "Aura de Renforcement Destructeur",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Fire Eater",
+              "details": "Spit Flames",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A4, PA (1), Percée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Javelin",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Big Pistols",
+              "details": "9\", A6, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Harpoon Shooter",
+              "details": "24\", A1, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Iron Warrior",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hunter",
+              "details": "Embuscade, Tueur en mêlée, Arpenteur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fang Beast",
+              "details": "Heavy Jagged Claws, Armure (3), Rapide, Impact (2), Coriace (3)",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Giant Bison",
+              "details": "Stomp, Giant Horns, Armure (3), Effrayant (2), Renforcé, Coriace (12)",
+              "cost": "+285pts"
+            },
+            {
+              "name": "Ice Mammoth",
+              "details": "Stomp, Giant Tusks, Armure (3), Effrayant (2), Esquive en mêlée, Coriace (12)",
+              "cost": "+295pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Chief",
+              "details": "Aura de Courage",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Hunt Master",
+              "details": "Aura d'Inarretable au Tir",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Instigator",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Great Devourer",
+              "details": "Aura de Renforcement Destructeur",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Master Shaman",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Fire Eater",
+              "details": "Spit Flames",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Little Ones",
+      "size": 10,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Trapper",
+              "details": "Contre-attaque",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A1",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ogre Warriors",
+      "size": 3,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Doom of Kingdoms",
+              "details": "Exploit Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devourers",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Knife",
+              "details": "A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (2)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Wall Crusher",
+              "details": "Rapide, Furieux",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Mountain Strider",
+              "details": "Furtif, Arpenteur",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Death Cheater",
+              "details": "Sans peur, Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Blood Seeker",
+              "details": "Éclaireur, Effrayant (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Doom of Kingdoms",
+              "details": "Exploit Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yetis",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Jagged Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Iron Warriors",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Renforcé",
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunters",
+      "size": 3,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Tueur en mêlée",
+        "Arpenteur",
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Hunting Spear",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hunting Spears",
+          "options": [
+            {
+              "name": "Great Javelin",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooters",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Cannon",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Doom of Kingdoms",
+              "details": "Exploit Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sabre-Tooths",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (3)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Jagged Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Fang-Beast Rider",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Destructeur",
+        "Rapide",
+        "Impact (2)",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Jagged Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Banner",
+              "details": "Grande Banniere",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Sergeant",
+              "details": "Grand Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Musician",
+              "details": "Grand Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Intimidating Maw",
+              "details": "Affaiblissement Encombrant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abomination",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Effrayant (1)",
+        "Sans peur",
+        "Furieux",
+        "Coriace (6)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Jagged Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Intimidating Maw",
+              "details": "Affaiblissement Encombrant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ice Mammoth",
+      "size": 1,
+      "cost": 360,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Destructeur",
+        "Effrayant (2)",
+        "Esquive en mêlée",
+        "Coriace (15)"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Great Tusks",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Crew Attacks",
+          "options": [
+            {
+              "name": "Trap-Chain",
+              "details": "12\", A3, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Great Tusk and Ice Conduit",
+          "options": [
+            {
+              "name": "Giant Tusks",
+              "details": "A2, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Frost Blast",
+              "details": "24\", A2, PA (1), Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Bison",
+      "size": 1,
+      "cost": 355,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Destructeur",
+        "Effrayant (2)",
+        "Renforcé",
+        "Coriace (15)"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Giant Horns",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Crew Attacks",
+          "options": [
+            {
+              "name": "Trap-Chain",
+              "details": "12\", A3, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Chariot",
+      "size": 1,
+      "cost": 270,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Renforcé",
+        "Coriace (9)",
+        "Destructeur"
+      ],
+      "weapons": [
+        {
+          "name": "Scrap Catapult",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Horns",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Scrap Catapult",
+          "options": [
+            {
+              "name": "Heavy Cannon",
+              "details": "30\", A3, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

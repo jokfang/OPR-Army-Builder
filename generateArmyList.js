@@ -24,10 +24,12 @@ const armyLists = fs
           const armyData = JSON.parse(fileContent);
 
           return {
-            name: armyData.name,
-            dataToolVersion: armyData.dataToolVersion,
+            name: armyData.name || armyData.armyName,
+            dataToolVersion: armyData.dataToolVersion || armyData.version,
             version: armyData.version,
-            path: filePath.substring(filePath.indexOf("\\")+1).replace(/\\/g, "/")
+            path: filePath
+              .replace(/\\/g, "/")
+              .replace(/^public\//, "")
           };
         }),
     };

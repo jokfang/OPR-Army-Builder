@@ -1,0 +1,2257 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/qtuyeoRfXKlNflK0?armyName=Wood+Elves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/qtuyeoRfXKlNflK0?armyName=Wood+Elves",
+  "sourceBookUid": "qtuyeoRfXKlNflK0",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Elfes des Bois",
+  "version": "3.5.3",
+  "introduction": "Les Elfes des Bois vivent en harmonie avec la forêt et avec les êtres magiques qui l'habitent. Bien que légèrement protégés, ils sont capables de se déplacer rapidement et de frapper leurs ennemis de loin, tout en comptant sur les arbres eux-mêmes pour ralentir l'avance adverse.\n\nAu fil des siècles, les Elfes des Bois ont été trahis par les étrangers et même par leurs propres cousins, qui ont grignoté les lisières de la forêt. Ils regardent désormais les étrangers comme les idées nouvelles avec méfiance, refusant de céder sur leurs traditions, alors même que leurs bois rétrécissent et que le monde menace de les laisser derrière lui.",
+  "backgroundStory": "Les ancêtres des Elfes des Bois migrèrent vers les Bois du Cœur pour y trouver un nouveau foyer, alors que des tribus humaines commençaient à empiéter sur leurs terres ancestrales. Là, ils rencontrèrent les Seigneurs des Arbres, de puissants êtres vivant au cœur de la forêt, et les deux peuples conclurent un pacte. Les Elfes protégeraient et nourriraient la forêt, ne lui portant jamais atteinte sans nécessité, et en échange, les Seigneurs des Arbres les protégeraient et subviendraient à leurs besoins.\n\nLorsque les Humains arrivèrent aux abords de la forêt, ils défrichèrent des terres pour l'agriculture et abattirent des arbres pour le combustible. Ensemble, les Elfes et les Seigneurs des Arbres les repoussèrent, même si les Humains conservèrent les terres qu'ils avaient défrichées. Tandis que beaucoup d'Elfes regardaient les Humains et leurs coutumes avec défiance, d'autres apprirent de leurs ennemis, adoptant armes et outils de métal, et allant même jusqu'à commercer avec eux. Ils prirent le nom de Hauts Elfes, construisirent des tours de pierre et taillèrent leurs royaumes au cœur des Bois du Cœur, revendiquant la forêt pour eux-mêmes. Les Elfes des Bois restés fidèles à l'ancien pacte et leurs alliés Seigneurs des Arbres se dressèrent contre eux.\n\nLes Elfes des Bois remportèrent une victoire coûteuse, bannissant les Hauts Elfes et laissant leurs anciennes tours tomber en ruine. Ils renouvelèrent alors leurs pactes et s'attachèrent étroitement à leurs traditions, se méfiant de quiconque s'en éloignait. C'est ainsi qu'ils vécurent isolés durant des siècles, préservant leurs anciens modes de vie jusqu'à l'arrivée des Dieux du Havoc.\n\nLes fidèles du Havoc pillèrent les forêts, prenant le bois pour leurs armes de guerre et brûlant ce dont ils n'avaient pas besoin. Les Elfes des Bois se battirent désespérément pour les repousser, mais il devint vite évident que leurs ennemis étaient trop nombreux. Aussi, lorsque les Hauts Elfes leur proposèrent une alliance, ils l'acceptèrent à contrecœur. Cette alliance ne tarda pas à se renforcer, et les Elfes des Bois concédèrent une large part de leurs forêts afin de fournir à leurs alliés le bois nécessaire à leurs armes, leurs navires et leurs fortifications.\n\nMais lorsque la victoire arriva, les Elfes des Bois n'avaient que peu à en retirer, car leurs anciens alliés revendiquèrent les terres où s'étendaient jadis les forêts, et certains cherchèrent même à empiéter plus encore. Désormais, les Elfes des Bois défendent farouchement ce qu'il en reste, mais la forêt continue de reculer année après année. Même certains Seigneurs des Arbres pensent que leurs jours sont comptés, tant les bois se réduisent.\n\nComment préserveras-tu les anciens pactes de ton peuple ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Voile sauvage",
+      "keywords": [
+        "Wild Veil"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Protection ancrée",
+      "keywords": [
+        "Grounded Protection"
+      ]
+    },
+    {
+      "name": "Boost  du Voile sauvage",
+      "keywords": [
+        "Wild Veil Boost"
+      ]
+    },
+    {
+      "name": "Marque de Tir rapide",
+      "keywords": [
+        "Quick Shot Mark"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Affaiblissement de vitesse",
+      "keywords": [
+        "Speed Debuff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Avance rapide",
+      "keywords": [
+        "Rapid Advance"
+      ]
+    },
+    {
+      "name": "Renforcement ancrée",
+      "keywords": [
+        "Grounded Reinforcement"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Protection ancrée",
+      "keywords": [
+        "Grounded Protection Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tireur imprévisible",
+      "keywords": [
+        "Unpredictable Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Avance rapide",
+      "keywords": [
+        "Rapid Advance Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Voile sauvage",
+      "keywords": [
+        "Wild Veil Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Frappe du Chasseur",
+      "cost": 1,
+      "keywords": [
+        "Hunter's Strike"
+      ]
+    },
+    {
+      "name": "Vignes Spirituelles",
+      "cost": 1,
+      "keywords": [
+        "Spirit Vines"
+      ]
+    },
+    {
+      "name": "Harmonie Naturelle",
+      "cost": 2,
+      "keywords": [
+        "Natural Harmony"
+      ]
+    },
+    {
+      "name": "Pietinement d'Arbre",
+      "cost": 2,
+      "keywords": [
+        "Tree Stomp"
+      ]
+    },
+    {
+      "name": "Croissance d'Ecorce",
+      "cost": 3,
+      "keywords": [
+        "Tree-Bark Growth"
+      ]
+    },
+    {
+      "name": "Attaque d'Insectes",
+      "cost": 3,
+      "keywords": [
+        "Insect Attack"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Eternal Guardian Ancient",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Héros",
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Coriace (9)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Great Hammer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Hammer",
+          "options": [
+            {
+              "name": "Heavy Glaive",
+              "details": "A9, PA (1), Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Squirm-fly",
+              "details": "12\", A9, Fléau",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Fury-fly",
+              "details": "18\", A6, Perforant",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Master",
+              "details": "Assaut perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heartwood Defender",
+              "details": "Boost  du Voile sauvage",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Stalk Master",
+              "details": "Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spell Weaver",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Spell Weaver",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grove Champion",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Dancer Leader",
+              "details": "Régénération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Beast Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Swift Deer",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Tracker Deer",
+              "details": "Impact (1), Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Watch Leader",
+              "details": "Embuscade, Furtif",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Glider Leader",
+              "details": "Régénération, Téléportation",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Stag",
+              "details": "Rapide, Impact (3), Coriace (3)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Giant Owl",
+              "details": "Perforant Claws, Rapide, Volant, Impact (2), Coriace (3)",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Forest Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+365pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Longbow",
+              "details": "30\", A2",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Rapid Shortbow",
+              "details": "18\", A3",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Hunting Bow",
+              "details": "24\", A2, Destructeur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Hunting Longbow",
+              "details": "30\", A2, Destructeur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Rapid Bow",
+              "details": "24\", A3",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Stalk Master",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Forest Warden",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Dance Master",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wild Hunter",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Spell Weaver",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Spell Weaver",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glade Leader",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Swift Deer",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Beast Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Tracker Deer",
+              "details": "Impact (1), Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Scout Master",
+              "details": "Éclaireur, Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Stag",
+              "details": "Armure (4), Rapide, Impact (3), Coriace (3)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Giant Owl",
+              "details": "Perforant Claws, Armure (4), Rapide, Volant, Impact (2), Coriace (3)",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Giant Beetle",
+              "details": "Great Horn, Stomp, Armure (3), Effrayant (2), Coriace (12)",
+              "cost": "+265pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Longbow",
+              "details": "30\", A2",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Rapid Shortbow",
+              "details": "18\", A3",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Hunting Bow",
+              "details": "24\", A2, Destructeur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Hunting Longbow",
+              "details": "30\", A2, Destructeur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Rapid Bow",
+              "details": "24\", A3",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Glade Master",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heartwood Defender",
+              "details": "Aura de Boost du Voile sauvage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Forest Warden",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "War Master",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Spell Weaver",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Spell Weaver",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treeman Elder",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Branch Mace",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Branch Mace",
+          "options": [
+            {
+              "name": "Weaving Branch",
+              "details": "12\", A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Branch Spike",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Branch Claws",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Branch Master",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heartwood Icon Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heartwood Defender",
+              "details": "Aura de Boost du Voile sauvage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Forest Warden",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Wild Weaver",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Forest Wraith",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Forest Wraith",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Elder",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Claws",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "Free"
+            },
+            {
+              "name": "Great Scythe",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spite Blades",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Spite Shortbow",
+              "details": "18\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Rapid Hunting Bow",
+              "details": "24\", A3, Destructeur",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heartwood Defender",
+              "details": "Aura de Boost du Voile sauvage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Stalk Master",
+              "details": "Aura d'Avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "War Master",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wild Hunter",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Spell Weaver",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Spell Weaver",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treemen",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Claws",
+          "options": [
+            {
+              "name": "Weaving Branch",
+              "details": "12\", A1",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Branch Claws",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glade Defenders",
+      "size": 10,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Revenants",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Claws",
+          "options": [
+            {
+              "name": "Spite Blades",
+              "details": "A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spite Shortbow",
+              "details": "18\", A1, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hunting Bow",
+              "details": "24\", A1, Destructeur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Spite Blade",
+          "options": [
+            {
+              "name": "Great Scythe",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grove Wardens",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Dancers",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Arpenteur",
+        "Combattant imprévisible",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Glider Wings",
+              "details": "Téléportation",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glade Guardians",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Longbow",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all Longbows with one",
+          "options": [
+            {
+              "name": "Hunting Arrow",
+              "details": "Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Toxic Arrows",
+              "details": "Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Precision Arrows",
+              "details": "Precise",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Barbed Arrows",
+              "details": "PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Magic Arrows",
+              "details": "Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Glade Scouts",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Hunting Longbow",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hunting Longbows",
+          "options": [
+            {
+              "name": "Rapid Bow",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forest Watch",
+      "size": 5,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Furtif",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Hunting Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hunting Bows",
+          "options": [
+            {
+              "name": "Rapid Shortbow",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deer Riders",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (1)",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Hunting Longbow",
+              "details": "30\", A1, Destructeur",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Rapid Bow",
+              "details": "24\", A2",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Swift Defenders",
+          "options": [
+            {
+              "name": "Heartwood Tracker",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grove Lancers",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Impact (1)",
+        "Arpenteur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mounted Weavers",
+      "size": 5,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Arpenteur",
+        "Résistance",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Staff",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Magic Blade",
+              "details": "A1, Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Handmaiden",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Bug Riders",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Impact (2)",
+        "Esquive en mêlée",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Spite Blades",
+              "details": "A1, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treeman Brutes",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Branch Mace",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Branch Maces",
+          "options": [
+            {
+              "name": "Branch Claws",
+              "details": "A4, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Hunters",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Great Scythe",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Bow",
+              "details": "24\", A3, PA (1)",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Heavy Hunting Longbow",
+              "details": "30\", A3, Destructeur",
+              "cost": "+85pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beetle Swarms",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Giant Owls",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Impact (2)",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Owl Riders",
+      "size": 3,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Impact (2)",
+        "Coriace (3)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Owl-Rider Shortbow",
+              "details": "18\", A3",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Rapid Hunting Bow",
+              "details": "24\", A2, Destructeur",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Guardian",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Esquive en mêlée",
+        "Arpenteur",
+        "Coriace (6)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Great Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Hammer",
+          "options": [
+            {
+              "name": "Heavy Glaive",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hunting Lure",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Beetle",
+      "size": 1,
+      "cost": 275,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow Crew",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Great Horn",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shortbow Crew",
+          "options": [
+            {
+              "name": "Hunting Bow Crew",
+              "details": "24\", A4, Destructeur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ballista",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Beetle Nest",
+              "details": "Génération (Beetle Swarms [3])",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Trample",
+              "details": "Impact (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hunting Lure",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tree Giant",
+      "size": 1,
+      "cost": 305,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Whip Root",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Branch Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Whip Root",
+          "options": [
+            {
+              "name": "Branch Mace",
+              "details": "A6, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Treeman Ancient",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Treeman Ancient",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Glow-Fairy Dust",
+              "details": "Protection ancrée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Owl Chimera",
+      "size": 1,
+      "cost": 540,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (2)",
+        "Volant",
+        "Régénération",
+        "Coriace (18)",
+        "Sans peur",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Great Horns",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Eternal Guardian Titan",
+      "size": 1,
+      "cost": 555,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Volant",
+        "Esquive en mêlée",
+        "Coriace (18)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Glaive",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Forest Ancient",
+      "size": 1,
+      "cost": 875,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (4)",
+        "Effrayant (4)",
+        "Sans peur",
+        "Arpenteur",
+        "Coriace (24)",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Tail Strike",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Yrana",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique",
+        "Voile sauvage"
+      ],
+      "weapons": [
+        {
+          "name": "Blightfang Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

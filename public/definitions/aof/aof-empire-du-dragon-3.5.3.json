@@ -1,0 +1,1803 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Lo39Hss3bevFj44V?armyName=Dragon+Empire",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Lo39Hss3bevFj44V?armyName=Dragon+Empire",
+  "sourceBookUid": "Lo39Hss3bevFj44V",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Empire du Dragon",
+  "version": "3.5.3",
+  "introduction": "L'Empire du Dragon est dirigé par une noblesse portant le sang et les écailles des dragons, à la tête d'innombrables serviteurs de terre cuite. Son armée s'appuie sur la détermination inébranlable de ses guerriers d'argile pour former un rempart, pendant que ses forces d'élite frappent les points clés de la ligne ennemie. Ils sont prêts à tout sacrifier pour mériter l'approbation de leur Empereur absent et garder son trône vacant jusqu'à son retour.",
+  "backgroundStory": "Dans tout Tyria, nombreux sont ceux qui murmurent des légendes au sujet de l'Empire du Dragon, situé sur la côte la plus occidentale de l'immense masse continentale à laquelle appartient leur continent. On raconte que ces terres furent autrefois un royaume humain gouverné par une impératrice cornue, à qui le seigneur des esprits dragons aurait accordé sagesse et puissance magique. Chaque fois que le pays traversait une crise, son âme renaissait pour guider à nouveau le peuple vers la prospérité.\n\nUn cycle s'installa : chaque incarnation apportait un âge de prospérité, puis le pays retombait dans le déclin après sa disparition, obligeant l'âme à renaître une fois encore. Le dernier de cette lignée choisit des mesures extrêmes peu après avoir été couronné Empereur, recherchant l'immortalité. Pour l'obtenir, il trahit les esprits du pays et draina leur essence dans une potion. Son corps humain se mua alors en une coque d'argile, et il en émergea sous une nouvelle forme draconique.\n\nFort de ses nouveaux pouvoirs, il s'envola dans le ciel, ouvrit un Portail du Vide et le traversa. Ce faisant, une terrible tempête s'abattit sur le pays, transformant son peuple. Ceux qui partageaient son sang furent partiellement changés : leurs visages prirent des traits draconiques et leur peau fut remplacée par des écailles. La plupart, cependant, ne firent plus qu'un avec la terre cuite, inflexibles dans leur corps comme dans leur esprit.\n\nSes sujets nouvellement transformés affluèrent vers la capitale à la recherche de guidance, mais n'y trouvèrent rien. À la place, ils découvrirent son dernier édit : une note déclarant son peuple indigne de lui, et annonçant qu'il avait choisi de les quitter. Les nobles désormais draconiques pleurèrent sa perte et décidèrent de laisser son trône vacant jusqu'à ce qu'ils puissent à nouveau se montrer dignes de lui.\n\nPlus d'un siècle s'est désormais écoulé depuis la disparition de l'Empereur Dragon, sans le moindre signe de retour. Les gens-dragons s'efforcent pourtant de gouverner leur terre comme avant leur transformation. Des paysans de terre cuite traversent les rues, accomplissant encore les tâches qu'ils avaient de leur vivant, tandis que leurs maîtres tentent de préserver l'ordre et la beauté qui régnaient jadis, sans l'aide de l'Empereur ni des esprits à leurs côtés. Pourtant, chaque année voit de nouvelles fissures apparaître dans les corps d'argile des travailleurs, le trône de l'Empereur se refroidit davantage, et le souvenir de leur âge d'or s'éloigne toujours plus.\n\nComment prouveras-tu ta valeur au regard de l'Empereur Dragon disparu '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Guerrier royal",
+      "keywords": [
+        "Royal Warrior"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Reajustement Rapide",
+      "keywords": [
+        "Quick Readjustment"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Accumulateur de Sorts",
+      "keywords": [
+        "Spell Accumulator"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Redéploiement",
+      "keywords": [
+        "Re-Deployment"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Marquage Indirect",
+      "keywords": [
+        "Indirect Mark"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Precision",
+      "keywords": [
+        "Precision Debuff"
+      ]
+    },
+    {
+      "name": "Vengeance",
+      "keywords": [
+        "Vengeance"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Guerrier royal amélioré",
+      "keywords": [
+        "Royal Warrior Boost"
+      ]
+    },
+    {
+      "name": "Indirect au Tir",
+      "keywords": [
+        "Indirect when Shooting"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Rush"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tireur imprévisible",
+      "keywords": [
+        "Unpredictable Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    },
+    {
+      "name": "Aura de Guerrier royal amélioré",
+      "keywords": [
+        "Royal Warrior Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Vent Spirituel",
+      "cost": 1,
+      "keywords": [
+        "Spirit Wind"
+      ]
+    },
+    {
+      "name": "Feu Draconique",
+      "cost": 1,
+      "keywords": [
+        "Dragon Fire"
+      ]
+    },
+    {
+      "name": "Griffes de Jade",
+      "cost": 2,
+      "keywords": [
+        "Jade Claws"
+      ]
+    },
+    {
+      "name": "Tempete Astrale",
+      "cost": 2,
+      "keywords": [
+        "Astral Storm"
+      ]
+    },
+    {
+      "name": "Guidance Ancestrale",
+      "cost": 3,
+      "keywords": [
+        "Ancestral Guidance"
+      ]
+    },
+    {
+      "name": "Lueur Stellaire Ardente",
+      "cost": 3,
+      "keywords": [
+        "Blazing Starlight"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Dragonkin Lord",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Guerrier royal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Royal Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Royal Rifle",
+              "details": "18\", A2, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Royal Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Royal Scale-Tip Rifle",
+              "details": "18\", A2, Dechirure",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Myth-Steed",
+              "details": "Heavy Hooves, Rapide, Volant, Impact (2), Coriace (3)",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Great Tiger",
+              "details": "Heavy Claws, Effrayant (1), Arpenteur, Coriace (6)",
+              "cost": "+160pts"
+            },
+            {
+              "name": "Royal Dragon",
+              "details": "Heavy Claws, Stomp, Attaque de souffle, Effrayant (3), Volant, Coriace (18)",
+              "cost": "+510pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Blood-Keeper",
+              "details": "Aura de Guerrier royal amélioré",
+              "cost": "+10pts"
+            },
+            {
+              "name": "War Master",
+              "details": "Aura de Tueur en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Spirit Host",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Artificer",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Spirit Host",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Bastion Guardian",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragonkin Captain",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Royal Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Royal Bow",
+              "details": "24\", A2",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Royal Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Royal Scale-Tip Shortbow",
+              "details": "18\", A2, Dechirure",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Royal Precision Rifle",
+              "details": "18\", A2, PA (1), Precise",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pavise Shield",
+              "details": "Blindé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pet Myth-Lizard",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Blood-Keeper",
+              "details": "Aura de Guerrier royal amélioré",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Ceramicist",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spirit Host",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Artificer",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Bastion Guardian",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Levy",
+      "size": 10,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Sling",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Slings and Hand Weapons",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ravenmen Mercenaries",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Claws",
+          "options": [
+            {
+              "name": "Metal Spurs",
+              "details": "A2, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Raven Assault",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragonkin Warriors",
+      "size": 10,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Dragonkin Warriors",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Halberds",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Halberd",
+          "options": [
+            {
+              "name": "Great Mace",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Ogres",
+      "size": 3,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Big Pistol",
+              "details": "9\", A3, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Archers",
+      "size": 5,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bows",
+          "options": [
+            {
+              "name": "Scale-Tip Shortbow",
+              "details": "18\", A1, Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Grenadiers",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Reajustement Rapide",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Scale-Tip Bombs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Indirect, Dechirure"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Scale-Tip Bombs",
+          "options": [
+            {
+              "name": "Fire Bombs",
+              "details": "12\", A1, PA (1), Indirect, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sling-Bombs",
+              "details": "18\", A1, PA (1), Indirect",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Gunners",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rifles",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Precision Rifle",
+              "details": "18\", A1, PA (1), Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragonkin Marksmen",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Crossbow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Crossbows",
+          "options": [
+            {
+              "name": "Repeater Crossbow",
+              "details": "18\", A2, Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Dragonkin Marksmen",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier royal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rifles",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Scale-Tip Rifle",
+              "details": "18\", A1, Dechirure",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Repeater Crossbow",
+              "details": "18\", A2, Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle",
+          "options": [
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Snipers",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Sniper Rifles",
+          "options": [
+            {
+              "name": "Scale-Tip Sniper Rifle",
+              "details": "24\", A1, Fiable, Élimination, Dechirure",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Horsemen",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hand Weapon",
+              "details": "A1",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (5)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragonkin Horsemen",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Myth-Steed Riders",
+      "size": 3,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Volant",
+        "Guerrier royal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Heavy Hooves",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Halberds",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Halberd",
+          "options": [
+            {
+              "name": "Great Mace",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spirit Balance",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Tiger",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Effrayant (1)",
+        "Guerrier royal",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spirit Beacon",
+          "options": [
+            {
+              "name": "Jade Blast",
+              "details": "Attaque de souffle",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spirit Armor",
+              "details": "Résistance",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Phoenix",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Régénération",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jade Storm",
+              "details": "A1, PA (1), Explosion (3), Mitraillage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Spirit Blizzard",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperial Dragon",
+      "size": 1,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Attaque de souffle",
+        "Volant",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Drum",
+              "details": "Bonus de Combattant precis",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spirit Armor",
+              "details": "Résistance",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperial Wagon",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Spirit Beacon",
+          "options": [
+            {
+              "name": "Great War Drum",
+              "details": "Effrayant (2), Bonus de Combattant precis",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Spirit Guidance",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperial Lantern",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Volant",
+        "Coriace (6)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Shotgun Crew",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shotgun Crew",
+          "options": [
+            {
+              "name": "Precision Rifle Crew",
+              "details": "18\", A4, PA (1), Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Volley Gun",
+              "details": "18\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rocket Battery",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Scale-Tip Volley Gun",
+              "details": "18\", A6, Dechirure",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Forward Deployment",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spirit Guidance",
+              "details": "Marquage Indirect",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fire Bombs",
+              "details": "A2, PA (1), Explosion (3), Mitraillage",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Claysoul Titan",
+      "size": 1,
+      "cost": 445,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Mace",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Explosion (6)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Mace",
+          "options": [
+            {
+              "name": "Titan Glaive",
+              "details": "A12, PA (1), Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Reinforced Clay",
+              "details": "Armure (2)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperial Artillery",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Coriace (3)",
+        "Guerrier royal"
+      ],
+      "weapons": [
+        {
+          "name": "Volley Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Volley Gun",
+          "options": [
+            {
+              "name": "Cannon",
+              "details": "30\", A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rocket Battery",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Scale-Tip Volley Gun",
+              "details": "18\", A6, Dechirure",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Cannon",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

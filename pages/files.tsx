@@ -261,7 +261,7 @@ export default function Files() {
           }
           <div className="columns is-mobile is-multiline">
             {
-              army.gameSystem === "gf" || !armyFiles ? null : filtered(armies)?.map((file, index) => {
+              !armyFiles ? null : filtered(armies)?.map((file, index) => {
                 const driveArmy = driveArmies && driveArmies.filter(army => file.name.toUpperCase() === army?.name?.toUpperCase())[0];
 
                 return (

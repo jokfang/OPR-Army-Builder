@@ -1,0 +1,1436 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/8siLk9I6-H8lk78b?armyName=Havoc+Dwarves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/8siLk9I6-H8lk78b?armyName=Havoc+Dwarves",
+  "sourceBookUid": "8siLk9I6-H8lk78b",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Nains du Havoc",
+  "version": "3.5.3",
+  "introduction": "Les Nains du Havoc sont ces Nains qui ont embrassé les Dieux du Havoc. Leurs soldats lents mais solides portent de lourdes armures et sont soutenus par des armes monstrueuses et des créatures façonnées par de sombres rituels.\n\nLes ancêtres des Nains du Havoc furent conquis par les Orques et abandonnés par leurs anciens alliés, et c'est ainsi qu'ils ont choisi de se tourner vers les Dieux du Havoc. Ils cherchent désormais à reprendre leurs anciens foyers et à bâtir un nouvel empire de sang et de brutalité, afin de ne plus jamais être humiliés ni soumis.",
+  "backgroundStory": "Les tribus naines étaient autrefois disséminées à travers Tyria, mais lorsque l'humanité colonisa les plaines et que les Orques gagnèrent la steppe, les Nains se replièrent dans les montagnes où ils bâtirent leurs forteresses. Leur capacité à canaliser directement la magie était plus limitée que celle d'autres espèces, si bien qu'ils devinrent surtout forgerons et inventeurs, utilisant les runes pour enchanter leurs créations et y insuffler une magie que leurs Maîtres des Runes pouvaient ensuite exploiter.\n\nLorsque le Havoc arriva en Tyria, les forteresses naines du nord furent submergées par ses adeptes, tandis que les Nains du sud rejoignaient la campagne menée contre lui. Les Orques saisirent cette occasion pour attaquer et conquirent bientôt les forteresses méridionales. La vie sous leur domination fut rude. Les Orques chassèrent les Nains de leurs halls, prirent ce qu'ils voulaient et réduisirent les survivants à de durs travaux dans les mines et les champs. Faute d'aide de la part d'alliés eux-mêmes trop affaiblis, les Nains durent endurer ce joug pendant des générations.\n\nLorsque la Grande Faille s'ouvrit, elle déchira une grande partie des terres naines. De nombreux Orques moururent ensevelis, et les autres furent contraints d'abandonner les forteresses en laissant derrière eux armes et armures. Les Nains se soulevèrent alors et repoussèrent les derniers occupants. Certains d'entre eux commencèrent pourtant à suivre les Dieux du Havoc, affirmant que c'était le Havoc lui-même qui les avait libérés alors que leurs anciens alliés les avaient abandonnés. Ces Nains voués au Havoc se regroupèrent dans les forteresses septentrionales.\n\nLorsque les Dieux du Havoc constatèrent le faible potentiel arcanique de leurs fidèles nains, leur attention se détourna rapidement vers d'autres mortels. Les dons divins existaient toujours chez les Nains du Havoc, mais il leur était beaucoup plus difficile d'attirer durablement le regard de leurs nouveaux patrons. Pour compenser leur faiblesse magique, ils commencèrent à utiliser des captifs comme conduits lors de rituels sanglants. Grâce à ces expérimentations, ils découvrirent comment employer la magie du sang pour surmonter leurs limites naturelles, et certains parvinrent ainsi à regagner un peu de la faveur divine. Mais l'intérêt des Dieux du Havoc demeure aussi changeant qu'impitoyable.\n\nPour impressionner davantage leurs maîtres, les Nains ont également mis leur science mécanique au service de machines de guerre, de golems et d'armes toujours plus redoutables. Ils poursuivent cette voie avec l'espoir vain que les empires qu'ils bâtissent et le sang qu'ils versent finiront peut-être par satisfaire leurs dieux indifférents.\n\nComment apaiseras-tu des dieux qui ne se soucient pas de toi '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lie au Chaos",
+      "keywords": [
+        "Havocbound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Affaiblissement du moral",
+      "keywords": [
+        "Morale Debuff"
+      ]
+    },
+    {
+      "name": "Marque d'Implacable",
+      "keywords": [
+        "Relentless Mark"
+      ]
+    },
+    {
+      "name": "Bonus d’Inébranlable",
+      "keywords": [
+        "Steadfast Buff"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Renforcement Lie au Chaos",
+      "keywords": [
+        "Havocbound Boost"
+      ]
+    },
+    {
+      "name": "Défense versatile",
+      "keywords": [
+        "Versatile Defense"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Renforcement Lie au Chaos",
+      "keywords": [
+        "Havocbound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Défense versatile",
+      "keywords": [
+        "Versatile Defense Aura"
+      ]
+    },
+    {
+      "name": "Aura Vive?",
+      "keywords": [
+        "Swift Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Rune de Percage",
+      "cost": 1,
+      "keywords": [
+        "Rune of Piercing"
+      ]
+    },
+    {
+      "name": "Rune de Foudre",
+      "cost": 1,
+      "keywords": [
+        "Rune of Lightning"
+      ]
+    },
+    {
+      "name": "Rune de Cendres",
+      "cost": 2,
+      "keywords": [
+        "Rune of Ashes"
+      ]
+    },
+    {
+      "name": "Rune des Tenebres",
+      "cost": 2,
+      "keywords": [
+        "Rune of Darkness"
+      ]
+    },
+    {
+      "name": "Rune de Fissuration",
+      "cost": 3,
+      "keywords": [
+        "Rune of Cracking"
+      ]
+    },
+    {
+      "name": "Rune de Folie",
+      "cost": 3,
+      "keywords": [
+        "Rune of Insanity"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Bull Centaur Champion",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Furieux",
+        "Lie au Chaos",
+        "Héros",
+        "Impact (4)",
+        "Coriace (6)",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Heavy Hand Weapons",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Flame Keeper",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Pain Forger",
+              "details": "Aura de Tueur en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Hex Caster",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Ashen Lord",
+              "details": "Aura de Renforcement Lie au Chaos",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Dual Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A4",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Champion",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Shield",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Abyssal Shotgun",
+              "details": "9\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Abyssal Hex Shotgun",
+              "details": "12\", A3, Désintegration",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Abyssal Rifle",
+              "details": "18\", A2, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Abyssal Hex Rifle",
+              "details": "24\", A2, Désintegration",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Immortals Leader",
+              "details": "Régénération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Winged Beast",
+              "details": "Horn, Armure (3), Effrayant (1), Volant, Vif, Coriace (6)",
+              "cost": "+185pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Taskmaster",
+              "details": "Aura Vive?",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Pain Forger",
+              "details": "Aura de Tueur en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Oppressor",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Ashen Lord",
+              "details": "Aura de Renforcement Lie au Chaos",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abyssal Leader",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Shield",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Abyssal Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Abyssal Hex Pistol",
+              "details": "12\", A2, Désintegration",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Great Winged Beast",
+              "details": "Horn, Armure (3), Effrayant (1), Volant, Vif, Coriace (6)",
+              "cost": "+155pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Flame Keeper",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Taskmaster",
+              "details": "Aura Vive?",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Pain Forger",
+              "details": "Aura de Tueur en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Oppressor",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Hex Caster",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Master Hex Caster",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+80pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultists",
+      "size": 10,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Chaos",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Throw Stones",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Bonus d’Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 10,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Heavy Shield",
+              "details": "Renforcé",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Bonus d’Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gargoyles",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Berserkers",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Tueur en mêlée",
+        "Lent",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Immortals",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Lent",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Bonus d’Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooters",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Shotgun",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Shotguns",
+          "options": [
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Hex Rifle",
+              "details": "24\", A1, Désintegration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hex Shotgun",
+              "details": "12\", A2, Désintegration",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Bonus d’Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infernal Shooters",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Blunderbuss",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blunderbusses",
+          "options": [
+            {
+              "name": "Flamethrower",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hex Blunderbuss",
+              "details": "18\", A3, Désintegration",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weapon Teams",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Flamethrower",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Flamethrowers",
+          "options": [
+            {
+              "name": "Mortar",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hex Launcher",
+              "details": "24\", A3, Désintegration, Indirect",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sentinel Centaurs",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (1)",
+        "Régénération",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "9\", A2, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Hex Shotgun",
+              "details": "12\", A2, Désintegration",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Hex Rifle",
+              "details": "24\", A1, Désintegration",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Hex Banner",
+              "details": "Conduit de Sort",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bull Centaurs",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Impact (2)",
+        "Coriace (3)",
+        "Lie au Chaos",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Heavy Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A2",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Hex Banner",
+              "details": "Conduit de Sort",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golems",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Arpenteur",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Stone Fists",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Grotesques",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Flame Spirits",
+      "size": 3,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Lie au Chaos",
+        "Régénération",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A2",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greater Golem",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Lent",
+        "Arpenteur",
+        "Coriace (6)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Fists",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Bull Construct",
+      "size": 1,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Lie au Chaos",
+        "Coriace (9)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Great Weapon",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Great Weapon",
+          "options": [
+            {
+              "name": "Twin Arm-Flamethrowers",
+              "details": "12\", A3, PA (1), Explosion (3), Fiable",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Abyssal Targeting",
+              "details": "Marque d'Implacable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Rhino",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Horn",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Abyssal Targeting",
+              "details": "Marque d'Implacable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siege Wagon",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lent",
+        "Coriace (6)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Siege Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Siege Cannon",
+          "options": [
+            {
+              "name": "Siege Mortar",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Cannon",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Siege Hex Launcher",
+              "details": "24\", A6, PA (1), Désintegration, Indirect",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Artillery",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Rocket Battery",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rocket Battery",
+          "options": [
+            {
+              "name": "Heavy Mortar",
+              "details": "36\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

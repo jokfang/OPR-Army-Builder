@@ -1,0 +1,2111 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/ewbra8nv3nq3k27p?armyName=Custodian+Brothers",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/ewbra8nv3nq3k27p?armyName=Custodian+Brothers",
+  "sourceBookUid": "ewbra8nv3nq3k27p",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Frères Gardiens",
+  "version": "3.5.3",
+  "introduction": "Les Frères Gardiens sont les protecteurs personnels du Conduit, héritier du Fondateur qui créa les modifications génétiques. Peu nombreux, ils emploient des armures et des armes de pointe, adaptées à leurs spécifications exactes.\n\nIls servent de garde rapprochée et d'émissaires personnels du Conduit, transmettant ses ordres et imposant directement sa volonté. Les Gardiens dépendent largement de leur réputation et de la confiance que les autres placent en eux. Pour conserver leur statut, ils ont peu à peu adopté d'intriquées cérémonies d'honneur, des rivalités destructrices ainsi que tout un réseau de mensonges et de secrets.",
+  "backgroundStory": "Durant son ascension vers le pouvoir, le Fondateur s'entoura d'un cercle d'acolytes de confiance. Chacun d'eux était une personne de talent et d'intelligence à qui il accordait une confiance absolue. Ce furent les premiers avec lesquels il partagea sa vision d'une humanité améliorée, ainsi que son projet d'atteindre l'immortalité en transférant mémoire et conscience dans un clone après la mort.\n\nLes Frères Gardiens agirent comme ses confidents et ses représentants, et leur parole fut considérée comme juste inférieure à celle du Fondateur lui-même. Tout au long de la guerre civile, ils servirent de gardes personnels et d'émissaires auprès des Détachements restés loyaux.\n\nLorsque le Fondateur mena personnellement une flotte pour reprendre son vaisseau amiral volé, les Gardiens étaient à ses côtés. Ils retrouvèrent le vaisseau à la lisière de l'espace connu et une bataille désespérée s'ensuivit, au cours de laquelle le Fondateur fut tué. Dévastés par cette perte, les Gardiens redoublèrent de fureur, jusqu'à ce qu'au plus fort du conflit, un trou de ver n'engloutisse les deux flottes. Celles-ci émergèrent alors dans une autre galaxie, dispersées et endommagées.\n\nLes Gardiens se mirent rapidement à rallier les Détachements de Frères de Bataille encore en vie et à mettre en œuvre le plan de secours du Fondateur : le Programme du Conduit. La clairvoyance et le savoir du Fondateur furent confirmés lorsque sa conscience et ses souvenirs furent préservés dans un clone. Le Conduit devint le symbole de la vision du Fondateur et de sa victoire sur la mort, unifiant les Détachements épars dans Sirius, tandis que les Gardiens poursuivaient leur service en tant que bras droit du Conduit dans le secteur.\n\nLes Gardiens continuent aujourd'hui de jouer un rôle vital comme voix et main du Conduit auprès des fidèles du Fondateur. Ils s'évaluent eux-mêmes, et évaluent les autres, avant tout à l'aune de la réputation qu'ils parviennent à se forger à l'intérieur comme à l'extérieur de la Fraternité. Pour faire reconnaître leur honneur, chaque Gardien prend grand soin d'exhiber les signes de ses exploits, conservant des trophées et gravant son armure de titres.\n\nSi certains les jugent vaniteux, la plupart reconnaissent que seule leur diplomatie infatigable et leur dévouement permettent de maintenir l'unité. Les Gardiens demeurent les symboles de la vision singulière du Fondateur et des reflets de la perfection humaine aux limites mêmes de la modification génétique.\n\nComment défendras-tu l'unité et l'honneur de l'humanité dans Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Gardien",
+      "keywords": [
+        "Guardian"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Perforation de la cible",
+      "keywords": [
+        "Piercing Target"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    },
+    {
+      "name": "Boost de Gardien",
+      "keywords": [
+        "Guardian Boost"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Déchiquetage au tir",
+      "keywords": [
+        "Shred when Shooting"
+      ]
+    },
+    {
+      "name": "Inarretable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Élan",
+      "keywords": [
+        "Dash"
+      ]
+    },
+    {
+      "name": "Marque de lacération",
+      "keywords": [
+        "Shred Mark"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Voile fluctuant",
+      "keywords": [
+        "Ranged Shrouding"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Dechiquetage au Tir",
+      "keywords": [
+        "Shred when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile fluctuant",
+      "keywords": [
+        "Ranged Shrouding Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inebranlable",
+      "keywords": [
+        "Steadfast Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost de Gardien",
+      "keywords": [
+        "Guardian Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura Imparable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Élan",
+      "keywords": [
+        "Dash Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "The Founder's Curse",
+      "cost": 1,
+      "keywords": [
+        "The Founder's Curse"
+      ]
+    },
+    {
+      "name": "Thunderous Mist",
+      "cost": 1,
+      "keywords": [
+        "Thunderous Mist"
+      ]
+    },
+    {
+      "name": "Focused Defender",
+      "cost": 2,
+      "keywords": [
+        "Focused Defender"
+      ]
+    },
+    {
+      "name": "Dread Frappe",
+      "cost": 2,
+      "keywords": [
+        "Dread Strike"
+      ]
+    },
+    {
+      "name": "Guardian Protection",
+      "cost": 3,
+      "keywords": [
+        "Guardian Protection"
+      ]
+    },
+    {
+      "name": "Mind Gash",
+      "cost": 3,
+      "keywords": [
+        "Mind Gash"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Master Destroyer",
+      "size": 1,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (9)",
+        "Gardien",
+        "Embuscade"
+      ],
+      "weapons": [
+        {
+          "name": "Flame-Mount",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Flame-Mount and Custodian Axe",
+          "options": [
+            {
+              "name": "Rapid Wrist-GL",
+              "details": "18\", A2, Explosion (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flame-Mount",
+          "options": [
+            {
+              "name": "Burst Shot-Mount",
+              "details": "12\", A3, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A2, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A6, PA (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Élan",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Warden",
+              "details": "Inarretable en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Boost de Gardien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Accuser",
+              "details": "Déchiquetage au tir",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Watcher",
+              "details": "Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Disruptor",
+              "details": "Furtif",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veteran Master Custodian",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Gardien",
+        "Attaque polyvalente"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Shot-Mount",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Jetbike",
+              "details": "Heavy Rifle Array, Rapide, Arpenteur, Coriace (3)",
+              "cost": "+230pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Rifle Array",
+          "options": [
+            {
+              "name": "Twin Devastator",
+              "details": "24\", A4, PA (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Twin Laser Pulser",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Missiles",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shot-Mount and Custodian Axe",
+          "options": [
+            {
+              "name": "Wrist-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Lance",
+              "details": "A6, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shot-Mount",
+          "options": [
+            {
+              "name": "Flame-Mount",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A2, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A6, PA (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Boost de Gardien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Watcher",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Disruptor",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Master Custodian",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Shot-Mount",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Jetbike",
+              "details": "Heavy Rifle Array, Rapide, Arpenteur, Coriace (3)",
+              "cost": "+230pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Rifle Array",
+          "options": [
+            {
+              "name": "Twin Devastator",
+              "details": "24\", A4, PA (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Twin Laser Pulser",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Missiles",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shot-Mount and Custodian Axe",
+          "options": [
+            {
+              "name": "Wrist-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Lance",
+              "details": "A6, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shot-Mount",
+          "options": [
+            {
+              "name": "Flame-Mount",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A2, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A6, PA (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Boost de Gardien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Watcher",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Disruptor",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Sister",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Prosecution Rifle",
+              "details": "24\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Prosecution Ammo",
+              "details": "Implacable",
+              "cost": "Free"
+            },
+            {
+              "name": "Vigilant Oath",
+              "details": "Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hunter Instincts",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Boost de Gardien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Warden",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Accuser",
+              "details": "Aura de Dechiquetage au Tir",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Disruptor",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Sorceress",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master Sorceress",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Brothers",
+      "size": 3,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Shot-Mount",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shot-Mounts and Custodian Axes",
+          "options": [
+            {
+              "name": "Burst Shot-Mount",
+              "details": "12\", A3, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shot-Mount",
+          "options": [
+            {
+              "name": "Flame-Mount",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A3, PA (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Aura d'Inebranlable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Aura d'Élan",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veteran Custodian Brothers",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien",
+        "Attaque polyvalente"
+      ],
+      "weapons": [
+        {
+          "name": "Shot-Mount",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shot-Mounts and Custodian Axes",
+          "options": [
+            {
+              "name": "Burst Shot-Mount",
+              "details": "12\", A3, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shot-Mount",
+          "options": [
+            {
+              "name": "Flame-Mount",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A3, PA (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Aura d'Inebranlable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Aura d'Élan",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetpack Brothers",
+      "size": 3,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Sans peur",
+        "Volant",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Shot-Mount",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy CCW",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shot-Mounts and Heavy CCWS",
+          "options": [
+            {
+              "name": "Burst Shot-Mount",
+              "details": "12\", A3, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shot-Mount",
+          "options": [
+            {
+              "name": "Destroyer Long Pistol",
+              "details": "18\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Inhibitor Array",
+              "details": "Aura de Voile fluctuant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Aura d'Inebranlable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Aura d'Élan",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sagittarius Brothers",
+      "size": 3,
+      "cost": 335,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Bolt Rifle",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Disintegrator-Mod",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "-"
+        },
+        {
+          "name": "Heavy CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Aura d'Inebranlable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Aura d'Élan",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Inhibitor Array",
+              "details": "Aura de Voile fluctuant",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vigilant Sisters",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Heretic Spotter",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prosecution Sisters",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Prosecution Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Heretic Spotter",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunter Sisters",
+      "size": 3,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Heretic Spotter",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Destroyer",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Sans peur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Shot-Mount",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Custodian Axe",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rapid Shot-Mount and Custodian Axe",
+          "options": [
+            {
+              "name": "Wrist-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shot-Mount",
+          "options": [
+            {
+              "name": "Flame-Mount",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bolt-Mount",
+              "details": "18\", A3, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Fuse-Mount",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Needler-Mount",
+              "details": "24\", A3, Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Destructor-Mount",
+              "details": "24\", A2, Dechirure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Storm-Mount",
+              "details": "24\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Custodian Axe",
+          "options": [
+            {
+              "name": "Custodian Halberd",
+              "details": "A2, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Custodian Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Custodian Spear",
+              "details": "A6, PA (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Guardian Banner",
+              "details": "Inébranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "The Founder's Warding",
+              "details": "Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy Banner",
+              "details": "Élan",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Destructor",
+      "size": 1,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Sans peur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Energy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamer and Energy Claw",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Destructor",
+              "details": "24\", A4, Dechirure",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Destructor",
+              "details": "24\", A4, Dechirure",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Claw",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A3, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian APC",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Gardien",
+        "Impact (3)",
+        "Coriace (6)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Storm Rifle",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Jetbiker",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Arpenteur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Rifle Array",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Energy Lance",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Rifle Array",
+          "options": [
+            {
+              "name": "Twin Devastator",
+              "details": "24\", A4, PA (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Twin Laser Pulser",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Missiles",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Grav Light Tank",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Blazer",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Anti-Grav Battle Tank",
+      "size": 1,
+      "cost": 565,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (6)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Blazer",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Bolt Cannon",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Blazer",
+          "options": [
+            {
+              "name": "Twin Accelerator",
+              "details": "36\", A6, Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Grav Heavy Battle Tank",
+      "size": 1,
+      "cost": 835,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (9)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Blazer",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Heavy Bolt Cannon",
+          "range": "30\"",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Transport",
+              "details": "Transport (6)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Heavy Battle Tank",
+      "size": 1,
+      "cost": 885,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (9)",
+        "Coriace (18)",
+        "Transport (11)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Quad Laser Cannon",
+          "range": "36\"",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Combat Walker",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Walker Fist",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Walker Fist",
+          "options": [
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Minigun",
+              "details": "24\", A6, PA (2)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade any Walker Fist with one",
+          "options": [
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Super-Charging Array",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Assault Walker",
+      "size": 1,
+      "cost": 430,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Burst Shot-Mount",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Sword",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield and Heavy Sword",
+          "options": [
+            {
+              "name": "2x Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Burst Shot-Mount",
+          "options": [
+            {
+              "name": "Rapid Flame-Mount",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Destructor-Mount",
+              "details": "24\", A4, Dechirure",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Rapid Storm-Mount",
+              "details": "24\", A6, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Flamer",
+          "options": [
+            {
+              "name": "Destroyer",
+              "details": "24\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Super-Charging Array",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Custodian Heavy Walker",
+      "size": 1,
+      "cost": 695,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Coriace (15)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Bolt Launcher",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Twin Plasma",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Walker Fist",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Walker Fist and Twin Plasma",
+          "options": [
+            {
+              "name": "Storm Cannon",
+              "details": "30\", A2, PA (3), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Accelerator Gun",
+              "details": "36\", A6, Dechirure",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Super-Charging Array",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

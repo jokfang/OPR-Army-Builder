@@ -1,0 +1,1455 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/5wbcv465hacdwvkb?armyName=Rebel+Guerrillas",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/5wbcv465hacdwvkb?armyName=Rebel+Guerrillas",
+  "sourceBookUid": "5wbcv465hacdwvkb",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Guérilleros Rebelles",
+  "version": "3.5.3",
+  "introduction": "Les Guérilleros Rebelles forment une coalition disparate de marginaux et d'agitateurs issus d'une grande variété d'espèces aliens. Dépourvus de l'armement lourd des factions plus organisées, ils s'appuient sur la diversité de leurs talents pour survivre et l'emporter.\n\nLes Guérilleros Rebelles viennent de toute la galaxie et sont unis par leur opposition à la Sphère Intérieure, une puissante alliance de civilisations du cœur galactique. Incapables d'affronter cette puissance d'égal à égal, ils ont été contraints à la clandestinité ou à l'exil. Certains Rebelles ont désormais atteint le Secteur Sirius, à la recherche de ressources et d'alliés pour une lutte que la plupart jugent désespérée.",
+  "backgroundStory": "Là où beaucoup voient dans la Sphère Intérieure un havre de paix, de prospérité et de progrès dans une galaxie déchirée par les conflits, les Guérilleros Rebelles se définissent par leur opposition à cette puissance. Le mouvement trouve ses origines dans le secteur Mandar, tombé dans la guerre civile et l'effondrement à cause de groupes cherchant à faire sécession pour rejoindre la Sphère Intérieure.\n\nNombre d'habitants de Mandar rendirent le Conseil Galactique, qui gouvernait la Sphère Intérieure, responsable d'avoir soutenu et financé ces mouvements séparatistes. Ceux qui refusèrent d'accepter la paix imposée et l'intégration progressive à la Sphère Intérieure formèrent le mouvement des Guérilleros Rebelles, poursuivant le combat alors même que leurs anciennes factions s'étaient déjà effondrées. Ces Rebelles cherchèrent de nouveaux alliés au sein de la Sphère Intérieure et dans les secteurs voisins, organisant peu à peu une vaste coalition d'opposition.\n\nPeu nombreux et incapables de défier le Conseil Galactique à armes égales, les Guérilleros se dispersèrent à travers la galaxie, où leurs cellules secrètes s'efforcent inlassablement de miner l'influence du Conseil partout où elles le peuvent. Leur mouvement attire aussi bien des individus désabusés par la vie au sein de la Sphère Intérieure que des aventuriers audacieux et des mercenaires désireux de défier l'organisation la plus puissante de l'espace connu. Bien qu'ils manquent des infrastructures et de l'organisation des factions plus traditionnelles, ils peuvent puiser dans une grande diversité d'espèces, de tactiques et de technologies venues de toute la galaxie.\n\nPour ceux du Secteur Sirius, le conflit entre les Guérilleros Rebelles et le Conseil Galactique semble lointain, et peu nombreux sont ceux qui s'y sentent réellement impliqués. Pourtant, les technologies sophistiquées venues de Mandar et de la Sphère Intérieure ont attiré l'attention de plusieurs factions locales. Les Guérilleros n'ont aucun intérêt à renverser les régimes de Sirius, mais il leur arrive de s'impliquer dans des conflits locaux lorsqu'ils le jugent nécessaire. Parfois, ils servent comme mercenaires et alliés lorsque leurs intérêts convergent avec ceux d'une faction locale ; à d'autres moments, ils volent des technologies ou aident de potentielles recrues à faire défection ou à s'évader. Ils s'efforcent d'éviter toute escalade majeure, si bien que beaucoup dans Sirius n'imaginent même pas l'ampleur réelle de leur organisation.\n\nComment défieras-tu la plus grande puissance de la galaxie ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Guerrilla",
+      "keywords": [
+        "Guerrilla"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Tir perforant d'embuscade",
+      "keywords": [
+        "Ambushing Piercing Shot"
+      ]
+    },
+    {
+      "name": "Bonus de Courage",
+      "keywords": [
+        "Courage Buff"
+      ]
+    },
+    {
+      "name": "Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Marquage Perforant",
+      "keywords": [
+        "Piercing Tag"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Marque de Furie",
+      "keywords": [
+        "Furious Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost de guérilla",
+      "keywords": [
+        "Guerrilla Boost"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Marcheur",
+      "keywords": [
+        "Strider Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fléau au Tir",
+      "keywords": [
+        "Bane when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de perforant en mêlée",
+      "keywords": [
+        "Rending in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost de Guérilla",
+      "keywords": [
+        "Guerrilla Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Aura of Paix",
+      "cost": 1,
+      "keywords": [
+        "Aura of Peace"
+      ]
+    },
+    {
+      "name": "Mind Breaker",
+      "cost": 1,
+      "keywords": [
+        "Mind Breaker"
+      ]
+    },
+    {
+      "name": "Bad Omen",
+      "cost": 2,
+      "keywords": [
+        "Bad Omen"
+      ]
+    },
+    {
+      "name": "Wave of Discord",
+      "cost": 2,
+      "keywords": [
+        "Wave of Discord"
+      ]
+    },
+    {
+      "name": "Deep Meditation",
+      "cost": 3,
+      "keywords": [
+        "Deep Meditation"
+      ]
+    },
+    {
+      "name": "Piercing Pulse",
+      "cost": 3,
+      "keywords": [
+        "Piercing Pulse"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Simian Champion",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (6)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Massive Fist",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade any model with",
+          "options": [
+            {
+              "name": "Claw Gauntlets",
+              "details": "Fleau en mêlée",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Resistance Spirit",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Revolutionary",
+              "details": "Aura de Boost de Guérilla",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rebel Leader",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Guerrilla",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Leader Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Leader Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Shred Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Carbine",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pioneer Leader",
+              "details": "Embuscade, Contre-attaque",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Elites Leader",
+              "details": "Sans peur, Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spotter Leader",
+              "details": "Éclaireur, Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Rapide, Coriace (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bounty Hunter",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Revolutionary",
+              "details": "Aura de Boost de Guérilla",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Sergeant",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Psy-Monk",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rebels",
+      "size": 10,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Carbine",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to three Carbines",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Carbine",
+          "options": [
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rocket Launcher",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cluster-GL",
+              "details": "24\", A1, Precise, Laceration, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "24\", A1, PA (1), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spotting Beacon",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Carbine and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strikers",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Burst Gun",
+              "details": "6\", A2",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Pistols",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two CCWs",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spotters",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to three Carbines",
+          "options": [
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Sniper Rifle",
+          "options": [
+            {
+              "name": "Piercing Rifle",
+              "details": "30\", A1, PA (4), Mortel (3)",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Cluster Power Rifle",
+              "details": "30\", A1, PA (4), Precise, Laceration, Explosion (3)",
+              "cost": "+-15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spotting Beacon",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elites",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Carbine",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Carbines",
+          "options": [
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Carbine",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rocket Launcher",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Cluster-GL",
+              "details": "24\", A1, Precise, Laceration, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spotting Beacon",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Camo Cloaks",
+              "details": "Furtif",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Carbine and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pioneers",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Contre-attaque",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Shotgun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Shotgun",
+          "options": [
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tir perforant d'embuscade",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Simians",
+      "size": 3,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Coriace (3)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Fist",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade any model with",
+          "options": [
+            {
+              "name": "Claw Gauntlets",
+              "details": "Fleau en mêlée",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chelonians",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Wrist-Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Wrist-Blade",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Wrist-Flamer",
+          "options": [
+            {
+              "name": "Light Cluster-GL",
+              "details": "18\", A1, Precise, Laceration, Explosion (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bikers",
+      "size": 3,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Pistol",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all CCWs",
+          "options": [
+            {
+              "name": "Energy Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Burst Pistol",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Cluster-GL",
+              "details": "24\", A1, Precise, Laceration, Explosion (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Burst Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jeep",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rebel Radio",
+              "details": "Bonus de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plating",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Flamer",
+          "options": [
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rebel Assault",
+              "details": "Marque de Furie",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Extra Seats",
+              "details": "Transport (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spotting Beacon",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assault Vehicle",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Pintle-Machinegun",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Gatling Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rebel Radio",
+              "details": "Bonus de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plating",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Gatling Gun",
+          "options": [
+            {
+              "name": "Light Cluster Cannon",
+              "details": "30\", A1, Precise, Laceration, Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Light Battle Cannon",
+              "details": "24\", A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Cannon",
+              "details": "18\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Cannon",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Walker",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Guerrilla"
+      ],
+      "weapons": [
+        {
+          "name": "Super-Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rebel Radio",
+              "details": "Bonus de Courage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plating",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Super-Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Laser Machinegun",
+              "details": "30\", A6, PA (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rebel Assault",
+              "details": "Marque de Furie",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Dropship",
+      "size": 1,
+      "cost": 320,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Minigun",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Machinegun",
+          "options": [
+            {
+              "name": "Twin Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

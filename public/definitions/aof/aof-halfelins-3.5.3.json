@@ -1,0 +1,1390 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/0EXXlzFwAk3q1n5e?armyName=Halflings",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/0EXXlzFwAk3q1n5e?armyName=Halflings",
+  "sourceBookUid": "0EXXlzFwAk3q1n5e",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Halfelins",
+  "version": "3.5.3",
+  "introduction": "Les Halfelins sont de petits Humains, plus petits encore qu'un Nain typique. Ils ne disposent pas de l'armement lourd de certaines autres espèces et misent plutôt sur des usages ingénieux de la technologie, des animaux, ainsi que sur des pactes conclus avec des esprits et des golems.\n\nAprès avoir traversé de nombreux périls, ils forment un peuple déchiré entre deux façons de vivre qu'il peine désormais à concilier. Chassés de leurs paisibles terres agricoles par les Géants maraudeurs, ils ont fini, après des générations de lutte, par retrouver leur ancien foyer. Pourtant, beaucoup d'Halfelins se sentent désormais en décalage avec leurs traditions d'autrefois, préférant poursuivre leur antique vendetta contre les Géants.",
+  "backgroundStory": "Les Halfelins vivaient à l'origine au nord de la Steppe Occidentale, où leurs clans avaient bâti des villages et cultivé la terre en paix pendant de nombreux siècles. Tout changea lorsque les Géants apparurent et commencèrent à ravager leur patrie. Ils dévoraient bétail, récoltes et Halfelins sans vraiment prêter attention à la résistance dérisoire que les villages pouvaient opposer. Incapables de se défendre, les Halfelins évacuèrent leur terre natale en fuyant à travers un Portail du Vide caché. Ils espéraient revenir une fois le danger passé, mais découvrirent que les Géants avaient détruit le portail, les empêchant de retourner chez eux.\n\nLes Halfelins arrivèrent alors dans une région de collines rocheuses et de marais, bien peu adaptée à l'agriculture qui avait jadis façonné leur mode de vie. Ils y cultivèrent ce que la terre voulait bien leur offrir, faisant pousser champignons et plantes robustes, tout en complétant leur subsistance par la chasse et la pêche. Les débuts furent très difficiles, et beaucoup moururent de faim ou de froid.\n\nLes Halfelins rencontrèrent l'influence du Havoc dans le Nord avant la plupart des autres peuples. N'ayant plus aucun refuge où fuir, ils choisirent de défendre leur nouveau foyer, adaptant leurs anciens outils agricoles et leurs animaux au combat. Leur armée se révéla étonnamment versatile et ingénieuse malgré son apparence disparate. Beaucoup périrent durant la guerre, mais ceux qui survécurent devinrent des combattants chevronnés, spécialisés dans l'affrontement d'ennemis beaucoup plus grands qu'eux.\n\nUne fois les Guerres du Havoc achevées, de nombreux vétérans halfelins décidèrent de repartir vers le sud pour se venger des Géants. Ils traversèrent les terres dévastées par le Havoc jusqu'à retrouver leur ancienne patrie. La tribu de Géants qui avait détruit leur foyer avait depuis longtemps disparu, ou s'était peut-être éteinte, mais les Halfelins cherchèrent tout de même à combattre tous les autres Géants qu'ils croisaient. Installés à nouveau dans leur antique territoire, ils reconstruisirent l'ancien Portail du Vide. Les plus âgés reconnaissaient encore les ruines de leur passé, mais bien peu souhaitaient réellement s'y réinstaller. La plupart des Halfelins vivent désormais dans leur nouveau foyer du Nord, ne revenant dans leurs terres d'origine que pour y traquer les Géants.\n\nLe retour du Havoc offre aujourd'hui aux Halfelins un autre ennemi ancestral contre lequel éprouver leur valeur. Beaucoup de clans nourrissent encore des rancunes envers les responsables des morts de leurs ancêtres pendant les Guerres du Havoc, et brûlent d'envie de mesurer à nouveau leurs talents face à eux.\n\nComment régleras-tu les vieilles rancunes de ton peuple '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Chanceux",
+      "keywords": [
+        "Lucky"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Affaiblissement du moral",
+      "keywords": [
+        "Morale Debuff"
+      ]
+    },
+    {
+      "name": "Attaque Surprise",
+      "keywords": [
+        "Surprise Attack"
+      ]
+    },
+    {
+      "name": "Bon combattant",
+      "keywords": [
+        "Good Fighter"
+      ]
+    },
+    {
+      "name": "Perforant en mêlée",
+      "keywords": [
+        "Rending in Melee"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Vengeance",
+      "keywords": [
+        "Vengeance"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Renforcement Chanceux",
+      "keywords": [
+        "Lucky Boost"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Combattant de Precision",
+      "keywords": [
+        "Precision Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Perforation au tir",
+      "keywords": [
+        "Rending when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Teleportation",
+      "keywords": [
+        "Teleport Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Chanceux",
+      "keywords": [
+        "Lucky Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Chance des Anciens",
+      "cost": 1,
+      "keywords": [
+        "Luck of the Ancients"
+      ]
+    },
+    {
+      "name": "Esprit Purificateur",
+      "cost": 1,
+      "keywords": [
+        "Cleansing Spirit"
+      ]
+    },
+    {
+      "name": "Ombre Geante",
+      "cost": 2,
+      "keywords": [
+        "Giant Shadow"
+      ]
+    },
+    {
+      "name": "Esprit de Cauchemar",
+      "cost": 2,
+      "keywords": [
+        "Nightmare Spirit"
+      ]
+    },
+    {
+      "name": "Courage des Petits",
+      "cost": 3,
+      "keywords": [
+        "Shortling Courage"
+      ]
+    },
+    {
+      "name": "Esprit de la Foret Sombre",
+      "cost": 3,
+      "keywords": [
+        "Dark Forest Spirit"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Chanceux",
+        "Lent",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Grenades",
+              "details": "12\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Improvised Fireworks",
+              "details": "18\", A1, PA (1), Laceration, Explosion (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Volant, Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Goat",
+              "details": "Impact lourd (1), Vif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pig",
+              "details": "Impact (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dog",
+              "details": "Impact (1), Arpenteur, Vif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chicken",
+              "details": "Rapide, Impact (1), Vif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pig Chariot",
+              "details": "Claws, Armure (3), Impact (4), Vif, Coriace (6)",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Winged Hound",
+              "details": "Heavy Bite, Armure (3), Volant, Vif, Coriace (6)",
+              "cost": "+130pts"
+            },
+            {
+              "name": "Cockatrice",
+              "details": "Sharp Claws, Sharp Beak, Effrayant (1), Volant, Vif, Coriace (6)",
+              "cost": "+130pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Clover Bearer",
+              "details": "Aura de Renforcement Chanceux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Town Chief",
+              "details": "Aura de Combattant de Precision",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Feast Master",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Weaponsmith",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leader",
+      "size": 1,
+      "cost": 20,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Toxic Potions",
+              "details": "12\", A3, Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Brave Leader",
+              "details": "Sans peur, Furieux, Tueur en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Goat",
+              "details": "Impact lourd (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dog",
+              "details": "Impact (1), Arpenteur, Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Thief",
+              "details": "Furtif, Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pig",
+              "details": "Armure (4), Impact (1), Vif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chicken",
+              "details": "Rapide, Impact (1), Vif",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Butcher",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Clover Bearer",
+              "details": "Aura de Renforcement Chanceux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Feast Master",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Mystic",
+              "details": "Aura de Teleportation",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Weaponsmith",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Townfolk",
+      "size": 10,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Throw Stones",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Warriors",
+      "size": 10,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Kin Bond",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veterans",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Kin Bond",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Braves",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Tueur en mêlée",
+        "Lent",
+        "Sans peur",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Kin Bond",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drunks",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Sans peur",
+        "Chanceux",
+        "Régénération",
+        "Lent"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Improvised Fireworks",
+              "details": "18\", A1, PA (1), Laceration, Explosion (3)",
+              "cost": "+105pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thieves",
+      "size": 3,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon combattant",
+        "Lent",
+        "Furtif",
+        "Arpenteur",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Improvised Fireworks",
+              "details": "18\", A1, PA (1), Laceration, Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Shortling Ambush",
+              "details": "Attaque Surprise (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Hired Killer",
+              "details": "Frappe de mise à terre",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marksmen",
+      "size": 5,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Shortbows",
+          "options": [
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Kin Bond",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast Riders",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Shortbow",
+              "details": "18\", A1",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dog Mounts",
+          "options": [
+            {
+              "name": "Pig Mount",
+              "details": "Armure (4), Impact (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chicken Mount",
+              "details": "Rapide, Impact (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Goat Mount",
+              "details": "Impact lourd (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golems",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Arpenteur",
+        "Coriace (3)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Fist",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rock Breeds",
+          "options": [
+            {
+              "name": "Tree Breed",
+              "details": "Fleau en mêlée, Éclaireur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Ice Breed",
+              "details": "Esquive en mêlée, Perforant en mêlée",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetpack Troopers",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Grenades",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Fists",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Grenades",
+          "options": [
+            {
+              "name": "Improvised Fireworks",
+              "details": "18\", A1, PA (1), Laceration, Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Troll Riders",
+      "size": 3,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Coriace (3)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Gunner",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Zeppelins",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Drop Bombs",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Cockatrice",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Beak",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Sharp Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Sharp Beak and Sharp Claws",
+          "options": [
+            {
+              "name": "Sharp Beak",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast Chariot",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Shortbow Crew",
+              "details": "18\", A6",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Draft Goat",
+          "options": [
+            {
+              "name": "Draft Chicken",
+              "details": "Rapide, Impact (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Draft Pigs",
+              "details": "Armure (2), Impact (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Draft Dogs",
+              "details": "Impact (4), Éclaireur, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Terrifying Fireworks",
+              "details": "Affaiblissement du moral",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harvester",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Impact (6)",
+        "Régénération",
+        "Coriace (6)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Whirling Blades",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Terrifying Fireworks",
+              "details": "Affaiblissement du moral",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Pig",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Impact (6)",
+        "Coriace (9)",
+        "Chanceux"
+      ],
+      "weapons": [
+        {
+          "name": "Improvised Fireworks",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Laceration"
+        },
+        {
+          "name": "Smasher Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Blade Tusks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Halfling Artillery",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Chanceux",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Volley Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Volley Gun",
+          "options": [
+            {
+              "name": "Rocket Battery",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt Thrower",
+              "details": "36\", A1, PA (3), Mortel (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Hot Pot",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect, Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Howitzer",
+              "details": "36\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

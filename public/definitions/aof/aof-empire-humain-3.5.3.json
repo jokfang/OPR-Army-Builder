@@ -1,0 +1,1590 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/jZ02AVPLx_S48Mnb?armyName=Human+Empire",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/jZ02AVPLx_S48Mnb?armyName=Human+Empire",
+  "sourceBookUid": "jZ02AVPLx_S48Mnb",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Empire Humain",
+  "version": "3.5.3",
+  "introduction": "Puissant empire développé au cœur de Tyria, l'Empire Humain aligne toutes sortes d'infanterie, de cavalerie, d'unités de tir et même quelques bêtes monstrueuses. Ses armées sont très variées, mais elles manquent de la spécialisation propre à d'autres factions.\n\nAutrefois phare d'unité et de stabilité, l'Ancien Empire s'effondra lorsque ses deux derniers héritiers se battirent pour s'en emparer. Aujourd'hui, les villes survivantes doivent se reconstruire dans l'ombre de leur ancienne grandeur. Le nouvel Empire Humain est fragile, fondé sur une coalition de guildes et de nobles, et seul l'avenir dira s'il pourra réellement durer.",
+  "backgroundStory": "Les Humains se répandirent à travers Tyria après avoir développé l'agriculture et le travail du métal. Plusieurs cités émergèrent et se disputèrent la domination politique jusqu'à ce qu'une seule finisse par l'emporter, grâce à la conquête et aux alliances. Ce réseau d'alliances et de vassalités devint la base de l'Ancien Empire, au sein duquel l'Empereur régnait depuis la Capitale, soutenu par un conseil de Grandes Maisons. Cet Empire apporta paix et prospérité aux Midlands, favorisant l'innovation et l'expansion, jusqu'à ce que la plupart des colonies humaines soient réunies sous son autorité.\n\nL'Empire connut sa plus grande épreuve lors des Guerres du Havoc. À la veille de sa plus terrible défaite, la Guilde des Magiciens et ses alliés renversèrent la situation en sacrifiant leur vie pour sceller les Dieux du Havoc dans l'Orbe du Destin. Une ère de paix et de prospérité suivit, et l'Orbe ainsi que la Couronne Impériale devinrent des symboles de paix et d'autorité impériale. Pourtant, les Empereurs ne retrouvèrent jamais pleinement leur ancienne puissance, car l'Empire s'appuya de plus en plus sur des souverains locaux, maintenus ensemble par une diplomatie prudente et le charisme personnel des Empereurs successifs. Cette époque prit fin brutalement avec l'ouverture de la Grande Faille.\n\nLorsque les jumeaux héritiers du dernier Empereur détruisirent l'Orbe au cours d'un conflit de succession, ils libérèrent les Dieux du Havoc captifs, et la déferlante d'énergie arcanique qui s'ensuivit ravagea une grande partie de Tyria. La Capitale, la famille impériale et une grande partie de la classe dirigeante furent détruites presque instantanément. Plusieurs provinces périphériques firent sécession, tandis que les cités et villages du cœur impérial se retrouvèrent sans direction. Le risque d'un chaos total était immense.\n\nDes marchands locaux et diverses guildes prirent alors en main le maintien de l'ordre dans nombre de villes dont les seigneurs étaient morts. Ces villes se proclamèrent Cités Libres. D'autres tombèrent sous l'influence de la Guilde des Magiciens, toujours respectée pour son rôle durant les Guerres du Havoc. À contrecœur, les nobles reconnurent dans certaines villes l'autorité de diverses guildes, dont la Guilde des Magiciens ; ailleurs, les guildes acceptèrent de partager le pouvoir avec la noblesse survivante.\n\nEnsemble, ces cités formèrent un nouveau sénat chargé de gouverner ce qu'il restait de l'Empire Humain. Il fut décidé qu'un Intendant serait élu pour diriger l'Empire jusqu'à la restauration de l'Orbe et la nomination d'un nouvel Empereur. Les Intendants sont choisis parmi des candidats nobles ou des individus possédant une trace de sang impérial, à condition qu'ils renoncent à tous leurs autres titres et loyautés au profit de l'Empire seul.\n\nComment reforgeras-tu l'Empire '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Tenir la Ligne",
+      "keywords": [
+        "Hold the Line"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Bonus de Defense",
+      "keywords": [
+        "Defense Buff"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Coordination",
+      "keywords": [
+        "Coordinate"
+      ]
+    },
+    {
+      "name": "Portee de Bonus Etendue",
+      "keywords": [
+        "Extended Buff Range"
+      ]
+    },
+    {
+      "name": "Bonus de Rush Rapide",
+      "keywords": [
+        "Rapid Rush Buff"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Agile",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Bonus de Tireur précis",
+      "keywords": [
+        "Precision Shooter Buff"
+      ]
+    },
+    {
+      "name": "Marque de Precision en mêlée",
+      "keywords": [
+        "Precision Fighting Mark"
+      ]
+    },
+    {
+      "name": "Bonus de Furieux",
+      "keywords": [
+        "Furious Buff"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Bonus de Renforcement Tenir la Ligne",
+      "keywords": [
+        "Hold the Line Boost Buff"
+      ]
+    },
+    {
+      "name": "Groupe de Lanceurs",
+      "keywords": [
+        "Caster Group"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Rush"
+      ]
+    },
+    {
+      "name": "Renforcement Tenir la Ligne",
+      "keywords": [
+        "Hold the Line Boost"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Aura d'Heroisme",
+      "cost": 1,
+      "keywords": [
+        "Aura of Heroism"
+      ]
+    },
+    {
+      "name": "Boule de Feu",
+      "cost": 1,
+      "keywords": [
+        "Fire Ball"
+      ]
+    },
+    {
+      "name": "Ciblage Magique",
+      "cost": 2,
+      "keywords": [
+        "Magic Targeting"
+      ]
+    },
+    {
+      "name": "Malefice de Sang",
+      "cost": 2,
+      "keywords": [
+        "Blood Hex"
+      ]
+    },
+    {
+      "name": "Forme Elementaire",
+      "cost": 3,
+      "keywords": [
+        "Elemental Form"
+      ]
+    },
+    {
+      "name": "Siphon d'Esprit",
+      "cost": 3,
+      "keywords": [
+        "Spirit Leech"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Battle Master",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Firepowder Pistols",
+              "details": "9\", A2, Fissure",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Handbow",
+              "details": "12\", A2, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pet Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pegasus",
+              "details": "Hooves, Rapide, Volant, Impact (2), Coriace (3)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Griffon",
+              "details": "Perforant Claws, Stomp, Armure (3), Effrayant (2), Volant, Coriace (9)",
+              "cost": "+210pts"
+            },
+            {
+              "name": "Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+275pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Great Empire Icon Bearer",
+              "details": "Bonus de Renforcement Tenir la Ligne",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cleric",
+              "details": "Bonus de Furieux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bounty Hunter",
+              "details": "Marque de Precision en mêlée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Bonus de Rush Rapide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Logistics Officer",
+              "details": "Bonus de Tireur précis",
+              "cost": "+35pts"
+            },
+            {
+              "name": "General",
+              "details": "Coordination",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Gatling Pistol",
+              "details": "9\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gatling Rifle",
+              "details": "18\", A4, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Robo-Skeleton Horse",
+              "details": "Bond, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pet Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Robot Hulk",
+              "details": "Great Weapon, Armure (4), Coriace (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Cleric",
+              "details": "Bonus de Furieux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Bonus de Rush Rapide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Surgeon",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Logistics Officer",
+              "details": "Bonus de Tireur précis",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Battle Mage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Battle Mage",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mage Council",
+      "size": 5,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Groupe de Lanceurs",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Staff",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Infantrymen",
+      "size": 10,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fanatics",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mercenaries",
+      "size": 5,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Firepowder Pistol",
+          "range": "9\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Firepowder Pistols and Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "Free"
+            },
+            {
+              "name": "Pistol",
+              "details": "9\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Firepowder Pistols",
+              "details": "9\", A2, Fissure",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Weapon Masters",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunting Hounds",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agile",
+        "Tenir la Ligne",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Frenzied Bites",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Frenzied Bites",
+          "options": [
+            {
+              "name": "Heavy Bites",
+              "details": "A1, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Trailblazer Dog Handler",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marksmen",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Firepowder Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Firepowder Rifles",
+          "options": [
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Firepowder Rifle",
+          "options": [
+            {
+              "name": "Twin Firepowder Pistols",
+              "details": "9\", A2, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Twin Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Gatling Rifle",
+              "details": "18\", A4, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mercenary Hunters",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Horse Marksmen",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Tenir la Ligne",
+        "Avant-garde"
+      ],
+      "weapons": [
+        {
+          "name": "Firepowder Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Firepowder Rifles",
+          "options": [
+            {
+              "name": "Twin Firepowder Pistols",
+              "details": "9\", A2, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Rifle",
+              "details": "18\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Firepowder Rifle",
+          "options": [
+            {
+              "name": "Twin Gatling Pistol",
+              "details": "9\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Gatling Rifle",
+              "details": "18\", A4, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knights",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guard Knights",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Message Runner",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gryph Riders",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Wagon of Earth",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [],
+      "upgrades": [
+        {
+          "type": "Replace Extra Space",
+          "options": [
+            {
+              "name": "Spear Crew",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Crossbow Crew",
+              "details": "24\", A6, Perforant",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Empire Bounty",
+              "details": "Marque de Precision en mêlée",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hurricane Wagon of Air",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Summon Storm",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Beamer Wagon of Fire",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Searing Beam",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Altar Wagon of Aether",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Banishing Aether",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Steam Tank of Water",
+      "size": 1,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Impact (6)",
+        "Coriace (9)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Tank Cannon",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Turret Gunner",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Tank Cannon",
+          "options": [
+            {
+              "name": "Heavy Tank Cannon",
+              "details": "18\", A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Empire Artillery",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Tenir la Ligne",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Firepowder Volley Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Firepowder Volley Gun",
+          "options": [
+            {
+              "name": "Volley Gun",
+              "details": "18\", A6, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cannon",
+              "details": "30\", A2, PA (1), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rocket Battery",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Cannon",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Mortar",
+              "details": "36\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elemental Titan",
+      "size": 1,
+      "cost": 640,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Aether Elemental",
+          "options": [
+            {
+              "name": "Fire Elemental",
+              "details": "Attaque de souffle, Bonus de Defense",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Earth Elemental",
+              "details": "Renforcé, Heavy Claws",
+              "cost": "+135pts"
+            },
+            {
+              "name": "Air Elemental",
+              "details": "Volant, Bonus de Combattant precis",
+              "cost": "+120pts"
+            },
+            {
+              "name": "Water Elemental",
+              "details": "Guérison, Résistance",
+              "cost": "+155pts"
+            },
+            {
+              "name": "Elemental Chimera",
+              "details": "Attaque de souffle, Volant, Renforcé, Furieux, Résistance",
+              "cost": "+170pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

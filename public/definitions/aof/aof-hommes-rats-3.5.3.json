@@ -1,0 +1,1621 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/tOWt5fgqK2nfpoBN?armyName=Ratmen",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/tOWt5fgqK2nfpoBN?armyName=Ratmen",
+  "sourceBookUid": "tOWt5fgqK2nfpoBN",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Hommes-Rats",
+  "version": "3.5.3",
+  "introduction": "Les Hommes-Rats sont de petits humanoïdes étroitement apparentés aux rats. Faibles individuellement, ils s'appuient sur le nombre, sur des bêtes dopées au sérum de croissance et sur d'ingénieuses machines de guerre.\n\nIls apparurent d'abord dans les réseaux d'égouts situés sous les plus grandes cités de l'Ancien Empire, mais furent perçus comme des abominations par les Humains et rapidement chassés. Confrontés à mille périls et à bien peu d'amis, les Hommes-Rats sont devenus des guerriers fanatiques et de redoutables tacticiens, vivant souvent comme un rempart face à la société qui les a rejetés.",
+  "backgroundStory": "Les Hommes-Rats n'apparurent qu'après que l'humanité et ses cités se furent largement répandues à travers Tyria. On ignore presque tout des raisons de leur existence ou de la manière dont ils vinrent au monde, mais ils émergèrent des égouts situés sous les villes humaines. Lorsque leur présence fut découverte, les Humains les considérèrent comme des abominations et les chassèrent hors des cités. Les survivants cherchèrent refuge dans les terres voisines, mais aucun peuple n'accepta de les accueillir.\n\nLes Hommes-Rats finirent par trouver un nouveau foyer dans une région particulièrement dévastée pendant les Guerres du Havoc. Dans les Terres du Nord, les Guerriers du Havoc survivants continuaient de piller et ravager, tandis que les habitants humains d'origine s'étaient pour la plupart repliés vers les régions plus sûres du sud. Les Hommes-Rats s'installèrent dans ces terres en grande partie abandonnées, et leur nombre augmenta rapidement à mesure qu'ils reconquéraient des territoires laissés stériles par des années de guerre brutale. Ils édifièrent vite de puissantes villes fortifiées, conçues pour résister aux pillards et à quiconque tenterait de leur arracher leur terre.\n\nPendant un temps, les Hommes-Rats prospérèrent grâce à leur labeur acharné et aux riches ressources naturelles de la région. Leur société se développa rapidement. Au sein de leurs immenses cités, ils s'organisèrent en guildes, chacune spécialisée dans un domaine utile au bien commun, et leurs villes furent gouvernées par des commissions composées des maîtres des principales guildes. Pourtant, à mesure que Tyria se relevait des Guerres du Havoc, leurs terres subirent une pression croissante de la part de voisins désireux de les reprendre, forçant les Hommes-Rats à endurer des sièges constants et une guerre permanente pour défendre leur foyer.\n\nL'ouverture de la Faille porta un coup fatal à leur ancienne société. Elle traversa plusieurs cités, détruisit leurs murailles, tandis que les forces du Havoc se rassemblaient dans le nord. La panique se répandit et les guildes commencèrent bientôt à s'affronter entre elles.\n\nAlors que les armées du Havoc approchaient et que tout espoir semblait perdu, un miracle se produisit. Une figure divine, sous l'apparence d'une immense rate, apparut dans le ciel et anéantit l'armée ennemie. Les survivants renoncèrent à leurs querelles et se réunifièrent pour combattre au nom de leur mystérieuse nouvelle Déesse, donnant naissance à un culte qui s'est désormais insinué dans chaque aspect de leur société. Ses disciples murmurent aux oreilles des maîtres de guildes ; beaucoup la voient comme une sauveuse, tandis que d'autres la considèrent comme une menace pour leurs positions encore fragiles.\n\nComment serviras-tu les Guildes et la Mère-Dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Detale",
+      "keywords": [
+        "Scurry"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Dangereux",
+      "keywords": [
+        "Hazardous"
+      ]
+    },
+    {
+      "name": "Reajustement Rapide",
+      "keywords": [
+        "Quick Readjustment"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Renfort",
+      "keywords": [
+        "Reinforcement"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Defense",
+      "keywords": [
+        "Defense Debuff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Renforcement de Detale",
+      "keywords": [
+        "Scurry Boost"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Combattant de Precision",
+      "keywords": [
+        "Precision Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Evasion",
+      "keywords": [
+        "Evasive Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fléau au Tir",
+      "keywords": [
+        "Bane when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement de Detale",
+      "keywords": [
+        "Scurry Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Pas-Fourbe Magique",
+      "cost": 1,
+      "keywords": [
+        "Magic Skitter-Step"
+      ]
+    },
+    {
+      "name": "Frappe Celeste",
+      "cost": 1,
+      "keywords": [
+        "Heavenly Strike"
+      ]
+    },
+    {
+      "name": "Frenesie de la Deesse-Mere",
+      "cost": 2,
+      "keywords": [
+        "God-Mother's Frenzy"
+      ]
+    },
+    {
+      "name": "Brouillard d'Encensoir Suffocant",
+      "cost": 2,
+      "keywords": [
+        "Choking Censer-Fog"
+      ]
+    },
+    {
+      "name": "Carillon de Cloche Fissuree",
+      "cost": 3,
+      "keywords": [
+        "Cracking Bell-Chime"
+      ]
+    },
+    {
+      "name": "Explosion Foudroyante",
+      "cost": 3,
+      "keywords": [
+        "Lightning Blast"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Battle Master",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pet Giant Rat",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Scout Master",
+              "details": "Éclaireur, Furtif, Arpenteur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rat Ogre",
+              "details": "Heavy Claws, Furieux, Coriace (3)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "War Beast",
+              "details": "Rapide, Coriace (3), Claws",
+              "cost": "+65pts"
+            },
+            {
+              "name": "War Throne",
+              "details": "Crew Attacks, Affaiblissement de Defense, Coriace (3)",
+              "cost": "+105pts"
+            },
+            {
+              "name": "Great Beast",
+              "details": "Perforant Claws, Armure (3), Rapide, Effrayant (1), Arpenteur, Coriace (6)",
+              "cost": "+175pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Combattant de Precision",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Drill Engineer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Censer Flail",
+              "details": "A3, PA (1), Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Toxin Pistol",
+              "details": "9\", A2, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Overtuned Carbine",
+              "details": "18\", A1, Dangereux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Overtuned Pistol",
+              "details": "12\", A2, Dangereux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Toxin Carbine",
+              "details": "18\", A2, Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Overtuned Rocket Launcher",
+              "details": "18\", A1, Explosion (3), Indirect, Dangereux",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Overtuned Sniper Rifle",
+              "details": "24\", A1, Dangereux, Fiable, Élimination",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Pet Giant Rat",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "God-Mother's Envoy",
+              "details": "Aura de Renforcement de Detale",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Drill Engineer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Priest",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Priest",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Militia",
+      "size": 10,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Sling",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Horde of Rats",
+              "details": "Renfort",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Hand Weapon",
+          "options": [
+            {
+              "name": "Weapon Team",
+              "details": "Heavy Drill, Crew, Coriace (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Flamethrower, Crew, Coriace (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Toxin Mortar, Crew, Coriace (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Gatling Gun, Crew, Coriace (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Death Roller, Crew, Coriace (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Overtuned Gatling Gun, Crew, Coriace (3)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weapon Teams",
+      "size": 3,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Drill",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Drill",
+          "options": [
+            {
+              "name": "Flamethrower",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "Free"
+            },
+            {
+              "name": "Death Roller",
+              "details": "A3, PA (2), Percée",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Toxin Mortar",
+              "details": "24\", A1, Explosion (3), Fléau, Indirect",
+              "cost": "Free"
+            },
+            {
+              "name": "Gatling Gun",
+              "details": "18\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Overtuned Gatling Gun",
+              "details": "18\", A4, Dangereux",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grenadiers",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Reajustement Rapide",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Bombs",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Indirect, Fléau"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Toxin Bombs",
+          "options": [
+            {
+              "name": "Fire Bombs",
+              "details": "12\", A2, PA (1), Indirect",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Overtuned Bombs",
+              "details": "12\", A2, Dangereux, Indirect",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monks",
+      "size": 5,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Censer Flail",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Censer Flails",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Veterans",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Halberds",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Scouts",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Throwing Knives",
+              "details": "6\", A1, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Smoke Bombs",
+              "details": "Aura d'Evasion",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Sniper Rifles",
+          "options": [
+            {
+              "name": "Overtuned Sniper Rifle",
+              "details": "24\", A1, Dangereux, Fiable, Élimination",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Pavise Shield",
+              "details": "Blindé, Lent",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rat Swarms",
+      "size": 3,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Rat Master",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Rat Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Horde of Rats",
+              "details": "Renfort",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Rats",
+      "size": 10,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Rapide",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Rat Master",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Rat Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Horde of Rats",
+              "details": "Renfort",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rat Ogres",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Pathfinder Rat Master",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Rat Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Rending Claws",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Ogres",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Flame-Fists",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Flame-Fist and Bash",
+          "options": [
+            {
+              "name": "Drill-Fists",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shock-Fists",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Mortar-Fist",
+              "details": "24\", A1, Explosion (3), Indirect, Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gatling-Fist",
+              "details": "18\", A4, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Overtuned Gatling-Fists",
+              "details": "18\", A4, Dangereux",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Roller-Fists",
+              "details": "A4, PA (2), Percée",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Beast",
+      "size": 1,
+      "cost": 265,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Régénération",
+        "Coriace (12)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Claw",
+          "range": "-",
+          "attacks": "A10",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Captain Rider",
+              "details": "Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blessed Platform",
+      "size": 1,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Furieux",
+        "Detale",
+        "Coriace (9)"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Giant Censer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Giant Censer and Crew Attack",
+          "options": [
+            {
+              "name": "Great Bell",
+              "details": "18\", A3, Explosion (3), Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Crew Attacks",
+              "details": "A9",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rat Ogre Champion",
+              "details": "A9, PA (2)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Preacher",
+              "details": "Résistance",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spotter Rat",
+              "details": "Affaiblissement de Defense",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Death Roller",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Sans peur",
+        "Coriace (6)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Gatling Guns",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Gatling Guns and Heavy Wheels",
+          "options": [
+            {
+              "name": "Twin Flamethrower",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Overtuned Gatling Guns",
+              "details": "18\", A6, Dangereux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bladed Wheels",
+              "details": "Impact lourd (8)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Spotter Rat",
+              "details": "Affaiblissement de Defense",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ratmen Artillery",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Overtuned Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Mortel (6), Dangereux"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Overtuned Cannon",
+          "options": [
+            {
+              "name": "Heavy Gatling Gun",
+              "details": "18\", A6, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Overtuned Gatling Gun",
+              "details": "18\", A6, Dangereux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Toxin Catapult",
+              "details": "30\", A2, Explosion (3), Fléau, Indirect",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Cannon",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Blessed Beast",
+      "size": 1,
+      "cost": 655,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Effrayant (3)",
+        "Sans peur",
+        "Coriace (18)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Claws",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Giant Rat Ogre",
+          "options": [
+            {
+              "name": "Giant Otter",
+              "details": "Éclaireur, Conduit de Sort, Arpenteur",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "God-Titan",
+      "size": 1,
+      "cost": 830,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (4)",
+        "Effrayant (3)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Sans peur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Brother Hepalit",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Knife & Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Captain Kedseit",
+      "size": 1,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Havocfall",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Getrie Veikasip",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Detale",
+        "Unique",
+        "Reajustement Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Artificer Bombs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect, Perforant"
+        },
+        {
+          "name": "Overtuned Halberd",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Dangereux"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

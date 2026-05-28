@@ -1,0 +1,3081 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/w7qor7b2kuifcyvk?armyName=Alien+Hives",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/w7qor7b2kuifcyvk?armyName=Alien+Hives",
+  "sourceBookUid": "w7qor7b2kuifcyvk",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Ruches Alien",
+  "version": "3.5.3",
+  "introduction": "Les Ruches Alien sont une faction d'extraterrestres utilisant la biotechnologie, composée d'une grande variété de sous-espèces venues des frontières lointaines de la galaxie, dans l'espoir de recréer la Mère qui les a façonnées.\n\nLors de leur première arrivée, elles furent vues comme des envahisseurs monstrueux, mais après une longue guerre d'extermination, des avancées dans la communication permirent d'établir une paix fragile. Désormais, les Ruches doivent composer avec l'héritage de la Guerre du Premier Contact et décider de la manière dont elles entendent évoluer.",
+  "backgroundStory": "Nées sur le monde fertile mais instable connu sous le nom d'Ar'khenos, les Ruches Alien sont formées d'espèces spécialisées pour survivre au cycle incessant d'extinction frappant leur planète. Ce cycle ne prit fin que lorsqu'une entité qu'elles appelèrent la Mère développa un moyen de transmettre ses souvenirs aux différentes espèces d'Ar'khenos.\n\nCes espèces vécurent ensemble en harmonie sous sa conduite durant des milliers d'années, dans une période appelée l'Éternelle Floraison. Tout changea brutalement lorsque la Mère mourut. Les détails traumatiques de cet événement se sont largement perdus avec le temps, mais avant de disparaître, elle offrit un dernier don aux espèces d'Ar'khenos : sept créatures colossales capables de voyager dans l'espace, chacune portant l'un de ses descendants génétiques. Ces créatures spatiales furent connues sous le nom de Vaisseaux-Ruches, et sa descendance sous celui des Enfants.\n\nLes Ruchiers parcoururent les Frontières à la recherche d'un monde où l'un des Enfants pourrait grandir et remplacer leur Mère disparue, mais avec peu de succès. Après des siècles d'efforts infructueux au-delà des limites de l'espace cartographié, leurs espoirs furent ravivés par la lointaine Cascade de Radiance, qui faisait écho aux derniers cris de la Mère dans leurs mémoires ancestrales. De nombreux Vaisseaux-Ruches mirent le cap sur le Secteur Sirius. Leur arrivée déclencha une série de conflits avec les factions locales, connus sous le nom de Guerres du Premier Contact, car la communication s'avéra difficile et beaucoup prirent les Ruches pour des ennemis à cause de leur apparence et de leur nature alien. Les Ruchiers se retrouvèrent bientôt enfermés dans une guerre d'extermination avec les différentes espèces de Sirius, qui ne prit fin que lorsque l'Union DAO découvrit un moyen de communiquer avec eux.\n\nLa paix apporta toutefois son lot de difficultés. Les Ruches Alien se retrouvèrent confrontées à de nouvelles idées et valeurs qui remettaient en cause la structure de leur société. Elles s'efforcent désormais de se tenir sur un pied d'égalité avec les autres espèces du Secteur Sirius, de protéger leurs routes migratoires et de défendre les mondes qu'elles ont ensemencés. Certaines castes inférieures réclament désormais de nouveaux droits, sapant le fonctionnement harmonieux de leurs Vaisseaux-Ruches, tandis que certains Seigneurs-Ruches poursuivent une longue guerre contre toutes les espèces de Sirius, craignant que l'influence corruptrice des étrangers ne finisse par détruire totalement leur mode de vie.\n\nComment ta Ruche s'adaptera-t-elle ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lien de ruche",
+      "keywords": [
+        "Hive Bond"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Croissance perforante",
+      "keywords": [
+        "Piercing Growth"
+      ]
+    },
+    {
+      "name": "Portée de tir accrue",
+      "keywords": [
+        "Increased Shooting Range"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Force Regenerative",
+      "keywords": [
+        "Regenerative Strength"
+      ]
+    },
+    {
+      "name": "Combattant Predateur",
+      "keywords": [
+        "Predator Fighter"
+      ]
+    },
+    {
+      "name": "Riposte",
+      "keywords": [
+        "Retaliate"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Charge"
+      ]
+    },
+    {
+      "name": "Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee"
+      ]
+    },
+    {
+      "name": "Auto-Destruction",
+      "keywords": [
+        "Self-Destruct"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Bonus de Furtivite",
+      "keywords": [
+        "Stealth Buff"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Bonus de Furieux",
+      "keywords": [
+        "Furious Buff"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Attaque Surprise",
+      "keywords": [
+        "Surprise Attack"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Marquage Perforant",
+      "keywords": [
+        "Piercing Tag"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Precision",
+      "keywords": [
+        "Precision Debuff"
+      ]
+    },
+    {
+      "name": "Groupe de Lanceurs",
+      "keywords": [
+        "Caster Group"
+      ]
+    },
+    {
+      "name": "Marque de Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Mark"
+      ]
+    },
+    {
+      "name": "Boost du Lien de ruche",
+      "keywords": [
+        "Hive Bond Boost"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Combattant Frappe et Repli",
+      "keywords": [
+        "Hit & Run Fighter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du lien de ruche",
+      "keywords": [
+        "Hive Bond Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Animate Esprit",
+      "cost": 1,
+      "keywords": [
+        "Animate Spirit"
+      ]
+    },
+    {
+      "name": "Overwhelming Frappe",
+      "cost": 1,
+      "keywords": [
+        "Overwhelming Strike"
+      ]
+    },
+    {
+      "name": "Infuse Sangthirst",
+      "cost": 2,
+      "keywords": [
+        "Infuse Bloodthirst"
+      ]
+    },
+    {
+      "name": "Psychic Explosion",
+      "cost": 2,
+      "keywords": [
+        "Psychic Blast"
+      ]
+    },
+    {
+      "name": "Terror Seeker",
+      "cost": 3,
+      "keywords": [
+        "Terror Seeker"
+      ]
+    },
+    {
+      "name": "Hive Shriek",
+      "cost": 3,
+      "keywords": [
+        "Hive Shriek"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Hive Lord",
+      "size": 1,
+      "cost": 360,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Héros",
+        "Lien de ruche",
+        "Coriace (12)"
+      ],
+      "weapons": [
+        {
+          "name": "Shredder Cannon",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Razor Claw",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Blade",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A3, Fléau, Precise",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A3, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Shredder Cannon",
+          "options": [
+            {
+              "name": "2x Heavy Razor Claws",
+              "details": "A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spitter Cannon",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Barb Cannon",
+              "details": "36\", A1, PA (2), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Smashing Club",
+              "details": "A2, PA (2), Explosion (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Piercing Spike",
+              "details": "A2, PA (2), Mortel (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Ravager Cannon",
+              "details": "18\", A6, PA (1), Destructeur",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Heavy Slashing Blade",
+              "details": "A6, PA (1), Perforant, Fiable",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Acid Cannon",
+              "details": "36\", A1, PA (2), Mortel (6), Inarrêtable",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Heavy Serrated Blade",
+              "details": "A6, PA (4), Fiable",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Bio-Engineer",
+              "details": "Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Tech Master",
+              "details": "Portée de tir accrue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Brood Leader",
+              "details": "Charge rapide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hive Protector",
+              "details": "Régénération",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Psychic Synapses",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prime Warrior",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Heavy Razor Claws",
+          "options": [
+            {
+              "name": "Shredder Gun",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spitter Gun",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Spine Guns",
+              "details": "12\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Ravager Gun",
+              "details": "18\", A3, PA (1), Destructeur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Barb Gun",
+              "details": "30\", A1, PA (2), Explosion (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Acid Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Razor Claw",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Blade",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A4, Fléau, Precise",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pheromone Host",
+              "details": "Aura de Boost du lien de ruche",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Bio-Engineer",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Brood Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bio-Tech Master",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Psychic Synapses",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snatcher Lord",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Bio-Engineer",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Brood Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hive Protector",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psychic Synapses",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Adrenaline Fueled",
+          "options": [
+            {
+              "name": "Patient Stalker",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grunt Veteran",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Razor Claw",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (1), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Blade",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Veteran Bio-Spiner",
+              "details": "6\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Veteran Bio-Borer",
+              "details": "12\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Veteran Bio-Ravager",
+              "details": "18\", A2, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Winged Breed",
+              "details": "Embuscade, Volant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Psycho Breed",
+              "details": "Résistance",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Toxin Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Bio-Engineer",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Brood Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hive Protector",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Bio-Tech Master",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assault Grunts",
+      "size": 10,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Toxic Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Claws",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Claws",
+              "details": "A1, PA (1), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Claws",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Serrated Claws",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooter Grunts",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Bio-Spiner",
+          "range": "6\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Toxic Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bio-Spiners",
+          "options": [
+            {
+              "name": "Bio-Borer",
+              "details": "12\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bio-Ravager",
+              "details": "18\", A1, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Bio-Spiners",
+          "options": [
+            {
+              "name": "Bio-Plasma",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Fuser",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Shredder",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Flamer",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Spiker",
+              "details": "18\", A1, PA (1), Élimination, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psycho-Grunts",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Résistance",
+        "Arpenteur",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Toxic Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Synaptic Relay",
+              "details": "Conduit de Sort",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winged Grunts",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Bio-Spiner",
+          "range": "6\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Bio-Spiners",
+          "options": [
+            {
+              "name": "Bio-Borer",
+              "details": "12\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bio-Ravager",
+              "details": "18\", A1, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Bio-Spiners",
+          "options": [
+            {
+              "name": "Bio-Plasma",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Fuser",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Shredder",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Flamer",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bio-Spiker",
+              "details": "18\", A1, PA (1), Élimination, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Toxic Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Aerial Drop",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Grunts",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Arpenteur",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Bio-Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect, Perforant"
+        },
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Adrenaline Fueled",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Toxic Cysts",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Mutations",
+              "details": "Croissance perforante",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bio-Cannons",
+          "options": [
+            {
+              "name": "Ravager Bio-Cannon",
+              "details": "24\", A3, Indirect, Destructeur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul-Snatchers",
+      "size": 5,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Adrenaline Fueleds",
+          "options": [
+            {
+              "name": "Patient Stalker",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Mind Snatcher",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hive Swarms",
+      "size": 3,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Spine Shooter",
+              "details": "12\", A4, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hive Warriors",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Razor Claws",
+          "options": [
+            {
+              "name": "Slashing Blade",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A2, Fléau, Precise",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may replace one Razor Claws",
+          "options": [
+            {
+              "name": "Ravager Gun",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spitter Gun",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Spine Guns",
+              "details": "12\", A4, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Ravager Gun",
+          "options": [
+            {
+              "name": "Shredder Gun",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Ravager Gun",
+              "details": "18\", A3, PA (1), Destructeur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Barb Gun",
+              "details": "30\", A1, PA (2), Explosion (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Acid Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ravenous Beasts",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Razor Claws",
+          "options": [
+            {
+              "name": "Slashing Blade",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A2, Fléau, Precise",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Adrenaline Fueleds",
+          "options": [
+            {
+              "name": "Burrowing Strike",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Venom Beasts",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Régénération",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Poison Spurt",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Poison Spurts and Toxin Claws",
+          "options": [
+            {
+              "name": "Whip Limbs",
+              "details": "A4, Fléau, Precise",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Shrouding Mist",
+              "details": "Bonus de Furtivite",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hive Guardians",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Coriace (3)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Razor Claws",
+          "options": [
+            {
+              "name": "Slashing Blade",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A2, Fléau, Precise",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may replace one Razor Claws",
+          "options": [
+            {
+              "name": "Heavy Ravager Gun",
+              "details": "18\", A3, PA (1), Destructeur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shock Harpoon",
+              "details": "24\", A1, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Skewer Cannon",
+              "details": "30\", A2, PA (4), Inarrêtable",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Leapers",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furtif",
+        "Arpenteur",
+        "Coriace (3)",
+        "Lien de ruche",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Razor Claws",
+          "options": [
+            {
+              "name": "Slashing Blade",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A2, Fléau, Precise",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Synapse Beasts",
+      "size": 3,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Groupe de Lanceurs",
+        "Coriace (3)",
+        "Résistance",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Psy-Blast",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Psy-Shock",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Spores",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "6+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Auto-Destruction (2)",
+        "Pas de retraite",
+        "Lent"
+      ],
+      "weapons": [
+        {
+          "name": "Tendrils",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Massive Spores",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "6+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Auto-Destruction (6)",
+        "Pas de retraite",
+        "Coriace (3)",
+        "Lent"
+      ],
+      "weapons": [
+        {
+          "name": "Tendrils",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Shadow Hunter",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Furtif",
+        "Arpenteur",
+        "Coriace (6)",
+        "Lien de ruche",
+        "Infiltration"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Silent Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mind Hunter",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Razor Claw",
+          "options": [
+            {
+              "name": "Smashing Club",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Piercing Spike",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Serrated Blade",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Blade",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A4, Fléau, Precise",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mortar Beast",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Spore Gun",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Indirect, Lacération"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spore Gun",
+          "options": [
+            {
+              "name": "Spore Carrier",
+              "details": "Génération (Spores [5])",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Synapse Tyrant",
+      "size": 1,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (1)",
+        "Résistance",
+        "Coriace (6)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Psy-Torrent",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Psy-Shock",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Psy-Torrent",
+          "options": [
+            {
+              "name": "Heavy Psy-Blast",
+              "details": "18\", A2, PA (1), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Psy-Stinger",
+              "details": "18\", A4, PA (1), Destructeur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flamer Beast",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Spit Flames",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Battle Pheromones",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carnivo-Rex",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace 3x Heavy Razor Claws",
+          "options": [
+            {
+              "name": "Heavy Shredder Cannon",
+              "details": "18\", A8, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Spitter Cannon",
+              "details": "24\", A4, Explosion (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Barb Cannon",
+              "details": "36\", A2, PA (2), Explosion (6)",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Rapid Heavy Ravager Cannon",
+              "details": "18\", A12, PA (1), Destructeur",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Heavy Acid Cannon",
+              "details": "36\", A2, PA (2), Mortel (6), Inarrêtable",
+              "cost": "+150pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Razor Claw",
+          "options": [
+            {
+              "name": "Killing Scream",
+              "details": "Attaque de souffle",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Claws",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Claws",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Claws",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Whip Limbs",
+              "details": "A4, Fléau, Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Serrated Claws",
+              "details": "A3, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toxico-Rex",
+      "size": 1,
+      "cost": 360,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Régénération",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Spurt",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Whip Limbs",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Fléau, Precise"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Poison Mist",
+              "details": "12\", A1, Explosion (6), Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shrouding Mist",
+              "details": "Bonus de Furtivite",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psycho-Rex",
+      "size": 1,
+      "cost": 420,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Résistance",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Psy-Torrent",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Psy-Torrent",
+          "options": [
+            {
+              "name": "Heavy Psy-Blast",
+              "details": "18\", A2, PA (1), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Psy-Stinger",
+              "details": "18\", A4, PA (1), Destructeur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Psy-Torrent",
+          "options": [
+            {
+              "name": "Heavy Razor Claws",
+              "details": "A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hive Burrower",
+      "size": 1,
+      "cost": 420,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Claws",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Claws",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Claws",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Whip Limbs",
+              "details": "A4, Fléau, Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Serrated Claws",
+              "details": "A3, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace 3x Heavy Razor Claw",
+          "options": [
+            {
+              "name": "Whip Limbs",
+              "details": "A8, Fléau, Precise",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Deep Deployment",
+          "options": [
+            {
+              "name": "Burrow Attack",
+              "details": "Attaque Surprise (5)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Venom Burrower",
+              "details": "Régénération, Bonus de Furtivite",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Synapse Burrower",
+              "details": "Lanceur de sorts (3), Résistance",
+              "cost": "+110pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tyrant Great Beast",
+      "size": 1,
+      "cost": 470,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Bio-Pod",
+          "range": "24\"",
+          "attacks": "A12",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stinger Launcher",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Bio-Pod",
+          "options": [
+            {
+              "name": "Toxic Spray",
+              "details": "18\", A12, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fracture Cannon",
+              "details": "30\", A2, PA (3), Mortel (6)",
+              "cost": "+105pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Stinger Launcher",
+          "options": [
+            {
+              "name": "Barb Launcher",
+              "details": "18\", A2, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Acid Spike Launcher",
+              "details": "18\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spawning Great Beast",
+      "size": 1,
+      "cost": 505,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Stinger Launcher",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Swarm Brood",
+              "details": "Génération (Hive Swarms [3])",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Assault Brood",
+              "details": "Génération (Assault Grunts [10])",
+              "cost": "+120pts"
+            },
+            {
+              "name": "Shooter Brood",
+              "details": "Génération (Shooter Grunts [10])",
+              "cost": "+130pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Stinger Launcher",
+          "options": [
+            {
+              "name": "Barb Launcher",
+              "details": "18\", A2, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Acid Spike Launcher",
+              "details": "18\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devourer Great Beast",
+      "size": 1,
+      "cost": 445,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Devouring Tongue",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Mortel (3), Élimination"
+        },
+        {
+          "name": "Heavy Razor Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Razor Claws",
+          "options": [
+            {
+              "name": "Smashing Claws",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Piercing Claws",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Slashing Claws",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Whip Limbs",
+              "details": "A4, Fléau, Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Serrated Claws",
+              "details": "A3, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artillery Great Beast",
+      "size": 1,
+      "cost": 550,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Shredder Bio-Artillery",
+          "range": "36\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (6), Indirect, Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shredder Bio-Artillery",
+          "options": [
+            {
+              "name": "Spitter Bio-Artillery",
+              "details": "36\", A6, PA (1), Explosion (3), Indirect",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Acid Bio-Artillery",
+              "details": "36\", A3, PA (3), Mortel (6), Indirect",
+              "cost": "+125pts"
+            },
+            {
+              "name": "Plasma Bio-Artillery",
+              "details": "36\", A3, PA (4), Explosion (6), Indirect",
+              "cost": "+170pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Invasion Carrier Spore",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Lent",
+        "Coriace (6)",
+        "Transport (11)",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Tendrils",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shredder Gun Array",
+              "details": "18\", A4, Perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Spitter Gun Array",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Barb Cannon Array",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Acid Launcher Array",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Battle Pheromones",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Invasion Artillery Spore",
+      "size": 1,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Embuscade",
+        "Artillerie",
+        "Lien de ruche",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Tendrils",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shredder Gun Array",
+              "details": "18\", A4, Perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Spitter Gun Array",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Barb Cannon Array",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Acid Launcher Array",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Spore Carrier",
+          "options": [
+            {
+              "name": "Spore Gun",
+              "details": "24\", A2, Explosion (3), Indirect, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Massive Spore Carrier",
+              "details": "Génération (Massive Spores [3])",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Battle Pheromones",
+              "details": "Marque de Combattant imprévisible",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rapacious Beast",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Lien de ruche",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Stinger Spitter",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Caustic Cannon",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Caustic Cannon",
+          "options": [
+            {
+              "name": "Twin Barb Guns",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Acid Launchers",
+              "details": "30\", A2, PA (3), Mortel (3), Inarrêtable",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Stinger Spitter",
+          "options": [
+            {
+              "name": "Missile Bugs",
+              "details": "36\", A2, PA (3), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Spore Bombs",
+              "details": "A1, Explosion (6), Lacération, Mitraillage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Spawn",
+              "details": "Génération (Spores [5])",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Spawn",
+              "details": "Génération (Massive Spores [3])",
+              "cost": "+85pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hive Titan",
+      "size": 1,
+      "cost": 685,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Lien de ruche",
+        "Coriace (18)"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titanic Heavy Claws",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "2",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titanic Heavy Claws",
+          "options": [
+            {
+              "name": "Explosive Spit",
+              "details": "30\", A2, PA (2), Explosion (6)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Warrior Emissary",
+          "options": [
+            {
+              "name": "Psychic Emissary",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Carrier Titan",
+              "details": "Coriace (6), Transport (21)",
+              "cost": "+190pts"
+            },
+            {
+              "name": "Winged Titan",
+              "details": "Volant, Coriace (6)",
+              "cost": "+210pts"
+            },
+            {
+              "name": "Devourer Titan",
+              "details": "Titan Devouring Tongue, Coriace (3)",
+              "cost": "+225pts"
+            },
+            {
+              "name": "Grasping Titan",
+              "details": "Titan Grasping Tongue, Coriace (6)",
+              "cost": "+280pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drekhor the Vengeful",
+      "size": 1,
+      "cost": 510,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Héros",
+        "Unique",
+        "Lien de ruche",
+        "Volant"
+      ],
+      "weapons": [
+        {
+          "name": "Axe Tail",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Wrathful Blade",
+          "range": "-",
+          "attacks": "A9",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ksi'adoz Smokeborn",
+      "size": 1,
+      "cost": 265,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Effrayant (1)",
+        "Lien de ruche",
+        "Infiltration",
+        "Furtif",
+        "Arpenteur",
+        "Coriace (6)",
+        "Unique",
+        "Héros"
+      ],
+      "weapons": [
+        {
+          "name": "Bio-Smoke Guns",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Shadow Daggers",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Druzhak",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Carapace Fist",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Fierceclaw Sword",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Troseis",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Lien de ruche",
+        "Coriace (6)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Bile-Burner",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable, Fléau"
+        },
+        {
+          "name": "Acidic Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Nisuv",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Lien de ruche",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Unbroken Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vradhez",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique",
+        "Lien de ruche"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Stingers",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Destructeur"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

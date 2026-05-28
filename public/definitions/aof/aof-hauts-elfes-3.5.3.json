@@ -1,0 +1,1556 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/bPAtRGFrpFfyAjLW?armyName=High+Elves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/bPAtRGFrpFfyAjLW?armyName=High+Elves",
+  "sourceBookUid": "bPAtRGFrpFfyAjLW",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Hauts Elfes",
+  "version": "3.5.3",
+  "introduction": "Les Hauts Elfes forment une faction de principautés elfiques prospères dirigées par des marchands et des princes du commerce. Leur richesse leur permet d'entretenir des armées d'élite, très mobiles, qui privilégient la cavalerie et le tir à l'arc plutôt qu'une infanterie de ligne plus solide.\n\nLes Hauts Elfes ont bâti un royaume prospère le long des côtes de Tyria, même s'il n'est plus que l'ombre de son ancienne gloire. Ils ont autrefois cherché à fonder un empire rivalisant avec l'humanité et à unifier tous les Elfes sous leur autorité. Au lieu de cela, leurs ambitions ont provoqué à deux reprises de coûteuses et violentes guerres civiles qui ont laissé les peuples elfes profondément divisés.",
+  "backgroundStory": "Les Elfes de Tyria vivaient autrefois tous ensemble dans les Bois du Cœur, qui couvraient une grande partie de l'ouest du continent. Ils entraient souvent en conflit avec les Humains qui empiétaient sur leurs frontières. Avec le temps, certains Elfes commencèrent à apprendre de leurs adversaires, adoptant leurs outils de métal, leurs armes et même certaines pratiques commerciales. Ces Elfes décidèrent d'adapter le savoir humain à leur propre monde. Ils se nommèrent Hauts Elfes lorsqu'ils commencèrent à bâtir des tours de pierre et à revendiquer certaines parties de la forêt pour leurs royaumes, chassant ceux qui refusaient d'adopter leurs coutumes. Les autres Elfes s'allièrent alors aux esprits de la forêt, les vainquirent et les forcèrent à l'exil.\n\nLes Hauts Elfes migrèrent vers les côtes de Tyria, au bord des Bois du Cœur. Ils s'installèrent dans cette région isolée et peu peuplée, y bâtissant rapidement de nouvelles cités de pierre et d'acier, ainsi que de grandes flottes grâce au bois qu'ils pouvaient trouver. Ces cités rivalisèrent entre elles pour le prestige et l'influence, et les dirigeants hauts-elfes en vinrent à considérer richesse, intrigue et savoir comme tout aussi essentiels au bien-être de leurs villes que les murailles ou une armée permanente.\n\nLes Hauts Elfes recherchèrent le savoir-faire de leurs voisins, comme la forge et l'artisanat, tout en gardant jalousement leurs propres secrets. Les plus entreprenants devinrent riches et puissants, tandis que les autres risquaient de sombrer dans la pauvreté. Ils fondèrent des colonies commerciales à travers Tyria, mais leurs possessions les plus lucratives se trouvaient dans les Îles Sombres, où ils cultivaient les épices et exploitaient l'or.\n\nLorsque les Dieux du Havoc arrivèrent en Tyria, les Hauts Elfes mirent temporairement de côté leur vieille rivalité avec les Elfes des Bois afin de former une alliance de circonstance, leur offrant leur aide en échange de bois et de vivres destinés à nourrir leurs armées et à construire leurs flottes. Cette alliance s'étendit bientôt à une grande partie de Tyria, intégrant Nains, Humains et Gobelins. Toutefois, les Elfes des Îles Sombres profitèrent de la situation pour proclamer leur indépendance. Après la fin du conflit contre le Havoc, les armées et flottes hautes-elfes tentèrent de reprendre leurs colonies perdues, mais furent sévèrement battues par les Elfes Noirs et leurs alliés.\n\nAujourd'hui, les Hauts Elfes ont perdu leurs flottes et leurs colonies, tandis que les fidèles du Havoc pillent leurs rivages et que les Elfes des Bois refusent de leur venir en aide. Malgré tout, ils continuent de chercher de nouvelles opportunités, explorant les Portails du Vide et nouant de nouvelles alliances.\n\nComment rendras-tu la prospérité à ton peuple '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Noble",
+      "keywords": [
+        "Highborn"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Marque de Precision au Tir",
+      "keywords": [
+        "Precision Shooting Mark"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Marquage Perforant",
+      "keywords": [
+        "Piercing Tag"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Precision",
+      "keywords": [
+        "Precision Debuff"
+      ]
+    },
+    {
+      "name": "Indirect au Tir",
+      "keywords": [
+        "Indirect when Shooting"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Renforcement Noble",
+      "keywords": [
+        "Highborn Boost"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Intr?pide",
+      "keywords": [
+        "Fearless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Lacération en mêlée",
+      "keywords": [
+        "Shred in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Noble",
+      "keywords": [
+        "Highborn Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Concentration de l'Oeil d'Aigle",
+      "cost": 1,
+      "keywords": [
+        "Eagle-Eyed Focus"
+      ]
+    },
+    {
+      "name": "Explosion Arcanique",
+      "cost": 1,
+      "keywords": [
+        "Arcane Blast"
+      ]
+    },
+    {
+      "name": "Poussee Magique",
+      "cost": 2,
+      "keywords": [
+        "Magical Surge"
+      ]
+    },
+    {
+      "name": "Haute Tempete",
+      "cost": 2,
+      "keywords": [
+        "High Tempest"
+      ]
+    },
+    {
+      "name": "Voie vers la Gloire",
+      "cost": 3,
+      "keywords": [
+        "Path to Glory"
+      ]
+    },
+    {
+      "name": "Fleches Magiques",
+      "cost": 3,
+      "keywords": [
+        "Magic Arrows"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "High Noble",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Phoenix Warrior",
+              "details": "Régénération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lion Warrior",
+              "details": "Sans peur, Résistance",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master-Crafted Shortbow",
+              "details": "18\", A3, Fissure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Longbow",
+              "details": "30\", A2, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master-Crafted Bow",
+              "details": "24\", A3, Fissure",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shortbow",
+              "details": "18\", A3",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Magic Shortbow",
+              "details": "18\", A3, Perforant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Great Longbow",
+              "details": "30\", A3, Indirect",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Dragon Steed",
+              "details": "Armure (3), Rapide, Sans peur, Impact (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Griffon",
+              "details": "Perforant Claws, Armure (3), Rapide, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+185pts"
+            },
+            {
+              "name": "Fire Phoenix",
+              "details": "Ember Storm, Flame Claws, Armure (3), Effrayant (1), Volant, Régénération, Coriace (6)",
+              "cost": "+230pts"
+            },
+            {
+              "name": "Ice Phoenix",
+              "details": "Ice Claws, Armure (3), Effrayant (1), Volant, Affaiblissement de Precision, Régénération, Coriace (6)",
+              "cost": "+220pts"
+            },
+            {
+              "name": "Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+320pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "High Merchant",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Coast Warden",
+              "details": "Aura de Blindage",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Aura de Renforcement Noble",
+              "cost": "+25pts"
+            },
+            {
+              "name": "War Prince",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Mage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Mage",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Master-Crafted Shortbow",
+              "details": "18\", A3, Fissure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Longbow",
+              "details": "30\", A2, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master-Crafted Bow",
+              "details": "24\", A3, Fissure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Longbow",
+              "details": "30\", A3, Indirect",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Magic Cloud",
+              "details": "Rapide, Volant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Silver Steed",
+              "details": "Armure (4), Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Beast",
+              "details": "Armure (4), Rapide, Effrayant (1), Impact (3), Coriace (3)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Giant Eagle",
+              "details": "Claws, Armure (4), Rapide, Volant, Impact (2), Coriace (3)",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mage Acolyte",
+              "details": "Conduit de Sort",
+              "cost": "+10pts"
+            },
+            {
+              "name": "High Merchant",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Coast Warden",
+              "details": "Aura de Blindage",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Ambassador",
+              "details": "Aura d'Intr?pide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Aura de Renforcement Noble",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Mage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Mage",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weapon Masters",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Great Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spell Master",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Warriors",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Light-Beacon Conjurer",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lion Warriors",
+      "size": 5,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Résistance",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Great Axe",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Light-Beacon Conjurer",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Archers",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Longbow",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Longbows",
+          "options": [
+            {
+              "name": "Master-Crafted Bow",
+              "details": "24\", A1, Fissure",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Volley Fire",
+              "details": "Indirect au Tir",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coast Guard",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Master-Crafted Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Contre-charge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Master-Crafted Shortbows",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A1",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Volley Fire",
+              "details": "Indirect au Tir",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Light-Beacon Conjurer",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Brothers",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Light-Beacon Conjurer",
+              "details": "Marquage Perforant (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shadow Sisters",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tir rapide",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Silver Cavalry",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reaver Cavalry",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Master-Crafted Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Master-Crafted Shortbows",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A1",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Beast Mounts",
+          "options": [
+            {
+              "name": "Reaver Steed",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Cavalry",
+      "size": 5,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (1)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Eagles",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Impact (2)",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Fire Phoenix",
+      "size": 1,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Régénération",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Ember Storm",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        },
+        {
+          "name": "Flame Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fiable, Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ice Phoenix",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Régénération",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Ice Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Bull Giant",
+      "size": 1,
+      "cost": 315,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Attaque de souffle",
+        "Coriace (12)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Greathammer",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Greathammer",
+          "options": [
+            {
+              "name": "Dual Hammers",
+              "details": "A8, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Chariot",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Bow Crew",
+              "details": "24\", A6",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master-Crafted Shortbow Crew",
+              "details": "18\", A6, Fissure",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eagle Chariot",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Impact (4)",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Bow Crew",
+              "details": "24\", A6",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master-Crafted Shortbow Crew",
+              "details": "18\", A6, Fissure",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Mini Bolt Thrower",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lion Chariot",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Sans peur",
+        "Impact (2)",
+        "Résistance",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Axe Crew",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "High Elf Artillery",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Light Bolt Thrower",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Light Bolt Thrower",
+          "options": [
+            {
+              "name": "Repeater Bolt Thrower",
+              "details": "30\", A6, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coastal Warding",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

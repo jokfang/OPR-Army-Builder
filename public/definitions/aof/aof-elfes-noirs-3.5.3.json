@@ -1,0 +1,1830 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/IKT625BeGZtF67EA?armyName=Dark+Elves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/IKT625BeGZtF67EA?armyName=Dark+Elves",
+  "sourceBookUid": "IKT625BeGZtF67EA",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Elfes Noirs",
+  "version": "3.5.3",
+  "introduction": "Les Elfes Noirs forment une faction de pirates et de flibustiers qui ont rompu avec leur patrie et appris à dompter les bêtes sauvages et monstrueuses de leurs îles natales grâce à leur alliance avec les Elfes-Serpents. Ce sont des assaillants rapides et habiles, mais leur manque d'armure les rend vulnérables aux contre-attaques.\n\nLes Elfes Noirs ont remporté leur lutte pour l'indépendance, mais désormais, sans ennemi commun, rien ne les maintient vraiment unis. Ils doivent avancer avec prudence dans cette liberté nouvellement acquise, au risque de sombrer soit dans l'anarchie, soit dans la tyrannie si leurs trêves fragiles venaient à s'effondrer.",
+  "backgroundStory": "Avant l'arrivée des Hauts Elfes, les Îles Sombres n'étaient connues qu'à travers les légendes des marins, qui décrivaient ces eaux comme dangereuses et infestées de monstres marins. Les navigateurs hauts-elfes découvrirent ces îles au cours de leurs voyages et constatèrent rapidement qu'elles regorgeaient d'épices et d'or. Les rois hauts-elfes cherchèrent des colons pour s'emparer de ces terres autrefois mythiques, mais seuls les plus audacieux et les plus désespérés osaient s'y aventurer, car la plupart des navires envoyés vers les îles étaient perdus sous les coups des créatures qui rôdaient sous les vagues. Les colons qui atteignaient les îles durent apprendre à survivre par eux-mêmes, car les cargaisons se perdaient souvent en mer et de nombreuses colonies disparurent entièrement.\n\nCeux qui survécurent le durent à l'aide des Elfes-Serpents. Ces derniers vivaient sur les îles depuis des siècles et avaient appris à apprivoiser nombre des créatures qui y habitaient. Les colons nouèrent des liens étroits avec eux, échangeant richesses et armes venues du continent contre leur savoir et leurs talents. Les Hauts Elfes, eux, adoptèrent une attitude plus prudente, considérant les Elfes-Serpents avec mépris et cherchant à soumettre les monstres marins par la force.\n\nMalgré les dangers des Îles Sombres, les rois elfes et leurs marchands exigeaient leur part des profits des colonies. Les colons supportaient de plus en plus mal de payer des taxes à des navires de ravitaillement qui se perdaient souvent avant même d'arriver, car les bateaux quittant les ports, chargés des richesses des îles, devenaient des cibles de choix. Beaucoup de colons se tournèrent alors vers la piraterie, revenant avec des richesses qui auraient autrement été envoyées vers la métropole. Ces pirates finirent par composer la classe fortunée des îles, dépassant l'ancienne noblesse en richesse et en influence.\n\nLes colons rejetèrent les taxes levées pour financer les lointaines Guerres du Havoc, et beaucoup commencèrent à parler d'indépendance, se nommant eux-mêmes Elfes Noirs. Les Hauts Elfes envoyèrent alors une mission diplomatique pour négocier avec eux, mais leurs émissaires furent massacrés, et la flotte hauts-elfe fut écrasée par une coalition de pirates et d'Elfes-Serpents utilisant les monstres des profondeurs.\n\nDepuis leur victoire pour l'indépendance, l'ambition des Seigneurs Pirates n'a cessé de croître, et ils ont commencé à piller les côtes de Tyria ainsi que ses Portails du Vide. Il demeure désormais incertain que l'alliance des pirates survive, ou si les farouchement indépendants Elfes Noirs ne sombreront pas dans la guerre civile.\n\nComment apporteras-tu la fortune aux îles '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Harcelement",
+      "keywords": [
+        "Harassing"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Frappe de Repli",
+      "keywords": [
+        "Retreating Strike"
+      ]
+    },
+    {
+      "name": "Force Regenerative",
+      "keywords": [
+        "Regenerative Strength"
+      ]
+    },
+    {
+      "name": "Combattant Predateur",
+      "keywords": [
+        "Predator Fighter"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Frénésie perforante",
+      "keywords": [
+        "Piercing Frenzy"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Marque de Charge rapide",
+      "keywords": [
+        "Rapid Charge Mark"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Bonus d'Assaut Perforant",
+      "keywords": [
+        "Piercing Assault Buff"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Renforcement de Harcelement",
+      "keywords": [
+        "Harassing Boost"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Charge"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir rapide",
+      "keywords": [
+        "Quick Shot Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement de Harcelement",
+      "keywords": [
+        "Harassing Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Esprit de l'Ile Sombre",
+      "cost": 1,
+      "keywords": [
+        "Dark Isle Spirit"
+      ]
+    },
+    {
+      "name": "Tempete de Lames",
+      "cost": 1,
+      "keywords": [
+        "Blade Storm"
+      ]
+    },
+    {
+      "name": "Monde de Douleur",
+      "cost": 2,
+      "keywords": [
+        "World of Pain"
+      ]
+    },
+    {
+      "name": "Vague de Tempete",
+      "cost": 2,
+      "keywords": [
+        "Storm Wave"
+      ]
+    },
+    {
+      "name": "Vents Guerisseurs",
+      "cost": 3,
+      "keywords": [
+        "Healing Winds"
+      ]
+    },
+    {
+      "name": "Eclair Noir",
+      "cost": 3,
+      "keywords": [
+        "Black Bolt"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Snake Lady",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Arpenteur",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Great Glaive",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Glaive",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A3",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Quartermaster",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dark Tyrant",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Boarding Expert",
+              "details": "Aura de Renforcement de Harcelement",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Freebooter Captain",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Sorcerer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Captain",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Captain Heavy Dark Cutlass",
+              "details": "A3, PA (1), Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain Repeater Handbow",
+              "details": "9\", A3, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Captain Dark Handbow",
+              "details": "12\", A3, Laceration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Captain Repeater Crossbow",
+              "details": "18\", A3, Perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Captain Dark Crossbow",
+              "details": "24\", A3, Laceration",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Guardian Leader",
+              "details": "Sans peur, Furieux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Slaughter Leader",
+              "details": "Esquive en mêlée, Arpenteur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Dark Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shade Master",
+              "details": "Éclaireur, Furtif",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Raptor",
+              "details": "Armure (3), Rapide, Impact (1), Ravage (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Black Pegasus",
+              "details": "Rapide, Volant, Heavy Hooves, Impact (2), Coriace (3)",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Manticore",
+              "details": "Perforant Claws, Armure (3), Effrayant (1), Volant, Coriace (6)",
+              "cost": "+175pts"
+            },
+            {
+              "name": "Cauldron Wagon",
+              "details": "Crew Attacks, Armure (3), Effrayant (1), Bonus d'Assaut Perforant, Régénération, Coriace (6)",
+              "cost": "+180pts"
+            },
+            {
+              "name": "Black Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+345pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Dark Tyrant",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shade Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Boarding Expert",
+              "details": "Aura de Renforcement de Harcelement",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Freebooter Captain",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fleet Master",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Captain Dark Cutlass",
+              "details": "A3, Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Toxin Daggers",
+              "details": "A4, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain Repeater Handbow",
+              "details": "9\", A3, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Captain Dark Handbow",
+              "details": "12\", A3, Laceration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Captain Repeater Crossbow",
+              "details": "18\", A3, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain Dark Crossbow",
+              "details": "24\", A3, Laceration",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Witch Leader",
+              "details": "Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Corsair Leader",
+              "details": "Furtif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Raptor",
+              "details": "Armure (4), Rapide, Impact (1), Ravage (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Black Pegasus",
+              "details": "Heavy Hooves, Armure (4), Rapide, Volant, Impact (3), Coriace (3)",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Black Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+295pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Quartermaster",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Boarding Expert",
+              "details": "Aura de Renforcement de Harcelement",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Freebooter Captain",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fleet Master",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Sorcerer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Warriors",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Dark Cutlass",
+              "details": "A1, Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harpies",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corsairs",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furtif",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Repeater Handbow",
+              "details": "9\", A2, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Dark Handbow",
+              "details": "12\", A2, Laceration",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winged Sisters",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Javelin",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Executioners",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Witches",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Toxin Daggers",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slaughter Sisters",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Esquive en mêlée",
+        "Harcelement",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Barbed Whip",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Black Guardians",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Shooters",
+      "size": 5,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Repeater Crossbow",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Repeater Crossbows",
+          "options": [
+            {
+              "name": "Dark Crossbow",
+              "details": "24\", A2, Laceration",
+              "cost": "+-5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shade Scouts",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Repeater Handbow",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Repeater Handbows",
+          "options": [
+            {
+              "name": "Dark Handbow",
+              "details": "12\", A2, Laceration",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snake Sisters",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Blood Glaive",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blood Glaives",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A2",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warlock Riders",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Dark Cutlass",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Apprentice Sorcerer",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Looting Frenzy",
+              "details": "Frénésie perforante",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Horsemen",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Repeater Crossbow",
+              "details": "18\", A2, Perforant",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Dark Crossbow",
+              "details": "24\", A2, Laceration",
+              "cost": "+80pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raptor Knights",
+      "size": 5,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Impact (1)",
+        "Ravage (1)"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Medusa",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Furieux",
+        "Coriace (6)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Death Stare",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Fiable, Élimination"
+        },
+        {
+          "name": "Blood Spear",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Abyssal Beast",
+      "size": 1,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Combattant Predateur",
+        "Coriace (12)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Toxic Fangs",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Beast Master",
+              "details": "Combattant imprévisible",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hydra",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Force Regenerative",
+        "Régénération",
+        "Coriace (12)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Boarding Attack",
+              "details": "Frappe de Repli (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Beast Master",
+              "details": "Combattant imprévisible",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scourge Chariot",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Dark Crossbow Crew",
+              "details": "24\", A6, Laceration",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Repeater Crossbow Crew",
+              "details": "18\", A6, Perforant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Harpoon Thrower",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Swashbuckling Menace",
+              "details": "Marque de Charge rapide",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raptor Chariot",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Harcelement",
+        "Impact (4)",
+        "Ravage (2)",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Repeater Crossbow Crew",
+              "details": "18\", A6, Perforant",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Dark Crossbow Crew",
+              "details": "24\", A6, Laceration",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Swashbuckling Menace",
+              "details": "Marque de Charge rapide",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medusa Shrine",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Furieux",
+        "Coriace (9)",
+        "Harcelement"
+      ],
+      "weapons": [
+        {
+          "name": "Death Stare",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Fiable, Élimination"
+        },
+        {
+          "name": "Blood Spear",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Dark Elf Artillery",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Dark Bolt Thrower",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dark Bolt Thrower",
+          "options": [
+            {
+              "name": "Light Bolt Thrower",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Repeater Bolt Thrower",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

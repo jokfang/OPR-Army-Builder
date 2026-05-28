@@ -1,0 +1,1991 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/qABIfXYbYxmA75yL?armyName=Vampiric+Undead",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/qABIfXYbYxmA75yL?armyName=Vampiric+Undead",
+  "sourceBookUid": "qABIfXYbYxmA75yL",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Morts-Vivants Vampiriques",
+  "version": "3.5.3",
+  "introduction": "Les Morts-Vivants Vampiriques sont des légions de monstres et de serviteurs mortels menées par de puissants Seigneurs vampires. Ces seigneurs utilisent leur sombre magie pour relever les morts, puis les conduisent au combat aux côtés de leurs serviteurs encore vivants.\n\nLes Seigneurs vampires sont issus de la noblesse des steppes occidentales, qui se tourna vers la nécromancie après avoir été abandonnée par l'Empire durant les Guerres du Havoc. Après avoir percé le secret de l'immortalité, ils tentèrent de trahir leurs mécènes et furent maudits par la non-vie. Cette malédiction n'a fait que les rendre plus amers et cruels encore, tandis qu'ils règnent brutalement sur des sujets terrifiés.",
+  "backgroundStory": "Les Morts-Vivants Vampiriques trouvent leur origine dans les confins occidentaux de l'Empire. Leurs terres étaient divisées en quelques comtés composés de petits villages dispersés à travers les Steppes occidentales, au-delà des montagnes naines. Loin du cœur du Vieil Empire, ces terres peu développées étaient souvent négligées et régulièrement pillées par des Ogres nomades et d'autres voisins.\n\nLorsque les Guerres du Havoc commencèrent, la plupart des armées et de la noblesse des Steppes furent appelées, comme le reste des vassaux impériaux, pour défendre les frontières nord de l'Empire. Les steppes furent laissées presque sans défense et rapidement envahies par des pillards et des hors-la-loi. Désespérés de défendre leurs terres, les nobles restés sur place commencèrent à écouter les promesses d'un sorcier exilé, connu sous le nom de Grand Nécromancien. Il leur offrait les armées dont ils avaient besoin, en échange d'un serment de fidélité envers ses mystérieux mécènes. Ceux qui acceptaient voyaient leurs ennemis chassés et leurs cimetières vidés, car le sorcier relevait les morts pour combattre.\n\nLe Grand Nécromancien présenta ensuite ses mécènes à la noblesse : d'étranges entités sans vie venues d'un autre plan. Ils promirent le secret de l'immortalité si les nobles leur cédaient une part de Tyria où s'établir. Les nobles acceptèrent avec empressement et commencèrent à utiliser leurs armées de morts pour conquérir leurs voisins et se tailler un nouveau royaume. Mais lorsque vint le moment d'honorer le pacte, ils trahirent le sorcier et ses maîtres, coupant le lien entre les plans et volant ce savoir pour eux-mêmes.\n\nIls entreprirent alors le rituel, sacrifiant le sorcier au passage. Mais au lieu de leur accorder l'immortalité, celui-ci les transforma en première génération de vampires tyriens. Dépourvus de chef incontesté, les nobles vampiriques se rejetèrent mutuellement la faute de l'échec, puis se battirent pour dominer les autres. Ces vampires considéraient leurs sujets mortels comme du simple bétail, bon seulement à les nourrir et à grossir leurs armées de morts.\n\nLorsque la Faille s'ouvrit, certains murmurèrent que les anciens mécènes du Grand Nécromancien étaient revenus en quête de vengeance. Au même moment, l'un des enfants de l'Empereur arriva des terres de l'est dans les steppes sous la forme d'un immortel mort-vivant. Lassés de leurs conflits sans fin et désespérés, de nombreux vampires se soumirent à lui, espérant s'unir enfin afin de se protéger et d'étendre une nouvelle fois leurs domaines.\n\nComment plieras-tu la mort elle-même à ta volonté ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Malédiction Mort-vivant",
+      "keywords": [
+        "Cursed Undead"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Instinctif",
+      "keywords": [
+        "Instinctive"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Contrôle mental",
+      "keywords": [
+        "Mind Control"
+      ]
+    },
+    {
+      "name": "Affaiblissement du moral",
+      "keywords": [
+        "Morale Debuff"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Boost de la Malédiction Mort-vivante",
+      "keywords": [
+        "Cursed Undead Boost Buff"
+      ]
+    },
+    {
+      "name": "Amelioration d'incantation",
+      "keywords": [
+        "Casting Buff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    },
+    {
+      "name": "Reanimation",
+      "keywords": [
+        "Reanimation"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Boost de la Malédiction Mort-vivante",
+      "keywords": [
+        "Cursed Undead Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de rapiditée",
+      "keywords": [
+        "Fast Aura"
+      ]
+    },
+    {
+      "name": "Aura de Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter Aura"
+      ]
+    },
+    {
+      "name": "Aura de réanimation",
+      "keywords": [
+        "Reanimation Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura de Lacération en mêlée",
+      "keywords": [
+        "Shred in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Retour Vigoureux",
+      "cost": 1,
+      "keywords": [
+        "Vigorous Return"
+      ]
+    },
+    {
+      "name": "Frappe Maudite",
+      "cost": 1,
+      "keywords": [
+        "Cursed Strike"
+      ]
+    },
+    {
+      "name": "Invocation Seduisante",
+      "cost": 2,
+      "keywords": [
+        "Seductive Invocation"
+      ]
+    },
+    {
+      "name": "Vent Spectral",
+      "cost": 2,
+      "keywords": [
+        "Spectral Wind"
+      ]
+    },
+    {
+      "name": "Danse de la Mort",
+      "cost": 3,
+      "keywords": [
+        "Dance of Death"
+      ]
+    },
+    {
+      "name": "Regard Mortel",
+      "cost": 3,
+      "keywords": [
+        "Deadly Gaze"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Werewolf Champion",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (6)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Razor Blades",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace 2x Razor Blade",
+          "options": [
+            {
+              "name": "Heavy Rending Claws",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Sword",
+              "details": "A3, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "King's Gift Bearer",
+              "details": "Boost de la Malédiction Mort-vivante",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Aspiring Lord",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Night Bringer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vampire Master",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Hunting Pet",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Steed",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Winged Terror",
+              "details": "Heavy Claws, Ravage (1), Volant, Coriace (3)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Winged Steed",
+              "details": "Rapide, Volant, Impact (2), Coriace (3), Hooves",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Zombie Dragon",
+              "details": "Coriace (12), Attaque de souffle, Effrayant (2), Volant, Régénération, Stomp, Heavy Claws",
+              "cost": "+420pts"
+            },
+            {
+              "name": "Skeleton Dragon",
+              "details": "Heavy Claws, Putrid Bite, Stomp, Effrayant (3), Volant, Coriace (18)",
+              "cost": "+525pts"
+            },
+            {
+              "name": "Stitched Zombie Horde",
+              "details": "Zombie Claws, Effrayant (3), Sans peur, Régénération, Coriace (18)",
+              "cost": "+540pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "King's Gift Bearer",
+              "details": "Boost de la Malédiction Mort-vivante",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Lord",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Night Bringer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Count",
+              "details": "Aura d’Éclaireur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Necromancer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Necromancer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Twisted Seduction",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Champion",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Cursed Sword",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Cursed Sword",
+          "options": [
+            {
+              "name": "Cursed Halberd",
+              "details": "A3, Perforant, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cursed Dual Hand Weapons",
+              "details": "A4, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cursed Spear",
+              "details": "A3, Contre-charge, Désintegration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Cursed Lance",
+              "details": "A3, Percée, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cursed Greatsword",
+              "details": "A3, PA (2), Désintegration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Champion Cursed Crossbow",
+              "details": "24\", A2, Perforant, Désintegration",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Skeletal Steed",
+              "details": "Rapide, Impact (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Abyssal Beast",
+              "details": "Heavy Claws, Armure (3), Effrayant (1), Arpenteur, Coriace (6)",
+              "cost": "+160pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Awakened Lord",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Night Bringer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Ancient Count",
+              "details": "Aura d’Éclaireur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Hunt Master",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghoul Champion",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Régénération",
+        "Arpenteur",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Toxin Claw",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sling",
+              "details": "12\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Winged Beast",
+              "details": "Volant, Impact (2), Coriace (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Bat Beast",
+              "details": "Mortel Fangs, Embuscade, Armure (3), Effrayant (1), Volant, Furieux, Coriace (6)",
+              "cost": "+215pts"
+            },
+            {
+              "name": "Bat Dragon",
+              "details": "Stomp, Mortel Fangs, Armure (3), Effrayant (2), Volant, Furieux, Coriace (12)",
+              "cost": "+370pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Magic Attuned",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Grave Digger",
+              "details": "Boost de la Malédiction Mort-vivante",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Superior",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Night Bringer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Hunt Master",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drained Leader",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Stitched Leader",
+              "details": "Sans peur, Lent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Pet Ghoul",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Corpse Master",
+              "details": "Boost de la Malédiction Mort-vivante",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Corpse Master",
+              "details": "Aura de réanimation",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Night Bringer",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Village Chief",
+              "details": "Aura d’Éclaireur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Hunt Master",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Necromancer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Necromancer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drained Soldiers",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stitched Zombies",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Malédiction Mort-vivant",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "The Rising Dead",
+              "details": "Infiltration",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Guard",
+      "size": 10,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Cursed Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Cursed Swords",
+          "options": [
+            {
+              "name": "Cursed Halberd",
+              "details": "A1, Perforant, Désintegration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cursed Mace",
+              "details": "A1, PA (2), Désintegration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Cursed Spear",
+              "details": "A1, Contre-charge, Désintegration",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghouls",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Arpenteur",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Toxin Claws",
+          "options": [
+            {
+              "name": "Heavy Hand Weapon",
+              "details": "A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sling",
+              "details": "12\", A1",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drained Archers",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Watch",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Cursed Crossbow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant, Désintegration"
+        },
+        {
+          "name": "Cursed Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zombie Wolves",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Vicious Bites",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blood-Scent Trackers",
+          "options": [
+            {
+              "name": "Territorial Beast",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Knights",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Cursed Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration, Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vampire Knights",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Impact (1)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghoul Beast Riders",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Impact (2)",
+        "Régénération",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bat Swarms",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Furieux",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Giant Bats",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Furieux",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Deadly Fangs",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Stitched Butchers",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Malédiction Mort-vivant",
+        "Lent",
+        "Coriace (3)",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Slicing Blade",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Slicing Blades",
+          "options": [
+            {
+              "name": "Carving Tool",
+              "details": "A4, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghoul Horrors",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Arpenteur",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Bat Horrors",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Furieux",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Deadly Fangs",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Werewolves",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (3)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Rending Claws",
+          "options": [
+            {
+              "name": "Heavy Hand Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bat Beast",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Effrayant (1)",
+        "Furieux",
+        "Coriace (6)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Deadly Fangs",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bat Dragon",
+      "size": 1,
+      "cost": 310,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Furieux",
+        "Volant",
+        "Coriace (12)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Deadly Fangs",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Zombie Dragon",
+      "size": 1,
+      "cost": 310,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Attaque de souffle",
+        "Effrayant (2)",
+        "Volant",
+        "Régénération",
+        "Coriace (12)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Vampire Lord Rider",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corpse Wagon",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Régénération",
+        "Coriace (6)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Cursed Monolith",
+              "details": "Amelioration d'incantation",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Unholy Brazier",
+              "details": "Résistance",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Corpse Pile",
+              "details": "Génération (Stitched Zombies [10])",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Funeral Coach",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Malédiction Mort-vivant",
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Maiden Chariot",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Poison Daggers",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Deathly Chariot",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Malédiction Mort-vivant",
+        "Rapide",
+        "Effrayant (2)",
+        "Impact (4)",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Great Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Butcher Titan",
+      "size": 1,
+      "cost": 545,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Lent",
+        "Coriace (18)",
+        "Sans peur",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Cleaver",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Gremyir & Milyazha",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (6)",
+        "Unique",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Telen Throwing Dagger",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Limité, Fléau"
+        },
+        {
+          "name": "Scythes of Zhenye",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Telen Hunting Dagger",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Lady Navleva",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Malédiction Mort-vivant",
+        "Furieux"
+      ],
+      "weapons": [
+        {
+          "name": "Forlorn Falchion",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Captain Blackfang",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Gravedust Pistols",
+          "range": "9\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Cursed Cutlass",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Latmyir The Mad",
+      "size": 1,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Malédiction Mort-vivant"
+      ],
+      "weapons": [
+        {
+          "name": "Grasping Skeletons",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Pet Experiment",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Limité"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

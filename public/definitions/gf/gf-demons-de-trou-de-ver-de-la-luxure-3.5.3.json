@@ -1,0 +1,1511 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/9qvy1oufoangt2gl?armyName=Daemons+of+Lust",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/9qvy1oufoangt2gl?armyName=Daemons+of+Lust",
+  "sourceBookUid": "9qvy1oufoangt2gl",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Démons de Trou de Ver de la Luxure",
+  "version": "3.5.3",
+  "introduction": "Les Démons de Trou de Ver sont les monstrueux serviteurs des Dieux du Havoc qui surgissent d'une autre dimension à travers toute la galaxie. Leurs formes varient énormément selon le dieu qu'ils servent.\n\nLes Démons de Trou de Ver sont les rejetons de dieux mourants qui espèrent désespérément gagner encore un peu de temps. Ils émergent brusquement des trous de ver disséminés dans la galaxie pour accomplir la volonté eldritch de leurs maîtres, puis disparaissent tout aussi vite une fois leur tâche terminée. Leurs dieux sont prêts à ne laisser derrière eux que havoc et destruction dans l'espoir de prolonger leur existence un peu plus longtemps.",
+  "backgroundStory": "Durant des éons, de puissantes entités résidèrent dans un lieu au-delà de l'espace, entre les trous de ver. Pures consciences psychiques, elles étaient dépourvues de forme physique et vivaient sans connaître la douleur ni la mort. On ne peut rien affirmer avec certitude sur ces êtres ou sur leurs origines, tant leur existence précède même les archives des plus anciennes civilisations connues de la galaxie. Elles observaient passivement le développement de la galaxie, n'intervenant que rarement auprès des espèces qui y vivaient.\n\nTout changea soudainement lorsque l'une des leurs mourut. Beaucoup ont spéculé sur la cause de cette mort, mais le mystère demeure entier. C'était la première fois qu'un membre de leur espèce faisait l'expérience de la mort, et les autres réagirent d'abord avec curiosité, puis avec horreur. Cette horreur ne fit que croître à mesure que la mort se propageait. Les disparitions se multiplièrent, et les survivants commencèrent à reconnaître en eux-mêmes les signes de l'entropie et de la décrépitude.\n\nChaque entité réagit à sa manière, mais la plupart finirent par succomber, à quelques exceptions près. Celle que l'on connaît désormais sous le nom de Luxure chercha à se retrancher d'elle-même, coupant tout signe d'imperfection ou de faiblesse. Une autre, appelée Changement, chercha à accumuler le savoir plus vite qu'il ne pouvait se perdre. La Peste trouva son salut dans la forme physique, utilisant son pouvoir pour se répandre et réassimiler tout ce qu'elle infectait. Enfin, la Guerre apprit à tirer sa force de ceux qu'elle abattait.\n\nBientôt, ces êtres tournèrent leur attention vers le monde matériel, espérant y retarder un peu leur fin. Désespérés de survivre, ils cherchèrent des fidèles parmi les perdus et les désespérés, leur offrant du pouvoir en échange de leur service et de leur adoration. Ceux qui rejetèrent ces dieux finirent par les appeler Dieux du Havoc, à cause du fanatisme de leurs fidèles et du chaos qu'ils répandaient.\n\nCes dieux peuvent manifester leur volonté dans le monde physique par l'intermédiaire d'aspects, fragments de leur puissance et de leur conscience, que la plupart désignent comme leurs Démons. Une fois manifestés, ces aspects sont mortels, vulnérables à la douleur et à la mort, ont besoin de se nourrir pour survivre, et peuvent même évoluer avec l'expérience. Les dieux doivent sacrifier une part de leur propre pouvoir pour créer ces Démons, les plus puissants exigeant une plus grande portion de leur essence. Ainsi, chaque Dieu du Havoc ne peut manifester qu'un nombre limité de Démons à la fois, et doit abandonner une fraction de sa puissance pour le faire, qu'il ne récupère qu'à la mort de ceux-ci.\n\nLorsqu'ils ne mettent pas en œuvre la volonté de leurs dieux, les Démons demeurent souvent dans un étrange espace entre les trous de ver. Leur maîtrise de ces passages leur permet d'apparaître et de disparaître rapidement dans l'espace physique, exécutant ainsi les desseins de leur dieu sans craindre de représailles.\n\nComment serviras-tu la volonté de ton dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lié à la Luxure",
+      "keywords": [
+        "Lustbound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Riposte",
+      "keywords": [
+        "Retaliate"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Lié à la Luxure amélioré",
+      "keywords": [
+        "Lustbound Boost"
+      ]
+    },
+    {
+      "name": "Contrôle mental",
+      "keywords": [
+        "Mind Control"
+      ]
+    },
+    {
+      "name": "Marque de Tir rapide",
+      "keywords": [
+        "Quick Shot Mark"
+      ]
+    },
+    {
+      "name": "Combattant Frappe et Repli",
+      "keywords": [
+        "Hit & Run Fighter"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Fracasse",
+      "keywords": [
+        "Shatter"
+      ]
+    },
+    {
+      "name": "Tempete de Luxure",
+      "keywords": [
+        "Storm of Lust"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Marcheur",
+      "keywords": [
+        "Strider Aura"
+      ]
+    },
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inarretable au Tir",
+      "keywords": [
+        "Unstoppable when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Lie a la Luxure",
+      "keywords": [
+        "Lustbound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Eclair",
+      "keywords": [
+        "Hit & Run Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Extase de Combat",
+      "cost": 1,
+      "keywords": [
+        "Combat Ecstasy"
+      ]
+    },
+    {
+      "name": "Belle Douleur",
+      "cost": 1,
+      "keywords": [
+        "Beautiful Pain"
+      ]
+    },
+    {
+      "name": "Danse Extatique",
+      "cost": 2,
+      "keywords": [
+        "Blissful Dance"
+      ]
+    },
+    {
+      "name": "Paralysie Totale",
+      "cost": 2,
+      "keywords": [
+        "Total Seizure"
+      ]
+    },
+    {
+      "name": "Don de la Luxure",
+      "cost": 3,
+      "keywords": [
+        "Lust Boon"
+      ]
+    },
+    {
+      "name": "Fouet Ecrasant",
+      "cost": 3,
+      "keywords": [
+        "Overpowering Lash"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Avatar of Lust",
+      "size": 1,
+      "cost": 605,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (3)",
+        "Héros",
+        "Coriace (18)",
+        "Sans peur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Exalted Ritual Hammer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Exalted Ritual Hammer",
+          "options": [
+            {
+              "name": "Exalted Ritual Blade",
+              "details": "A9, Perforant, Surcharge",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Exalted Arm-Crossbow",
+              "details": "12\", A12, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Exalted Ritual Spear",
+              "details": "A3, PA (2), Mortel (3), Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Exalted Crossbow",
+              "details": "18\", A6, PA (1), Surcharge",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Exalted Perfect Sword",
+              "details": "A9, Fracasse",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Exalted Ritual Gauntlet",
+              "details": "A9, PA (3), Surcharge",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Lust Favour",
+              "details": "Lié à la Luxure amélioré",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Lust God's Power",
+              "details": "Tempete de Luxure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy of Lust",
+              "details": "Assaut perforant",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Gift of Lust",
+              "details": "Contre-attaque",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Lore of Lust",
+              "details": "Lanceur de sorts (5)",
+              "cost": "+130pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ascended Harbinger of Lust",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Héros",
+        "Coriace (12)",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Great Ritual Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Great Ritual Hammer",
+          "options": [
+            {
+              "name": "Great Ritual Spear",
+              "details": "A2, PA (1), Mortel (3), Surcharge",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Great Ritual Blade",
+              "details": "A6, Perforant, Surcharge",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Perfect Sword",
+              "details": "A6, Fracasse",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Arm-Crossbow",
+              "details": "12\", A8, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Crossbow",
+              "details": "18\", A4, PA (1), Surcharge",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Ritual Gauntlet",
+              "details": "A6, PA (3), Surcharge",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Lust Favour",
+              "details": "Lié à la Luxure amélioré",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Symbol of Lust",
+              "details": "Combattant Frappe et Repli",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Gift of Lust",
+              "details": "Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Curse of Lust",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Lore of Lust",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+100pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Lust",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Ritual Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Ritual Hammer",
+          "options": [
+            {
+              "name": "Ritual Spear",
+              "details": "A1, PA (1), Mortel (3), Surcharge",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Ritual Blade",
+              "details": "A3, Perforant, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Perfect Sword",
+              "details": "A3, Fracasse",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Arm-Crossbow",
+              "details": "12\", A4, Surcharge",
+              "cost": "Free"
+            },
+            {
+              "name": "Crossbow",
+              "details": "18\", A2, PA (1), Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Ritual Gauntlet",
+              "details": "A3, PA (3), Surcharge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fury Wings",
+              "details": "Volant, Éclaireur",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Symbol of Lust",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lust Favour",
+              "details": "Aura de Renforcement Lie a la Luxure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Gift of Lust",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Envoy of Lust",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Lore of Lust",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion of Lust",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Blade",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Ritual Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Ritual Hammer and Blade",
+          "options": [
+            {
+              "name": "Blade",
+              "details": "A1, Surcharge",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "2x Perfect Sword",
+              "details": "A2, Fracasse",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Arm-Crossbow",
+              "details": "12\", A4, Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "18\", A2, PA (1), Surcharge",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Perfect Sword",
+          "options": [
+            {
+              "name": "Ritual Blade",
+              "details": "A2, Perforant, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Ritual Gauntlet",
+              "details": "A2, PA (3), Surcharge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Lust Beast",
+              "details": "Toxin Claws, Rapide",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Razor-Flail Chariot",
+              "details": "Armure (3), Rapide, Effrayant (1), Impact (6), Coriace (6)",
+              "cost": "+135pts"
+            },
+            {
+              "name": "Bonded Harbinger",
+              "details": "Great Claws, Armure (2), Effrayant (1), Coriace (6)",
+              "cost": "+145pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Symbol of Lust",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Icon of Lust",
+              "details": "Aura d'Inarretable au Tir",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Lust Favour",
+              "details": "Aura de Renforcement Lie a la Luxure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy of Lust",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Lore of Lust",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fury Champion of Lust",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Blade",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Ritual Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Ritual Hammer and Blade",
+          "options": [
+            {
+              "name": "Blade",
+              "details": "A1, Surcharge",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "2x Perfect Sword",
+              "details": "A2, Fracasse",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Arm-Crossbow",
+              "details": "12\", A4, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Crossbow",
+              "details": "18\", A2, PA (1), Surcharge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Perfect Sword",
+          "options": [
+            {
+              "name": "Ritual Blade",
+              "details": "A2, Perforant, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Ritual Gauntlet",
+              "details": "A2, PA (3), Surcharge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Symbol of Lust",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Icon of Lust",
+              "details": "Aura d'Inarretable au Tir",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gift of Lust",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Envoy of Lust",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infernal Siren",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lié à la Luxure",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Infernal Harp",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect, Inarrêtable"
+        },
+        {
+          "name": "Blade",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Song of Banishment",
+              "details": "Tempete de Luxure",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Song of War",
+              "details": "Génération (Lust Warriors [5])",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lust Warriors",
+      "size": 5,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Perfect Sword",
+              "details": "A1, Fracasse",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge, Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2), Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2, Surcharge",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Banner of Lust",
+              "details": "Aura de Marcheur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lust Furies",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Perfect Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fracasse"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Perfect Claws",
+          "options": [
+            {
+              "name": "Rending Claws",
+              "details": "A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Armblades",
+              "details": "A2, PA (1), Surcharge",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooter-Furies",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Arm-Crossbow",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Arm-Crossbows",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "18\", A1, PA (1), Surcharge",
+              "cost": "Free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lust Shooters",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Arm-Crossbow",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Arm-Crossbows",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "18\", A1, PA (1), Surcharge",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lust Beast Riders",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Perfect Sword",
+              "details": "A1, Fracasse",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Lust Boon",
+              "details": "Riposte (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snake Swarms",
+      "size": 3,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Lust Soul Spawns",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Mutated Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Mutated Claws",
+          "options": [
+            {
+              "name": "Heavy Ritual Blade",
+              "details": "A3, Perforant, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Mutated Perfect Claws",
+              "details": "A4, Fracasse",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lust Fiend",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Impact (4)",
+        "Coriace (6)",
+        "Éclaireur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Razor-Flail Chariot",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Impact (4)",
+        "Coriace (6)",
+        "Rapide",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Razor-Flail Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge, Percée"
+        },
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Razor-Flail Crew",
+          "options": [
+            {
+              "name": "Great Crossbow",
+              "details": "24\", A1, PA (2), Mortel (6), Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Crossbow Crew",
+              "details": "18\", A6, PA (1), Surcharge",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Lust",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sacred Mirror",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Coriace (6)",
+        "Lié à la Luxure",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Horrific Reflection",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Crew Attack",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Horrific Reflection",
+          "options": [
+            {
+              "name": "Focused Reflection",
+              "details": "18\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Curse of Lust",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Seductive Reflection",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul Daemon of Lust",
+      "size": 1,
+      "cost": 625,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Lié à la Luxure"
+      ],
+      "weapons": [
+        {
+          "name": "Lust Cannon",
+          "range": "24\"",
+          "attacks": "A9",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Lust Sword",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Lust Sword",
+          "options": [
+            {
+              "name": "Heavy Lust Sword",
+              "details": "A12, PA (2), Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Giant Perfect Sword",
+              "details": "A18, Fracasse",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Lust Cannon",
+          "options": [
+            {
+              "name": "Heavy Lust Cannon",
+              "details": "24\", A6, PA (2), Surcharge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Perfect Cannon",
+              "details": "18\", A18, Fracasse",
+              "cost": "+155pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Lust",
+              "details": "Marque de Tir rapide",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

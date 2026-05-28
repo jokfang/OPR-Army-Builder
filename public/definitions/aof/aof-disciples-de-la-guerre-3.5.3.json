@@ -1,0 +1,1575 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/TjNtGnCDVts3l3ER?armyName=War+Disciples",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/TjNtGnCDVts3l3ER?armyName=War+Disciples",
+  "sourceBookUid": "TjNtGnCDVts3l3ER",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Disciples de la Guerre",
+  "version": "3.5.3",
+  "introduction": "Les Disciples du Havoc sont ceux qui ont embrassé un dieu du Havoc particulier. Chaque dieu accorde à ses fidèles des dons et des pouvoirs uniques. Leurs bandes de guerre sont donc spécialisées et façonnées selon les caprices de leur divinité.\n\nAbandonnées par l'Empire, les tribus du Nord furent approchées par différents dieux qui leur offrirent une chance de survivre en échange de leur adoration. Chacun renforça ses disciples à sa manière, les reforgant selon sa volonté. Après leur défaite lors des Guerres du Havoc, les Disciples furent coupés de leurs anciens mécènes, mais avec l'ouverture de la Faille, ils brûlent de renouer leurs pactes après de longues années d'exil amer.",
+  "backgroundStory": "L'arrivée des Dieux du Havoc sur Tyria provoqua une grande instabilité, car certains commencèrent à vouer un culte à ces nouvelles divinités. L'Empire rappela nombre de ses troupes pour défendre sa capitale et les régions voisines, espérant y mater les rébellions, tandis que les tribus du Nord furent abandonnées à leur sort face aux dangers.\n\nLe regard des Dieux du Havoc se tourna bientôt vers cette province délaissée, à la recherche de convertis et de champions. Chaque dieu du Havoc chercha à attirer à lui les individus prometteurs et les tribus puissantes, accordant à ses favoris divers bienfaits en échange de leur dévotion.\n\nLe Dieu de la Guerre offrait la force, permettant à ses disciples de triompher de leurs ennemis. Le Changement accordait le savoir et une puissante magie. La Peste offrait une vitalité renouvelée à ceux frappés par la maladie. Quant à la Luxure, elle proposait rédemption et pouvoir à ceux que l'Empire avait rejetés.\n\nCes dons apportèrent une nouvelle espérance aux tribus désespérées que l'Empire avait abandonnées. Ceux qui acceptaient le pacte recevaient de puissants dons de leurs mécènes, qui les reforgaient à leur image. En retour, ces Disciples du Havoc faisaient preuve d'une loyauté fanatique, prêts à consacrer leur vie au dieu qui les avait choisis. Chaque tribu se définissait désormais par son culte, forgeant son identité dans sa dévotion à son mécène. Lorsque les Guerres du Havoc éclatèrent pleinement, les tribus du Nord avaient été totalement transformées, chacune embrassant un ou plusieurs dieux du Havoc.\n\nQuand les Dieux du Havoc furent capturés, leurs fidèles les plus fanatiques furent soudain privés du sens de leur existence. Certains combattirent jusqu'à la mort pour venger leur dieu. D'autres s'enfuirent vers le nord, dispersés et affaiblis, mais toujours survivants. Ils gardèrent une longue veille, infligeant la vengeance qu'ils pouvaient tout en attendant le retour de leur mécène. Mais sans direction ni espoir, beaucoup sombrèrent dans le désespoir. De mesquins conflits éclatèrent entre les bandes vouées à des dieux différents, chacune cherchant sur l'autre la responsabilité de la défaite.\n\nPuis la Grande Faille s'ouvrit, libérant à nouveau leurs dieux sur Tyria. Les Disciples du Havoc se retrouvent portés par un nouvel espoir, désireux de prouver leur loyauté à leurs anciens maîtres. Pourtant, l'amertume de la défaite et les rivalités persistent, car beaucoup se souviennent de leurs années passées dans l'ombre, et ils ne sont plus la force unie qui ravageait jadis le monde.\n\nComment ta dévotion te guidera-t-elle ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Guerrier-né",
+      "keywords": [
+        "Warbound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Dechiquetage en mêlée",
+      "keywords": [
+        "Shred in Melee"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Terrain Dangereux",
+      "keywords": [
+        "Dangerous Terrain Debuff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Combattant sanguinaire",
+      "keywords": [
+        "Bloodthirsty Fighter"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Défense versatile",
+      "keywords": [
+        "Versatile Defense"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Voile fluctuant",
+      "keywords": [
+        "Ranged Shrouding"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    },
+    {
+      "name": "Boost de Guerrier-né",
+      "keywords": [
+        "Warbound Boost"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Défense versatile",
+      "keywords": [
+        "Versatile Defense Aura"
+      ]
+    },
+    {
+      "name": "Aura de Dechiquetage au Tir",
+      "keywords": [
+        "Shred when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile fluctuant",
+      "keywords": [
+        "Ranged Shrouding Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inebranlable",
+      "keywords": [
+        "Steadfast Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Guerrier-né",
+      "keywords": [
+        "Warbound Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Fureur terrifiante",
+      "cost": 1,
+      "keywords": [
+        "Terrifying Fury"
+      ]
+    },
+    {
+      "name": "Flamme de la destruction",
+      "cost": 1,
+      "keywords": [
+        "Flame of Destruction"
+      ]
+    },
+    {
+      "name": "Protection Ardente",
+      "cost": 2,
+      "keywords": [
+        "Fiery Protection"
+      ]
+    },
+    {
+      "name": "Massacre Brutal",
+      "cost": 2,
+      "keywords": [
+        "Brutal Massacre"
+      ]
+    },
+    {
+      "name": "Bénédiction guerrière",
+      "cost": 3,
+      "keywords": [
+        "War Boon"
+      ]
+    },
+    {
+      "name": "Décapitation",
+      "cost": 3,
+      "keywords": [
+        "Headtaker Strike"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "War Chosen Havoc Master",
+      "size": 1,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Attaque polyvalente",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Beast",
+              "details": "Rapide, Impact (2), Coriace (3), Heavy Claws (A1, PA (1))",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Daemon Mount",
+              "details": "Heavy Claws, Rapide, Effrayant (1), Impact (2), Coriace (3)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Chariot",
+              "details": "Hooves, Rapide, Impact (4), Coriace (6)",
+              "cost": "+135pts"
+            },
+            {
+              "name": "Beast Chariot",
+              "details": "Heavy Claws, Rapide, Effrayant (1), Impact (4), Coriace (6)",
+              "cost": "+150pts"
+            },
+            {
+              "name": "Manticore",
+              "details": "Perforant Claws, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+180pts"
+            },
+            {
+              "name": "Havoc Dragon",
+              "details": "Coriace (12), Attaque de souffle, Effrayant (2), Volant, Stomp, Heavy Claws",
+              "cost": "+350pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Marauder",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Aura de Voile fluctuant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Conqueror",
+              "details": "Aura d’Éclaireur",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of War",
+              "details": "Aura de Boost du Guerrier-né",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master Sorcerer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Havoc Master",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Beast",
+              "details": "Rapide, Impact (2), Coriace (3), Heavy Claws (A1, PA (1))",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Daemon Mount",
+              "details": "Heavy Claws, Rapide, Effrayant (1), Impact (2), Coriace (3)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Chariot",
+              "details": "Hooves, Rapide, Impact (4), Coriace (6)",
+              "cost": "+135pts"
+            },
+            {
+              "name": "Beast Chariot",
+              "details": "Heavy Claws, Rapide, Effrayant (1), Impact (4), Coriace (6)",
+              "cost": "+150pts"
+            },
+            {
+              "name": "Manticore",
+              "details": "Perforant Claws, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+180pts"
+            },
+            {
+              "name": "Havoc Dragon",
+              "details": "Coriace (12), Attaque de souffle, Effrayant (2), Volant, Stomp, Heavy Claws",
+              "cost": "+350pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Marauder",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Aura de Voile fluctuant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Conqueror",
+              "details": "Aura d’Éclaireur",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of War",
+              "details": "Aura de Boost du Guerrier-né",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master Sorcerer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Barbarian Champion",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shortbow",
+              "details": "18\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Barbed Javelin",
+              "details": "12\", A2, PA (1), Lacération",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Raid Master",
+          "options": [
+            {
+              "name": "Horse Master",
+              "details": "Rapide, Impact (1), Avant-garde",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Herald",
+              "details": "Aura de Dechiquetage au Tir",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Marauder",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Aura de Voile fluctuant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of War",
+              "details": "Aura de Boost du Guerrier-né",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Barbarian Raiders",
+      "size": 10,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Éclaireur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Flail",
+              "details": "A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Gore Reavers",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né",
+        "Combattant sanguinaire"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Warriors",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A2, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Chosen Warriors",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Attaque polyvalente",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A2, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Mutants",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Combattant imprévisible",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Mutated Limbs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "War Gore Warriors",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né",
+        "Assaut perforant",
+        "Combattant sanguinaire"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A2, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Death-Mongers",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (2)",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Flail-Hammers",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "War Death-Reapers",
+      "size": 3,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Guerrier-né",
+        "Assaut perforant"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hexed Weapons",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Dual Hexed Weapons",
+          "options": [
+            {
+              "name": "Hexed Great Weapon",
+              "details": "A4, PA (2), Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Barbarian Hunters",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Shortbows",
+          "options": [
+            {
+              "name": "Barbed Javelin",
+              "details": "12\", A1, PA (1), Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Havoc Hounds",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Vicious",
+              "details": "Dechiquetage en mêlée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Malicious Predators",
+          "options": [
+            {
+              "name": "Bounding Advance",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Barbarian Horsemen",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Impact (1)",
+        "Avant-garde",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Flail",
+              "details": "A1, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Shortbow",
+              "details": "18\", A1",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Barbed Javelin",
+              "details": "12\", A1, PA (1), Lacération",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Havoc Knights",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Beast Knights",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Wrath Beast",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Furieux",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Beast Master",
+              "details": "Sans peur, Régénération",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Havoc Shrine",
+      "size": 1,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Fists",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Battle Aura",
+              "details": "Bonus de Combattant precis",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Summoned Tendrils",
+              "details": "Affaiblissement de Terrain Dangereux",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Havoc Chariot",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Crew Attack",
+          "options": [
+            {
+              "name": "Barbed Javelin Crew",
+              "details": "12\", A6, PA (1), Lacération",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Summoned Tendrils",
+              "details": "Affaiblissement de Terrain Dangereux",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Beast Chariot",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Impact (4)",
+        "Coriace (6)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,1700 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/VU1EFPa2uODffW8D?armyName=Duchies+of+Vinci",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/VU1EFPa2uODffW8D?armyName=Duchies+of+Vinci",
+  "sourceBookUid": "VU1EFPa2uODffW8D",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Duchés de Vinci",
+  "version": "3.5.3",
+  "introduction": "Les Duchés de Vinci forment une armée d'Humains hautement avancés, assistés par leurs automates robotiques. Sur le champ de bataille, ils misent sur la guerre à distance à l'aide d'arbalètes et de canons, soutenus par les Automa, plus résistants.\n\nAutrefois simple ensemble de villages pauvres, les Vinci découvrirent les Pierre-Esprits augmentant l'intelligence dans le sillage de la Faille. Ils ont gagné une immense richesse et un grand savoir, mais protègent jalousement leurs secrets et leurs Pierre-Esprits afin de ne pas retomber dans la misère. Avec le temps toutefois, leur isolationnisme a nourri les rivalités entre les Duchés et provoqué leur stagnation.",
+  "backgroundStory": "Les Vinci comptaient autrefois parmi les peuples les plus pauvres de Tyria, maigre rassemblement de villages bâtis dans des marécages. Dépourvus de toute véritable source de richesse, ils vivaient d'une agriculture de subsistance et étaient largement méprisés par le reste de l'Empire ainsi que par les étrangers, qui ne voyaient en eux que de simples paysans.\n\nLorsque la Grande Faille s'ouvrit, les terres des Vinci furent ravagées par de violents tremblements de terre. Peu après cependant, des pierres lumineuses commencèrent à émerger des profondeurs de la terre. Ceux qui les étudièrent découvrirent rapidement que ces pierres amélioraient leur esprit, leur permettant des percées extraordinaires en matière d'ingénierie, de science et d'artisanat. Grâce à elles, les Vinci transformèrent rapidement leurs modestes villages en centres d'innovation.\n\nLes seigneurs et inventeurs les plus puissants se partagèrent les plus grandes réserves de Pierre-Esprit et consolidèrent leur pouvoir, donnant naissance aux premiers Duchés. Chaque Duché chercha à surpasser les autres par l'ingéniosité de ses machines, de ses armes et de ses fortifications. Leur prospérité grandissante attira bientôt l'attention de voisins plus puissants, et les Vinci apprirent à défendre leurs découvertes avec une férocité croissante.\n\nÀ mesure que leur richesse augmentait, les Duchés se refermèrent sur eux-mêmes. Les secrets furent jalousement gardés, les savoirs partagés avec parcimonie, et la peur de voir leurs Pierre-Esprits convoitées renforça une culture de méfiance. Cette prudence leur permit de survivre, mais elle alimenta aussi les rivalités entre Duchés. Nombre d'entre eux préférèrent empêcher leurs voisins de progresser plutôt que d'unir leurs efforts.\n\nAujourd'hui, les Duchés de Vinci sont riches, raffinés et puissamment armés, mais aussi divisés. Leurs automates et leurs merveilles mécaniques témoignent d'un génie sans égal, tandis que leurs querelles internes freinent leur essor. Entre ambition, paranoïa et désir de préserver leur indépendance, ils avancent avec prudence dans un monde qui convoite leurs secrets.\n\nComment mèneras-tu ton Duché vers la grandeur '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Tech Vinci",
+      "keywords": [
+        "Vinci Tech"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Ignore le couvert",
+      "keywords": [
+        "Ignores Cover"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Protege",
+      "keywords": [
+        "Protected"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Marque de Precision au Tir",
+      "keywords": [
+        "Precision Shooting Mark"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Observateur de Precision",
+      "keywords": [
+        "Precision Spotter"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Marque d'Augmentation de Portee de Tir",
+      "keywords": [
+        "Increased Shooting Range Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Renforcement Tech Vinci",
+      "keywords": [
+        "Vinci Tech Boost"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Avance rapide",
+      "keywords": [
+        "Rapid Advance"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tireur imprévisible",
+      "keywords": [
+        "Unpredictable Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Tech Vinci",
+      "keywords": [
+        "Vinci Tech Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Avance rapide",
+      "keywords": [
+        "Rapid Advance Aura"
+      ]
+    },
+    {
+      "name": "Aura Imparable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Feuilles Clairevue",
+      "cost": 1,
+      "keywords": [
+        "Clearview Leaves"
+      ]
+    },
+    {
+      "name": "Concoction Explosive",
+      "cost": 1,
+      "keywords": [
+        "Explosive Concoction"
+      ]
+    },
+    {
+      "name": "Huiles Mesmeriques",
+      "cost": 2,
+      "keywords": [
+        "Mesmer Oils"
+      ]
+    },
+    {
+      "name": "Brouillard Etouffant",
+      "cost": 2,
+      "keywords": [
+        "Choking Fog"
+      ]
+    },
+    {
+      "name": "Herbes de Fureur",
+      "cost": 3,
+      "keywords": [
+        "Fury Herbs"
+      ]
+    },
+    {
+      "name": "Gaz Neurotoxique",
+      "cost": 3,
+      "keywords": [
+        "Neurotoxin Gas"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Vinci Leader",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Poisoned Armblades",
+              "details": "A4, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Advanced Rapid Handbow",
+              "details": "9\", A3, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Advanced Slayerbolt Crossbow",
+              "details": "18\", A2, Désintegration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Advanced Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Automa Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Automa Pigeon",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Stealth Assassin",
+              "details": "Embuscade, Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Automa Boar",
+              "details": "Metal Tusks, Armure (3), Rapide, Impact (2), Coriace (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Automa Bird",
+              "details": "Heavy Claws, Armure (3), Effrayant (1), Volant, Coriace (6)",
+              "cost": "+140pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bot-Bow Drone",
+              "details": "18\", A1, PA (1), Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sawblade Drone",
+              "details": "A2, Perforant, Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mindstone Protector",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "War Master",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura d'Avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Munitioner",
+              "details": "Aura de Tueur a Distance",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vinci Scholar",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Cog-Explosives",
+              "details": "12\", A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sleeve-Shooter",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Automa Leader",
+              "details": "Sans peur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Automa Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Automa Helper",
+              "details": "Guérison",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sawblade Drone",
+              "details": "A2, Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bot-Bow Drone",
+              "details": "18\", A1, PA (1), Perforant, Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Artillery Inventor",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Mindstone Protector",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura d'Avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Munitioner",
+              "details": "Aura de Tueur a Distance",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Alchemist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Inventor",
+              "details": "Aura de Renforcement Tech Vinci",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Militia",
+      "size": 10,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to two models with one",
+          "options": [
+            {
+              "name": "Bot-Bow Drone",
+              "details": "18\", A1, PA (1), Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sawblade Drone",
+              "details": "A2, Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Markerflare Drone",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assassins",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Furtif",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Armblades",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Poisoned Blades",
+              "details": "Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Throwing Knives",
+              "details": "12\", A1",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harlequins",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Juggler Bombs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Knife",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Juggler Bombs and Knives",
+          "options": [
+            {
+              "name": "Club",
+              "details": "A2, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automa Drones",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Tech Vinci",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Bot-Sawblades",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Bot-Sawblades",
+          "options": [
+            {
+              "name": "Bot-Bows",
+              "details": "18\", A1, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automa Guard",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tech Vinci",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Arm-Bow",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Self-Repairing",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scouts",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Handbow",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Metal Spurs",
+              "details": "Impact (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Bot-Bow Drone",
+              "details": "18\", A1, PA (1), Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sawblade Drone",
+              "details": "A2, Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Markerflare Drone",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Guard",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Slayerbolt Crossbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Slayerbolt Crossbow",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotbow",
+              "details": "12\", A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all Crossbows with one",
+          "options": [
+            {
+              "name": "Heavy Bolts",
+              "details": "Ignore le couvert",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flame Bolts",
+              "details": "Fléau",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Sawblade Drone",
+              "details": "A2, Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bot-Bow Drone",
+              "details": "18\", A1, PA (1), Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Markerflare Drone",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Slayerbolt Snipebow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fiable, Désintegration, Élimination"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Slayerbolt Snipebow",
+          "options": [
+            {
+              "name": "Snipebow",
+              "details": "30\", A1, Perforant, Élimination, Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Pavise Shield",
+              "details": "Blindé, Lent",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Markerflare Drone",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aerea Guard",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Heavy Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Heavy Claws",
+          "options": [
+            {
+              "name": "Heavy Slayerbolt Crossbow",
+              "details": "18\", A2, Désintegration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Slayerbolt Crossbow",
+          "options": [
+            {
+              "name": "Heavy Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Shotbow",
+              "details": "12\", A4, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all Heavy Crossbows with one",
+          "options": [
+            {
+              "name": "Heavy Bolts",
+              "details": "Ignore le couvert",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Flame Bolts",
+              "details": "Fléau",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automa Brutes",
+      "size": 3,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Tech Vinci",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Handbow",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Brute Lance",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Self-Repairing",
+              "details": "Régénération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automa Cavalry",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Rapid Handbow",
+              "details": "9\", A2, Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Cavalry",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Metal Tusks",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vita Aerea",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Volant",
+        "Coriace (6)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Slayerbolt Crossbow Crew",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Slayerbolt Crossbow Crew",
+          "options": [
+            {
+              "name": "Crossbow Crew",
+              "details": "24\", A4, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Crossbow Crew",
+              "details": "24\", A6, Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Forward Deployment",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spotting Scope",
+              "details": "Marque d'Augmentation de Portee de Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Wagon",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Transport (11)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Repeater Slayerbolt Crossbow",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Repeater Slayerbolt Crossbow",
+          "options": [
+            {
+              "name": "Repeater Crossbow",
+              "details": "18\", A6, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Light Mortar",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Spotting Scope",
+              "details": "Marque d'Augmentation de Portee de Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carro Armato",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Impact (6)",
+        "Renforcé",
+        "Coriace (9)",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Cannon Battery",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Repeater Crossbow",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vinci Artillery",
+      "size": 1,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Tech Vinci",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Ribauldequin",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Ribauldequin",
+          "options": [
+            {
+              "name": "Scout-Gunner Slingshot",
+              "details": "30\", A1, PA (1), Mortel (3), Indirect, Élimination",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Spingarde",
+              "details": "30\", A2, PA (1), Explosion (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Scout-Bomber Slingshot",
+              "details": "24\", A2, Explosion (3), Indirect, Precise",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Heavy Spingarde",
+              "details": "30\", A2, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Mortar",
+              "details": "36\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vinci Titan",
+      "size": 1,
+      "cost": 940,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Tech Vinci",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Side-Cannon Array",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Mouth-Cannon",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Vulcolato Bull Titan",
+          "options": [
+            {
+              "name": "Milfilumi Turtle Titan",
+              "details": "Shoulder-Cannons, Heavy Mortar",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Paretemi Bear Titan",
+              "details": "Super-Heavy Cannon",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Cargo Hold",
+              "details": "Transport (21)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gereppetto",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Assault Handbows",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Dual Brute Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Mambrecco",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Rapide",
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Bull Horns",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Lance of Memory",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant, Percée"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Lucrezza",
+      "size": 1,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Carmia",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Limité, Fiable, Élimination"
+        },
+        {
+          "name": "Cressian Falchion",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Mantissa",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Eyebiter Snipebow",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Fiable, Surcharge, Élimination"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Zairetia",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (1)",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Bellow",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ignatio",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Tech Vinci"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

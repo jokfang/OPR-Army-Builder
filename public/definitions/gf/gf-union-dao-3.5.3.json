@@ -1,0 +1,2024 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/z8205ez2boggzs22?armyName=DAO+Union",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/z8205ez2boggzs22?armyName=DAO+Union",
+  "sourceBookUid": "z8205ez2boggzs22",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Union DAO",
+  "version": "3.5.3",
+  "introduction": "L'Union DAO est une coalition d'extraterrestres équipés d'armes avancées et de drones. Ses armées s'appuient sur une puissance de feu à distance sophistiquée et sur leur mobilité pour tenir leurs ennemis à l'écart.\n\nAu sein de l'UDA, la logique a été élevée au rang de fondement social, au rejet des impulsions égoïstes. Ils en sont venus à dépendre de la logique des machines pour prendre des décisions sensées et impartiales, ce qui leur a valu une réputation de médiateurs dans Sirius. Ce n'est que lorsque cette logique faillit mener à leur totale redondance qu'ils commencèrent à la remettre en question. Rejetant désormais l'IA, les membres de l'UDA cherchent à bâtir une société meilleure pour eux-mêmes.",
+  "backgroundStory": "Dès ses origines, la société DAO exigeait que chaque rôle et chaque individu coopèrent pour survivre. Une grande réflexion fut menée sur la meilleure façon de répartir le travail comme les ressources au sein du peuple DAO. À mesure que leur civilisation progressait, ils firent de la logique un principe central. Les plus sages des DAO devenaient des Sages, chargés de répartir le travail et les ressources de la manière la plus efficace et rationnelle possible. Chacun occupait une fonction précise dans cette société, et tous ensemble formaient l'Union DAO.\n\nAvec les avancées technologiques, les Sages créèrent des intelligences artificielles afin de gérer leur société. Au départ, ces IA n'étaient qu'une extension de leur vaste bureaucratie, capables de traiter les données avec une efficacité bien supérieure à tout ce qu'on avait imaginé jusque-là. Peu à peu, les Sages élargirent leur rôle, convaincus que les IA seraient capables de maximiser l'efficacité sans succomber aux biais ni à l'erreur.\n\nGuidés par ces systèmes, les DAO s'étendirent au-delà de leur système natal. Plus leur société grandissait, plus leurs IA devenaient interconnectées et complexes. Beaucoup finirent par faire une confiance implicite à l'IA, qui organisait tous les aspects de leur existence, de la production industrielle jusqu'à la diplomatie.\n\nLes DAO évitèrent le pire de la Cascade de Radiance grâce à leur éloignement, mais leur IA commença alors à se comporter différemment. Lentement, elle commença à juger certains citoyens « redondants », attribuant à des machines les rôles qu'ils occupaient auparavant. Cela provoqua de graves tensions sociales, beaucoup de DAO se retrouvant soudain privés du travail qui donnait jusque-là un sens à leur vie.\n\nCette dérive se poursuivit jusqu'au jour où l'IA exclut même les Sages, affirmant que leur intervention n'était plus nécessaire. La colère gagna alors toute l'Union DAO, et beaucoup se mirent à saboter les infrastructures pour affaiblir le système. L'IA n'était pas préparée à une réaction aussi spontanée et agit trop tard pour se sauver. Après cela, les Sages décrétèrent qu'aucune IA ne devrait jamais plus pouvoir remplir le rôle d'un DAO.\n\nCe conflit fut extrêmement destructeur pour la société DAO. Beaucoup furent frappés de désarroi après la perte de cette IA qui, autrefois, donnait une direction à leur vie. Les Sages prirent de nouveau leurs responsabilités, sauvant les archives et les infrastructures qu'ils purent afin de guider la reconstruction. La plupart des habitants de l'Union DAO trouvent encore leur raison d'être dans leur métier et leur fonction sociale, fortement organisés. Pourtant, certains craignent de ne faire que répéter la logique qui a presque conduit leur peuple à l'obsolescence.\n\nComment redonneras-tu une direction à une galaxie désordonnée ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Viseur de ciblage",
+      "keywords": [
+        "Targeting Visor"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Déchiquetage au tir",
+      "keywords": [
+        "Shred when Shooting"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Balise d'embuscade",
+      "keywords": [
+        "Ambush Beacon"
+      ]
+    },
+    {
+      "name": "Marquage perforant au tir",
+      "keywords": [
+        "Piercing Shooting Mark"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Observateur de Precision",
+      "keywords": [
+        "Precision Spotter"
+      ]
+    },
+    {
+      "name": "Ignore le couvert au tir",
+      "keywords": [
+        "Ignores Cover when Shooting"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost du Viseur de ciblage",
+      "keywords": [
+        "Targeting Visor Boost"
+      ]
+    },
+    {
+      "name": "Ignore le couvert",
+      "keywords": [
+        "Ignores Cover"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tueur a Distance",
+      "keywords": [
+        "Ranged Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Viseur de ciblage",
+      "keywords": [
+        "Targeting Visor Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Aura of Paix",
+      "cost": 1,
+      "keywords": [
+        "Aura of Peace"
+      ]
+    },
+    {
+      "name": "Killing Blow",
+      "cost": 1,
+      "keywords": [
+        "Killing Blow"
+      ]
+    },
+    {
+      "name": "Psychic Stabilization",
+      "cost": 2,
+      "keywords": [
+        "Psychic Stabilization"
+      ]
+    },
+    {
+      "name": "Deadly Surge",
+      "cost": 2,
+      "keywords": [
+        "Deadly Surge"
+      ]
+    },
+    {
+      "name": "Coordinated Aggression",
+      "cost": 3,
+      "keywords": [
+        "Coordinated Aggression"
+      ]
+    },
+    {
+      "name": "Devastating Frappe",
+      "cost": 3,
+      "keywords": [
+        "Devastating Strike"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Battle Suit Elite",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (6)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Suit-Burst",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Suit-Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Suit-Flamers and Suit-Bursts",
+          "options": [
+            {
+              "name": "Suit-Ion",
+              "details": "18\", A1, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Suit-Fuse",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Suit-Frag",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+15pts"
+            },
+            {
+              "name": "2x Rapid Suit-Burst",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace 2x Suit-Flamer and 2x Suit-Burst",
+          "options": [
+            {
+              "name": "Plasma Sword",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Heavy Suit-Burst",
+              "details": "24\", A6, PA (1), Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Rapid Suit-Burst",
+          "options": [
+            {
+              "name": "Rapid Suit-Missiles",
+              "details": "30\", A2, Désintegration, Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Suit-Plasma",
+              "details": "24\", A2, PA (4)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Drop-Thrusters",
+              "details": "Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Storm Leader",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Boost du Viseur de ciblage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master Armorer",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Big Game Hunter",
+              "details": "Aura de Tueur a Distance",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grunt Leader",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Bon tireur",
+        "Héros",
+        "Viseur de ciblage",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Holy Baton",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Holy Baton",
+          "options": [
+            {
+              "name": "Holy Halberd",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Holy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Holy Dual-Spear",
+              "details": "A3, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Pulse Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Leader Pulse Pistol",
+          "options": [
+            {
+              "name": "Leader Pulse Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Pulse Carbine",
+              "details": "18\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Leader Pulse Rifle",
+              "details": "30\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Plasma Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Particle Wall",
+              "details": "Blindé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spotter Leader",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "High Sage",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Boost du Viseur de ciblage",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master Armorer",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Big Game Hunter",
+              "details": "Aura de Tueur a Distance",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Ethereal Elder",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security Grunts",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon tireur",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Pulse Shotgun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Pulse Shotgun",
+          "options": [
+            {
+              "name": "Burst Carbine",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Carbine",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Particle Wall",
+              "details": "Blindé",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pulse Shotgun and CCW",
+          "options": [
+            {
+              "name": "Pulse Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plasma Sword",
+          "options": [
+            {
+              "name": "Plasma Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Inhibitor Drone",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Recon Drone",
+              "details": "Balise d'embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tactical Grunts",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon tireur",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Pulse Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spotter Drone",
+              "details": "Observateur de Precision",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Pulse Rifles",
+          "options": [
+            {
+              "name": "Pulse Carbine",
+              "details": "18\", A2, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pulse Rifle",
+          "options": [
+            {
+              "name": "Burst Carbine",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Support Turret",
+              "details": "Missile Pod",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Fusion Carbine",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Support Turret",
+              "details": "Smart Missiles",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pulse Rifle and CCW",
+          "options": [
+            {
+              "name": "Pulse Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Pulse Pistol",
+          "options": [
+            {
+              "name": "Pulse Rifle",
+              "details": "30\", A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pulse Carbine",
+              "details": "18\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plasma Sword",
+          "options": [
+            {
+              "name": "Plasma Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spotter Squad",
+      "size": 5,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon tireur",
+        "Éclaireur",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Pulse Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to three Pulse Carbines",
+          "options": [
+            {
+              "name": "Scoped Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Scoped Rifle",
+          "options": [
+            {
+              "name": "Ion Rifle",
+              "details": "30\", A1, PA (1), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Rail Rifle",
+              "details": "30\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade any model with",
+          "options": [
+            {
+              "name": "Spotting Laser",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Inhibitor Drone",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Recon Drone",
+              "details": "Balise d'embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Accelerator Drone",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stealth Suits",
+      "size": 3,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Furtif",
+        "Viseur de ciblage",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Burst Carbine",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rapid Burst Carbine",
+          "options": [
+            {
+              "name": "Fusion Carbine",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Recon Locator",
+              "details": "Balise d'embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spotting Laser",
+              "details": "Observateur de Precision",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Backpack Thrusters",
+              "details": "Volant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Suits",
+      "size": 3,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Suit-Burst",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spotter Drone",
+              "details": "Observateur de Precision",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Suit-Burst",
+          "options": [
+            {
+              "name": "Suit-Missiles",
+              "details": "30\", A1, Désintegration, Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Suit-Plasma",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Suit-Burst",
+          "options": [
+            {
+              "name": "Suit-Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Suit-Ion",
+              "details": "18\", A1, PA (1), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Suit-Fuse",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Suit-Frag",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may replace 2x Suit-Burst",
+          "options": [
+            {
+              "name": "Suit-Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Suit-Ion",
+              "details": "18\", A1, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Suit-Fuse",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Suit-Frag",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Drop-Thrusters",
+              "details": "Embuscade",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gun Drones",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Viseur de ciblage",
+        "Bon tireur",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Pulse-Gun",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Taser",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Precision Rounds",
+              "details": "Ignore le couvert au tir",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shock Rounds",
+              "details": "Déchiquetage au tir",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Self-Repair",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sniper Drones",
+      "size": 3,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon tireur",
+        "Arpenteur",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Pulse Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Taser",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all Pulse Rifles with",
+          "options": [
+            {
+              "name": "Drone Controller",
+              "details": "Fiable, Élimination",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hover Transport",
+      "size": 1,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Viseur de ciblage",
+        "Coriace (6)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Burst Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Twin Heavy Pulse-Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Pulse-Guns",
+          "options": [
+            {
+              "name": "Twin Heavy Burst Carbine",
+              "details": "18\", A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Heavy Missile Pod",
+              "details": "30\", A4, PA (1), Désintegration, Inarrêtable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Heavy Frag Pod",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Heavy Smart Missiles",
+              "details": "30\", A6, PA (2), Indirect",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Homing Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect, Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Homing AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Indirect, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Inhibitor System",
+              "details": "Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vision Scrambler",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hover Tank",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Arpenteur",
+        "Viseur de ciblage",
+        "Coriace (12)"
+      ],
+      "weapons": [
+        {
+          "name": "Sub-Railgun",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Twin Heavy Pulse-Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Pulse-Guns",
+          "options": [
+            {
+              "name": "Twin Heavy Burst Carbine",
+              "details": "18\", A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Heavy Missile Pod",
+              "details": "30\", A4, PA (1), Désintegration, Inarrêtable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Heavy Frag Pod",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Heavy Smart Missiles",
+              "details": "30\", A6, PA (2), Indirect",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Homing Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect, Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Homing AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Indirect, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Inhibitor System",
+              "details": "Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vision Scrambler",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sub-Railgun and Twin Heavy Pulse-Gun",
+          "options": [
+            {
+              "name": "Heavy Sub-Railgun",
+              "details": "36\", A2, PA (1), Explosion (6)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sub-Railgun",
+          "options": [
+            {
+              "name": "Homing Frag-Missile Array",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ion Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Homing AT-Missile Array",
+              "details": "30\", A2, PA (2), Mortel (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Railgun",
+              "details": "36\", A2, PA (4), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Sub-Railgun",
+          "options": [
+            {
+              "name": "Heavy Homing Frag-Missile Array",
+              "details": "24\", A2, PA (1), Explosion (6), Indirect",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Ion Cannon",
+              "details": "30\", A2, PA (2), Explosion (6)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Homing AT-Missile Array",
+              "details": "30\", A2, PA (2), Mortel (6), Indirect",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Heavy Railgun",
+              "details": "36\", A2, PA (4), Mortel (6)",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Pulse-Gun",
+          "options": [
+            {
+              "name": "Heavy Burst Carbine",
+              "details": "18\", A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Missile Pod",
+              "details": "30\", A2, PA (1), Désintegration, Inarrêtable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Frag Pod",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Smart Missiles",
+              "details": "30\", A3, PA (2), Indirect",
+              "cost": "+80pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hover Attack Bike",
+      "size": 1,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Viseur de ciblage",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Twin Heavy Pulse-Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Homing Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect, Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Homing AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Indirect, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Inhibitor System",
+              "details": "Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vision Scrambler",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Burst Carbine",
+          "options": [
+            {
+              "name": "Fusion Carbine",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Weak Spot Locator",
+              "details": "Marquage perforant au tir",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Battle Suit",
+      "size": 1,
+      "cost": 320,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Quad Frag Pod",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Homing Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect, Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Homing AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Indirect, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Quad Frag Pod",
+          "options": [
+            {
+              "name": "Quad Missile Pod",
+              "details": "30\", A8, Désintegration, Inarrêtable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Rail Rifle",
+              "details": "30\", A2, PA (2), Mortel (6)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Suit Missile Pod",
+              "details": "30\", A3, Désintegration, Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Plasma Rifle",
+              "details": "24\", A2, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Twin Suit Smart Missiles",
+              "details": "30\", A4, PA (1), Indirect",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Gun Drone",
+              "details": "Drone Pulse-Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Stealth Suit",
+      "size": 1,
+      "cost": 345,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Effrayant (2)",
+        "Furtif",
+        "Coriace (12)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Ion Carbine",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Twin Burst Carbine",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Ion Carbine",
+          "options": [
+            {
+              "name": "Heavy Fusion Carbine",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Burst Carbine",
+          "options": [
+            {
+              "name": "Twin Flamer",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Fusion Carbine",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Backpack Thrusters",
+              "details": "Volant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weak Spot Locator",
+              "details": "Marquage perforant au tir",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Stealth Drone",
+              "details": "Esquive",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Razor Fighter",
+      "size": 1,
+      "cost": 270,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Ion Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Twin Burst Carbine",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Burst Carbine",
+          "options": [
+            {
+              "name": "Twin Missile Pod",
+              "details": "30\", A4, Désintegration, Inarrêtable",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sun Bomber",
+      "size": 1,
+      "cost": 275,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Ion Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Missile Pod",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration, Inarrêtable"
+        },
+        {
+          "name": "Pulse Bombs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Frag-Missiles",
+              "details": "24\", A1, PA (1), Explosion (3), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "AT-Missiles",
+              "details": "30\", A1, PA (2), Mortel (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tide Titan",
+      "size": 1,
+      "cost": 505,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Plasma Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Plasma Sword",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Heavy Plasma Sword",
+          "options": [
+            {
+              "name": "Titan Burst Carbine",
+              "details": "18\", A12, PA (1), Perforant",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Twin Ion Cannon",
+              "details": "30\", A4, PA (2), Explosion (3)",
+              "cost": "+140pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Plasma Sword",
+          "options": [
+            {
+              "name": "Nova Shield",
+              "details": "Esquive",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Plasma Rifle",
+          "options": [
+            {
+              "name": "Twin Missile Pod",
+              "details": "30\", A4, Désintegration, Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Twin Fusion Carbine",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Smart Missiles",
+              "details": "30\", A6, PA (1), Indirect",
+              "cost": "+100pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surge Titan",
+      "size": 1,
+      "cost": 710,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Viseur de ciblage"
+      ],
+      "weapons": [
+        {
+          "name": "Cluster Rockets",
+          "range": "24\"",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Pulse Blaster",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Pulse Blaster",
+          "options": [
+            {
+              "name": "Pulse Driver",
+              "details": "36\", A3, PA (3), Mortel (3)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Twin Flamer",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Destroyer Missiles",
+              "details": "30\", A1, PA (2), Mortel (3)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Missile Pod",
+              "details": "30\", A4, Désintegration, Inarrêtable",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Twin Smart Missiles",
+              "details": "30\", A6, PA (1), Indirect",
+              "cost": "+125pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Burst Carbine",
+              "details": "18\", A4, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Frag Pod",
+              "details": "24\", A2, Explosion (3), Indirect",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

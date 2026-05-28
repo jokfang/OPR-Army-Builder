@@ -1,0 +1,1470 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/q9BQlBp583ZuuOnQ?armyName=Goblins",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/q9BQlBp583ZuuOnQ?armyName=Goblins",
+  "sourceBookUid": "q9BQlBp583ZuuOnQ",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Gobelins",
+  "version": "3.5.3",
+  "introduction": "Les Gobelins sont de petites créatures qui vivent dans les recoins sombres de Tyria, bâtissant leurs foyers là où les grands peuples ne prennent pas la peine de regarder. Ils comptent sur le nombre et la ruse pour venir à bout d'adversaires plus puissants.\n\nDepuis longtemps, ces petites créatures cherchent à se faire une place parmi les peuples de Tyria, mais les autres espèces les ignorent ou les traitent comme des nuisibles. Les Guerres du Havoc forcèrent les tribus à s'unir et leur valurent brièvement le respect de la Grande Alliance, mais cette considération s'évanouit rapidement, et les Gobelins peinent à nouveau à trouver leur place parmi les grands.",
+  "backgroundStory": "Les Gobelins comptent parmi les espèces les plus répandues et les plus adaptables de Tyria. Ils désignent la plupart des autres peuples sous le nom de « grands », et les observent souvent avec méfiance. Beaucoup de ces grands considèrent les Gobelins comme des voleurs et des parasites, et les chassent à vue. Les Gobelins les évitent donc autant que possible, sauf pour récupérer ce que les autres laissent derrière eux ou pour défendre leur foyer. Il existe toutefois des exceptions, car il est facile de gagner l'amitié d'un Gobelin avec un peu de respect, ou simplement avec de la nourriture.\n\nTandis que les tribus et les nations des grands s'emparaient des terres les plus riches et bâtissaient leurs royaumes à travers Tyria, les minuscules Gobelins furent repoussés vers tous les espaces restants. Ils apprirent à survivre dans ces lieux reculés, comme les forêts, les cavernes et autres refuges cachés. Cette adaptation donna naissance à une multitude de clans gobelins aux cultures, croyances et visions du monde très différentes, profondément influencées par leur environnement. Ainsi naquirent le Clan de l'Araignée des forêts, allié aux bêtes de ses bois natals, le Clan du Loup des plaines, ou encore l'excentrique Clan de la Chauve-Souris, installé dans les grottes et montagnes de Tyria. Pendant la majeure partie de leur histoire, les Gobelins ne furent loyaux qu'à leur propre clan et se soucièrent peu des autres.\n\nCette situation changea lorsque les Guerres du Havoc éclatèrent. Les Dieux du Havoc détruisirent grottes et forêts et ravagèrent les plaines ouvertes, forçant de nombreux Gobelins à fuir. De multiples chefs de clan se réunirent alors et décidèrent de s'unir contre cet ennemi commun. Les Gobelins envoyèrent des émissaires à l'Empire et aux Elfes pour rejoindre la Grande Alliance, mais furent d'abord ignorés. Pourtant, alors que les armées alliées reculaient peu à peu, les Gobelins remportaient de petites victoires et lançaient des raids derrière les lignes ennemies. Ils prouvèrent leur valeur comme éclaireurs, embusqueurs et pillards. Pendant un court moment, les Gobelins furent presque traités comme des égaux par les grands peuples de Tyria.\n\nCe respect durement acquis disparut bien vite lorsque les Guerres du Havoc prirent fin. Une fois le danger écarté, peu d'Humains ou d'Elfes s'intéressèrent encore aux Gobelins et à leurs préoccupations. On attendait simplement qu'ils retournent dans leurs recoins oubliés de Tyria, et ils furent de nouveau traités comme des nuisibles et des voleurs dès qu'ils tentaient d'obtenir davantage. Pourtant, les Gobelins restèrent unis même après leur retour dans leurs différents foyers, les chefs de clan continuant à se rencontrer pour échanger aide et marchandises.\n\nComment apporteras-tu le respect à ton clan '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Malicieux",
+      "keywords": [
+        "Mischievous"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Transversant",
+      "keywords": [
+        "Traversal"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Instinctif",
+      "keywords": [
+        "Instinctive"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Dechiquetage en mêlée",
+      "keywords": [
+        "Shred in Melee"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Bonus de Combattant precis",
+      "keywords": [
+        "Precision Fighter Buff"
+      ]
+    },
+    {
+      "name": "Attaque Surprise",
+      "keywords": [
+        "Surprise Attack"
+      ]
+    },
+    {
+      "name": "Bon combattant",
+      "keywords": [
+        "Good Fighter"
+      ]
+    },
+    {
+      "name": "Groupe de Lanceurs",
+      "keywords": [
+        "Caster Group"
+      ]
+    },
+    {
+      "name": "Marque de combat perforant",
+      "keywords": [
+        "Piercing Fighting Mark"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Renforcement Malicieux",
+      "keywords": [
+        "Mischievous Boost"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Combattant perforant",
+      "keywords": [
+        "Piercing Fighter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Renforcement Malicieux",
+      "keywords": [
+        "Mischievous Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Percée en mêlée",
+      "keywords": [
+        "Thrust in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir rapide",
+      "keywords": [
+        "Quick Shot Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Puissance de l'Araignee",
+      "cost": 1,
+      "keywords": [
+        "Spider Might"
+      ]
+    },
+    {
+      "name": "Araignee Piquante",
+      "cost": 1,
+      "keywords": [
+        "Stinging Spider"
+      ]
+    },
+    {
+      "name": "Soif de Chauve-Souris",
+      "cost": 2,
+      "keywords": [
+        "Bat Thirst"
+      ]
+    },
+    {
+      "name": "Loup Bondissant",
+      "cost": 2,
+      "keywords": [
+        "Pouncing Wolf"
+      ]
+    },
+    {
+      "name": "Resilience du Loup",
+      "cost": 3,
+      "keywords": [
+        "Wolf Resiliance"
+      ]
+    },
+    {
+      "name": "Chauve-Souris Mordeuse",
+      "cost": 3,
+      "keywords": [
+        "Biting Bat"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Troll Boss",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Régénération",
+        "Coriace (6)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Throw Stones",
+              "details": "12\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cave Tribe",
+          "options": [
+            {
+              "name": "Stone Tribe",
+              "details": "Armure (3), Sans peur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Forest Tribe",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Trailmaster",
+              "details": "Aura de Charge véloce",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Instigator",
+              "details": "Aura de Renforcement Malicieux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Brewer",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Big Boss",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Goblin Leader",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Leader Shortbow",
+              "details": "18\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Spider Clan",
+          "options": [
+            {
+              "name": "Bat Clan",
+              "details": "Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Wolf Clan",
+              "details": "Sans peur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Wolf",
+              "details": "Bite, Rapide",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spider",
+              "details": "Acid Fangs, Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cave-Beast",
+              "details": "Vicious Bites, Bond",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Pet Cave-Beast",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Wolf",
+              "details": "Heavy Bites, Rapide, Coriace (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Great Spider",
+              "details": "Acid Fangs, Éclaireur, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Great Cave-Beast",
+              "details": "Vicious Bites, Bond, Coriace (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Wolf Chariot",
+              "details": "Heavy Bites, Armure (3), Rapide, Impact (4), Coriace (6)",
+              "cost": "+115pts"
+            },
+            {
+              "name": "Giant Cave-Beast",
+              "details": "Stomp, Giant Jaws, Armure (3), Bond, Effrayant (2), Coriace (12)",
+              "cost": "+260pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Trailmaster",
+              "details": "Aura de Charge véloce",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Brewer",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Big Boss",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Skirmisher",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaman Circle",
+      "size": 5,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Groupe de Lanceurs",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Staff",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Warriors",
+      "size": 10,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bat Clans",
+          "options": [
+            {
+              "name": "Spider Clan",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Wolf Clan",
+              "details": "Sans peur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Mob Madness",
+              "details": "Instinctif",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cave-Beast Herd",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Goblin Herder",
+              "details": "Combattant imprévisible",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shroom-Sniffers",
+      "size": 5,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Weapons",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Power Shrooms",
+              "details": "Bonus de Combattant precis",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nasty Assassins",
+      "size": 3,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furtif",
+        "Bon combattant",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Daggers",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Nasty Ambush",
+              "details": "Attaque Surprise (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Headhunter",
+              "details": "Frappe de mise à terre",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fanatics",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Transversant",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Ball & Chain",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Whirlwind Strike",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Pester Swarms",
+      "size": 3,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Trolls",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Coriace (3)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Throw Rocks",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Cave Tribes",
+          "options": [
+            {
+              "name": "Stone Tribe",
+              "details": "Armure (3), Sans peur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Forest Tribe",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooters",
+      "size": 5,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Shortbows",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Crossbow",
+          "options": [
+            {
+              "name": "Skewer-Bolt Crossbow",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bat Clans",
+          "options": [
+            {
+              "name": "Spider Clan",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Wolf Clan",
+              "details": "Sans peur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Mob Madness",
+              "details": "Instinctif",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast Riders",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Shortbow",
+              "details": "18\", A1",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Spider Mounts",
+          "options": [
+            {
+              "name": "Wolf Mount",
+              "details": "Bite, Rapide, Sans peur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cave-Beast Mount",
+              "details": "Vicious Jaws, Bond, Furieux",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Mob Madness",
+              "details": "Instinctif",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Wolf Riders",
+      "size": 3,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Malicieux",
+        "Rapide",
+        "Sans peur",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Bites",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Mob Madness",
+              "details": "Instinctif",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Cave-Beast",
+      "size": 1,
+      "cost": 275,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Bond",
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Jaws",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Skewer-Bolt Thrower",
+              "details": "30\", A2, Mortel (3), Dechirure",
+              "cost": "+110pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sniff Out Threats",
+              "details": "Marque de combat perforant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Spider",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Great Acid Fangs",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spider Shrine",
+          "options": [
+            {
+              "name": "Shortbow Crew",
+              "details": "18\", A6",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Web Catapult",
+              "details": "24\", A2, Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Skewer-Bolt Thrower",
+              "details": "30\", A2, Mortel (3), Dechirure",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Great Acid Fang",
+          "options": [
+            {
+              "name": "Giant Stinger",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sniff Out Threats",
+              "details": "Marque de combat perforant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Troll Giant",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Régénération",
+        "Coriace (12)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Giant Club",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Giant Club",
+          "options": [
+            {
+              "name": "Throw Boulders",
+              "details": "18\", A2, PA (1), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Giant Hammer",
+              "details": "A2, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Throw Skewer-Spear",
+              "details": "18\", A2, Mortel (3), Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cave Tribe",
+          "options": [
+            {
+              "name": "Stone Tribe",
+              "details": "Armure (3), Sans peur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Forest Tribe",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sniff Out Threats",
+              "details": "Marque de combat perforant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wolf Chariot",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Bites",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Shortbow Crew",
+              "details": "18\", A6",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pump Wagon",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Bond",
+        "Effrayant (1)",
+        "Impact (4)",
+        "Coriace (6)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Roller",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Crew Attacks",
+          "options": [
+            {
+              "name": "Throwing Weapons Crew",
+              "details": "12\", A6",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pump Plane",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Volant",
+        "Coriace (6)",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Bombing Run",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Goblin Artillery",
+      "size": 1,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Malicieux"
+      ],
+      "weapons": [
+        {
+          "name": "Scrap-Shooter",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Scrap-Shooter",
+          "options": [
+            {
+              "name": "Goblin Slingshot",
+              "details": "30\", A1, PA (1), Mortel (3), Indirect, Élimination",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Bolt Thrower",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Light Stone Thrower",
+              "details": "30\", A1, PA (2), Explosion (6), Indirect",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

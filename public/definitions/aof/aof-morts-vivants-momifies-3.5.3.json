@@ -1,0 +1,1764 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/t-sIke2snonFSL6Q?armyName=Mummified+Undead",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/t-sIke2snonFSL6Q?armyName=Mummified+Undead",
+  "sourceBookUid": "t-sIke2snonFSL6Q",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Morts-Vivants Momifiés",
+  "version": "3.5.3",
+  "introduction": "Les Morts-Vivants Momifiés commandent une vaste armée de squelettes et de momies impossibles à tuer. Ils sont soutenus par de grands assemblages d'os et de pierre animés par leurs dieux.\n\nCes créatures mortes-vivantes sont les carcasses titubantes laissées derrière elles quand leurs royaumes autrefois prospères se sont effondrés. Lorsque les Dieux du Désert furent chassés des Enfers par les Dieux du Havoc, leurs fidèles furent privés d'au-delà. Depuis lors, leurs âmes sont enchaînées à leurs corps inertes. Seule leur nouvelle Reine leur offre l'espoir d'une mort véritable.",
+  "backgroundStory": "Les Morts-Vivants Momifiés furent autrefois les sujets d'un royaume humain situé dans les déserts du sud de Tyria. Ce peuple vénérait les Dieux du Désert, de puissantes entités qui résidaient à la source du grand fleuve coulant entre le monde des vivants et celui des morts. Protégé par de vastes étendues de sable, le royaume prospéra pendant des générations.\n\nLa fortune du royaume bascula avec l'arrivée des Dieux du Havoc. Ceux-ci cherchèrent à atteindre les Dieux du Désert et leur royaume souterrain afin de fermer à Tyria l'accès même à la mort. Les Dieux du Désert tentèrent de résister, mais furent vaincus. Le Gardien du Passage, qui veillait sur le chemin entre les vivants et les morts, fut tué, et le sang divin empoisonna le fleuve reliant les deux mondes. Dès lors, toute âme tentant de rejoindre l'au-delà se retrouvait piégée dans ces eaux corrompues, condamnée à une agonie sans fin.\n\nLes Dieux du Désert survivants remirent alors à leurs prêtres des Gemmes d'Âme capables de lier les âmes à leurs corps. La magie de ces gemmes préservait les os, permettant aux esprits de subsister même après que les chairs eurent dépéri sous l'effet de l'âge ou des blessures. Les prêtres développèrent une forme de momification pour conserver une partie des corps. Ceux qui pouvaient se permettre un tel traitement y recouraient, tandis que les autres voyaient lentement leur chair disparaître jusqu'à ne laisser que l'os.\n\nLe royaume s'effondra sous le poids de cette malédiction. Les terres agricoles autrefois fertiles devinrent stériles et le désespoir gagna la population. Les Morts-Vivants Momifiés se retrouvèrent gouvernés par une multitude de petits rois et de tyrans locaux qui taillèrent leur propre domaine à travers le désert. S'ensuivit une longue ère de guerre civile, car nul ne possédait les moyens d'imposer une victoire définitive et de réunifier les terres en un seul royaume.\n\nCette époque prit fin avec l'arrivée d'une puissante sorcière venue du nord, prétendant être l'héritière d'un grand empire. Elle approcha les prêtres et les rois du désert en leur promettant qu'elle seule possédait le pouvoir de briser la malédiction et de leur offrir enfin la vraie mort. Impressionnés par sa puissance, ses alliés la proclamèrent Reine des Tombes, et elle réunifia bientôt le royaume sous son autorité, régnant sur les multiples petites cultures et dynasties apparues le long du fleuve sacré.\n\nÀ présent, la Reine des Tombes tourne son regard vers le nord et vers sa terre d'origine. Comment embrasseras-tu la vraie mort '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Légion Royale",
+      "keywords": [
+        "Royal Legion"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Observateur Perforant",
+      "keywords": [
+        "Piercing Spotter"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Attaque Surprise",
+      "keywords": [
+        "Surprise Attack"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Affaiblissement Terrain difficile",
+      "keywords": [
+        "Difficult Terrain Debuff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Légion Royale améliorée",
+      "keywords": [
+        "Royal Legion Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir Indirect",
+      "keywords": [
+        "Indirect when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement de Legion Royale",
+      "keywords": [
+        "Royal Legion Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Tempete du Desert",
+      "cost": 1,
+      "keywords": [
+        "Desert Storm"
+      ]
+    },
+    {
+      "name": "Tempete de Cranes",
+      "cost": 1,
+      "keywords": [
+        "Storm of Skulls"
+      ]
+    },
+    {
+      "name": "Fleches Maudites",
+      "cost": 2,
+      "keywords": [
+        "Cursed Arrows"
+      ]
+    },
+    {
+      "name": "Dessechement Rapide",
+      "cost": 2,
+      "keywords": [
+        "Rapid Desiccation"
+      ]
+    },
+    {
+      "name": "Guide de la Reine des Tombes",
+      "cost": 3,
+      "keywords": [
+        "Tomb Queen's Guidance"
+      ]
+    },
+    {
+      "name": "Vengeance de la Reine des Tombes",
+      "cost": 3,
+      "keywords": [
+        "Tomb Queen's Vengeance"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Royal Champion",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Royal Beast",
+              "details": "Heavy Claws, Rapide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Skeletal Steed",
+              "details": "Rapide, Impact (1), Éclaireur",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Royal Snake",
+              "details": "Snake Fangs, Impact (2), Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Royal Chariot",
+              "details": "Hooves, Armure (3), Rapide, Impact (4), Coriace (6)",
+              "cost": "+135pts"
+            },
+            {
+              "name": "War Sphinx",
+              "details": "Stomp, Armure (2), Attaque de souffle, Effrayant (2), Coriace (12)",
+              "cost": "+275pts"
+            },
+            {
+              "name": "Skeleton Beast",
+              "details": "Heavy Claws, Stomp, Toxin Claws, Armure (3), Effrayant (3), Volant, Coriace (18)",
+              "cost": "+490pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade Royal Snake with one",
+          "options": [
+            {
+              "name": "Heavy Armor",
+              "details": "Armure (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dune Hunter",
+              "details": "Rapide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Burrower",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Venom Expert",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Soul-Gem Keeper",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Tomb Queen Icon Bearer",
+              "details": "Aura de Renforcement de Legion Royale",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Herald",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Monarch",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Priest",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Priest",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Leader",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Royal Bow",
+              "details": "18\", A2, Destructeur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mummies Leader",
+              "details": "Sans peur, Lent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Skeletal Steed",
+              "details": "Rapide, Impact (1), Avant-garde",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Venom Expert",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Nomad Hunter",
+              "details": "Aura de Tir Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Soul-Gem Keeper",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Herald",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Stone Shaper",
+              "details": "Guérison",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Priest",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Priest",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Warriors",
+      "size": 10,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mummies",
+      "size": 10,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Sans peur",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Royal Guard",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spotting Vulture",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Archers",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bows",
+          "options": [
+            {
+              "name": "Royal Bow",
+              "details": "18\", A1, Destructeur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spotting Vulture",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardian Statues",
+      "size": 3,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Heavy Hand Weapons",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hand Weapon",
+              "details": "A1",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Great Bow",
+              "details": "24\", A3, PA (1)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Stone Shaper",
+              "details": "Aura de Fortification",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Horsemen",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bow",
+              "details": "24\", A1",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Royal Bow",
+              "details": "18\", A1, Destructeur",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Royal Vanguard",
+              "details": "Avant-garde",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spotting Vulture",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast Riders",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spotting Vulture",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Snakes",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (2)",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Snake Fangs",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Armors",
+          "options": [
+            {
+              "name": "Dune Hunter",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Burrower",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snake Riders",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (2)",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Skeleton Spear Rider",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Snake Fangs",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Armors",
+          "options": [
+            {
+              "name": "Dune Hunter",
+              "details": "Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Burrower",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snakemen",
+      "size": 3,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Impact (2)",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Halberd",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Halberds",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A2, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Death Gaze",
+              "details": "12\", A2, PA (2)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dune Hunters",
+          "options": [
+            {
+              "name": "Burrower",
+              "details": "Embuscade",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunting Beasts",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Scarab Swarms",
+      "size": 3,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vultures",
+      "size": 3,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Beak",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Great Scorpion",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Pincers",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stinger",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Death Casket",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Lent",
+        "Coriace (6)",
+        "Régénération",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Release Spirits",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Perforant"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Release Spirits",
+          "options": [
+            {
+              "name": "Radiate Curse",
+              "details": "18\", A6, PA (1), Destructeur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Unleash Souls",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Sand",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Giant",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A10",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Hand Weapon",
+              "details": "A8, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A6, PA (2)",
+              "cost": "Free"
+            },
+            {
+              "name": "Hand Weapon",
+              "details": "A6",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Giant Bow",
+              "details": "24\", A1, PA (2), Mortel (6)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Sphinx",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Sphinx Crew",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Stomp",
+          "options": [
+            {
+              "name": "Toxic Stinger",
+              "details": "A5, Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Stone Shaper",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spew Death",
+              "details": "Attaque de souffle",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sphinx Champion",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A10",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A6, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Stomp",
+          "options": [
+            {
+              "name": "Toxic Stinger",
+              "details": "A5, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Decapitating Strike",
+              "details": "A1, PA (2), Mortel (6)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Stone Shaper",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant God-Statue",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Stone Shaper",
+              "details": "Renforcé",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton Chariot",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Hooves",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Bow Crew",
+              "details": "24\", A6",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Royal Bow Crew",
+              "details": "18\", A6, Destructeur",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Sand",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skull Catapult",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Skull Barrage",
+          "range": "36\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Skull Barrage",
+          "options": [
+            {
+              "name": "Royal Skull Barrage",
+              "details": "30\", A6, PA (1), Indirect, Destructeur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Sand",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desert Titan",
+      "size": 1,
+      "cost": 915,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Sans peur",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "2",
+          "special": "Perforant"
+        },
+        {
+          "name": "Titanic Bash",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Ammut Titan",
+          "options": [
+            {
+              "name": "Skeleton Titan",
+              "details": "Attaque Surprise (8)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "God-Titan",
+      "size": 1,
+      "cost": 1030,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Volant",
+        "Coriace (24)",
+        "Sans peur",
+        "Légion Royale"
+      ],
+      "weapons": [
+        {
+          "name": "Godly Battle-Axe",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Godly Battle-Axe",
+          "options": [
+            {
+              "name": "Godly Spear",
+              "details": "A3, PA (4), Mortel (6)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rammit Den Geddul",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Légion Royale",
+        "Unique",
+        "Combattant imprévisible"
+      ],
+      "weapons": [
+        {
+          "name": "Crescent Blades",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

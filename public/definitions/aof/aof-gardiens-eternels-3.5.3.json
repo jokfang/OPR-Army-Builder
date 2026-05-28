@@ -1,0 +1,1600 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/-MrGWaleoZR7pxIn?armyName=Eternal+Wardens",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/-MrGWaleoZR7pxIn?armyName=Eternal+Wardens",
+  "sourceBookUid": "-MrGWaleoZR7pxIn",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Gardiens Éternels",
+  "version": "3.5.3",
+  "introduction": "Les Gardiens Éternels sont d'énormes soldats imprégnés de magie, équipés de lourdes armures de combat et d'armes mortelles. Peu nombreux, ils comptent sur leur cuirasse et leurs compétences au combat pour vaincre des ennemis plus nombreux. Originaires de la Cité d'Albâtre, ils voyagent à travers les plans pour capturer des âmes et les offrir à leur Dieu Gardien, afin de maintenir scellée la Grande Porte du Néant.",
+  "backgroundStory": "Les Gardiens Éternels sont originaires de la Cité d'Albâtre, une métropole animée qui contraste fortement avec le désert de cendres qui constituent le reste de leur royaume. La cité est l'hôte d'innombrables Portes du Néant qui permettent aux gardiens de voyager vers d'innombrables plans, dont Tyria, et bien d'autres au-delà. La plus grande Porte du Néant de la Cité d'Albâtre se trouve en son cœur même, scellée par le Dieu des gardiens, qui a consacré tout son être à garder la porte fermée, empêchant ce qui se trouve au-delà de s'y aventurer.\n\nAucune personne vivante ne connaît encore toute la vérité sur ce qui se trouve au-delà de cette porte, à l'exception de bribes de légendes et de spéculations. Tout ce que l'on sait avec certitude, c'est que leur Dieu consacra toute son existence à s'assurer que cette Porte du Néant reste fermée. Cette tâche épuisa lentement le pouvoir du Dieu Gardien au fil des siècles, et les habitants de la ville scrutèrent longtemps la force de leur Dieu s'éteindre irrémédiablement.\n\nAfin de préserver le Dieu Gardien, ses fidèles sacrifièrent chaque jour des milliers d'âmes pour lui redonner de la force. Ses disciples les plus dévoués et les plus compétents furent intronisés dans l'ordre des Gardiens Éternels et s'imprègnent d'une partie du pouvoir de leur dieu. Les gardiens s'aventurent à travers plusieurs plans pour trouver des êtres à sacrifier dignes de ce nom et les ramènent vivants à la Cité d'Albâtre ou ils capturèrent leurs âmes dans des lanternes pour les offrir à leur Dieu.\n\nAu cours de leurs voyages, les gardiens découvrirent que l'âme d'un Démon du Ravage contenait une partie de l'énergie divine de son dieu, et qu'il constituait un sacrifice particulièrement puissant pour leur Dieu Gardien. Les Gardiens commencèrent à chasser les Démons du Ravage à travers plusieurs plans, et finirent par suivre les Dieux du Ravage jusque sur Tyria, arrivant au début des Guerres du Ravage. Sur Tyria, ils contribuèrent à la victoire sur de nombreux champs de batailles, se battant aux côtés des Tyriens et capturant de nombreux Démons. Lorsque les Dieux du Ravage furent scellés, les Gardiens Éternels disparurent aussi soudainement qu'ils étaient venus.\n\nMaintenant que la Grande Faille s'est ouverte et que les Dieux du Ravage ont été libérés, les Gardiens sont retournés sur Tyria, qu'ils considèrent comme un terrain de chasse idéal pour capturer les Démons. Cependant, ils sont désormais plus prudents lorsqu'ils combattent les Démons, ne souhaitant pas qu'ils soient vaincus comme ils l'ont été, afin de ne pas tarir leur source d'âmes. Si nécessaire, ils se battent même aux côtés d'autres factions tyriennes, juste pour s'assurer que les Démons ne soient pas complètement exterminés.\n\nComment allez-vous garder la porte scellée ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Gardien",
+      "keywords": [
+        "Warden"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Perforation de la cible",
+      "keywords": [
+        "Piercing Target"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Redéploiement",
+      "keywords": [
+        "Re-Deployment"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Marque Imparable",
+      "keywords": [
+        "Unstoppable Mark"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost de Gardien",
+      "keywords": [
+        "Warden Boost"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Fléau au Tir",
+      "keywords": [
+        "Bane when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost de Gardien",
+      "keywords": [
+        "Warden Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura Imparable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Attaque de Choc",
+      "cost": 1,
+      "keywords": [
+        "Shock Attack"
+      ]
+    },
+    {
+      "name": "Coup de Tonnerre",
+      "cost": 1,
+      "keywords": [
+        "Thunder Clap"
+      ]
+    },
+    {
+      "name": "Frappe Stellaire",
+      "cost": 2,
+      "keywords": [
+        "Star Strike"
+      ]
+    },
+    {
+      "name": "Violente tempête",
+      "cost": 2,
+      "keywords": [
+        "Heavy Storm"
+      ]
+    },
+    {
+      "name": "Nuage Protecteur",
+      "cost": 3,
+      "keywords": [
+        "Warding Cloud"
+      ]
+    },
+    {
+      "name": "Éclair",
+      "cost": 3,
+      "keywords": [
+        "Lightning Bolt"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Eternal Lord",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Meteor Great Hammer",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Thunder Mace",
+              "details": "A2, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A4, PA (2), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (2)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Beast-Hound Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Destroyer Armor",
+              "details": "Armure (2), Infiltration, Lent",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Drake",
+              "details": "Perforant Claws, Attaque de souffle, Rapide, Coriace (6)",
+              "cost": "+180pts"
+            },
+            {
+              "name": "Dragon",
+              "details": "Heavy Claws, Attaque de souffle, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+185pts"
+            },
+            {
+              "name": "Great Dragon",
+              "details": "Attaque de souffle, Heavy Claws, Stomp, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+390pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Relic Warden",
+              "details": "Aura de Boost de Gardien",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Herald",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Prayer Chanter",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heirloom Bearer",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warden Knight",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Sword & Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Sword & Staff",
+          "options": [
+            {
+              "name": "Heavy Hand Weapon",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Staff",
+              "details": "A4, PA (1), Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A4, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Thunder Mace",
+              "details": "A2, PA (2), Explosion (3), Laceration",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Knight Bow",
+              "details": "24\", A4, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Great Bow",
+              "details": "30\", A1, PA (3), Mortel (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Paladin",
+              "details": "Combattant imprévisible",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Beast-Hound Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Drake-Lion",
+              "details": "Rapide, Arpenteur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Great Gryph",
+              "details": "Rapide, Impact (4), Coriace (3), Avant-garde",
+              "cost": "+115pts"
+            },
+            {
+              "name": "Horned Pegasus",
+              "details": "Rapide, Volant, Coriace (3), Impact (3)",
+              "cost": "+120pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Herald",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Soul Collector",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Exorcist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Prayer Chanter",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Master Exorcist",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heirloom Bearer",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardian Elite",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Elite Bow",
+              "details": "24\", A3",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Beast-Hound Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Artillerist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Relic Warden",
+              "details": "Aura de Boost de Gardien",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Soul Collector",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Prayer Chanter",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heirloom Bearer",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardians",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Halberd",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Halberds",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A1, PA (1), Contre-charge",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wardens",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Thunder Mace",
+              "details": "A1, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paladins",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Sword & Staff",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Sword & Staffs",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A3",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Staff",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Hand Weapon",
+          "options": [
+            {
+              "name": "Thunder Mace",
+              "details": "A1, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Evocator",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winged Wardens",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Volant",
+        "Furieux",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Javelin",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A2, PA (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Thunder Mace",
+              "details": "A1, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Javelin",
+          "options": [
+            {
+              "name": "Storm Trident",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Celestial Descent",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Lightning Beacon",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Praetorians",
+      "size": 3,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Tueur en mêlée",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Axe-Halberd",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fiable, Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Eternals",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Great Glaive",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Glaives",
+          "options": [
+            {
+              "name": "Great Axe",
+              "details": "A3, PA (1), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Hammer",
+              "details": "A3, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Great Glaive",
+          "options": [
+            {
+              "name": "Dual Axes",
+              "details": "A4, Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Thunder Mace",
+              "details": "A2, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Destroyers",
+      "size": 3,
+      "cost": 290,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Lent",
+        "Coriace (3)",
+        "Gardien",
+        "Infiltration"
+      ],
+      "weapons": [
+        {
+          "name": "Meteor Hammer",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Meteor Hammer",
+          "options": [
+            {
+              "name": "Meteor Great Hammer",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Thunder Mace",
+              "details": "A2, PA (2), Explosion (3), Laceration",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardian Archers",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Lightning Beacon",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warden Shooters",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Bows",
+          "options": [
+            {
+              "name": "Rapid Heavy Crossbow",
+              "details": "24\", A2, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Volley Crossbow",
+              "details": "12\", A4, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Thunder Crossbow",
+              "details": "18\", A1, PA (2), Explosion (3), Laceration",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Lightning Beacon",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warden Hunters",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Bolt Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Lightning Beacon",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warden Marksmen",
+      "size": 3,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Cyclone Crossbow",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Cyclone Crossbows",
+          "options": [
+            {
+              "name": "Precision Crossbow",
+              "details": "24\", A2, PA (1), Perforant, Fiable, Élimination",
+              "cost": "+235pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Lightning Beacon",
+              "details": "Perforation de la cible (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunting Hawks",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Gardien",
+        "Embuscade"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Beast-Hounds",
+      "size": 3,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Chasse à l'Embuscade",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Vicious Bites",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hunting Hounds",
+          "options": [
+            {
+              "name": "Retriever Hound",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gryph Hunters",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (2)",
+        "Coriace (3)",
+        "Gardien",
+        "Avant-garde"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A2, Percée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Bolt Pistol",
+              "details": "12\", A2, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Javelin",
+              "details": "12\", A2, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drake-Lion Paladins",
+      "size": 3,
+      "cost": 270,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Rapide",
+        "Sans peur",
+        "Arpenteur",
+        "Coriace (3)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Sword & Staff",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Sword & Staff",
+          "options": [
+            {
+              "name": "Great Staff",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Evocator",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drake Eternal",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Attaque de souffle",
+        "Rapide",
+        "Sans peur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Thunder Mace",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Explosion (3), Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Thunder Mace",
+          "options": [
+            {
+              "name": "Great Glaive",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Axe",
+              "details": "A3, PA (1), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Hammer",
+              "details": "A3, PA (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dagger",
+              "details": "A1",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Storm Caller",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Eternal",
+      "size": 1,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Attaque de souffle",
+        "Effrayant (1)",
+        "Volant",
+        "Sans peur",
+        "Coriace (6)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Lance",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Great Thunder Mace",
+              "details": "A2, PA (2), Explosion (3), Laceration",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Storm Caller",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Chariot",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Sans peur",
+        "Impact (6)",
+        "Coriace (9)",
+        "Gardien"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Bow Crew",
+              "details": "18\", A9, PA (1)",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eternal Artillery",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Gardien",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Celestial Bolt Ballista",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Celestial Bolt Ballista",
+          "options": [
+            {
+              "name": "Shock Bolt Ballista",
+              "details": "24\", A6, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Thunder Bolt Ballista",
+              "details": "30\", A2, PA (2), Explosion (3), Laceration",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

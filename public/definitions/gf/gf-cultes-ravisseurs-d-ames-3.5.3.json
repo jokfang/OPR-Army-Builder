@@ -1,0 +1,1731 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/zz3kp5ry7ks6mxcx?armyName=Soul-Snatcher+Cults",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/zz3kp5ry7ks6mxcx?armyName=Soul-Snatcher+Cults",
+  "sourceBookUid": "zz3kp5ry7ks6mxcx",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Cultes Ravisseurs d'Âmes",
+  "version": "3.5.3",
+  "introduction": "Les Cultes Ravisseurs d'Âmes sont des groupes d'Humains, d'aliens et d'hybrides améliorés grâce à une biotechnologie avancée. Ces cultes misent sur leur vitesse accrue et leur fanatisme pour submerger leurs ennemis, combinant une force alien inquiétante avec des armes lourdes qui leur apportent un soutien à distance.\n\nCes cultes sont généralement fondés par des Ravisseurs d'Âmes ambitieux, qui concluent des accords avec d'autres espèces avant d'asseoir lentement un contrôle psychique sur elles et de rassembler des communautés de fidèles adorateurs. Malgré leur puissance au sein du culte, les Ravisseurs d'Âmes doivent encore s'appuyer sur la manipulation et agir comme conseillers cachés afin que leur véritable nature ne soit pas découverte par les étrangers ou les initiés.",
+  "backgroundStory": "La plupart des Ravisseurs d'Âmes servent les Ruches Alien comme de puissants conseillers, appréciés pour leurs dons psychiques et leur intelligence. Malgré leur immense puissance mentale et leur capacité à influencer ou contrôler autrui, ils demeurent toujours subordonnés à leur Seigneur-Ruche.\n\nBeaucoup de Ravisseurs d'Âmes vivent mal cette relation et certains choisissent de partir de leur propre chef, loin des Ruches. Le moyen le plus simple est souvent de convaincre un marchand ou un diplomate de passage de les emmener avec lui, généralement grâce à un usage discret de la persuasion psychique.\n\nEn règle générale, ces Ravisseurs d'Âmes cherchent ensuite à s'entourer d'individus occupant des positions de pouvoir afin de sécuriser leur place dans leur nouvelle communauté. Ils peuvent offrir de nombreux avantages à des mécènes intéressés, depuis leur savoir en biotechnologie jusqu'à leurs services de puissants psychiques et de gardes du corps. Ceux qui acceptent leur aide deviennent peu à peu dépendants d'eux, tandis que les Ravisseurs d'Âmes exercent dans l'ombre leur influence mentale.\n\nCes Ravisseurs d'Âmes travaillent à convertir progressivement leurs mécènes et d'autres alliés puissants à leur manière de penser, se présentant avec soin comme des messagers et des sauveurs offrant la rédemption à travers leur doctrine. Les mécènes les plus réceptifs deviennent bientôt des disciples, diffusant avec zèle leur message auprès des puissants comme du peuple. À mesure qu'ils rassemblent des fidèles, les Ravisseurs d'Âmes n'ont de cesse d'améliorer leur troupeau en utilisant leur savoir biotechnologique pour créer des hybrides mêlant les atouts des deux espèces.\n\nQuand ces cultes gagnent en ampleur, ils attirent de plus en plus de fidèles sincères, totalement inconscients de l'influence exercée par les Ravisseurs d'Âmes. Ces disciples embrassent la doctrine sans réserve, ignorant la manipulation qui en constitue pourtant le cœur. Fanatiques empressés de servir ou simples croyants suivant leur communauté, ils représentent la majeure partie du culte. Tous cherchent avec ardeur à servir leurs mystérieux maîtres et à accomplir leurs ambitions comme si elles étaient les leurs. Avec le temps, ces cultes ont commencé à se chercher les uns les autres et à coopérer pour étendre leur emprise à travers le secteur.\n\nComment répandras-tu ta doctrine à travers Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Fanatique",
+      "keywords": [
+        "Fanatic"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Redéploiement",
+      "keywords": [
+        "Re-Deployment"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Marque de Precision au Tir",
+      "keywords": [
+        "Precision Shooting Mark"
+      ]
+    },
+    {
+      "name": "Contrôle mental",
+      "keywords": [
+        "Mind Control"
+      ]
+    },
+    {
+      "name": "Renforcement de Vitesse",
+      "keywords": [
+        "Speed Buff"
+      ]
+    },
+    {
+      "name": "Renforcement de Portée de tir accrue",
+      "keywords": [
+        "Increased Shooting Range Buff"
+      ]
+    },
+    {
+      "name": "Précision ancrée",
+      "keywords": [
+        "Grounded Precision"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Renforcement ancrée",
+      "keywords": [
+        "Grounded Reinforcement"
+      ]
+    },
+    {
+      "name": "Renfort",
+      "keywords": [
+        "Reinforcement"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Précision ancrée",
+      "keywords": [
+        "Grounded Precision Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir rapide",
+      "keywords": [
+        "Quick Shot Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement ancrée",
+      "keywords": [
+        "Grounded Reinforcement Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Insidious Protection",
+      "cost": 1,
+      "keywords": [
+        "Insidious Protection"
+      ]
+    },
+    {
+      "name": "Mind Corruption",
+      "cost": 1,
+      "keywords": [
+        "Mind Corruption"
+      ]
+    },
+    {
+      "name": "Deep Hypnosis",
+      "cost": 2,
+      "keywords": [
+        "Deep Hypnosis"
+      ]
+    },
+    {
+      "name": "Psychic Onslaught",
+      "cost": 2,
+      "keywords": [
+        "Psychic Onslaught"
+      ]
+    },
+    {
+      "name": "Bio-Displacer",
+      "cost": 3,
+      "keywords": [
+        "Bio-Displacer"
+      ]
+    },
+    {
+      "name": "Brain Burst",
+      "cost": 3,
+      "keywords": [
+        "Brain Burst"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Supreme Leader",
+      "size": 1,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Fanatique",
+        "Effrayant (1)"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Sharp Claw",
+          "options": [
+            {
+              "name": "Heavy Claws",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Pet Familiar",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Adrenaline Fueled",
+          "options": [
+            {
+              "name": "Patient Stalker",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Displacer Glands",
+              "details": "Embuscade, Régénération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spasmic Glands",
+              "details": "Bond, Régénération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Psy-Warden",
+              "details": "Aura de Renforcement ancrée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Psychic Idol",
+              "details": "Conduit de Sort",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Prime",
+              "details": "Aura de Tueur en mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Psychic Affinity",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Psychic Affinity",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Tactical Master",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brute Champion",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Régénération",
+        "Coriace (3)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Massive Heavy Pick",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Massive Heavy Pick",
+          "options": [
+            {
+              "name": "Massive Heavy Hammer",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Massive Heavy Great Weapon",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Massive Pick Hammer",
+              "details": "A1, PA (3), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Pet Familiar",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Psy-Warden",
+              "details": "Aura de Renforcement ancrée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Psychic Idol",
+              "details": "Conduit de Sort",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Mad Scientist",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Tactical Master",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Leader",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Sharp Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Sharp Claw",
+          "options": [
+            {
+              "name": "Sabotage Charges",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Cult Pistol",
+              "details": "12\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Syringe Goad",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Array of CCWs",
+              "details": "A3, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cult Pistol",
+          "options": [
+            {
+              "name": "Cult Burst Pistol",
+              "details": "12\", A4",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cult Rifle",
+              "details": "24\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cult Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Cult Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Bike",
+              "details": "Rapide",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pet Familiar",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Psy-Warden",
+              "details": "Aura de Renforcement ancrée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cult Banner",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Mad Scientist",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Propagandist",
+              "details": "Aura de Tir rapide",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Mage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Tactical Master",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Hitman",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Fanatique",
+        "Héros",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Cult Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Cult Pistol",
+          "options": [
+            {
+              "name": "Cult Burst Pistol",
+              "details": "12\", A4",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Duelist Pistols",
+              "details": "12\", A2, PA (1), Fiable, Élimination",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cult Pistol and CCW",
+          "options": [
+            {
+              "name": "Toxin Blades",
+              "details": "A4, PA (1), Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pet Familiar",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minions",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Rifles",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Cult Standard",
+              "details": "Aura de Précision ancrée",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Minion Weapon Teams",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Mortar",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mortar",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neophytes",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rifle",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle",
+          "options": [
+            {
+              "name": "Web Carbine",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Quake Cannon",
+              "details": "24\", A1, Explosion (3), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Mining Laser",
+              "details": "18\", A1, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Cult Standard",
+              "details": "Aura de Précision ancrée",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            },
+            {
+              "name": "Web Pistol",
+              "details": "12\", A2, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Sharp Claw",
+              "details": "A2, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Pick",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Mace",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acolytes",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Mutant Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol and Mutant Claws",
+          "options": [
+            {
+              "name": "Demo-Charges",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Cutter",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Drill",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Buzz Saw",
+              "details": "A3, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Whip & Blade",
+              "details": "A2, PA (1), Fléau, Perforant, Fiable",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Cult Standard",
+              "details": "Aura de Précision ancrée",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol and Mutant Claw",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sharp Claw",
+          "options": [
+            {
+              "name": "Blade Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Razor Whip",
+              "details": "A2, Fléau, Fiable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mutant Brutes",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pick",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Heavy Pick",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A2, PA (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Pick Hammer",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mutant Soul-Snatchers",
+      "size": 5,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Fanatique",
+        "Régénération"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Displacer Glands",
+          "options": [
+            {
+              "name": "Spasmic Glands",
+              "details": "Bond",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Mind Snatcher",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul-Snatchers",
+      "size": 5,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Adrenaline Fueleds",
+          "options": [
+            {
+              "name": "Patient Stalker",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Mind Snatcher",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neophyte Bikers",
+      "size": 3,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rifle",
+          "options": [
+            {
+              "name": "Burst Pistol",
+              "details": "12\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sharp Claw",
+              "details": "A2, Désintegration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Pick",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Mace",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neophyte Quadbike",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Coriace (6)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Pistol",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Mining Laser",
+              "details": "18\", A1, PA (3), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Propaganda Megaphone",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Vehicle",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Mining Laser",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Mining Laser",
+          "options": [
+            {
+              "name": "Heavy Mortar",
+              "details": "36\", A1, PA (1), Explosion (3), Indirect",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Flare Gun",
+              "details": "Renforcement de Vitesse",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Spotter",
+              "details": "Renforcement de Portée de tir accrue",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Survey Vehicle",
+              "details": "Marque de Precision au Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light APC",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Transport (11)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Flamer",
+          "options": [
+            {
+              "name": "Laser Machinegun",
+              "details": "30\", A3, PA (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Pintle-Machinegun",
+              "details": "30\", A2, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grinder Truck",
+      "size": 1,
+      "cost": 305,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (9)",
+        "Transport (6)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Quake Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Quake Cannon",
+          "options": [
+            {
+              "name": "Heavy Incinerator",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Rapid Heavy Mining Laser",
+              "details": "24\", A2, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Great Grinder",
+              "details": "Impact (5)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mining Truck",
+      "size": 1,
+      "cost": 355,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (9)",
+        "Transport (11)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Autocannon",
+          "range": "36\"",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Propaganda Megaphone",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Tank",
+      "size": 1,
+      "cost": 350,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Coriace (12)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Nova Cannon",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Nova Cannon",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Punisher Gatling Cannon",
+              "details": "24\", A6, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Siege Cannon",
+              "details": "24\", A2, PA (3), Explosion (3), Indirect",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Heavy Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Fusion Rifle",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Walker",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Fanatique"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Laser Machinegun",
+              "details": "30\", A6, PA (3)",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

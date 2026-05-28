@@ -1,0 +1,1273 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/3j10zage1lddt6sr?armyName=Titan+Lords",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/3j10zage1lddt6sr?armyName=Titan+Lords",
+  "sourceBookUid": "3j10zage1lddt6sr",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Seigneurs Titans",
+  "version": "3.5.3",
+  "introduction": "Les Seigneurs Titans pilotent d'immenses marcheurs robotiques et appartiennent aux élites oisives. Ces riches désœuvrés font la guerre depuis des forteresses mobiles et considèrent le champ de bataille comme leur terrain de jeu.\n\nPeu nombreux, les Seigneurs Titans offrent le plus souvent leurs services comme mercenaires, mais lorsqu'ils combattent ensemble, leurs armées de marcheurs gigantesques offrent un spectacle saisissant. N'ayant guère à craindre les conséquences de leurs actes, ils errent souvent d'un champ de bataille à l'autre, en quête d'émotions fortes ou d'un sens qui manque à leur existence privilégiée.",
+  "backgroundStory": "En relativement peu de temps, l'humanité est parvenue à bâtir une vaste base industrielle dans ses colonies du Secteur Sirius, dont la majeure partie est possédée par une poignée de compagnies extrêmement puissantes. Cela a engendré une classe de privilégiés disposant d'une richesse largement supérieure à celle de la Terre d'avant la guerre civile. Certains membres de cette élite commencèrent à se lasser de leur vie confortable et fondèrent des corps mercenaires. Beaucoup, cependant, supportaient mal les risques du métier et la discipline de la vie militaire, même depuis le confort relatif du commandement.\n\nQuelques-unes des plus puissantes compagnies militaires collaborèrent alors pour créer une nouvelle arme de guerre qui permettrait à ses opérateurs de demeurer en relative sécurité et dans un confort appréciable. Ces forteresses mobiles reçurent le nom de Titans. Un certain nombre de colons fortunés commencèrent à commander leurs propres Titans à titre privé, et les propriétaires de ces super-armes prirent bientôt le titre de Seigneurs Titans. Ceux-ci peuvent se rendre au combat dans un confort relatif, avides de gloire et de victoire. Ils considèrent la guerre comme un sport et prêtent leurs services à quiconque peut satisfaire leurs exigences en luxes rares, contrats prestigieux ou objets de valeur.\n\nUne sorte de code d'honneur s'est développé parmi les Seigneurs Titans, détaillant la manière dont il convient de se comporter en toute circonstance. Il définit aussi bien la tenue qu'un Seigneur Titan doit porter que la manière dont il doit dépenser ses gains. Utiliser les richesses de la guerre pour s'enrichir davantage est considéré comme vulgaire et comme le signe d'une noblesse insuffisante. Peut-être plus important encore aux yeux des Seigneurs, un système héraldique complexe a été mis au point afin que les pilotes et leurs Titans soient immédiatement identifiables.\n\nCertains Seigneurs Titans rêvent d'être célébrés pour leur héroïsme, acceptant des missions dangereuses pour une faible récompense dans l'espoir de gagner renommée et amour pour leur bravoure. Bien entendu, ces nobles héros supportent mal qu'on refuse de reconnaître leur désintéressement. D'autres Seigneurs Titans voient dans cette attitude un simple besoin puéril de louanges et se soucient bien moins du petit peuple. Ceux-là acceptent n'importe quel contrat, pourvu qu'ils puissent y retrouver l'ivresse du combat.\n\nComment useras-tu de ta suprématie sur le champ de bataille ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Code d'honneur",
+      "keywords": [
+        "Honor Code"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Action Retardee",
+      "keywords": [
+        "Delayed Action"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [],
+  "armySpells": [
+    {
+      "name": "Psy-Injected Courage",
+      "cost": 1,
+      "keywords": [
+        "Psy-Injected Courage"
+      ]
+    },
+    {
+      "name": "Electric Tempest",
+      "cost": 1,
+      "keywords": [
+        "Electric Tempest"
+      ]
+    },
+    {
+      "name": "Calculated Foresight",
+      "cost": 2,
+      "keywords": [
+        "Calculated Foresight"
+      ]
+    },
+    {
+      "name": "Searing Burst",
+      "cost": 2,
+      "keywords": [
+        "Searing Burst"
+      ]
+    },
+    {
+      "name": "Shock Speed",
+      "cost": 3,
+      "keywords": [
+        "Shock Speed"
+      ]
+    },
+    {
+      "name": "Expel Threat",
+      "cost": 3,
+      "keywords": [
+        "Expel Threat"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Vassal Micro-Titan",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Code d'honneur",
+        "Coriace (9)"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hammer",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Chainsaw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Flail",
+              "details": "A3, Perforant, Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Claw",
+              "details": "A3, PA (1), Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Hammer",
+          "options": [
+            {
+              "name": "Fusion Blaster",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Gatling Cannon",
+              "details": "30\", A6, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hell Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Vanguard Config",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Errant Mini-Titan",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Furieux",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Fuser",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Top-Launcher",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Assault Config",
+              "details": "Rapide, Arpenteur",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hammer",
+          "options": [
+            {
+              "name": "Heavy Chainsaw",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A6, Percée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Fist",
+              "details": "A4, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Flail",
+              "details": "A6, Perforant, Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Claw",
+              "details": "A6, PA (1), Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pilgrim Mini-Titan",
+      "size": 1,
+      "cost": 360,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Fusion Blaster",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Fuser",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Top-Launcher",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Assault Config",
+              "details": "Rapide, Arpenteur",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hammer",
+          "options": [
+            {
+              "name": "Heavy Chainsaw",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A6, Percée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Fist",
+              "details": "A4, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Flail",
+              "details": "A6, Perforant, Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Claw",
+              "details": "A6, PA (1), Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Fusion Blaster",
+          "options": [
+            {
+              "name": "Gatling Cannon",
+              "details": "30\", A6, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hell Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yeoman Mini-Titan",
+      "size": 1,
+      "cost": 455,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Implacable",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Fusion Blaster",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Fuser",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Top-Launcher",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Assault Config",
+              "details": "Rapide, Arpenteur",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Fusion Blaster",
+          "options": [
+            {
+              "name": "Gatling Cannon",
+              "details": "30\", A6, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hell Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paladin Light Titan",
+      "size": 1,
+      "cost": 495,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Code d'honneur",
+        "Coriace (18)"
+      ],
+      "weapons": [
+        {
+          "name": "Hull-Fuser",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Heavy Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Heavy Hammer",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Hammer",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A6, Percée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Chainsaw",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Fist",
+              "details": "A4, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Flail",
+              "details": "A6, Perforant, Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Claw",
+              "details": "A6, PA (1), Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Hammer",
+          "options": [
+            {
+              "name": "Frag-Blaster",
+              "details": "12\", A16, PA (1), Perforant",
+              "cost": "+120pts"
+            },
+            {
+              "name": "Fusion Blaster",
+              "details": "24\", A2, PA (4), Mortel (6)",
+              "cost": "+165pts"
+            },
+            {
+              "name": "Gatling Cannon",
+              "details": "30\", A12, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hell Autocannon",
+              "details": "36\", A12, PA (2)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Hull-Fuser",
+          "options": [
+            {
+              "name": "Hull-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Vanguard Config",
+              "details": "Éclaireur, Arpenteur",
+              "cost": "+110pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Questor Titan",
+      "size": 1,
+      "cost": 715,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Furieux",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Hull-Fuser",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Hammer",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Hull-Fuser",
+          "options": [
+            {
+              "name": "Hull-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Rocket",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Missile",
+              "details": "36\", A1, PA (2), Mortel (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Top-Anti-Air",
+              "details": "36\", A3, PA (1), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Exploration Config",
+              "details": "Arpenteur",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+120pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Titan Hammer",
+          "options": [
+            {
+              "name": "Titan Chainsaw",
+              "details": "A4, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Titan Lance",
+              "details": "A12, Percée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Titan Sword",
+              "details": "A12, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Fist",
+              "details": "A9, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Titan Flail",
+              "details": "A12, Perforant, Fiable",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Titan Claw",
+              "details": "A12, PA (1), Fiable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Titan Hammer",
+              "details": "A4, PA (1), Explosion (3)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knight Titan",
+      "size": 1,
+      "cost": 840,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Titan Fusion Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Hull-Fuser",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Hull-Fuser",
+          "options": [
+            {
+              "name": "Hull-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Rocket",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Missile",
+              "details": "36\", A1, PA (2), Mortel (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Top-Anti-Air",
+              "details": "36\", A3, PA (1), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Exploration Config",
+              "details": "Arpenteur",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+120pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Titan Hammer",
+          "options": [
+            {
+              "name": "Titan Chainsaw",
+              "details": "A4, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Titan Lance",
+              "details": "A12, Percée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Titan Sword",
+              "details": "A12, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Fist",
+              "details": "A9, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Titan Flail",
+              "details": "A12, Perforant, Fiable",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Titan Claw",
+              "details": "A12, PA (1), Fiable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Titan Shield",
+          "options": [
+            {
+              "name": "Titan Hammer",
+              "details": "A4, PA (1), Explosion (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Titan Fusion Cannon",
+          "options": [
+            {
+              "name": "Titan Battle Cannon",
+              "details": "30\", A3, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Titan Laser Cannon",
+              "details": "36\", A3, PA (3), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Titan Plasma Cannon",
+              "details": "30\", A3, PA (4), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Titan Gatling Cannon",
+              "details": "30\", A9, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Pulse Laser",
+              "details": "30\", A9, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duke Titan",
+      "size": 1,
+      "cost": 1030,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Implacable",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Titan Fusion Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Hull-Fuser",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Hull-Fuser",
+          "options": [
+            {
+              "name": "Hull-Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Rocket",
+              "details": "36\", A1, Explosion (3), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Top-Missile",
+              "details": "36\", A1, PA (2), Mortel (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Top-Anti-Air",
+              "details": "36\", A3, PA (1), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Exploration Config",
+              "details": "Arpenteur",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+120pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Titan Fusion Cannon",
+          "options": [
+            {
+              "name": "Titan Battle Cannon",
+              "details": "30\", A3, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Titan Laser Cannon",
+              "details": "36\", A3, PA (3), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Titan Plasma Cannon",
+              "details": "30\", A3, PA (4), Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Titan Gatling Cannon",
+              "details": "30\", A9, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Pulse Laser",
+              "details": "30\", A9, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "King Heavy Titan",
+      "size": 1,
+      "cost": 1130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "30",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (30)",
+        "Code d'honneur"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Shoulder-Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Titan Harpoon Cannon",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (9)"
+        },
+        {
+          "name": "Twin Hull-Fuser",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A10",
+          "ap": "3",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Titan Harpoon Cannon",
+          "options": [
+            {
+              "name": "Titan Triple Flamer",
+              "details": "18\", A3, PA (1), Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Volcano Cannon",
+              "details": "30\", A3, PA (3), Mortel (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Plasma Battle Cannon",
+              "details": "30\", A3, PA (4), Explosion (3)",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Twin Shoulder-Cannons",
+          "options": [
+            {
+              "name": "Twin Shoulder-Missile",
+              "details": "24\", A2, PA (3), Mortel (3)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Top-Cannon",
+              "details": "24\", A2, PA (1), Explosion (3)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Top-Missile",
+              "details": "24\", A2, PA (3), Mortel (3)",
+              "cost": "+110pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Titan Core",
+              "details": "Action Retardee",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Exploration Config",
+              "details": "Arpenteur",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Psychic Lord",
+              "details": "Lanceur de sorts (5)",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Energy Field",
+              "details": "Régénération",
+              "cost": "+160pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

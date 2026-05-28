@@ -1,0 +1,1883 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/jpc0kyil0juwy602?armyName=Human+Inquisition",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/jpc0kyil0juwy602?armyName=Human+Inquisition",
+  "sourceBookUid": "jpc0kyil0juwy602",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Inquisition Humaine",
+  "version": "3.5.3",
+  "introduction": "L'Inquisition Humaine est une organisation secrète composée d'enquêteurs, de psychiques, d'assassins, de fanatiques et d'autres marginaux voués à la protection de l'humanité dans Sirius. Elle combat le plus souvent aux côtés d'autres forces, en déployant des spécialistes hautement entraînés afin d'accomplir ses mystérieux objectifs.\n\nÀ l'origine, l'Inquisition fut établie comme réseau de contacts diplomatiques et d'enquêteurs au sein des colonies humaines dispersées de Sirius. Elle en vint à dépendre du secret, du vigilantisme et d'autres méthodes troubles pour recueillir des informations et neutraliser les menaces. Sa réputation douteuse en a fait des parias aux yeux de certains, mais l'Inquisition continue d'accomplir sa mission de protection de l'humanité.",
+  "backgroundStory": "L'ascension d'une figure messianique connue dans l'histoire sous le nom de Fondateur déclencha une guerre dévastatrice qui engloutit bientôt la Terre et ses colonies. À mesure que le conflit empirait, de nombreux survivants cherchèrent un moyen de fuir. Un groupe désespéré de réfugiés détourna le propre vaisseau amiral du Fondateur afin d'échapper au conflit, entraînant derrière lui une flotte de survivants partageant les mêmes idéaux. Ils furent poursuivis par les forces du Fondateur jusqu'à ce qu'un trou de ver surgisse soudainement et les disperse dans Sirius.\n\nLes Sœurs Bénies furent fondées peu après l'arrivée de l'humanité dans Sirius, avec l'espoir d'aider les colonies humaines et de résister aux fidèles du Conduit. Cependant, les Sœurs passaient l'essentiel de leur temps à s'entraîner et à vivre dans un isolement monastique. Pour remédier à cela, elles commencèrent à envoyer des enquêteurs et des émissaires afin de recueillir des renseignements et de comprendre comment elles pouvaient au mieux aider leurs alliés. Ces individus finirent par être connus sous le nom d'Inquisition, travaillant à déceler les menaces et à faire appel aux Sœurs lorsque cela était nécessaire.\n\nBien que ces enquêteurs aient cherché à protéger l'humanité, nombre de colonies humaines se méfiaient de ces groupes et tentèrent de les tenir à l'écart. L'Inquisition commença alors à recruter ses propres agents, agissant dans l'ombre, recourant aux pots-de-vin et nouant des alliances secrètes pour parvenir à ses fins. Elle se servit de ses réseaux pour mener des recherches occultes et scientifiques clandestines afin d'en apprendre davantage sur le Secteur Sirius, ainsi que sur d'autres menaces comme les Dieux du Havoc.\n\nLes Sœurs Bénies finirent par découvrir l'étendue de l'influence cachée et des conspirations de leur Inquisition, et dénoncèrent ces excès, craignant de perdre la confiance des colonies qu'elles cherchaient justement à protéger. L'Inquisition refusa pourtant de se dissoudre, affirmant n'avoir fait que ce qui était nécessaire. Elle rompit alors ses liens officiels avec les Sœurs et commença à former ses propres agents, y compris des assassins spécialisés, afin de gérer les menaces de haut niveau sans dépendre d'elles.\n\nL'Inquisition conserve des attaches secrètes dans plusieurs factions humaines, y compris parmi les Frères de Bataille qu'elle avait été créée pour combattre. Son zèle incontrôlé a provoqué bien des problèmes à cause de fausses pistes ou de soupçons mal placés, mais il s'est aussi avéré crucial pour révéler plusieurs menaces inquiétantes, comme le fléau infecté, les adorateurs du Havoc et les cultes des Ravisseurs d'Âmes.\n\nComment protégeras-tu l'humanité depuis les ombres ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Agent inquisitorial",
+      "keywords": [
+        "Inquisitorial Agent"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Reajustement Rapide",
+      "keywords": [
+        "Quick Readjustment"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Combattant brutal",
+      "keywords": [
+        "Brutal Fighter"
+      ]
+    },
+    {
+      "name": "Accumulateur de Sorts",
+      "keywords": [
+        "Spell Accumulator"
+      ]
+    },
+    {
+      "name": "Protege",
+      "keywords": [
+        "Protected"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Attaque Surprise",
+      "keywords": [
+        "Surprise Attack"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Malus de magie",
+      "keywords": [
+        "Casting Debuff"
+      ]
+    },
+    {
+      "name": "Action Retardee",
+      "keywords": [
+        "Delayed Action"
+      ]
+    },
+    {
+      "name": "Marquage Perforant",
+      "keywords": [
+        "Piercing Tag"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Groupe de Lanceurs",
+      "keywords": [
+        "Caster Group"
+      ]
+    },
+    {
+      "name": "Tir d'exécution",
+      "keywords": [
+        "Takedown Shot"
+      ]
+    },
+    {
+      "name": "Croissance défensive",
+      "keywords": [
+        "Defensive Growth"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tireur de Precision",
+      "keywords": [
+        "Precision Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Croissance défensive",
+      "keywords": [
+        "Defensive Growth Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant de Precision",
+      "keywords": [
+        "Precision Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura de Lacération en mêlée",
+      "keywords": [
+        "Shred in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Courage",
+      "keywords": [
+        "Courage Aura"
+      ]
+    },
+    {
+      "name": "Aura de Bond",
+      "keywords": [
+        "Bounding Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Psy-Injected Courage",
+      "cost": 1,
+      "keywords": [
+        "Psy-Injected Courage"
+      ]
+    },
+    {
+      "name": "Electric Tempest",
+      "cost": 1,
+      "keywords": [
+        "Electric Tempest"
+      ]
+    },
+    {
+      "name": "Calculated Foresight",
+      "cost": 2,
+      "keywords": [
+        "Calculated Foresight"
+      ]
+    },
+    {
+      "name": "Searing Burst",
+      "cost": 2,
+      "keywords": [
+        "Searing Burst"
+      ]
+    },
+    {
+      "name": "Shock Speed",
+      "cost": 3,
+      "keywords": [
+        "Shock Speed"
+      ]
+    },
+    {
+      "name": "Expel Threat",
+      "cost": 3,
+      "keywords": [
+        "Expel Threat"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Inquisitor",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Pistol",
+          "options": [
+            {
+              "name": "Needle Pistol",
+              "details": "12\", A1, Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Combat Shield",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Rifle",
+              "details": "24\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chain-Fist",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Guard Dog",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Daemon Hunter",
+              "details": "Aura de Combattant de Precision",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Witch Hunter",
+              "details": "Aura de Résistance",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Tactical Master",
+              "details": "Action Retardee",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Alien Hunter",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Forbidden Loremaster",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inquisitorial Officer",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Héros",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Pistol",
+          "options": [
+            {
+              "name": "Combat Shield",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Needle Pistol",
+              "details": "12\", A1, Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Rifle",
+              "details": "24\", A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Needle Sword",
+              "details": "A2, Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chainsaw Sword",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Guard Dog",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "High Priest",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Tactical Master",
+              "details": "Action Retardee",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Forbidden Loremaster",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Navigator",
+              "details": "Aura de Bond",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Espionage Ministry Assassin",
+      "size": 1,
+      "cost": 270,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Esquive",
+        "Héros",
+        "Frappe en mouvement",
+        "Agent inquisitorial",
+        "Protege",
+        "Attaque Surprise (3)",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Neuro Pistol",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fléau"
+        },
+        {
+          "name": "Toxic Blade",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Terrorism Ministry Assassin",
+      "size": 1,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Téléportation",
+        "Héros",
+        "Résistance",
+        "Coriace (3)",
+        "Malus de magie",
+        "Agent inquisitorial",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Helmet Laser",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Warfare Ministry Assassin",
+      "size": 1,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Combattant brutal",
+        "Rapide",
+        "Héros",
+        "Agent inquisitorial",
+        "Régénération",
+        "Esquive",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Executioner Gun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Executioner Claw",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Surveillance Ministry Assassin",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Agent inquisitorial",
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (3)",
+        "Esquive",
+        "Tir d'exécution"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Sniper Rifle",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Breacher Guard",
+      "size": 10,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rifles",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Rifles",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Drum Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Hand Weapon",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Inquisitorial Standard",
+              "details": "Aura de Courage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Riot Judges",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Riot Shields and CCWS",
+          "options": [
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "CCW",
+              "details": "A2",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Rifle",
+              "details": "24\", A1, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Rifle",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chainsaw Sword",
+              "details": "A2, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle",
+          "options": [
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Guard Dog",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Riot Paramedic",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Missionary Henchmen",
+      "size": 3,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Needle Pistol",
+              "details": "12\", A1, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Needle Sword",
+              "details": "A2, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chainsaw Sword",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Text",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acolyte Henchmen",
+      "size": 3,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Pistol and CCW",
+          "options": [
+            {
+              "name": "Rifle",
+              "details": "24\", A1",
+              "cost": "Free"
+            },
+            {
+              "name": "Needle Rifle",
+              "details": "24\", A1, Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Rifle",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Flame",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mystic Henchmen",
+      "size": 3,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Chainsaw Sword",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Icon",
+              "details": "Malus de magie",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crusader Henchmen",
+      "size": 3,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Renforcé"
+      ],
+      "weapons": [
+        {
+          "name": "Needle Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Needle Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chainsaw Sword",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Chain",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gunsmith Henchmen",
+      "size": 3,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Tireur imprevisible"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rifle",
+          "options": [
+            {
+              "name": "Long Rifle",
+              "details": "30\", A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Needle Rifle",
+              "details": "24\", A1, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Core",
+              "details": "Marquage Perforant (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychic Henchmen",
+      "size": 3,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Groupe de Lanceurs",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Needle Pistol",
+              "details": "12\", A1, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Needle Sword",
+              "details": "A2, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Sceptre",
+              "details": "Conduit de Sort",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Repenting Henchmen",
+      "size": 3,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Shock-Whip",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Shock-Whip",
+          "options": [
+            {
+              "name": "Toxin-Whip",
+              "details": "A3, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Barb-Whip",
+              "details": "A3, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chain-Whip",
+              "details": "A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Mask",
+              "details": "Effrayant (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Possessed Henchmen",
+      "size": 3,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Reajustement Rapide"
+      ],
+      "weapons": [
+        {
+          "name": "Daemon Ripple",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Indirect, Fléau"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Daemon Ripple",
+          "options": [
+            {
+              "name": "Daemon Burst",
+              "details": "12\", A1, Explosion (3), Indirect",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Daemon Strike",
+              "details": "12\", A2, PA (1), Indirect",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Daemon Beam",
+              "details": "12\", A1, PA (2), Mortel (3), Indirect",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Lock",
+              "details": "Aura de Croissance défensive",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assassin Henchmen",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Shock-Whips",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Shock-Whips",
+          "options": [
+            {
+              "name": "Dual Needle Swords",
+              "details": "A4, Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Dual Barb-Whips",
+              "details": "A4, Lacération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Dual Energy Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Needle Pistol",
+              "details": "12\", A1, Fléau",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Warfare Ministry Agent",
+              "details": "Rapide, Régénération",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Terrorism Ministry Agent",
+              "details": "Résistance, Téléportation",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Surveillance Ministry Agent",
+              "details": "Renforcé, Éclaireur, Arpenteur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Espionage Ministry Agent",
+              "details": "Frappe en mouvement, Infiltration, Protege",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyborg Henchmen",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Agent inquisitorial",
+        "Implacable"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Cyborg Arm",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Shred Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Bearer of the Coil",
+              "details": "Aura de furtivité",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transport Vehicle",
+      "size": 1,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Transport (11)",
+        "Agent inquisitorial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Flamer",
+          "options": [
+            {
+              "name": "Laser Machinegun",
+              "details": "30\", A3, PA (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pintle-Machinegun",
+              "details": "30\", A2, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Vehicle",
+      "size": 1,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Agent inquisitorial",
+        "Coriace (9)"
+      ],
+      "weapons": [
+        {
+          "name": "Acid Cannon",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Pintle-Machinegun",
+              "details": "30\", A2, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Acid Cannon",
+          "options": [
+            {
+              "name": "Fusion Cannon",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Flamer Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

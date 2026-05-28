@@ -1,0 +1,1915 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/AQSDPFVL1DiNNnSU?armyName=Orcs",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/AQSDPFVL1DiNNnSU?armyName=Orcs",
+  "sourceBookUid": "AQSDPFVL1DiNNnSU",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Orques",
+  "version": "3.5.3",
+  "introduction": "Les Orques sont des humanoïdes à la peau verte, puissamment bâtis. Certaines tribus sont lourdement armées et cuirassées, tandis que d'autres se jettent au combat couvertes seulement de peinture et de fureur, ne comptant que sur leur foi.\n\nSuivant une philosophie nouvelle, certains Orques quittèrent les steppes pour attaquer et conquérir les Nains, fondant ainsi un empire orque. Si certains y virent un reniement de leurs anciennes traditions, ces Orques gagnèrent richesse et puissance jusqu'à ce que l'ouverture de la Faille détruise leur royaume. Repoussées vers les steppes, les deux cultures orques doivent désormais réapprendre à coexister sur leurs terres ancestrales.",
+  "backgroundStory": "Les Orques s'installèrent sur les steppes, car malgré leur force individuelle et leurs prouesses martiales, les Humains commencèrent à les repousser vers l'ouest, loin des terres fertiles de l'est. Là, ils suivirent la Voie de l'Os, qui enseignait à ses adeptes à combattre et à survivre à l'état sauvage. Ils considéraient l'agriculture comme indigne d'eux, vivant de chasse et de pillage. D'autres, toutefois, admirèrent la puissance des peuples sédentaires et l'art de la forge ; ceux-là donnèrent naissance à une nouvelle philosophie, la Voie du Fer.\n\nLorsque éclatèrent les Guerres du Havoc, les adeptes de la Voie de l'Os cherchèrent surtout le butin et des adversaires dignes, se souciant peu du camp qu'ils attaquaient. Ceux qui embrassèrent la Voie du Fer y virent au contraire une opportunité plus vaste : ils pouvaient conquérir les forteresses naines et créer leur propre empire. Ces Orques se rassemblèrent et attaquèrent les Nains restés dans les halls pendant que leurs armées combattaient le Havoc. Ils les vainquirent sans grande difficulté et utilisèrent les fortifications conquises pour écraser l'armée naine à son retour.\n\nCes Orques transformèrent leur butin en commerce et édifièrent dans les montagnes un royaume prospère appelé l'Empire de Fer, où ils régnaient sur leurs sujets nains. Pourtant, les Orques plus traditionnels estimaient que ces conquérants avaient abandonné les anciennes voies et finiraient par s'affaiblir. Le peuple orque se trouva ainsi divisé en deux : une partie installée dans les montagnes, l'autre demeurée sur les steppes.\n\nLorsque la Faille s'ouvrit, elle traversa directement les montagnes, détruisant certaines forteresses orques et tuant beaucoup d'entre eux dans des éboulements. Les Nains se soulevèrent alors et les écrasèrent aisément dans le chaos qui s'ensuivit.\n\nLes Orques des montagnes n'eurent d'autre choix que de revenir sur les steppes. Nombre d'entre eux peinèrent à retrouver leur terre ancestrale, ayant grandi dans les montagnes et oublié bien des traditions. Désespérés, ils cherchèrent à se réconcilier avec leurs anciens cousins. Si les Orques des steppes les ont acceptés, la paix reste fragile. Les Orques des montagnes demeurent amers de ce qu'ils ont perdu, beaucoup portant encore des armures récupérées et rêvant de bâtir un nouvel empire. Les Orques des steppes, eux, voient en leurs cousins perdus des êtres incapables d'accepter les traditions qui avaient jadis permis à leur peuple de prospérer.\n\nQuelle voie choisiras-tu pour guider ton peuple ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Ferocite",
+      "keywords": [
+        "Ferocious"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Marquage perforant",
+      "keywords": [
+        "Rending Mark"
+      ]
+    },
+    {
+      "name": "Bonus d'Assaut Perforant",
+      "keywords": [
+        "Piercing Assault Buff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Affaiblissement de vitesse",
+      "keywords": [
+        "Speed Debuff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    },
+    {
+      "name": "Renforcement Ferocite",
+      "keywords": [
+        "Ferocious Boost"
+      ]
+    },
+    {
+      "name": "Exploit de Vitesse",
+      "keywords": [
+        "Speed Feat"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Combattant Frappe et Repli",
+      "keywords": [
+        "Hit & Run Fighter"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Ferocite",
+      "keywords": [
+        "Ferocious Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Exploit de Vitesse",
+      "keywords": [
+        "Speed Feat Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    },
+    {
+      "name": "Aura de Saccage",
+      "keywords": [
+        "Ravage Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Eclair",
+      "keywords": [
+        "Hit & Run Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Mauvais Oeil",
+      "cost": 1,
+      "keywords": [
+        "Evil Gaze"
+      ]
+    },
+    {
+      "name": "Fracassement Divin",
+      "cost": 1,
+      "keywords": [
+        "Godly Smash"
+      ]
+    },
+    {
+      "name": "Chant de la Voie-Clan",
+      "cost": 2,
+      "keywords": [
+        "Way-Clan Chant"
+      ]
+    },
+    {
+      "name": "Frappe d'Os",
+      "cost": 2,
+      "keywords": [
+        "Bone Strike"
+      ]
+    },
+    {
+      "name": "Poings Magiques",
+      "cost": 3,
+      "keywords": [
+        "Magic Fists"
+      ]
+    },
+    {
+      "name": "Explosion de Fer",
+      "cost": 3,
+      "keywords": [
+        "Iron Burst"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Brute Orc Boss",
+      "size": 1,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A6, PA (1), Contre-charge",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A6, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Iron Master",
+          "options": [
+            {
+              "name": "Bone Master",
+              "details": "Assaut perforant, Éclaireur, Arpenteur",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Great Wyvern",
+              "details": "Heavy Claws, Stomp, Armure (3), Effrayant (2), Volant, Impact (3), Coriace (12)",
+              "cost": "+190pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chanter",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Trailblazer",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chieftain",
+              "details": "Aura de Renforcement Ferocite",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master Keeper",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Guard Boss",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Héros",
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Heavy Hand Weapons",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Tusk-Beast",
+              "details": "Rapide, Impact (1), Ravage (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Tusk-Beast",
+              "details": "Rapide, Impact (2), Ravage (2), Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Giant Tusk-Beast",
+              "details": "Giant Tusks, Rapide, Effrayant (1), Impact (6), Coriace (9)",
+              "cost": "+180pts"
+            },
+            {
+              "name": "Wyvern",
+              "details": "Heavy Claws, Effrayant (2), Volant, Stomp, Coriace (12)",
+              "cost": "+280pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade Giant Tusk-Beast with",
+          "options": [
+            {
+              "name": "Iron Guard Crew",
+              "details": "Heavy Great Weapon, Coriace (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chanter",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chieftain",
+              "details": "Aura de Renforcement Ferocite",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Keeper",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Trapper",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orc Boss",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Iron Master",
+          "options": [
+            {
+              "name": "Bone Tusk-Master",
+              "details": "Assaut perforant, Arpenteur, Avant-garde",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Bone Master",
+              "details": "Assaut perforant, Éclaireur, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Scary Shield",
+              "details": "Esquive en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Tusk-Beast",
+              "details": "Rapide, Impact (1), Ravage (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Tusk-Beast",
+              "details": "Rapide, Impact (2), Ravage (2), Coriace (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Fang-Beast",
+              "details": "Perforant Claws, Rapide, Coriace (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Tusk-Beast Chariot",
+              "details": "Armure (3), Rapide, Impact (4), Coriace (6)",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Fang-Beast Chariot",
+              "details": "Perforant Claws, Armure (3), Rapide, Coriace (6)",
+              "cost": "+105pts"
+            },
+            {
+              "name": "Great Troll",
+              "details": "Effrayant (1), Régénération, Coriace (6), Dual Clubs",
+              "cost": "+125pts"
+            },
+            {
+              "name": "Great Vulture",
+              "details": "Sharp Beak, Stomp, Effrayant (2), Volant, Coriace (9)",
+              "cost": "+195pts"
+            },
+            {
+              "name": "Wyvern",
+              "details": "Heavy Claws, Stomp, Armure (3), Effrayant (2), Volant, Coriace (12)",
+              "cost": "+235pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Trailblazer",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chieftain",
+              "details": "Aura de Renforcement Ferocite",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Keeper",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Trapper",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Shaman",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orc Leader",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shortbow",
+              "details": "18\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Iron Master",
+          "options": [
+            {
+              "name": "Bone Tusk-Master",
+              "details": "Assaut perforant, Arpenteur, Avant-garde",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bone Master",
+              "details": "Assaut perforant, Éclaireur, Arpenteur",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Scary Shield",
+              "details": "Esquive en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Tusk-Beast",
+              "details": "Rapide, Impact (1), Ravage (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chanter",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Trailblazer",
+              "details": "Aura de Combattant Eclair",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chieftain",
+              "details": "Aura de Renforcement Ferocite",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Trapper",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Shaman",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hobswampling Leader",
+      "size": 1,
+      "cost": 20,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Sling-Bombs",
+              "details": "12\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vulture",
+              "details": "Perforant Claws, Volant, Coriace (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chanter",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Chieftain",
+              "details": "Aura de Renforcement Ferocite",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master Keeper",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Trapper",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hobswamplings",
+      "size": 10,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Warriors",
+      "size": 10,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Scary Shields",
+              "details": "Esquive en mêlée",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "War Drummer",
+              "details": "Aura d'Exploit de Vitesse",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Iron Banner",
+              "details": "Aura de Saccage",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Warriors",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Assaut perforant",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Contre-charge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Spears",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Spear",
+          "options": [
+            {
+              "name": "Great Impaler",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "War Drummer",
+              "details": "Aura d'Exploit de Vitesse",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Guard",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Great Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Great Weapons",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Brutes",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Spear",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Contre-charge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Spear",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Spear",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Mace & Claw",
+              "details": "A2, PA (1), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Iron Banner",
+              "details": "Aura de Saccage",
+              "cost": "+20pts"
+            },
+            {
+              "name": "War Drummer",
+              "details": "Aura d'Exploit de Vitesse",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Brutes",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (3)",
+        "Assaut perforant",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Wrecking Flail",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Wrecking Flail",
+          "options": [
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Wrecking Flail",
+          "options": [
+            {
+              "name": "Heavy Great Impaler",
+              "details": "A2, Mortel (3), Dechirure",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "War Drummer",
+              "details": "Aura d'Exploit de Vitesse",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Shooters",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Bows",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bone Shooters",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Assaut perforant",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Shortbow",
+          "options": [
+            {
+              "name": "Impaler Shortbow",
+              "details": "18\", A1, Dechirure, Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Snipers",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Skew-Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fiable, Perforant, Élimination"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Tusk-Beast Iron Riders",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Iron Banner",
+              "details": "Aura de Saccage",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tusk-Beast Bone Riders",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Ravage (1)",
+        "Assaut perforant",
+        "Ferocite",
+        "Avant-garde"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Lance",
+          "options": [
+            {
+              "name": "Great Impaler",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vulture Riders",
+      "size": 3,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ferocite",
+        "Volant",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Sling-Bombs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Sling-Bombs",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Tusk-Beast Guard Riders",
+      "size": 3,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Tusks",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Swamp Crawler",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Ferocite",
+        "Assaut perforant",
+        "Régénération",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Bone Banner",
+              "details": "Marquage perforant",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sludge Beast",
+      "size": 1,
+      "cost": 275,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Furtif",
+        "Coriace (12)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Snatching Hook",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "Putrid Bite",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Bone Banner",
+              "details": "Marquage perforant",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tusk-Beast Chariot",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Tusks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Iron Banner",
+              "details": "Ravage (6)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Tusk-Beast Rider",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Ferocite",
+        "Impact (6)",
+        "Coriace (9)"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Giant Tusks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Iron Guard Crew",
+              "details": "Heavy Great Weapon, Coriace (3)",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Iron Banner",
+              "details": "Ravage (6)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orc Artillery",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie",
+        "Ferocite"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Giant Crossbow",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rapid Giant Crossbow",
+          "options": [
+            {
+              "name": "Giant Impaler Crossbow",
+              "details": "30\", A2, Mortel (3), Dechirure",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waurgazg",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Ferocite",
+        "Héros",
+        "Éclaireur",
+        "Arpenteur",
+        "Assaut perforant",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Shadow Staff",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,1610 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Q59-nh6A1AhRBrLR?armyName=Daemons+of+War",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Q59-nh6A1AhRBrLR?armyName=Daemons+of+War",
+  "sourceBookUid": "Q59-nh6A1AhRBrLR",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Démons de la Faille de la Guerre",
+  "version": "3.5.3",
+  "introduction": "Les Démons de la Faille sont les monstrueux serviteurs des Dieux du Havoc, qui émergent des profondeurs mêmes de Tyria. Leurs formes varient énormément selon le dieu qu'ils servent, et ils sont accompagnés d'une grande variété de bêtes démoniaques.\n\nLes Démons obéissent aux volontés étranges et étrangères de leurs dieux, surgissant de la Grande Faille pour répandre le Havoc à travers Tyria. Ils sont les rejetons de dieux mourants qui cherchent désespérément à gagner encore un peu de temps, prêts à ne laisser derrière eux que chaos et destruction dans l'espoir de prolonger leur propre existence.",
+  "backgroundStory": "Les Démons de la Faille sont issus des derniers survivants d'un panthéon de dieux mourants, connus en Tyria sous le nom de Dieux du Havoc. Désespérés à l'idée de périr, ces dieux cherchèrent des fidèles parmi les perdus et les désespérés, leur offrant pouvoir et salut en échange de leur adoration. Ceux qui les rejetèrent en vinrent à les nommer Dieux du Havoc à cause du fanatisme de leurs adorateurs et du désordre qu'ils semaient.\n\nLes Dieux du Havoc arrivèrent en Tyria peu après la découverte des Portails du Vide. À mesure que mages et aventuriers les activaient à travers le monde, l'influence du Havoc se propagea. Les Dieux du Havoc virent Tyria comme un plan fascinant, riche de peuples variés parmi lesquels ils pouvaient recruter d'innombrables nouveaux adeptes.\n\nLes Démons furent envoyés en Tyria par leurs dieux et se répandirent dans tout le plan. Ils cherchaient à attirer des fidèles à leur maître, soit par des promesses de pouvoir, soit par des démonstrations de force. Ils trouvèrent partout des adeptes qu'ils guidèrent dans la conquête d'autrui. Trahison, guerre et massacres devinrent monnaie courante lorsque commencèrent les Guerres du Havoc. On vit des Démons à travers tout le continent, combattant seuls ou aux côtés d'alliés mortels, tandis qu'eux et leurs dieux menaçaient d'engloutir tout le monde connu.\n\nLes Dieux du Havoc étaient sur le point de triompher lorsqu'ils tombèrent dans un piège désespéré tendu par leurs ennemis. Les plus grands mages de Tyria sacrifièrent leur vie dans un rituel qui permit d'enfermer les Dieux du Havoc dans l'Orbe du Destin. Brutalement coupées de leurs créateurs, les forces du Havoc furent vaincues. Les Démons survivants fuirent et se cachèrent à travers Tyria, tandis que leurs ennemis connaissaient une longue ère de paix et de prospérité.\n\nCette paix prit fin brutalement lorsque, des siècles plus tard, l'Orbe fut brisée par les héritiers du plus puissant Empire humain de Tyria. Les Dieux du Havoc furent libérés, et la puissance déchaînée par la rupture de l'Orbe éventra le coeur de Tyria, scarifia la terre et ouvrit une immense fissure qui traversa une grande partie du plan. Cette cicatrice prit le nom de Faille, et c'est d'elle que les Démons recommencèrent à surgir.\n\nLes Démons de la Faille brûlent de retrouver leurs maîtres et de venger leur défaite. Ils se sont déjà répandus dans de nombreuses régions de Tyria, et leurs hordes grossissent chaque jour. Face à d'anciens ennemis complaisants et divisés, peu sont encore capables de leur résister alors qu'ils s'apprêtent à plier une fois de plus Tyria à la volonté de leurs dieux.\n\nComment apporteras-tu la gloire à ton dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Guerrier-né",
+      "keywords": [
+        "Warbound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Boost de Guerrier-né",
+      "keywords": [
+        "Warbound Boost"
+      ]
+    },
+    {
+      "name": "Frénésie défensive",
+      "keywords": [
+        "Defensive Frenzy"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Charge"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Fatigue",
+      "keywords": [
+        "Fatigue Debuff"
+      ]
+    },
+    {
+      "name": "Tempete de guerre",
+      "keywords": [
+        "Storm of War"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "+1 en Défense",
+      "keywords": [
+        "+1 to Defense"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Percee temeraire",
+      "keywords": [
+        "Reckless Piercing"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tireur perforant",
+      "keywords": [
+        "Piercing Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant perforant",
+      "keywords": [
+        "Piercing Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    },
+    {
+      "name": "Aura de Bond",
+      "keywords": [
+        "Bounding Aura"
+      ]
+    },
+    {
+      "name": "Aura de Percee temeraire",
+      "keywords": [
+        "Reckless Piercing Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Guerrier-né",
+      "keywords": [
+        "Warbound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Fureur terrifiante",
+      "cost": 1,
+      "keywords": [
+        "Terrifying Fury"
+      ]
+    },
+    {
+      "name": "Flamme de la destruction",
+      "cost": 1,
+      "keywords": [
+        "Flame of Destruction"
+      ]
+    },
+    {
+      "name": "Protection Ardente",
+      "cost": 2,
+      "keywords": [
+        "Fiery Protection"
+      ]
+    },
+    {
+      "name": "Massacre Brutal",
+      "cost": 2,
+      "keywords": [
+        "Brutal Massacre"
+      ]
+    },
+    {
+      "name": "Bénédiction guerrière",
+      "cost": 3,
+      "keywords": [
+        "War Boon"
+      ]
+    },
+    {
+      "name": "Décapitation",
+      "cost": 3,
+      "keywords": [
+        "Headtaker Strike"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Avatar of War",
+      "size": 1,
+      "cost": 795,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Volant",
+        "Héros",
+        "Coriace (18)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Exalted Flame Hammer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Exalted Flame Hammer",
+          "options": [
+            {
+              "name": "Exalted Blood Sword",
+              "details": "A9, Fissure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Exalted Long Whip",
+              "details": "18\", A6, PA (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Exalted Flame Axe",
+              "details": "A9, PA (1), Perforant",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Exalted Flame Spear",
+              "details": "A3, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Exalted War Whip",
+              "details": "12\", A12, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Exalted Flame Gauntlet",
+              "details": "A9, PA (4)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of War",
+              "details": "Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Gift of War",
+              "details": "Blindé",
+              "cost": "+35pts"
+            },
+            {
+              "name": "War God's Power",
+              "details": "Tempete de guerre",
+              "cost": "+40pts"
+            },
+            {
+              "name": "War Favour",
+              "details": "Boost de Guerrier-né",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Lore of War",
+              "details": "Lanceur de sorts (5)",
+              "cost": "+110pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ascended Harbinger of War",
+      "size": 1,
+      "cost": 320,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Héros",
+        "Coriace (12)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Great Flame Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Great Flame Hammer",
+          "options": [
+            {
+              "name": "Great Blood Sword",
+              "details": "A6, Fissure",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Long Whip",
+              "details": "18\", A4, PA (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Flame Spear",
+              "details": "A2, PA (3), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Flame Axe",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great War Whip",
+              "details": "12\", A8, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Flame Gauntlet",
+              "details": "A6, PA (4)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Symbol of War",
+              "details": "Charge rapide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gift of War",
+              "details": "Blindé",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Curse of War",
+              "details": "Affaiblissement de Fatigue",
+              "cost": "+20pts"
+            },
+            {
+              "name": "War Favour",
+              "details": "Boost de Guerrier-né",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Lore of War",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+85pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of War",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Flame Spear",
+          "options": [
+            {
+              "name": "Flame Hammer",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Blood Sword",
+              "details": "A3, Fissure",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Flame Axe",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Long Whip",
+              "details": "18\", A2, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "War Whip",
+              "details": "12\", A4, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Flame Gauntlet",
+              "details": "A3, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fury Wings",
+              "details": "Volant, Éclaireur",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of War",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Symbol of War",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Gift of War",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "War Favour",
+              "details": "Aura de Boost du Guerrier-né",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Lore of War",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion of War",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Flame Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Axe and Flame Spear",
+          "options": [
+            {
+              "name": "Flame Hammer",
+              "details": "A1, PA (1), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "2x Blood Sword",
+              "details": "A2, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Long Whip",
+              "details": "18\", A2, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "War Whip",
+              "details": "12\", A4, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Blood Sword",
+          "options": [
+            {
+              "name": "Flame Axe",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flame Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Great Beast",
+              "details": "Heavy Claws, Armure (3), Rapide, Impact (2), Coriace (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Throne of Blood",
+              "details": "Claws, Armure (3), Effrayant (1), Coriace (6)",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of War",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Symbol of War",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Lore of War",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "War Favour",
+              "details": "Aura de Boost du Guerrier-né",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Icon of War",
+              "details": "Aura de Tireur perforant",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fury Champion of War",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (3)",
+        "Éclaireur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Flame Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Axe and Flame Spear",
+          "options": [
+            {
+              "name": "Axe",
+              "details": "A1, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "2x Blood Sword",
+              "details": "A2, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Long Whip",
+              "details": "18\", A2, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "War Whip",
+              "details": "12\", A4, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Blood Sword",
+          "options": [
+            {
+              "name": "Flame Axe",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flame Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of War",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Symbol of War",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Gift of War",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon of War",
+              "details": "Aura de Tireur perforant",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tri-Hound Champion",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Frenzied Bites",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spiked Collar",
+              "details": "Ravage (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Guard Beast",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Anti-Wizard Collar",
+              "details": "Résistance",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Malicious Predator",
+          "options": [
+            {
+              "name": "Bounding Advance",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Furies",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Blood Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blood Claws",
+          "options": [
+            {
+              "name": "Armblades",
+              "details": "A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rending Claws",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Warriors",
+      "size": 5,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Blood Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Blood Swords",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, PA (1), Contre-charge",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Banner of War",
+              "details": "Aura de Combattant perforant",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whip-Furies",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Long Whip",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Long Whips",
+          "options": [
+            {
+              "name": "War Whip",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Whippers",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Long Whip",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Long Whips",
+          "options": [
+            {
+              "name": "War Whip",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beast Riders",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Blood Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Blood Swords",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Hounds",
+      "size": 5,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Anti-Wizard Collar",
+              "details": "Résistance",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spiked Collars",
+              "details": "Ravage (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Malicious Predators",
+          "options": [
+            {
+              "name": "Bounding Advance",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "War Soul Spawns",
+      "size": 3,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Guerrier-né",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Mutated Blood Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Mutated Blood Claws",
+          "options": [
+            {
+              "name": "Heavy Flame Axe",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Mutated Claws",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cannon Chariot",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Horn-Shot Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (6), Inarrêtable"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Horn-Shot Cannon",
+          "options": [
+            {
+              "name": "Skull-Shot Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of War",
+              "details": "Affaiblissement de Fatigue",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Tri-Hound",
+      "size": 1,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (9)",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Frenzied Bites",
+          "range": "-",
+          "attacks": "A9",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of War",
+              "details": "Affaiblissement de Fatigue",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Spiked Collar",
+              "details": "Ravage (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "War Boon",
+              "details": "Frénésie défensive",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Guard Beast",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Anti-Wizard Collar",
+              "details": "Résistance",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul Daemon of War",
+      "size": 1,
+      "cost": 805,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Blood Cannon",
+          "range": "18\"",
+          "attacks": "A18",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Giant Blood Sword",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Giant Blood Sword",
+          "options": [
+            {
+              "name": "Heavy War Axe",
+              "details": "A12, PA (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "War Sword",
+              "details": "A18, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Blood Cannon",
+          "options": [
+            {
+              "name": "War Cannon",
+              "details": "24\", A12, PA (1), Perforant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy War Cannon",
+              "details": "24\", A12, PA (3)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleaverfang",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Frenzied Fangs",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Chainrend",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Éclaireur",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Arcane Blast",
+          "range": "9\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Arcane Spear",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ironpride",
+      "size": 1,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier-né"
+      ],
+      "weapons": [
+        {
+          "name": "Sharptongue",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -22,9 +22,9 @@ export default class DataService {
       .then((data) => {
 
         console.log(data);
-        var transformData = this.transformApiData(data);
+        var transformData = this.transformApiData(data, fallback);
         console.log(transformData);
-        callback(transformData);
+        if (transformData) callback(transformData);
 
       }, fallback);
   }
@@ -46,6 +46,7 @@ export default class DataService {
 
   public static transformApiData(input, fallback?: (err: string) => void) {
     try {
+      input = this.normalizeDefinitionData(input);
       const countRegex = /^(\d+)x\s/;
 
       const upgradePackages: IUpgradePackage[] = input.upgradePackages.map(pkg => {
@@ -202,6 +203,120 @@ export default class DataService {
       }
 
       return data;
-    } catch (err) { if (typeof (fallback) == "function") fallback(err) }
+    } catch (err) {
+      console.error("Failed to transform army data:", err);
+      if (typeof (fallback) == "function") fallback(err);
+      return null;
+    }
+  }
+
+  private static normalizeDefinitionData(input) {
+    if (!input?.armyName || !Array.isArray(input.units) || input.upgradePackages) {
+      return input;
+    }
+
+    const weaponGain = (weapon) => {
+      const range = parseInt((weapon.range || "").replace(/"/g, ""));
+      const attacks = parseInt((weapon.attacks || "").replace(/^A/i, ""));
+      const specialRules = []
+        .concat(weapon.ap && weapon.ap !== "-" ? [`PA (${weapon.ap})`] : [])
+        .concat(weapon.special && weapon.special !== "-" ? weapon.special.split(/\s*,\s*/) : [])
+        .filter(Boolean);
+
+      return {
+        id: nanoid(7),
+        label: weapon.name,
+        attacks: Number.isNaN(attacks) ? undefined : attacks,
+        range: Number.isNaN(range) ? 0 : range,
+        specialRules
+      };
+    };
+
+    const ruleGain = (rule) => ({
+      id: nanoid(7),
+      count: 1,
+      ...DataParsingService.parseRule(rule),
+      label: rule,
+      type: "ArmyBookRule"
+    });
+
+    const optionGains = (option) => {
+      const details = option.details || "";
+      const weaponText = `${option.name} (${details}) ${option.cost || "+0pts"}`;
+
+      try {
+        const parsed = DataParsingService.parseEquipment(weaponText, true);
+        return parsed.gains || [parsed];
+      } catch (_) {
+        return details
+          .split(/\s*,\s*/)
+          .filter(Boolean)
+          .filter(rule => rule !== "-")
+          .map(ruleGain);
+      }
+    };
+
+    const upgradePackages = input.units.map((unit, unitIndex) => {
+      const uid = `unit-${unitIndex + 1}`;
+      return {
+        uid,
+        hint: unit.name,
+        sections: (unit.upgrades || []).map((upgrade, upgradeIndex) => ({
+          id: `${uid}-upgrade-${upgradeIndex + 1}`,
+          label: upgrade.type.endsWith(":") ? upgrade.type : `${upgrade.type}:`,
+          options: (upgrade.options || []).map(option => ({
+            id: nanoid(5),
+            type: "ArmyBookUpgradeOption",
+            cost: typeof option.cost === "number" ? option.cost : parseInt((option.cost || "0").replace(/pts?/i, "")) || 0,
+            label: option.name,
+            gains: optionGains(option)
+          }))
+        }))
+      };
+    });
+
+    return {
+      uid: input.sourceBookUid,
+      name: input.armyName,
+      factionName: input.armyName,
+      factionRelation: "",
+      versionString: input.version ? `v${input.version}` : "",
+      dataToolVersion: input.version || "",
+      background: input.backgroundStory || input.introduction || "",
+      units: input.units.map((unit, unitIndex) => ({
+        id: `${input.sourceBookUid || "local"}-${unitIndex + 1}`,
+        name: unit.name,
+        size: unit.size,
+        cost: unit.cost,
+        quality: parseInt(unit.quality),
+        defense: parseInt(unit.defense),
+        category: unit.unitType,
+        specialRules: (unit.specialRules || []).map(DataParsingService.parseRule),
+        upgrades: [`unit-${unitIndex + 1}`],
+        equipment: (unit.weapons || []).map(weaponGain)
+      })),
+      upgradePackages,
+      specialRules: []
+        .concat(input.armyWideSpecialRule || [])
+        .concat(input.specialRules || [])
+        .concat(input.auraSpecialRules || [])
+        .map(rule => ({
+          id: nanoid(5),
+          key: (rule.keywords?.[0] || rule.name || "").toLowerCase().replace(/\s+/g, "-"),
+          name: rule.name,
+          label: rule.name,
+          description: rule.keywords?.join(", ") || "",
+          options: []
+        })),
+      spells: (input.armySpells || []).map(spell => ({
+        id: nanoid(5),
+        name: spell.name,
+        threshold: spell.cost,
+        effect: spell.keywords?.join(", ") || ""
+      })),
+      isLive: true,
+      official: true,
+      coverImagePath: ""
+    };
   }
 }

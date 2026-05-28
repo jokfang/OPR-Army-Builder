@@ -1,0 +1,1529 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/TciwNI3AOMXAM-dr?armyName=Beastmen",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/TciwNI3AOMXAM-dr?armyName=Beastmen",
+  "sourceBookUid": "TciwNI3AOMXAM-dr",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Hommes-Bêtes",
+  "version": "3.5.3",
+  "introduction": "Les Hommes-Bêtes sont une coalition de différentes espèces d'humanoïdes bestiaux, qui s'appuient sur des tactiques d'embuscade pour submerger leurs ennemis.\n\nAu fil des siècles, les Hommes-Bêtes ont vécu ensemble dans la savane méridionale de Tyria, bâtissant de grandes cités et prospérant grâce au commerce. L'ouverture de la Faille a détruit nombre de leurs villes, et les Démons les ont chassés de leur foyer. La plupart des Hommes-Bêtes ont fui vers le nord, survivant grâce aux pillages et à la récupération tout en cherchant une nouvelle terre d'accueil.",
+  "backgroundStory": "La vaste savane du sud de Tyria était peuplée de faune sauvage depuis la nuit des temps. Au centre du plus grand point d'eau de la région se dressait un immense arbre luxuriant, qui offrait ombre et nourriture, et dont les racines imprégnaient ses fruits d'une substance magique. Au fil de nombreuses générations, les animaux qui mangèrent les fruits de cet arbre changèrent peu à peu et devinrent conscients. Ils en vinrent à considérer l'arbre comme sacré et s'installèrent autour de lui en paix.\n\nProgressivement, les différentes tribus Ndoli, Waheni, Hapari, Ndwari, Kemba et Silombi apprirent à coexister et formèrent une confédération de peuples étroitement liés. Les Hommes-Bêtes bâtirent une grande civilisation dans la savane, érigeant une capitale autour de l'Arbre Sacré et un réseau de cités plus modestes reliées entre elles à travers les plaines herbeuses et les points d'eau. Pendant des siècles, les tribus des Hommes-Bêtes vécurent dans la paix et la prospérité.\n\nPuis la Faille s'ouvrit. Elle éventra la savane, endommagea l'Arbre Sacré et détruisit nombre de leurs villes. Lorsque les Démons commencèrent à émerger, la majorité des Hommes-Bêtes fut forcée d'abandonner sa patrie. Il ne reste de leur ancienne civilisation que les ruines de leurs cités et les restes desséchés de l'Arbre Sacré, dont les eaux autrefois cristallines se sont maintenant noircies.\n\nCertains Hommes-Bêtes considèrent encore ces ruines comme leur foyer, mais il n'y a guère d'espoir qu'elles refleurissent un jour. D'autres ont commencé à errer le long de la Faille, en direction du cœur de Tyria. Pour survivre, ils pillent les colonies et brûlent les forêts afin de fabriquer des équipements et d'établir des camps. Chacun, parmi les Hommes-Bêtes, a sa propre raison pour cette grande migration. Certains espèrent trouver une nouvelle terre, d'autres cherchent à comprendre la cause de la Faille. D'autres encore se sont accoutumés au pillage et à la violence, et saisissent la moindre occasion de détruire le foyer d'autrui, comme le leur a été autrefois.\n\nComment guideras-tu ta tribu '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Bestial",
+      "keywords": [
+        "Bestial"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Dechiquetage en mêlée",
+      "keywords": [
+        "Shred in Melee"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Contrôle mental",
+      "keywords": [
+        "Mind Control"
+      ]
+    },
+    {
+      "name": "Affaiblissement du moral",
+      "keywords": [
+        "Morale Debuff"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Marquage de Precision",
+      "keywords": [
+        "Precision Tag"
+      ]
+    },
+    {
+      "name": "Malus de magie",
+      "keywords": [
+        "Casting Debuff"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Renforcement Bestial",
+      "keywords": [
+        "Bestial Boost"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tireur de Precision",
+      "keywords": [
+        "Precision Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Bestial",
+      "keywords": [
+        "Bestial Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Deferlante de Puissance",
+      "cost": 1,
+      "keywords": [
+        "Surge of Power"
+      ]
+    },
+    {
+      "name": "Attaque de Nuée",
+      "cost": 1,
+      "keywords": [
+        "Flock Attack"
+      ]
+    },
+    {
+      "name": "Rugissement de Chasse",
+      "cost": 2,
+      "keywords": [
+        "Hunting Roar"
+      ]
+    },
+    {
+      "name": "Colere Ancestrale",
+      "cost": 2,
+      "keywords": [
+        "Ancestral Wrath"
+      ]
+    },
+    {
+      "name": "Manteau Spirituel",
+      "cost": 3,
+      "keywords": [
+        "Spirit Mantle"
+      ]
+    },
+    {
+      "name": "Flamme Destructrice",
+      "cost": 3,
+      "keywords": [
+        "Destructive Flame"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Kemba Brute Boss",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (6)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Flameforged Great Weapon",
+              "details": "A6, Dechirure",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A8, PA (2)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Brute Charge",
+              "details": "Ravage (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Thowing Axe",
+              "details": "12\", A6, PA (1), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pride Captain",
+              "details": "Aura de Renforcement Bestial",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Legacy Defender",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Despoiler",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ndwari Centaur Boss",
+      "size": 1,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Rapide",
+        "Héros",
+        "Impact (1)",
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Flameforged Heavy Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Flameforged Heavy Weapon",
+          "options": [
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A2",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pride Captain",
+              "details": "Aura de Renforcement Bestial",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Legacy Defender",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Holy Tree's Avenger",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Shaman",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ndoli Beast Lord",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Flameforged Great Weapon",
+              "details": "A3, Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Beast Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Chariot",
+              "details": "Heavy Tusks, Rapide, Impact (4), Coriace (6), Combattant imprévisible",
+              "cost": "+150pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Pride Captain",
+              "details": "Aura de Renforcement Bestial",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Legacy Defender",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Great Despoiler",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waheni Hunt Master",
+      "size": 1,
+      "cost": 25,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flameforged Heavy Weapon",
+              "details": "A3, Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Triple-Shortbow",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Kill-Bow",
+              "details": "24\", A1, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Raid Master",
+              "details": "Furtif",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Light Chariot",
+              "details": "Tusks, Armure (4), Rapide, Impact (4), Coriace (6)",
+              "cost": "+95pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Pride Captain",
+              "details": "Aura de Renforcement Bestial",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Despoiler",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Pathfinder",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Holy Tree's Avenger",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Shaman",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Shaman",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waheni Hunters",
+      "size": 10,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Coordinated Hunt",
+              "details": "Marquage de Precision (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ndoli Warriors",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hapari Harpies",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Coordinated Hunt",
+              "details": "Marquage de Precision (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ndoli Elites",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tueur en mêlée",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kemba Brutes",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Coriace (3)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Heavy Hand Weapons",
+          "options": [
+            {
+              "name": "Flameforged Great Weapon",
+              "details": "A2, Dechirure",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (2)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Brute Charge",
+              "details": "Ravage (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Thowing Axe",
+              "details": "12\", A3, PA (1), Limité",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waheni Raiders",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furtif",
+        "Arpenteur",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Coordinated Hunt",
+              "details": "Marquage de Precision (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ndwari Centaurs",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Combattant imprévisible",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Flameforged Heavy Weapon",
+              "details": "A1, Dechirure",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Throwing Weapon",
+              "details": "12\", A1",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Wandering Shaman",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Coordinated Hunt",
+              "details": "Marquage de Precision (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crazed Boars",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (2)",
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Tusks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Sambari Hounds",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Rending Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Vicious",
+              "details": "Dechiquetage en mêlée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Pursuit Predators",
+          "options": [
+            {
+              "name": "Bounding Advance",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Chariot",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        },
+        {
+          "name": "Tusks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spear Crew",
+          "options": [
+            {
+              "name": "Shortbow Crew",
+              "details": "18\", A6",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Coordinated Hunt",
+              "details": "Marquage de Precision (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Chariot",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (4)",
+        "Coriace (6)",
+        "Combattant imprévisible",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Tusks",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Spear Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Silombi Cyclops",
+      "size": 1,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Bestial",
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Résistance"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Strike",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Beast Tamer",
+              "details": "Combattant imprévisible",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Strike",
+          "options": [
+            {
+              "name": "Throw Rocks",
+              "details": "24\", A2, Explosion (3), Indirect",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Strike",
+              "details": "A6",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Terrifying Roar",
+              "details": "Affaiblissement du moral",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sense Magic",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kemba Brute Giant",
+      "size": 1,
+      "cost": 245,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Furieux",
+        "Coriace (12)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A10",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Beast Tamer",
+              "details": "Combattant imprévisible",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Dual Hand Weapons",
+          "options": [
+            {
+              "name": "Flameforged Great Weapon",
+              "details": "A6, Dechirure",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Terrifying Roar",
+              "details": "Affaiblissement du moral",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Thowing Axe",
+              "details": "12\", A6, PA (1), Limité",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Brute Charge",
+              "details": "Ravage (6)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slimey Beast",
+      "size": 1,
+      "cost": 285,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Volant",
+        "Coriace (12)",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Tongue Grasp",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "Acid Maw",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Beast Tamer",
+              "details": "Combattant imprévisible",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Terrifying Roar",
+              "details": "Affaiblissement du moral",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spread Madness",
+              "details": "Contrôle mental",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burning Titan",
+      "size": 1,
+      "cost": 1015,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Coriace (24)",
+        "Sans peur",
+        "Bestial"
+      ],
+      "weapons": [
+        {
+          "name": "Shoot Flames",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shaman Titan",
+          "options": [
+            {
+              "name": "Centaur Titan",
+              "details": "Rapide, Combattant imprévisible, Impact (6)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sabertooth Titan",
+              "details": "Rapide, Éclaireur, Arpenteur",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hakemba",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Bestial",
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Mabalo Dual Staves",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

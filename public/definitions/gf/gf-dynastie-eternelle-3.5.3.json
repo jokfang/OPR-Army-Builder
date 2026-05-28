@@ -1,0 +1,1960 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/vux1Y5vvULmaxZ8P?armyName=Eternal+Dynasty",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/vux1Y5vvULmaxZ8P?armyName=Eternal+Dynasty",
+  "sourceBookUid": "vux1Y5vvULmaxZ8P",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Dynastie Éternelle",
+  "version": "3.5.3",
+  "introduction": "La Dynastie Éternelle est une faction d'extraterrestres avancés issus du secteur Kusari. Ses forces se composent d'infanterie bien armée et de drones, soutenus par des robots et des véhicules de haute technologie.\n\nÀ l'origine, ils émergèrent d'un monde longtemps divisé en un patchwork de clans en guerre. La maison royale devint experte dans l'art de manipuler les clans, poussant ses rivaux potentiels dans une suite de guerres destructrices avant d'imposer sa loi aux survivants et de fonder une Dynastie régnante. La Dynastie Éternelle est prête à tout pour préserver cette unité fragile alors qu'elle étend désormais son empire jusqu'aux étoiles.",
+  "backgroundStory": "La Dynastie Éternelle est originaire du Secteur Kusari, où son peuple vécut paisiblement durant des millénaires, si bien que son système natal finit par être surnommé les « étoiles calmes » en raison de la paix durable dont il bénéficiait. Pourtant, à mesure que la population grandissait et se dispersait dans tout le système, différentes philosophies commencèrent à se développer et à s'opposer. Afin de préserver la paix, un système de gouvernement fut mis en place : les régions furent divisées en clans placés sous l'autorité nominale d'une Dynastie Royale. Celle-ci devait servir de médiatrice, et le titre était censé circuler entre les familles dirigeantes des différents clans.\n\nCe système dynastique préserva la paix pendant un temps, mais l'autorité de la dynastie régnante s'affaiblit peu à peu à mesure que les clans poursuivaient leurs intérêts particuliers. Finalement, la Dynastie Royale ne fut plus capable d'arbitrer les conflits entre clans, et la guerre éclata. Avec le temps, la Dynastie ne devint plus qu'une marionnette du clan le plus puissant, tandis que la rivalité entre clans se mua en haine ouverte et en xénophobie.\n\nL'ère des Guerres de Clan dura plus d'un siècle, les clans luttant pour conserver leur domination sur le système avant d'être remplacés par les suivants. Finalement, le titre de Dynastie Royale échut à une famille n'ayant d'allégeance à aucun clan particulier. Cette famille cessa d'intervenir pour mettre fin aux conflits et utilisa au contraire sa position pour les attiser.\n\nCela entraîna une série de guerres violentes et terriblement sanglantes, qui dévastèrent les Étoiles Calmes et affaiblirent grandement les clans. Puis la Dynastie Royale intervint et unifia les clans survivants sous une armée royale élargie. Refusant ensuite d'abandonner le pouvoir comme la tradition l'exigeait, elle se proclama Dynastie Éternelle.\n\nLe règne de la Dynastie Éternelle a ouvert une ère de paix et de prospérité qui lui a permis de s'étendre parmi les étoiles et au-delà même du secteur Kusari. Pourtant, l'amertume demeure entre les clans malgré des siècles de paix. Une grande partie de leur société porte encore les cicatrices des Guerres de Clan, et beaucoup n'obéissent à la Dynastie qu'à contrecœur, à cause du rôle qu'elle joua dans les derniers conflits qui mirent fin à cette époque.\n\nComment porteras-tu ton unité jusque parmi les étoiles ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Guerrier de clan",
+      "keywords": [
+        "Clan Warrior"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Balise d'embuscade",
+      "keywords": [
+        "Ambush Beacon"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Amelioration d'incantation",
+      "keywords": [
+        "Casting Buff"
+      ]
+    },
+    {
+      "name": "Marque d'Augmentation de Portee de Tir",
+      "keywords": [
+        "Increased Shooting Range Mark"
+      ]
+    },
+    {
+      "name": "Vengeance",
+      "keywords": [
+        "Vengeance"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Boost de Guerrier de clan",
+      "keywords": [
+        "Clan Warrior Boost"
+      ]
+    },
+    {
+      "name": "Avance rapide",
+      "keywords": [
+        "Rapid Advance"
+      ]
+    },
+    {
+      "name": "Ignore le couvert",
+      "keywords": [
+        "Ignores Cover"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Combattant de Precision",
+      "keywords": [
+        "Precision Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Intr?pide",
+      "keywords": [
+        "Fearless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost de Guerrier de clan",
+      "keywords": [
+        "Clan Warrior Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Avance rapide",
+      "keywords": [
+        "Rapid Advance Aura"
+      ]
+    },
+    {
+      "name": "Aura d'ignore-couvert",
+      "keywords": [
+        "Ignores Cover Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Esprit Power",
+      "cost": 1,
+      "keywords": [
+        "Spirit Power"
+      ]
+    },
+    {
+      "name": "Soul Spear",
+      "cost": 1,
+      "keywords": [
+        "Soul Spear"
+      ]
+    },
+    {
+      "name": "Esprit Resolve",
+      "cost": 2,
+      "keywords": [
+        "Spirit Resolve"
+      ]
+    },
+    {
+      "name": "Mind Vortex",
+      "cost": 2,
+      "keywords": [
+        "Mind Vortex"
+      ]
+    },
+    {
+      "name": "Eternal Guidance",
+      "cost": 3,
+      "keywords": [
+        "Eternal Guidance"
+      ]
+    },
+    {
+      "name": "Dragon Breath",
+      "cost": 3,
+      "keywords": [
+        "Dragon Breath"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "ONI Captain",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Great Mace",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Heavy Bash",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Mace",
+          "options": [
+            {
+              "name": "Heavy Sword",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "2x Heavy Flame-Fist",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Great Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Glaive",
+              "details": "A6, PA (2)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Flame-Fist",
+          "options": [
+            {
+              "name": "Heavy Gun-Fist",
+              "details": "24\", A3",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Shred-Fist",
+              "details": "18\", A3, Perforant",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Fist",
+              "details": "A3, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Rocket-Fist",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Fusion-Fist",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Plasma-Fist",
+              "details": "24\", A3, PA (4)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Missile-Fist",
+              "details": "30\", A3, PA (3), Inarrêtable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Drone Laser Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Drone",
+              "details": "Aura d'ignore-couvert",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Boost de Guerrier de clan",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spirit-Core Bearer",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sentinel",
+              "details": "Aura d'Intr?pide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Sergeant",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dynasty Leader",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Dynasty Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Drone Laser Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Drone",
+              "details": "Aura d'ignore-couvert",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Dynasty Pistol and CCW",
+          "options": [
+            {
+              "name": "2x Leader Auto-Gun",
+              "details": "12\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "2x Royal Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "2x Royal Sickle",
+              "details": "A2, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spear-Shock",
+              "details": "18\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Dynasty Pistol",
+          "options": [
+            {
+              "name": "Leader Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader Carbine",
+              "details": "18\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Long Rifle",
+              "details": "30\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Royal Sickle",
+              "details": "A2, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Royal Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Hook Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Hover Alert-Drone",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Royal Guard Master",
+              "details": "Régénération, Attaque polyvalente",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Ninja Master",
+              "details": "Embuscade, Furtif, Téléportation",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Boost de Guerrier de clan",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sentinel",
+              "details": "Aura d'Intr?pide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Warlord",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Sage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Sergeant",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Long Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Drone Laser Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Drone",
+              "details": "Aura d'ignore-couvert",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Long Rifles",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Long Rifle",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shishi Turret",
+              "details": "Rocket",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shishi Turret",
+              "details": "Missiles",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Long Rifle and CCW",
+          "options": [
+            {
+              "name": "Twin Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Honor-Bound",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scouts",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Long Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Drone Laser Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Drone",
+              "details": "Aura d'ignore-couvert",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Long Rifle",
+          "options": [
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to three Long Rifles",
+          "options": [
+            {
+              "name": "Energy Rifle",
+              "details": "36\", A1, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Dynastic Triangulator",
+              "details": "Balise d'embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ninja",
+      "size": 5,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Téléportation",
+        "Furtif",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Auto-Gun",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Auto-Gun and Sword",
+          "options": [
+            {
+              "name": "Auto-Gun",
+              "details": "12\", A1, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "2x Sword",
+              "details": "A1, PA (1), Perforant",
+              "cost": "Free"
+            },
+            {
+              "name": "2x Sickle",
+              "details": "A1, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "2x Auto-Gun",
+              "details": "12\", A1, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Guard",
+      "size": 5,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Guerrier de clan",
+        "Attaque polyvalente",
+        "Régénération"
+      ],
+      "weapons": [
+        {
+          "name": "Spear-Shot",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Spear",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Spear-Shot",
+          "options": [
+            {
+              "name": "Spear-Flame",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear-Plasma",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear-Fuse",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spear-Shred",
+              "details": "9\", A3, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Honor-Bound",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Drones",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Laser Gun",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Dechirure"
+        },
+        {
+          "name": "Taser",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Laser Gun",
+          "options": [
+            {
+              "name": "Heavy Laser Gun",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ONIs",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Fist",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Fist",
+          "options": [
+            {
+              "name": "Gun-Fist",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shred-Fist",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Fist",
+              "details": "24\", A2, PA (4)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Fist",
+          "options": [
+            {
+              "name": "Flame-Fist",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Fist",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rocket-Fist",
+              "details": "24\", A1, Explosion (3), Indirect",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Missile-Fist",
+              "details": "30\", A2, PA (3), Inarrêtable",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may replace 2x Heavy Fist",
+          "options": [
+            {
+              "name": "Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Glaive",
+              "details": "A3, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetpacks",
+              "details": "Embuscade, Volant",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Drone Laser Gun",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Drone",
+              "details": "Aura d'ignore-couvert",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Honor-Bound",
+              "details": "Vengeance",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyber-Bird Swarms",
+      "size": 3,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Vanguard Hunt Master",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Hunt Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyber Lizards",
+      "size": 5,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Toxin Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Vanguard Hunt Master",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Hunt Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyber Beast",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Furieux",
+        "Coriace (6)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Fist",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Vanguard Hunt Master",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Hunt Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dynasty APC",
+      "size": 1,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (6)",
+        "Impact (3)",
+        "Transport (11)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Auto-Gun",
+              "details": "18\", A4, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Laser Gun",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dynasty Tank",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (12)",
+        "Impact (6)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Artillery Gun",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Auto-Gun",
+              "details": "18\", A4, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Laser Gun",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Artillery Gun",
+          "options": [
+            {
+              "name": "Heavy Anti-Tank Cannon",
+              "details": "30\", A2, PA (3), Mortel (6)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Heavy Battle Cannon",
+              "details": "30\", A4, PA (2), Explosion (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Autocannon",
+              "details": "36\", A9, PA (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Speeder",
+      "size": 1,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (6)",
+        "Impact (3)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Hull Auto-Gun",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Twin Burst Laser Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Burst Laser Gun",
+          "options": [
+            {
+              "name": "Twin Heavy Laser Gun",
+              "details": "24\", A2, Mortel (3), Dechirure",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Hull Auto-Gun",
+          "options": [
+            {
+              "name": "Hull Flamer",
+              "details": "12\", A2, PA (1), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hull Laser Gun",
+              "details": "24\", A2, Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Beam",
+              "details": "Marque d'Augmentation de Portee de Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ninja Walker",
+      "size": 1,
+      "cost": 335,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Effrayant (2)",
+        "Furtif",
+        "Coriace (9)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Burst Auto-Gun",
+          "range": "18\"",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Rope-Sickle",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Burst Auto-Gun",
+          "options": [
+            {
+              "name": "Sword-Laser",
+              "details": "12\", A4, Dechirure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rope-Sickle",
+          "options": [
+            {
+              "name": "Rope-Blade",
+              "details": "12\", A4, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Displacement Pack",
+              "details": "Téléportation",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Beam",
+              "details": "Marque d'Augmentation de Portee de Tir",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ONI Walker",
+      "size": 1,
+      "cost": 335,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamethrower",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamethrower",
+          "options": [
+            {
+              "name": "Rocket Launcher",
+              "details": "24\", A4, Explosion (3), Indirect",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Blast Cannon",
+              "details": "24\", A4, PA (2), Explosion (3)",
+              "cost": "+80pts"
+            },
+            {
+              "name": "Heavy Strike Cannon",
+              "details": "30\", A2, PA (3), Mortel (6)",
+              "cost": "+115pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A8, PA (3), Inarrêtable",
+              "cost": "+140pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Attack Drone",
+              "details": "Laser Gun",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shield Drone",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Samurai Titan",
+      "size": 1,
+      "cost": 560,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Titan Sword",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "2",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Titan Sword",
+          "options": [
+            {
+              "name": "Titan Heavy Laser Rifle",
+              "details": "24\", A4, Mortel (3), Dechirure",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Titan Heavy Plasma Rifle",
+              "details": "24\", A4, PA (4), Explosion (3)",
+              "cost": "+115pts"
+            },
+            {
+              "name": "Titan Heavy Shred Rifle",
+              "details": "24\", A18, Perforant",
+              "cost": "+135pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Force Field",
+              "details": "Furtif",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Macaque Titan",
+      "size": 1,
+      "cost": 725,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Bond",
+        "Effrayant (3)",
+        "Sans peur",
+        "Furieux",
+        "Arpenteur",
+        "Coriace (18)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Fists",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Dragon Titan",
+      "size": 1,
+      "cost": 865,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Lanceur de sorts (4)",
+        "Effrayant (3)",
+        "Sans peur",
+        "Volant",
+        "Régénération",
+        "Coriace (18)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Fire Torrent",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Dragon Strike",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Artillery Titan",
+      "size": 1,
+      "cost": 750,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Lent",
+        "Coriace (18)",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Guided Missiles",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (6), Inarrêtable"
+        },
+        {
+          "name": "Titan Blast Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (6), Indirect"
+        },
+        {
+          "name": "Rocket Pod",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Blast Cannon",
+          "options": [
+            {
+              "name": "Titan Strike Cannon",
+              "details": "36\", A2, PA (3), Mortel (6)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rocket Pod",
+          "options": [
+            {
+              "name": "Missile Pod",
+              "details": "30\", A4, PA (3), Inarrêtable",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Captain WuKaon",
+      "size": 1,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Bond",
+        "Furieux",
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "The Banded-Stave",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Syen & Xaotyan",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Stun Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Captain Lyao",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Shotgun",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Ironbane Swords",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Commander Xao",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Royal Swords",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Sage Myan",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (1)",
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Spirit Blast",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Spirit Pulse",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Sergeant Wou",
+      "size": 1,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Embuscade",
+        "Héros",
+        "Furtif",
+        "Téléportation",
+        "Coriace (3)",
+        "Unique",
+        "Guerrier de clan"
+      ],
+      "weapons": [
+        {
+          "name": "Vine-Hook",
+          "range": "9\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Limité"
+        },
+        {
+          "name": "Hwan Spear",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Dechirure"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

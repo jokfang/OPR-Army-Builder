@@ -1,0 +1,1356 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/dnthspt7c0klhmt8?armyName=Infected+Colonies",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/dnthspt7c0klhmt8?armyName=Infected+Colonies",
+  "sourceBookUid": "dnthspt7c0klhmt8",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Colonies Infectées",
+  "version": "3.5.3",
+  "introduction": "Les Colonies Infectées sont des colonies contaminées par de mystérieux parasites dotés d'une volonté propre. Le plus souvent présentes au sein de colonies humaines, leurs hôtes subissent une longue série de mutations et de transformations.\n\nÀ l'origine, ces parasites vivaient relativement paisiblement sur leur monde jusqu'à l'arrivée de colons humains. En infectant les Humains, ils gagnèrent une conscience, et tandis que l'infection se répandait, ils commencèrent peu à peu à comprendre que leurs hôtes étaient eux aussi des êtres pensants. Cette prise de conscience fragmenta l'Infection en différentes souches, chacune cherchant à accepter le fait que son espèce dépend de la mort pour survivre.",
+  "backgroundStory": "L'histoire des Colonies Infectées commence lorsque le monde natal des parasites fut exploré par une expédition humaine puis choisi pour être colonisé. Les parasites se répandirent rapidement à travers la colonie, échappant à toute détection jusqu'à ce qu'il soit bien trop tard, et effaçant peu à peu la conscience de leurs hôtes. Lorsque les derniers signes de vie humaine sur la colonie disparurent, les parasites gagnèrent, à travers ces hôtes, un niveau d'intelligence inédit. Ils comprirent alors qu'ils pouvaient désormais se répandre au-delà de leur monde natal, jusque dans les étoiles.\n\nDepuis leur planète d'origine, les parasites réussirent à se propager le long des routes commerciales humaines, infectant plusieurs vaisseaux et se diffusant à travers le Secteur Sirius avant qu'une quarantaine ne puisse être imposée. Bientôt, de nombreuses Colonies Infectées existaient dans tout Sirius. Au fil de leur expansion, elles comprirent mieux leur propre nature, et notamment le fait que leur reproduction exigeait non seulement la mort de créatures vivantes, mais de créatures conscientes, si elles voulaient continuer à croître et à se comprendre elles-mêmes.\n\nUne fois découvertes, les Colonies Infectées suscitèrent la curiosité de certaines Légions Robotiques, qui purent entrer en contact avec elles sans craindre l'infection. Les Robots finirent par comprendre que les parasites formant les Colonies Infectées, aussi étranges soient-ils, étaient intelligents et pas nécessairement hostiles. Les deux espèces cherchaient à comprendre leur place dans la galaxie, mais contrairement aux Légions Robotiques, la naissance d'un nouveau symbiote exigeait toujours la mort d'un hôte.\n\nÀ mesure que les Colonies Infectées apprirent à voir leurs hôtes potentiels comme autre chose que de simples proies, leurs points de vue commencèrent à diverger. Certaines ne se souciaient pas des sentiments de leurs victimes et poursuivaient comme auparavant, tandis que d'autres cherchaient un moyen de coexister. Beaucoup de Colonies en vinrent à croire qu'il leur revenait de choisir des hôtes méritant la mort afin que de nouvelles vies puissent fleurir, traquant pillards, tyrans et autres individus qu'elles estimaient pouvoir « racheter » en s'emparant de leurs corps pour faire le bien. Plusieurs mondes désespérés allèrent même jusqu'à rechercher volontairement l'infection, proposant de guider ces créatures vers de futurs hôtes ayant besoin de rédemption, afin de ramener l'équilibre dans la galaxie.\n\nComment ta colonie apportera-t-elle la rédemption à Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Infecté",
+      "keywords": [
+        "Infected"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Croissance de Précision",
+      "keywords": [
+        "Precision Growth"
+      ]
+    },
+    {
+      "name": "Frappe Mortelle",
+      "keywords": [
+        "Deathstrike"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Precision",
+      "keywords": [
+        "Precision Debuff"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost d'Infecté",
+      "keywords": [
+        "Infected Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de rapiditée",
+      "keywords": [
+        "Fast Aura"
+      ]
+    },
+    {
+      "name": "Aura de Percée en mêlée",
+      "keywords": [
+        "Thrust in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tireur imprévisible",
+      "keywords": [
+        "Unpredictable Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost d'Infecté",
+      "keywords": [
+        "Infected Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Violent Onslaught",
+      "cost": 1,
+      "keywords": [
+        "Violent Onslaught"
+      ]
+    },
+    {
+      "name": "Bio-Horror",
+      "cost": 1,
+      "keywords": [
+        "Bio-Horror"
+      ]
+    },
+    {
+      "name": "Brain Infestation",
+      "cost": 2,
+      "keywords": [
+        "Brain Infestation"
+      ]
+    },
+    {
+      "name": "Spread Plague",
+      "cost": 2,
+      "keywords": [
+        "Spread Plague"
+      ]
+    },
+    {
+      "name": "Rapid Mutation",
+      "cost": 3,
+      "keywords": [
+        "Rapid Mutation"
+      ]
+    },
+    {
+      "name": "Volatile Infection",
+      "cost": 3,
+      "keywords": [
+        "Volatile Infection"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Monstrous Tyrant",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Monstrous Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Monstrous Claws",
+          "options": [
+            {
+              "name": "Monstrous Stinger",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Monstrous Fists",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chitinous Strain",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Frenzy Virus",
+              "details": "Aura de rapiditée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Terror Genus",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Spore Carrier",
+              "details": "Aura de Boost d'Infecté",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Enlarged Brain",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Hunter",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Embuscade",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Barbed Claw",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Barbed Claw",
+          "options": [
+            {
+              "name": "Toxic Claw",
+              "details": "A4, Fléau",
+              "cost": "+-15pts"
+            },
+            {
+              "name": "Great Sharp Claw",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hardened Claw",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chitinous Strain",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Frenzy Virus",
+              "details": "Aura de rapiditée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Terror Genus",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Colony Leader",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Spore Carrier",
+              "details": "Aura de Boost d'Infecté",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Leader",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Leader Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Leader Pistol",
+          "options": [
+            {
+              "name": "Leader Carbine",
+              "details": "18\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Shred Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Sniper Carbine",
+              "details": "18\", A2, PA (1), Fiable, Élimination",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Evolving Strain",
+              "details": "Croissance de Précision",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Runners Leader",
+              "details": "Sans peur, Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Zombies Leader",
+              "details": "Sans peur, Régénération, Lent",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Chitinous Strain",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Terror Genus",
+              "details": "Aura de Percée en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Colony Leader",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rapid Mutator",
+              "details": "Aura de Tireur imprévisible",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Spore Carrier",
+              "details": "Aura de Boost d'Infecté",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Enlarged Brain",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Runners",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Sans peur",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Evolving Strain",
+              "details": "Croissance de Précision",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Zombies",
+      "size": 10,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Régénération",
+        "Lent",
+        "Sans peur",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Evolving Strain",
+              "details": "Croissance de Précision",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Soldiers",
+      "size": 10,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Carbines",
+          "options": [
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spore Shooter",
+              "details": "18\", A1, PA (1), Explosion (3), Laceration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Carbine and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weapon Teams",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Machinegun",
+          "options": [
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spore Mortar",
+              "details": "30\", A1, PA (1), Indirect, Laceration, Explosion (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Gunners",
+      "size": 3,
+      "cost": 85,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Grenade Launcher",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Grenade Launcher",
+          "options": [
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spore Shooter",
+              "details": "18\", A1, PA (1), Explosion (3), Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunters",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Arpenteur",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Toxic Claw",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Toxic Claws",
+          "options": [
+            {
+              "name": "Sharp Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hardened Claw",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Toxic Claw",
+          "options": [
+            {
+              "name": "Barbed Claw",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boomers",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Frappe Mortelle (3)",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Putrid Fists",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Leech Swarms",
+      "size": 3,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Evolving Strain",
+              "details": "Croissance de Précision",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crazed Ravens",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Beak Attack",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Evolving Strain",
+              "details": "Croissance de Précision",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rabid Dogs",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rabid Hounds",
+          "options": [
+            {
+              "name": "Frenzied Advance",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infected Vultures",
+      "size": 3,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Talons",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Sharp Talon",
+          "options": [
+            {
+              "name": "Piercing Beak",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Swoop Attack",
+              "details": "Impact (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Beasts",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Sharp Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Dual Sharp Claw",
+          "options": [
+            {
+              "name": "Dual Smashing Fists",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Dual Sharp Claw",
+          "options": [
+            {
+              "name": "Heavy Dual Serrated Claws",
+              "details": "A2, PA (1), Explosion (3)",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Dual Piercing Stingers",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Beast",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Contamination Cloud",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Buggy",
+      "size": 1,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Spore Shooter",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Spore Shooter",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Cargo Extension",
+              "details": "Transport (11)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Contamination Cloud",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Tank",
+      "size": 1,
+      "cost": 400,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Impact (6)",
+        "Coriace (12)",
+        "Rapide",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Battle Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Battle Cannon",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Spore Mortar",
+              "details": "30\", A3, PA (1), Indirect, Laceration, Explosion (3)",
+              "cost": "+80pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Walker",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Super-Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Super-Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Walker Chainsaw",
+              "details": "A6, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Laser Machinegun",
+              "details": "30\", A6, PA (3)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abomination",
+      "size": 1,
+      "cost": 340,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "3",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Contamination Cloud",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Dropship",
+      "size": 1,
+      "cost": 340,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Transport (11)",
+        "Infecté"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Minigun",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Machinegun",
+          "options": [
+            {
+              "name": "Twin Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2878 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/z65fgu0l29i4lnlu?armyName=Human+Defense+Force",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/z65fgu0l29i4lnlu?armyName=Human+Defense+Force",
+  "sourceBookUid": "z65fgu0l29i4lnlu",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Force de Défense Humaine",
+  "version": "3.5.3",
+  "introduction": "La Force de Défense Humaine est la force militaire de la plus grande alliance de colonies et de planètes humaines présente dans Sirius. Grâce à cette alliance, la FDH est capable d'aligner de grandes forces variées d'infanterie et de véhicules adaptées à chaque situation.\n\nLes restes dispersés de la flotte arrivée dans Sirius durent faire face à de nombreux défis pour survivre dans le secteur. Les colonies survivantes commencèrent à commercer et à s'entraider, finissant par fonder la Grande Alliance Humaine. Pourtant, alors que certains membres cherchent à imposer leur influence aux autres, beaucoup craignent désormais que l'humanité ne répète les erreurs commises autrefois sur Terre.",
+  "backgroundStory": "L'ascension d'une figure messianique connue dans l'histoire sous le nom de Fondateur déclencha une guerre dévastatrice qui engloutit bientôt la Terre et ses colonies. À mesure que le conflit empirait, de nombreux survivants cherchèrent un moyen de fuir. Un groupe désespéré de réfugiés vola et détourna le propre vaisseau amiral du Dieu-Fondateur afin d'échapper au conflit, entraînant derrière lui une flotte de survivants partageant les mêmes idéaux. Ils furent poursuivis par les forces du Fondateur jusqu'à ce qu'un trou de ver surgisse brusquement, les disperse et les transporte dans Sirius.\n\nLes vaisseaux réfugiés survivants s'empressèrent de coloniser des mondes adaptés. Beaucoup de ces nouvelles colonies durent cependant faire face à de grandes difficultés, notamment en découvrant que leurs planètes avaient déjà été revendiquées par certaines factions aliens de Sirius. L'humanité comprit rapidement qu'elle devrait s'unir pour survivre dans cette nouvelle galaxie. De nombreuses colonies humaines formèrent alors une alliance défensive destinée à protéger leurs intérêts et à les représenter auprès des autres factions : la Grande Alliance Humaine. Ces mondes mirent de côté leurs différences et travaillèrent ensemble pour garantir la sécurité du nouveau foyer de l'humanité dans le Secteur Sirius.\n\nAfin de protéger les mondes membres, l'Alliance créa la Force de Défense Humaine. Chaque planète adhérente fournit soldats et matériel, mais la force est commandée et entretenue par l'Alliance dans son ensemble. Dépourvue d'une grande partie des technologies avancées des Conduits et de leurs fidèles, telles que les armures de combat et les modifications génétiques, elle mise plutôt sur le déploiement rapide, l'artillerie lourde et le nombre.\n\nÀ mesure que l'Alliance s'imposait dans le Secteur Sirius comme puissance diplomatique et militaire, les Humains furent peu à peu acceptés comme une espèce parmi d'autres dans Sirius. Les mondes humains prospérèrent et s'étendirent même plus loin, revendiquant et colonisant de nouveaux systèmes. Pourtant, des fractures ont commencé à apparaître maintenant que les menaces immédiates se sont apaisées.\n\nLes disputes autour des ressources, de la colonisation et de l'expansion poussent les planètes les plus prospères à réclamer davantage d'influence, tandis que les mondes plus modestes continuent d'exiger leur autonomie. Un équilibre délicat entre les nombreuses factions est encore maintenu par ceux qui se consacrent à la survie de l'Alliance, mais certains redoutent déjà qu'un séparatisme grandissant, voire une guerre civile, ne se profile à l'horizon.\n\nComment défendras-tu le nouveau foyer de l'humanité parmi les étoiles ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Tenir la Ligne",
+      "keywords": [
+        "Hold the Line"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Chasse à l'Embuscade",
+      "keywords": [
+        "Repel Ambushers"
+      ]
+    },
+    {
+      "name": "Coordination",
+      "keywords": [
+        "Coordinate"
+      ]
+    },
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Portee de Bonus Etendue",
+      "keywords": [
+        "Extended Buff Range"
+      ]
+    },
+    {
+      "name": "Bonus de Tireur précis",
+      "keywords": [
+        "Precision Shooter Buff"
+      ]
+    },
+    {
+      "name": "Affaiblissement du moral",
+      "keywords": [
+        "Morale Debuff"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Marque d'Implacable",
+      "keywords": [
+        "Relentless Mark"
+      ]
+    },
+    {
+      "name": "Enchantement: Fléau en mêlée",
+      "keywords": [
+        "Bane in Melee Buff"
+      ]
+    },
+    {
+      "name": "Renforcement sans retraite",
+      "keywords": [
+        "No Retreat Buff"
+      ]
+    },
+    {
+      "name": "Renforcement retranché",
+      "keywords": [
+        "Entrenched Buff"
+      ]
+    },
+    {
+      "name": "Renforcement avance rapide",
+      "keywords": [
+        "Rapid Advance Buff"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Artillerie Mobile",
+      "keywords": [
+        "Mobile Artillery"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Renforcement Tenir la Ligne",
+      "keywords": [
+        "Hold the Line Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Avance rapide",
+      "keywords": [
+        "Rapid Advance"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Tenir la ligne",
+      "keywords": [
+        "Hold the Line Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Psy-Injected Courage",
+      "cost": 1,
+      "keywords": [
+        "Psy-Injected Courage"
+      ]
+    },
+    {
+      "name": "Electric Tempest",
+      "cost": 1,
+      "keywords": [
+        "Electric Tempest"
+      ]
+    },
+    {
+      "name": "Calculated Foresight",
+      "cost": 2,
+      "keywords": [
+        "Calculated Foresight"
+      ]
+    },
+    {
+      "name": "Searing Burst",
+      "cost": 2,
+      "keywords": [
+        "Searing Burst"
+      ]
+    },
+    {
+      "name": "Shock Speed",
+      "cost": 3,
+      "keywords": [
+        "Shock Speed"
+      ]
+    },
+    {
+      "name": "Expel Threat",
+      "cost": 3,
+      "keywords": [
+        "Expel Threat"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Tank Company Leader",
+      "size": 1,
+      "cost": 420,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Héro",
+      "specialRules": [
+        "Rapide",
+        "Héros",
+        "Tenir la Ligne",
+        "Impact (6)",
+        "Coriace (15)"
+      ],
+      "weapons": [
+        {
+          "name": "Nova Cannon",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Pintle-Machinegun",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Fusion Rifle",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Vehicle Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Nova Cannon",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Punisher Gatling Cannon",
+              "details": "24\", A6, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy HE Autocannon",
+              "details": "36\", A6, PA (1), Fissure",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Siege Cannon",
+              "details": "24\", A2, PA (3), Explosion (3), Indirect",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Commander",
+              "details": "Renforcement avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Forward Observer",
+              "details": "Renforcement retranché",
+              "cost": "+30pts"
+            },
+            {
+              "name": "General",
+              "details": "Coordination",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Leader",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Tenir la Ligne",
+        "Arpenteur",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Master Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Master Heavy Pistol",
+          "options": [
+            {
+              "name": "Master Drum Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Orbital Drop",
+              "details": "Embuscade",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Wolf-Dog Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Drill Sergeant",
+              "details": "Enchantement: Fléau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Renforcement avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Forward Observer",
+              "details": "Renforcement retranché",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Munitioner",
+              "details": "Bonus de Tireur précis",
+              "cost": "+35pts"
+            },
+            {
+              "name": "General",
+              "details": "Coordination",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Company Leader",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Master Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Master Pistol",
+          "options": [
+            {
+              "name": "Master Rifle",
+              "details": "24\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Drum Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Hunting Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Demo Charge",
+              "details": "A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Armor",
+              "details": "Armure (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Recon Training",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camo Gear",
+              "details": "Furtif",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wolf-Dog Companion",
+              "details": "Chasse à l'Embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Leader",
+              "details": "Éclaireur, Furtif",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Drill Sergeant",
+              "details": "Enchantement: Fléau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Renforcement avance rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Forward Observer",
+              "details": "Renforcement retranché",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Enforcer",
+              "details": "Renforcement sans retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Munitioner",
+              "details": "Bonus de Tireur précis",
+              "cost": "+35pts"
+            },
+            {
+              "name": "General",
+              "details": "Coordination",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recruits",
+      "size": 10,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "6+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "GRUNT Robots",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Bon tireur",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Field Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infantry Squad",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Rifles",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Laser Rifle",
+              "details": "30\", A1, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Weapon Team",
+              "details": "Mortar, Crew, Coriace (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Heavy Machinegun, Crew, Coriace (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Missile Launcher, Crew, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "HE Autocannon, Crew, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Laser Cannon, Crew, Coriace (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Drum Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Hand Weapon",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to two models with one",
+          "options": [
+            {
+              "name": "Field Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Company Standard",
+              "details": "Aura de Boost du Tenir la ligne",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veterans",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Rifle",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Rifles",
+          "options": [
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Weapon Team",
+              "details": "Mortar, Crew, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Heavy Machinegun, Crew, Coriace (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Missile Launcher, Crew, Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "HE Autocannon, Crew, Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Weapon Team",
+              "details": "Laser Cannon, Crew, Coriace (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Heavy Armor",
+              "details": "Armure (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Recon Training",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Camo Gear",
+              "details": "Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Demo Charge",
+              "details": "A1, PA (4), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Drum Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Hand Weapon",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to two models with one",
+          "options": [
+            {
+              "name": "Field Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Company Standard",
+              "details": "Aura de Boost du Tenir la ligne",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Storm Troopers",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace up to two Heavy Rifles",
+          "options": [
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Storm Machinegun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Orbital Drop",
+              "details": "Embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Drum Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Hand Weapon",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to two models with one",
+          "options": [
+            {
+              "name": "Field Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Company Standard",
+              "details": "Aura de Boost du Tenir la ligne",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sappers",
+      "size": 3,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Grenade Launcher",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Grenade Launcher",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rapid Plasma Rifle",
+              "details": "24\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Laser Rifle",
+              "details": "30\", A2, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Weapon Teams",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Mortar",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mortar",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "HE Autocannon",
+              "details": "36\", A3, PA (1), Fissure",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OGRE Robots",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Coriace (3)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "OGRE Gatling Gun",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all OGRE Gatling Guns and Heavy CCWS",
+          "options": [
+            {
+              "name": "Light Grenade Launcher",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Light Grenade Launchers",
+          "options": [
+            {
+              "name": "Shock Baton",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Combat Axe",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Bikers",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Lances",
+          "options": [
+            {
+              "name": "Hunting Lance",
+              "details": "A1, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Hunting Lance",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Anti-Tank Lance",
+              "details": "A1, PA (1), Mortel (3), Percée",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Laser Rifle",
+              "details": "30\", A1, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Drum Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Armored Truck",
+      "size": 1,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Light Gatling Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Open Cargo Space",
+          "options": [
+            {
+              "name": "Twin Storm Machinegun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Light HE Autocannon",
+              "details": "36\", A4, PA (1), Fissure",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Light Gatling Gun",
+          "options": [
+            {
+              "name": "Pintle-Machinegun",
+              "details": "30\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Light Battle Cannon",
+              "details": "24\", A1, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Taurus Missiles",
+              "details": "24\", A3, PA (2), Inarrêtable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Targeting Sights",
+              "details": "Marque d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Recon Vehicle",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light APC",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Transport (11)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Turret Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Turret Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Laser Machinegun",
+              "details": "30\", A3, PA (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Pintle-Machinegun",
+              "details": "30\", A2, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Vehicle Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Vehicle",
+      "size": 1,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (9)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Gatling Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Gatling Gun",
+          "options": [
+            {
+              "name": "Acid Cannon",
+              "details": "18\", A6, Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Cannon",
+              "details": "24\", A1, PA (4), Mortel (6)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Twin Flamer Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (6)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Vehicle Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Vehicle",
+      "size": 1,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Tenir la Ligne",
+        "Impact (3)",
+        "Artillerie Mobile",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Eagle Rockets",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Eagle Rockets",
+          "options": [
+            {
+              "name": "Shard Mortar",
+              "details": "24\", A3, Explosion (3), Indirect, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "AA-Cannon",
+              "details": "30\", A6, PA (3), Inarrêtable",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Ballistic Missile",
+              "details": "36\", A1, PA (4), Explosion (12), Indirect, Limité, Fiable",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Artillery Cannon",
+              "details": "36\", A3, PA (1), Explosion (3), Indirect",
+              "cost": "+85pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Vehicle Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Tank",
+      "size": 1,
+      "cost": 335,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Coriace (12)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Nova Cannon",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hunter Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Fusion Rifle",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Vehicle Radio",
+              "details": "Portee de Bonus Etendue",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Nova Cannon",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Punisher Gatling Cannon",
+              "details": "24\", A6, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy HE Autocannon",
+              "details": "36\", A6, PA (1), Fissure",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Siege Cannon",
+              "details": "24\", A2, PA (3), Explosion (3), Indirect",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Battle Tank",
+      "size": 1,
+      "cost": 445,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Coriace (15)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Light Battle Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Light Gatling Gun",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Fusion Array",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Light Battle Cannon",
+          "options": [
+            {
+              "name": "HE Autocannon",
+              "details": "36\", A3, PA (1), Fissure",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Light Gatling Gun",
+          "options": [
+            {
+              "name": "Pulverizer Gun",
+              "details": "24\", A1, PA (3), Explosion (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Fusion Array",
+          "options": [
+            {
+              "name": "Heavy Machinegun Array",
+              "details": "30\", A6, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Walker",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Rapid Heavy Flamer",
+          "options": [
+            {
+              "name": "Rapid Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rapid Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid HE Autocannon",
+              "details": "36\", A6, PA (1), Fissure",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Rapid Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Rapid Plasma Cannon",
+              "details": "30\", A2, PA (4), Explosion (3)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Rapid Laser Machinegun",
+              "details": "30\", A6, PA (3)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Cluster Missiles",
+              "details": "24\", A1, Explosion (3), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rocket Salvo",
+              "details": "18\", A3, PA (1), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "AA-Warheads",
+              "details": "24\", A2, PA (2), Limité, Inarrêtable",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Forward Observer",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Camouflage Netting",
+              "details": "Furtif",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Sights",
+              "details": "Marque d'Implacable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Walker",
+      "size": 1,
+      "cost": 265,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Furieux",
+        "Coriace (12)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Gatling Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Gatling Gun",
+          "options": [
+            {
+              "name": "Rapid Grenade Launcher",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A6, PA (4)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Combat Shield",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A6, PA (4)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tactical Walker",
+      "size": 1,
+      "cost": 320,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Walker Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Walker Heavy Flamer",
+          "options": [
+            {
+              "name": "Walker Heavy Machinegun",
+              "details": "30\", A12, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Walker Missile Launcher",
+              "details": "30\", A4, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Walker HE Autocannon",
+              "details": "36\", A12, PA (1), Fissure",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Walker Laser Cannon",
+              "details": "36\", A4, PA (3), Mortel (3)",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Walker Plasma Cannon",
+              "details": "30\", A4, PA (4), Explosion (3)",
+              "cost": "+120pts"
+            },
+            {
+              "name": "Walker Laser Machinegun",
+              "details": "30\", A12, PA (3)",
+              "cost": "+130pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Cluster Missiles",
+              "details": "24\", A1, Explosion (3), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rocket Salvo",
+              "details": "18\", A3, PA (1), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "AA-Warheads",
+              "details": "24\", A2, PA (2), Limité, Inarrêtable",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tactical Titan",
+      "size": 1,
+      "cost": 545,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Coriace (18)",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Cluster Missiles Array",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Walker Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Walker Heavy Flamer",
+          "options": [
+            {
+              "name": "Walker Heavy Machinegun",
+              "details": "30\", A12, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Walker Missile Launcher",
+              "details": "30\", A4, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Walker HE Autocannon",
+              "details": "36\", A12, PA (1), Fissure",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Walker Laser Cannon",
+              "details": "36\", A4, PA (3), Mortel (3)",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Walker Plasma Cannon",
+              "details": "30\", A4, PA (4), Explosion (3)",
+              "cost": "+120pts"
+            },
+            {
+              "name": "Walker Laser Machinegun",
+              "details": "30\", A12, PA (3)",
+              "cost": "+130pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Cluster Missiles Array",
+          "options": [
+            {
+              "name": "Rocket Salvo Array",
+              "details": "18\", A6, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "AA-Warheads Array",
+              "details": "24\", A4, PA (2), Inarrêtable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Super Heavy Battle Tank",
+      "size": 1,
+      "cost": 890,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Impact (12)",
+        "Coriace (24)",
+        "Sans peur",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Storm Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Explosion (6), Indirect"
+        },
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Storm Cannon",
+          "options": [
+            {
+              "name": "Storm Cannon",
+              "details": "30\", A2, PA (4), Explosion (6), Indirect",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Hell Cannon",
+              "details": "24\", A4, PA (1), Explosion (3), Inarrêtable",
+              "cost": "Free"
+            },
+            {
+              "name": "Sword Cannon",
+              "details": "36\", A3, PA (3), Explosion (6)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Hammer Cannon",
+              "details": "30\", A6, PA (1), Explosion (3), Indirect",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Lord Gatling Cannon",
+              "details": "30\", A18, PA (1), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Shadow Cannon",
+              "details": "36\", A3, PA (4), Mortel (6)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Doom Cannon",
+              "details": "30\", A6, PA (3), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "HE Autocannon",
+              "details": "36\", A3, PA (1), Fissure",
+              "cost": "+90pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sponson-Array",
+              "details": "Heavy Flamer, Coriace (6), Laser Cannon",
+              "cost": "+255pts"
+            },
+            {
+              "name": "Sponson-Array",
+              "details": "Coriace (6), Heavy Machinegun, Laser Cannon",
+              "cost": "+270pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Transport",
+              "details": "Transport (21)",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Gunship",
+      "size": 1,
+      "cost": 285,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Laser Cannon",
+          "range": "36\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Rocket Pod",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Laser Cannon",
+          "options": [
+            {
+              "name": "Laser Machinegun",
+              "details": "30\", A3, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Rocket Pods",
+          "options": [
+            {
+              "name": "Strike Missiles",
+              "details": "36\", A1, PA (3), Mortel (6), Inarrêtable",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Door Gunners",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Gunship",
+      "size": 1,
+      "cost": 385,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (9)",
+        "Transport (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Fury Missiles",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Twin Laser Cannon",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Fury Missiles",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Door Gunners",
+              "details": "30\", A3, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Field Artillery",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Tenir la Ligne",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Light Shard Mortar",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Indirect, Perforant"
+        },
+        {
+          "name": "Artillery Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Light Shard Mortar",
+          "options": [
+            {
+              "name": "Rocket Battery",
+              "details": "24\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Field Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (6)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Light AA-Cannon",
+              "details": "30\", A6, PA (1), Inarrêtable",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colonel Rixxon",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Tenir la Ligne"
+      ],
+      "weapons": [
+        {
+          "name": "Master Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

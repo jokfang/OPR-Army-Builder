@@ -1,0 +1,1765 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/U6hwlur14RpnInZr?armyName=Saurian+Starhost",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/U6hwlur14RpnInZr?armyName=Saurian+Starhost",
+  "sourceBookUid": "U6hwlur14RpnInZr",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Ost Stellaire Saurien",
+  "version": "3.5.3",
+  "introduction": "Les Osts Stellaires Sauriens sont une antique coalition de reptiles humanoïdes dirigée par d'immenses Grenouilles-Mages. Leurs armées combinent une technologie avancée et des prédateurs génétiquement modifiés, ce qui en fait des adversaires redoutables.\n\nLes Sauriens sont peut-être la race la plus ancienne de la galaxie, mais la majeure partie de leur espèce sommeille encore dans des cryo-pyramides. Les Sauriens cherchent à réveiller leurs osts pour empêcher une catastrophe prophétisée ; pourtant, nombre de leurs pyramides ont été perdues ou détruites, et certains commencent à craindre qu'ils aient déjà échoué dans leur mission.",
+  "backgroundStory": "Les Sauriens affirment que les Grenouilles-Mages qui les ont créés existaient avant même le commencement du temps. Leurs Mages leur enseignent que leur destinée est d'accomplir une grande prophétie transmise depuis l'origine : un jour, la trame de la réalité se briserait, et il leur reviendrait de la sauver. Les Grenouilles-Mages créèrent des cryo-pyramides et se disséminèrent à travers la galaxie afin d'être prêts lorsque l'heure de cette mission viendrait.\n\nEn leur absence, de nombreuses nouvelles espèces commencèrent à explorer et coloniser la galaxie. Cela provoqua un afflux d'énergie psychique qui réveilla l'un des Grenouilles-Mages endormis, désormais seul dans une galaxie en guerre. Craignant qu'il ne s'agisse du commencement de la fin, ce Mage-Grenouille solitaire espéra réveiller ses semblables avant qu'il ne soit trop tard.\n\nLe Mage-Grenouille rassembla un conclave d'auxiliaires, mais il devint vite évident qu'ils ne pourraient réussir seuls. Les Mages mirent à profit leur immense savoir en génie génétique et leurs capacités psychiques pour créer de nouveaux alliés capables de rechercher les autres membres de leur espèce. Ensemble, ils donnèrent naissance au premier Ost Stellaire. Le destin de chaque membre d'un Ost est défini dès sa naissance par les Grenouilles-Mages, chacun étant conçu pour remplir une mission unique afin d'aider à l'accomplissement de la prophétie. Ces missions façonnent une grande partie de la culture des différentes espèces composant chaque Ost.\n\nLe premier Ost Stellaire partit en quête d'autres Mages à réveiller. Chaque Mage nouvellement éveillé créait à son tour d'autres Osts Stellaires afin d'accomplir sa part de la prophétie, lesquels engendraient ensuite leurs propres Osts pour rechercher d'autres représentants de leur espèce à travers la galaxie, y compris dans le Secteur Sirius. Mais beaucoup de choses ont changé depuis que les Sauriens sont entrés dans les cryo-pyramides, et retrouver ces structures s'est révélé bien plus difficile que prévu. Certaines ont été détruites par des étoiles en explosion ou par des pillards avides de trésors, d'autres ont été ensevelies sous des déserts, des océans ou même des villes. Pire encore, certaines commencent à tomber en panne d'elles-mêmes, condamnant les Grenouilles-Mages qu'elles renferment.\n\nCes revers ont jeté le doute sur la fiabilité des Grenouilles-Mages et de leurs prophéties, tandis que d'autres commencent à craindre qu'ils aient déjà échoué dans leur grande destinée.\n\nComment feras-tu face à ton destin ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Primal",
+      "keywords": [
+        "Primal"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Cible désignée",
+      "keywords": [
+        "Precision Target"
+      ]
+    },
+    {
+      "name": "Protection mutuelle",
+      "keywords": [
+        "Protection Feat"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Balise d'embuscade",
+      "keywords": [
+        "Ambush Beacon"
+      ]
+    },
+    {
+      "name": "Marque de Fléau",
+      "keywords": [
+        "Bane Mark"
+      ]
+    },
+    {
+      "name": "Bonus de Boost Primal",
+      "keywords": [
+        "Primal Boost Buff"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Boost de Primal",
+      "keywords": [
+        "Primal Boost"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de Perforation au tir",
+      "keywords": [
+        "Rending when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Toxin Mist",
+      "cost": 1,
+      "keywords": [
+        "Toxin Mist"
+      ]
+    },
+    {
+      "name": "Serpent Comet",
+      "cost": 1,
+      "keywords": [
+        "Serpent Comet"
+      ]
+    },
+    {
+      "name": "Guide providentiel",
+      "cost": 2,
+      "keywords": [
+        "Fateful Guidance"
+      ]
+    },
+    {
+      "name": "Piranha Curse",
+      "cost": 2,
+      "keywords": [
+        "Piranha Curse"
+      ]
+    },
+    {
+      "name": "Celestial Roar",
+      "cost": 3,
+      "keywords": [
+        "Celestial Roar"
+      ]
+    },
+    {
+      "name": "Jaguar Blaze",
+      "cost": 3,
+      "keywords": [
+        "Jaguar Blaze"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Frog-Mage",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (1)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (6)",
+        "Primal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Shock",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Pulse",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Magic Shock",
+          "options": [
+            {
+              "name": "Magic Blast",
+              "details": "12\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Magic Beam",
+              "details": "12\", A1, PA (2), Mortel (3), Désintegration",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magic Protection",
+              "details": "Renforcé",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ancient Palanquin",
+              "details": "Magic Pulse, Lanceur de sorts (1), Coriace (3)",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Guidance",
+              "details": "Bonus de Boost Primal",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Enlightened Mage",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Zealot",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Crusader",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gator Veteran",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Mace",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Mace",
+          "options": [
+            {
+              "name": "Power Knuckle",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Shooter",
+              "details": "12\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Power Spike",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Rapid Missile Pod",
+              "details": "18\", A3, PA (1), Inarrêtable, Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Roar",
+              "details": "Bonus de Boost Primal",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Storm Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Zealot",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Crusader",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Veteran",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Veteran Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Veteran Pistol",
+          "options": [
+            {
+              "name": "Veteran Spike Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Veteran Carbine",
+              "details": "18\", A3",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A2, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Power Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Power Mace",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Hardened Elite",
+              "details": "Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Raptor",
+              "details": "Ravage (1), Rapide",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Tyrannosaur",
+              "details": "Crushing Jaws, Stomp, Armure (2), Effrayant (2), Bonus de Boost Primal, Coriace (12)",
+              "cost": "+350pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Storm Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Zealot",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Crusader",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gecko Champion",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Champion Burst Gun",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Champion Burst Gun and CCW",
+          "options": [
+            {
+              "name": "Shock Lance",
+              "details": "A3, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Champion Burst Gun",
+          "options": [
+            {
+              "name": "Champion Shock Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Shock Rifle",
+              "details": "18\", A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Precision Carbine",
+              "details": "18\", A2, PA (1), Precise",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Bash",
+              "details": "A1",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Sacred Mace",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Phase Backpack",
+              "details": "Téléportation",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Deinonychus",
+              "details": "Impact (1), Bond",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chameleon Breed",
+              "details": "Bon tireur, Éclaireur, Esquive",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Starseer Palanquin",
+              "details": "Pulse, Conduit de Sort, Coriace (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Pterodactyl",
+              "details": "Claws, Disposable Bombs, Embuscade, Volant, Impact (1), Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Ripjawdactyl",
+              "details": "Embuscade, Volant, Impact lourd (3), Cible désignée (1), Coriace (3)",
+              "cost": "+90pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Hunter",
+              "details": "Bonus de Boost Primal",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Storm Leader",
+              "details": "Aura de Charge véloce",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sacred Priest",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Zealot",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gecko Cohort",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Energy Shields",
+          "options": [
+            {
+              "name": "CCW",
+              "details": "A2",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Phase Backpacks",
+              "details": "Téléportation",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Warriors",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and CCWs",
+          "options": [
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Spike Shooter",
+              "details": "18\", A2, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shock Charger",
+              "details": "24\", A1, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Beam Gun",
+              "details": "12\", A1, PA (2), Mortel (3), Désintegration",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chameleons",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Bon tireur",
+        "Primal",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Gun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Burst Guns",
+          "options": [
+            {
+              "name": "Precision Carbine",
+              "details": "18\", A1, PA (1), Precise",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Advanced Locator",
+              "details": "Balise d'embuscade",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Guardians",
+      "size": 5,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hammers",
+          "options": [
+            {
+              "name": "Mace-Shots",
+              "details": "12\", A2, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Hammer",
+          "options": [
+            {
+              "name": "Great Hammer",
+              "details": "A1, PA (2), Explosion (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Hardened Elites",
+              "details": "Renforcé",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gecko Snipers",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Deinonychus Riders",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Impact (1)",
+        "Blindé",
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shock Lances",
+          "options": [
+            {
+              "name": "Shock Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raptor Riders",
+      "size": 5,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Rapide",
+        "Sans peur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Pistol",
+          "options": [
+            {
+              "name": "Spike Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A2, Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Power Claw",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Power Mace",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pterodactyl Riders",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Impact (1)",
+        "Primal",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Energy Shields and CCWS",
+          "options": [
+            {
+              "name": "Shock Rifle",
+              "details": "18\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shock Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Disposable Bombs",
+              "details": "A1, PA (1), Explosion (3), Limité, Mitraillage",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ripjawdactyl Riders",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Impact lourd (3)",
+        "Primal",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Energy Shields and CCWS",
+          "options": [
+            {
+              "name": "Shock Rifle",
+              "details": "18\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shock Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Hunting Bait",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gators",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Bludgeon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Bludgeon",
+          "options": [
+            {
+              "name": "Power Knuckle",
+              "details": "A1, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Shooter",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Power Claw",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade any model with",
+          "options": [
+            {
+              "name": "Missile Pod",
+              "details": "18\", A1, PA (1), Inarrêtable, Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyber Swarms",
+      "size": 3,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vulturedactyls",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Primal",
+        "Coriace (3)",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Spiked Lizard",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Sans peur",
+        "Renforcé",
+        "Coriace (6)",
+        "Primal",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Arch Rockets",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Lizard Handlers",
+              "details": "Implacable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vanguard Lizard Handlers",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Poison Flechettes",
+              "details": "Marque de Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Lizard",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Sans peur",
+        "Régénération",
+        "Coriace (6)",
+        "Primal",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Burst",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Lizard Handlers",
+              "details": "Implacable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vanguard Lizard Handlers",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Poison Flechettes",
+              "details": "Marque de Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Triceratops",
+      "size": 1,
+      "cost": 310,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Horns",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Carrier Platform",
+          "options": [
+            {
+              "name": "Gecko Crew",
+              "details": "18\", A6, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Gecko Crew",
+              "details": "18\", A6, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Heavy Rocket Launcher",
+              "details": "24\", A4, PA (1), Explosion (3), Indirect",
+              "cost": "+105pts"
+            },
+            {
+              "name": "Heavy Missile Launcher",
+              "details": "30\", A4, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+150pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Trample",
+              "details": "Impact (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spinosaurus",
+      "size": 1,
+      "cost": 305,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Spit Venom",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Toxic Bite",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Primal Roar",
+              "details": "Bonus de Boost Primal",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chief Rider",
+              "details": "Impact (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ankylosaurus",
+      "size": 1,
+      "cost": 415,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Renforcé",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Beam Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (6), Désintegration"
+        },
+        {
+          "name": "Mace Tail",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Beam Cannon",
+          "options": [
+            {
+              "name": "Heavy Plasma Burster",
+              "details": "30\", A4, PA (4), Explosion (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Advanced Locator",
+              "details": "Balise d'embuscade",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Poison Flechettes",
+              "details": "Marque de Fléau",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dread Titan",
+      "size": 1,
+      "cost": 840,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Sans peur",
+        "Coriace (24)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dread Gator",
+          "options": [
+            {
+              "name": "Dread Tyrannosaur",
+              "details": "Heavy Arch Rockets, Super-Heavy Laser Cannon",
+              "cost": "+195pts"
+            },
+            {
+              "name": "Dread Behemoth",
+              "details": "Super-Heavy Beam Cannon",
+              "cost": "+230pts"
+            },
+            {
+              "name": "Dread Scorcher",
+              "details": "Scorcher Cannon",
+              "cost": "+230pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tehaxi",
+      "size": 1,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (6)",
+        "Unique",
+        "Primal",
+        "Conduit de Sort"
+      ],
+      "weapons": [
+        {
+          "name": "Ornate Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

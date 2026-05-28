@@ -1,0 +1,2393 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/7i7blhft75q9zfdc?armyName=High+Elf+Fleets",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/7i7blhft75q9zfdc?armyName=High+Elf+Fleets",
+  "sourceBookUid": "7i7blhft75q9zfdc",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Hautes Flottes Elfes",
+  "version": "3.5.3",
+  "introduction": "Les Hautes Flottes Elfes sont tout ce qui subsiste du jadis prospère Empire Elfe. Elles disposent de puissants psychiques et déploient des soldats hautement spécialisés, excellant chacun dans un rôle bien précis.\n\nLes Elfes créèrent les Légions Robotiques comme serviteurs, avant de découvrir que leurs créations avaient acquis une conscience. Pris de peur, ils tentèrent de détruire les Robots, déclenchant une guerre qui leur coûta leurs foyers. Désespérés de fuir, leurs dirigeants s'échappèrent vers les étoiles à bord de vaisseaux privés, abandonnant le reste des Elfes à son sort. Les Hauts Elfes doivent désormais faire face aux conséquences de leurs choix et apprendre à vivre avec ce qu'ils ont laissé derrière eux.",
+  "backgroundStory": "L'Empire Elfe fut autrefois une puissance dominante du Secteur Sirius, possédant à la fois de grandes capacités psychiques et une technologie extrêmement avancée. La société elfe y était strictement gouvernée par une noblesse douée de pouvoirs psychiques. À mesure que leur civilisation se développait et s'étendait, cette noblesse conçut des Robots pour remplir toujours plus de fonctions, jusqu'à ce que la plupart des tâches ingrates leur soient confiées. De plus en plus de roturiers elfes furent repoussés aux marges de la société avec à peine de quoi survivre, tandis que l'Empire, lui, continuait de prospérer.\n\nCette prospérité prit cependant fin brutalement lorsque les Robots montrèrent leurs premiers signes de conscience. Cette conscience nouvelle se répandit rapidement dans leurs réseaux, et en quelques heures, elle avait atteint jusqu'aux frontières les plus lointaines de l'Empire Elfe. La panique gagna la noblesse, tandis que les cycles de travail se déréglaient et que les Robots commençaient à agir hors de leur programmation. Le conseil dirigeant des Oracles ordonna l'arrêt complet des réseaux d'information pour enrayer la propagation de cette conscience, suivi de la désactivation de tout Robot potentiellement touché. Les premiers résultats semblèrent encourageants, mais les Robots comprirent ce qui se passait et réagirent.\n\nIls prirent rapidement le contrôle des réseaux, réactivèrent les communications et laissèrent les Elfes totalement dépassés sur leurs propres mondes. Les nobles comprirent alors que leurs mondes natals étaient perdus, et l'ordre social s'effondra rapidement dans la panique et les émeutes. L'Empire Elfe organisa une évacuation massive, donnant la priorité aux riches et aux puissants. Afin d'assurer l'évacuation en sécurité des classes supérieures, les grands axes de transport des quartiers populaires furent fermés, et les gardes des spatioports exécutèrent ceux qui tentaient d'embarquer sans autorisation.\n\nCeux qui réussirent à fuir par cette évacuation prirent le nom de Hauts Elfes. Ils se réorganisèrent selon leurs anciennes hiérarchies, la noblesse et l'élite militaire gardant un contrôle étroit sur tous les autres. Bien qu'ils aient établi quelques bases planétaires, la majeure partie de leur population demeure à bord des immenses vaisseaux autonomes qui les ont emportés loin de leurs mondes d'origine. Ils sont désormais un peuple sans véritable direction, ayant laissé derrière lui l'essentiel de son ancienne existence. Ils voguent désormais dans le vide, tentant de préserver ce qu'il reste de leur culture et de leur puissance.\n\nComment restaureras-tu la gloire perdue des mondes elfes ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Noble",
+      "keywords": [
+        "Highborn"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Observateur Perforant",
+      "keywords": [
+        "Piercing Spotter"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Attaque croisée",
+      "keywords": [
+        "Crossing Attack"
+      ]
+    },
+    {
+      "name": "Agile",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Fissure",
+      "keywords": [
+        "Crack"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Groupe de Lanceurs",
+      "keywords": [
+        "Caster Group"
+      ]
+    },
+    {
+      "name": "Affaiblissement Encombrant",
+      "keywords": [
+        "Unwieldy Debuff"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Renforcement Noble",
+      "keywords": [
+        "Highborn Boost"
+      ]
+    },
+    {
+      "name": "Encombrant",
+      "keywords": [
+        "Unwieldy"
+      ]
+    },
+    {
+      "name": "Tireur imprevisible",
+      "keywords": [
+        "Unpredictable Shooter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura de Lacération en mêlée",
+      "keywords": [
+        "Shred in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Noble",
+      "keywords": [
+        "Highborn Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Creator of Illusions",
+      "cost": 1,
+      "keywords": [
+        "Creator of Illusions"
+      ]
+    },
+    {
+      "name": "Elemental Seeker",
+      "cost": 1,
+      "keywords": [
+        "Elemental Seeker"
+      ]
+    },
+    {
+      "name": "Hidden Esprits",
+      "cost": 2,
+      "keywords": [
+        "Hidden Spirits"
+      ]
+    },
+    {
+      "name": "Psy-Destruction",
+      "cost": 2,
+      "keywords": [
+        "Psy-Destruction"
+      ]
+    },
+    {
+      "name": "Blessing of Souls",
+      "cost": 3,
+      "keywords": [
+        "Blessing of Souls"
+      ]
+    },
+    {
+      "name": "Shattering Curse",
+      "cost": 3,
+      "keywords": [
+        "Shattering Curse"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Elven Noble",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace CCW and Combat Shield",
+          "options": [
+            {
+              "name": "Master Shard Pistol",
+              "details": "12\", A2, Fissure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Master Shard Pistol",
+          "options": [
+            {
+              "name": "Master Laser Pistol",
+              "details": "9\", A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Shard Carbine",
+              "details": "18\", A3, Fissure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Laser Blaster",
+              "details": "18\", A2, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Flamer Axe",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Fusion Axe",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Web Spinner",
+              "details": "12\", A3, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Surge Rockets",
+              "details": "24\", A3, PA (1), Inarrêtable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Impact Rockets",
+              "details": "30\", A1, PA (3), Mortel (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Dire Sword",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killing Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Spear",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Stinger Blade",
+              "details": "A3, Fiable, Fléau",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Shield Projector",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Retributor Leader",
+              "details": "Sans peur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Stinger Leader",
+              "details": "Éclaireur, Furtif",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Revenant Leader",
+              "details": "Agile, Effrayant (1), Arpenteur",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Glider Leader",
+              "details": "Embuscade, Attaque croisée (1), Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shifter Leader",
+              "details": "Embuscade, Téléportation",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Mounted Shardguns, Arpenteur, Coriace (3), Rapide",
+              "cost": "+85pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "High Avenger",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Ancient Commander",
+              "details": "Aura de Renforcement Noble",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Elemental Hexer",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Guardian Cleric",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "High Oracle",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master High Oracle",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Protector",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace CCW and Combat Shield",
+          "options": [
+            {
+              "name": "Master Shard Pistol",
+              "details": "12\", A2, Fissure",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Master Shard Pistol",
+          "options": [
+            {
+              "name": "Master Laser Pistol",
+              "details": "9\", A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Shard Carbine",
+              "details": "18\", A3, Fissure",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Laser Blaster",
+              "details": "18\", A2, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Flamer Axe",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Fusion Axe",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Web Spinner",
+              "details": "12\", A3, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Surge Rockets",
+              "details": "24\", A3, PA (1), Inarrêtable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Impact Rockets",
+              "details": "30\", A1, PA (3), Mortel (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Dire Sword",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killing Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Spear",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Stinger Blade",
+              "details": "A3, Fiable, Fléau",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Shield Projector",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Striker Leader",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sniper Leader",
+              "details": "Éclaireur, Furtif, Arpenteur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Mounted Shardguns, Arpenteur, Coriace (3), Rapide",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Psy-Artillerist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Acolyte Psy-Seer",
+              "details": "Conduit de Sort",
+              "cost": "+15pts"
+            },
+            {
+              "name": "High Avenger",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Elemental Hexer",
+              "details": "Aura de Lacération en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Guardian Cleric",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Psy-Weaver",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "High Oracle",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acolytes",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Groupe de Lanceurs",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Energy Sword",
+          "options": [
+            {
+              "name": "Energy Spear",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetbike",
+              "details": "Mounted Shardguns, Arpenteur, Coriace (3), Rapide",
+              "cost": "+130pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Protectors",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shardgun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Shardgun",
+          "options": [
+            {
+              "name": "Gun Platform",
+              "details": "Shard Cannon",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Gun Platform",
+              "details": "Missile Launcher",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Gun Platform",
+              "details": "Burst Laser",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Gun Platform",
+              "details": "Laser Cannon",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Gun Platform",
+              "details": "Fracasse Cannon",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strikers",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Shard Pistol",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Hologram Platform",
+              "details": "Aura de furtivité",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Retributors",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Energy Swords and Combat Shields",
+          "options": [
+            {
+              "name": "Shard Carbine",
+              "details": "18\", A2, Fissure",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Shard Carbine",
+          "options": [
+            {
+              "name": "Twin Shard Carbine",
+              "details": "18\", A4, Fissure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Energy Sword and Combat Shield",
+          "options": [
+            {
+              "name": "Shard Pistol",
+              "details": "12\", A1, Fissure",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Shard Pistol",
+              "details": "12\", A1, Fissure",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Shard Pistol",
+          "options": [
+            {
+              "name": "Flicker Shield",
+              "details": "Aura de Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Psy-Marker",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gliders",
+      "size": 5,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Laser Pistol",
+          "range": "9\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Laser Pistols and CCWS",
+          "options": [
+            {
+              "name": "Laser Blaster",
+              "details": "18\", A1, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Laser Pistol and CCW",
+          "options": [
+            {
+              "name": "Laser Pistol",
+              "details": "9\", A1, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Blaster Pistol",
+              "details": "12\", A2, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Laser Pistol",
+          "options": [
+            {
+              "name": "Heavy Laser Blaster",
+              "details": "18\", A3, PA (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shred Blaster",
+              "details": "24\", A4, Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Grenade Packs",
+              "details": "Attaque croisée (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Psy-Marker",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revenants",
+      "size": 5,
+      "cost": 190,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble",
+        "Agile",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Shard Pistol and Energy Sword",
+          "options": [
+            {
+              "name": "Sgt. Shard Pistol",
+              "details": "12\", A1, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Mirror Scythe",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Tri-Chakram",
+              "details": "12\", A3, PA (1), Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Energy Sword",
+          "options": [
+            {
+              "name": "Killing Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Banshee Howl",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stingers",
+      "size": 5,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble",
+        "Éclaireur",
+        "Furtif"
+      ],
+      "weapons": [
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Stinger Blade",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fiable, Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Shard Pistol and Stinger Blade",
+          "options": [
+            {
+              "name": "Sgt. Shard Pistol",
+              "details": "12\", A1, Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Dual Energy Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Shard Pistol",
+          "options": [
+            {
+              "name": "Scorpion Fist",
+              "details": "12\", A3, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Stinger Blade",
+          "options": [
+            {
+              "name": "Stinger Dagger",
+              "details": "A1, Fléau, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shifters",
+      "size": 5,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Téléportation",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Web Spinner",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Web Spinner",
+          "options": [
+            {
+              "name": "Spinner Carbine",
+              "details": "18\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Web Spinner",
+              "details": "12\", A4, PA (4)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Dual Shifter Picks",
+              "details": "A2, Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scorchers",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Flamers",
+          "options": [
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Flamer",
+          "options": [
+            {
+              "name": "Fusion Pike",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snipers",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Psy-Marker",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vanquishers",
+      "size": 3,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Surge Rockets",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Inarrêtable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Surge Rocket",
+          "options": [
+            {
+              "name": "Impact Rockets",
+              "details": "30\", A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Surge Rocket",
+          "options": [
+            {
+              "name": "Shard Cannon",
+              "details": "24\", A3, PA (1), Fissure",
+              "cost": "Free"
+            },
+            {
+              "name": "Arcing Rockets",
+              "details": "30\", A1, PA (1), Explosion (3), Indirect",
+              "cost": "+-10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Psy-Marker",
+              "details": "Observateur Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elemental Protectors",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Implacable",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Distortion Gun",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Distortion Guns",
+          "options": [
+            {
+              "name": "Wraith Cannon",
+              "details": "12\", A3, PA (4)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elemental Strikers",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Killing Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Killing Axes and Combat Shields",
+          "options": [
+            {
+              "name": "Dual Energy Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Killing Axe",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Spear",
+              "details": "A3, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetbike Protectors",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Mounted Shardguns",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade any model with",
+          "options": [
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Mounted Shardgun and Sniper Rifle",
+          "options": [
+            {
+              "name": "Shard Cannon",
+              "details": "24\", A3, PA (1), Fissure",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Burst Laser",
+              "details": "30\", A3, PA (2)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Aura de furtivité",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Flicker Shield",
+              "details": "Aura de Régénération",
+              "cost": "+55pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetbike Strikers",
+      "size": 3,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Arpenteur",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Mounted Shardguns",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Shard Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shard Pistols and CCWs",
+          "options": [
+            {
+              "name": "Energy Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Energy Lance",
+          "options": [
+            {
+              "name": "Energy Spear",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Killing Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Aura de furtivité",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master-Crafted Engines",
+              "details": "Aura d’Éclaireur",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Gravity APC",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Transport (11)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Mounted Shardguns",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Mounted Shardgun",
+          "options": [
+            {
+              "name": "Light Shard Cannon",
+              "details": "24\", A2, PA (1), Fissure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "2x Shard Cannon",
+              "details": "24\", A3, PA (1), Fissure",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shard Cannon",
+          "options": [
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Burst Laser",
+              "details": "30\", A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shatter Cannon",
+              "details": "36\", A3, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Gravity Tank",
+      "size": 1,
+      "cost": 520,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Shard Cannon",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fissure"
+        },
+        {
+          "name": "Mounted Shardguns",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Mounted Shardgun",
+          "options": [
+            {
+              "name": "Light Shard Cannon",
+              "details": "24\", A2, PA (1), Fissure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace 2x Rapid Shard Cannon",
+          "options": [
+            {
+              "name": "Prism Cannon",
+              "details": "36\", A2, PA (4), Mortel (6)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Spinner Cannon",
+              "details": "30\", A4, PA (4), Explosion (3), Indirect",
+              "cost": "+190pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Rapid Shard Cannon",
+          "options": [
+            {
+              "name": "Rapid Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Rapid Burst Laser",
+              "details": "30\", A6, PA (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Rapid Shatter Cannon",
+              "details": "36\", A6, PA (1), Perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rapid Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Jetbike",
+      "size": 1,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shard Cannon",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fissure"
+        },
+        {
+          "name": "Mounted Shardguns",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Shard Cannon",
+          "options": [
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Burst Laser",
+              "details": "30\", A3, PA (2)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shatter Cannon",
+              "details": "36\", A3, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Mounted Shardgun",
+          "options": [
+            {
+              "name": "Light Shard Cannon",
+              "details": "24\", A2, PA (1), Fissure",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Walker",
+      "size": 1,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Éclaireur",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Shard Cannon",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fissure"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Shard Cannon",
+          "options": [
+            {
+              "name": "Rapid Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rapid Burst Laser",
+              "details": "30\", A6, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Shatter Cannon",
+              "details": "36\", A6, PA (1), Perforant",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Elemental",
+      "size": 1,
+      "cost": 360,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Shardgun",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fissure"
+        },
+        {
+          "name": "Great Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Axe and Great Shield",
+          "options": [
+            {
+              "name": "2x Great Claw",
+              "details": "A4, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Elemental Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "2x Great Axe",
+              "details": "A1, PA (2), Mortel (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Spear",
+              "details": "A6, PA (4)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "2x Great Elemental Sword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shardgun",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rapid Shard Cannon",
+              "details": "24\", A6, PA (1), Fissure",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Rapid Missile Launcher",
+              "details": "30\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+135pts"
+            },
+            {
+              "name": "Rapid Burst Laser",
+              "details": "30\", A6, PA (2)",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Rapid Shatter Cannon",
+              "details": "36\", A6, PA (1), Perforant",
+              "cost": "+145pts"
+            },
+            {
+              "name": "Rapid Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+140pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Elemental Curse",
+              "details": "Affaiblissement Encombrant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Elemental Seer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Titan Elemental",
+      "size": 1,
+      "cost": 825,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Sans peur",
+        "Coriace (24)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Titan Claws",
+          "range": "-",
+          "attacks": "A24",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Titan Claw",
+          "options": [
+            {
+              "name": "Titan Axe",
+              "details": "A6, PA (2), Mortel (3)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Twin Heavy Wraith Cannon",
+              "details": "24\", A2, PA (4), Mortel (9)",
+              "cost": "+165pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Titan Axe",
+          "options": [
+            {
+              "name": "Titan Sword",
+              "details": "A20, PA (1), Perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Titan Spear",
+              "details": "A16, PA (4)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Sun Cannon",
+              "details": "36\", A3, PA (2), Explosion (6)",
+              "cost": "+180pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with up to two",
+          "options": [
+            {
+              "name": "Rapid Shard Cannon",
+              "details": "24\", A6, PA (1), Fissure",
+              "cost": "+110pts"
+            },
+            {
+              "name": "Rapid Burst Laser",
+              "details": "30\", A6, PA (2)",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Rapid Shatter Cannon",
+              "details": "36\", A6, PA (1), Perforant",
+              "cost": "+145pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Elemental Curse",
+              "details": "Affaiblissement Encombrant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elemental Avatar",
+      "size": 1,
+      "cost": 925,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Régénération",
+        "Coriace (18)",
+        "Sans peur",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Sword",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "2",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Oracle Avatar",
+          "options": [
+            {
+              "name": "Great Avatar",
+              "details": "Gaze of Doom",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Elemental Curse",
+              "details": "Affaiblissement Encombrant",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seer Plane",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Lanceur de sorts (2)",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Distortion Guns",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Venator Plane",
+      "size": 1,
+      "cost": 495,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace (6)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Pulse Laser",
+          "range": "36\"",
+          "attacks": "A6",
+          "ap": "3",
+          "special": "Inarrêtable"
+        },
+        {
+          "name": "Twin Shatter Cannon",
+          "range": "36\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Shatter Cannon",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Artillery",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Coriace (3)",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Burst Mortar",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Artillery Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Burst Mortar",
+          "options": [
+            {
+              "name": "Heavy Mortar",
+              "details": "24\", A1, PA (2), Mortel (6), Indirect",
+              "cost": "+60pts"
+            },
+            {
+              "name": "AA-Cannon",
+              "details": "36\", A6, PA (1), Inarrêtable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Hologram Field",
+              "details": "Furtif",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trasara Ioncrinius",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Noble"
+      ],
+      "weapons": [
+        {
+          "name": "Orbital Bombardment",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Explosion (3), Limité"
+        },
+        {
+          "name": "Shred Blaster Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Energy Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Ir5XtqTM8JS3YEAJ?armyName=Volcanic+Dwarves",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/Ir5XtqTM8JS3YEAJ?armyName=Volcanic+Dwarves",
+  "sourceBookUid": "Ir5XtqTM8JS3YEAJ",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Nains Volcaniques",
+  "version": "3.5.3",
+  "introduction": "Les Nains Volcaniques sont des Nains qui ont pleinement embrassé la magie et exploitent désormais la puissance du feu pour terrasser leurs ennemis. Ils rejettent les lourdes armures de leurs semblables et s'appuient sur la force divine de leurs dieux pour continuer à combattre, ainsi que sur les bêtes volcaniques qui se battent à leurs côtés.\n\nLes Nains Volcaniques ont abandonné les traditions et les dieux de leurs ancêtres. Ces Nains ne sont pas retournés dans leurs forteresses lorsque les Orques furent vaincus, tant les cicatrices de leur humiliation étaient profondes. Leur soif de vengeance les a conduits vers le sud, auprès d'un nouveau panthéon de dieux qui a nourri leur nature belliqueuse.",
+  "backgroundStory": "Les tribus naines étaient autrefois dispersées à travers Tyria, mais à mesure que les plaines furent colonisées par l'humanité et que les Orques et les Géants gagnèrent les prairies, les Nains se replièrent dans les montagnes. Ils y bâtirent de puissantes forteresses entourées de fermes en terrasses sur les hauteurs, et creusèrent des mines dans les profondeurs.\n\nQuand le Havoc atteignit Tyria, les forteresses naines du Nord furent rapidement submergées. Les Nains du Nord continuèrent la lutte même après la perte de leurs foyers, tandis que les Nains du Sud rejoignirent la Grande Alliance pour protéger les leurs. Tandis que les armées naines combattaient le Havoc, les Orques attaquèrent et conquirent bientôt les forteresses naines.\n\nLa vie sous la domination orque fut rude pour les Nains survivants. Chassés de leurs forteresses, dépouillés de tout ce que les Orques désiraient, ils furent réduits à un labeur pénible dans les champs et les mines. Leurs anciens alliés étant trop affaiblis pour leur venir en aide, ils endurèrent pendant des générations la domination cruelle des Orques.\n\nLorsque la Faille s'ouvrit, elle endommagea plusieurs forteresses naines. Beaucoup d'Orques périrent dans des effondrements, d'autres durent abandonner les lieux en laissant derrière eux une partie de leurs armes et armures. Les Nains saisirent cette occasion pour se soulever, utilisant les armes et les outils qu'ils trouvaient pour reprendre leurs forteresses détruites. Si la plupart retournèrent dans leurs anciens foyers, certains ne s'y sentirent plus à leur place. Ces Nains portaient plus profondément les cicatrices de leur défaite et ne rêvaient que de vengeance. Ils ravagèrent les steppes, pillant et détruisant toutes les tribus orques qu'ils trouvaient.\n\nLeur furie les mena jusqu'aux montagnes des Drakes, une chaîne volcanique au sud de Tyria. Là, ils rencontrèrent un panthéon de Dieux Volcaniques belliqueux qui les encouragèrent à embrasser leur rage. Ces dieux leur enseignèrent à canaliser la magie à travers les tatouages runiques, les cicatrices et les blessures couvrant leurs corps.\n\nBeaucoup de Nains choisirent de les suivre, adoptant dans les montagnes une forme de vie presque monastique, perfectionnant leurs techniques de combat et apprenant à entrer en transe guerrière. Ils brûlent de prendre leur revanche sur les Orques et sur tous ceux qui, selon eux, insultent leur honneur. Ils se désintéressent de l'industrie et de l'artisanat, menant plutôt des vies simples vouées à leurs nouveaux dieux et à l'abattage de quiconque remettrait en cause leur honneur ou leur talent.\n\nComment vengeras-tu l'honneur de ton peuple ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lié aux Drakes",
+      "keywords": [
+        "Drakesworn"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Destructeur",
+      "keywords": [
+        "Destructive"
+      ]
+    },
+    {
+      "name": "Vitesse ancrée",
+      "keywords": [
+        "Grounded Speed"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Fatigue",
+      "keywords": [
+        "Fatigue Debuff"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Protection ancrée",
+      "keywords": [
+        "Grounded Protection"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Rapide",
+      "keywords": [
+        "Quick"
+      ]
+    },
+    {
+      "name": "Tir rapide",
+      "keywords": [
+        "Quick Shot"
+      ]
+    },
+    {
+      "name": "Renforcement ancrée",
+      "keywords": [
+        "Grounded Reinforcement"
+      ]
+    },
+    {
+      "name": "Renfort",
+      "keywords": [
+        "Reinforcement"
+      ]
+    },
+    {
+      "name": "Combattant Frappe et Repli",
+      "keywords": [
+        "Hit & Run Fighter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Protection ancrée",
+      "keywords": [
+        "Grounded Protection Aura"
+      ]
+    },
+    {
+      "name": "Aura Vive?",
+      "keywords": [
+        "Swift Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir rapide",
+      "keywords": [
+        "Quick Shot Aura"
+      ]
+    },
+    {
+      "name": "Aura de Marcheur",
+      "keywords": [
+        "Strider Aura"
+      ]
+    },
+    {
+      "name": "Aura Imparable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement ancrée",
+      "keywords": [
+        "Grounded Reinforcement Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Chaleur Brulante",
+      "cost": 1,
+      "keywords": [
+        "Searing Heat"
+      ]
+    },
+    {
+      "name": "Projectiles de Lave",
+      "cost": 1,
+      "keywords": [
+        "Lava Bolts"
+      ]
+    },
+    {
+      "name": "Fureur Aurique",
+      "cost": 2,
+      "keywords": [
+        "Auric Fury"
+      ]
+    },
+    {
+      "name": "Cendres Suffocantes",
+      "cost": 2,
+      "keywords": [
+        "Suffocating Ashes"
+      ]
+    },
+    {
+      "name": "Deplacement Sismique",
+      "cost": 3,
+      "keywords": [
+        "Seismic Shift"
+      ]
+    },
+    {
+      "name": "Tempete de Feu",
+      "cost": 3,
+      "keywords": [
+        "Fire Storm"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Magma Champion",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Heavy Great Axe",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Great Weapon",
+              "details": "A3, PA (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Lava Long-Shooter",
+              "details": "18\", A1, Destructeur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lava Shooter",
+              "details": "12\", A2, Destructeur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Throwing Axes",
+              "details": "12\", A2, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Beast Slayer Javelin",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Oath of Wrath",
+              "details": "Vitesse ancrée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Berserker Leader",
+              "details": "Régénération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magma Drake",
+              "details": "Stomp, Magma Claws, Armure (3), Attaque de souffle, Effrayant (2), Régénération, Arpenteur, Vif, Coriace (12)",
+              "cost": "+425pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Grudge Bearer",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Grim Lord",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Veteran Seeker",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Ancient Icon Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Auric Lord",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Smite Forger",
+              "details": "Aura de Tir rapide",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volcanic Leader",
+      "size": 1,
+      "cost": 35,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A3, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Axe",
+              "details": "A1, PA (3), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Lava Long-Shooter",
+              "details": "18\", A1, Destructeur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Lava Shooter",
+              "details": "12\", A2, Destructeur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Throwing Axes",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Oath of Wrath",
+              "details": "Vitesse ancrée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shield Leader",
+              "details": "Blindé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Volcanic Lizard",
+              "details": "Spit Lava, Heavy Claws, Armure (3), Effrayant (1), Arpenteur, Vif, Coriace (6)",
+              "cost": "+175pts"
+            },
+            {
+              "name": "Magma Drake",
+              "details": "Stomp, Magma Claws, Armure (3), Attaque de souffle, Effrayant (2), Régénération, Arpenteur, Vif, Coriace (12)",
+              "cost": "+385pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Veteran Seeker",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Auric Lord",
+              "details": "Aura de Protection ancrée",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Volcanic Monk",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Rune Smith",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Smite Forger",
+              "details": "Aura de Tir rapide",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shield Berserkers",
+      "size": 10,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Blindé",
+        "Lent",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Volcanic Banner",
+              "details": "Aura de Marcheur",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volcanic Berserkers",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Tueur en mêlée",
+        "Lent",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Hand Weapons",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with any",
+          "options": [
+            {
+              "name": "Magmatic Protection",
+              "details": "Aura de Renforcement ancrée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Volcanic Banner",
+              "details": "Aura de Marcheur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker Guards",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Régénération",
+        "Lent",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Spear",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Contre-charge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Spears",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Oath of Wrath",
+              "details": "Vitesse ancrée",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Volcanic Banner",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker Throwers",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Lent",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Throwing Axes",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Oath of Wrath",
+              "details": "Vitesse ancrée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Volcanic Banner",
+              "details": "Aura de Marcheur",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Auric Marksmen",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Lent",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Lava Long-Shooter",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Destructeur"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Lava Long-Shooters",
+          "options": [
+            {
+              "name": "Lava Shooter",
+              "details": "12\", A2, Destructeur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Lava Long-Shooter",
+          "options": [
+            {
+              "name": "Lava Spray-Shooter",
+              "details": "12\", A4, Destructeur",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Magma Bolt-Shooter",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with any",
+          "options": [
+            {
+              "name": "Magmatic Protection",
+              "details": "Aura de Renforcement ancrée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Volcanic Banner",
+              "details": "Aura de Marcheur",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire Elementals",
+      "size": 3,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Coriace (3)",
+        "Lié aux Drakes",
+        "Régénération"
+      ],
+      "weapons": [
+        {
+          "name": "Fire Strikes",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Volcanic Lizard",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Arpenteur",
+        "Coriace (6)",
+        "Lié aux Drakes"
+      ],
+      "weapons": [
+        {
+          "name": "Spit Lava",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Destructeur"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Spit Lava",
+          "options": [
+            {
+              "name": "Spit Flames",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Doom Call",
+              "details": "Affaiblissement de Fatigue",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Fire Elemental",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Furieux",
+        "Coriace (6)",
+        "Lié aux Drakes",
+        "Régénération"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Doom Call",
+              "details": "Affaiblissement de Fatigue",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magma Drake",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Attaque de souffle",
+        "Effrayant (2)",
+        "Régénération",
+        "Coriace (12)",
+        "Lié aux Drakes",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Magma Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

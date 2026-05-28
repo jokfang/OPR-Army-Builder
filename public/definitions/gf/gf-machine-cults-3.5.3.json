@@ -1,0 +1,1702 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/7el7k3hgy5pb9o9i?armyName=Machine+Cult",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/7el7k3hgy5pb9o9i?armyName=Machine+Cult",
+  "sourceBookUid": "7el7k3hgy5pb9o9i",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Machine Cults",
+  "version": "3.5.3",
+  "introduction": "The Machine Cult are a faction of humans who have sought to enhance their bodies with machinery to become something greater. These enhancements have allowed them to become a highly specialized army with a great deal of mobility, giving them an edge in rough environments.\n\nThese cults have embraced the inevitable transcendence of machines, and work to merge themselves with their machines, but this process has caused them to become isolated and outcast from the rest of humanity. Despite their faith and patience, the promise of transcendence still eludes them even after centuries of devotion.",
+  "backgroundStory": "The Machine Cult trace their origins to old Earth. Their cult has long believed that the advancement of technology is inevitable and eventually humanity itself will be surpassed by the machine in an event called the Singularity, which would have absolute power to determine the fate of humanity. The Cult believes that only by embracing the machine can humanity remain relevant, and their cult rejected the Founder and his plan for humanity, believing that his genetic enhancements were mere distractions from the inevitable machine Singularity. The Founder in turn banned their cult, and as a result, many Machine Cultists eagerly joined the refugee fleet.\n\nWhen humanity arrived in Sirius, the Machine Cult and its members were scattered throughout many of the surviving colonies. Though far apart, they were united in their faith and their fascination with augmentation. The Cult gained adherents from those who believed that their upgrades were the best way to adapt to new worlds. Driven on by discoveries in Sirius and trade with newly encountered species, the Machine Cult began to augment themselves in ways which could not have been imagined previously.\n\nAs augmentation became more easily obtained, many of its adherents began to augment themselves beyond anything that they were capable of on Earth, seeking to embrace the machine in new ways. As they did so, the adherents of the cult began to grow apart from other colonists. Others began to see the Cult and their followers as strange and inhuman. Some even began to leave the cult, embittered by augmentation failures or haunted by a feeling that they had lost some part of humanity.\n \nAs a result, the Machine Cult began to petition the Great Human Alliance for settlement rights. Their augmentations and robots allowed them to settle a number of inhospitable worlds which were otherwise not suited for settlements. The Machine Cult’s detachment and isolation meant that few were surprised when the Cult demanded independence from the Alliance. The Alliance were not interested in resettling or occupying the worlds the Cult had claimed and saw little to gain from war, and as such, the Machine Cults gained their final independence diplomatically, rather than through war.\n\nThe Machine Cults still maintain their eternal vigil, awaiting the transcendence of technology and the ascension of the machine. Their forces search throughout the Sector, seeking hidden and lost technologies that might help this come about or allow them to more fully embrace the machine.\n\nHow will you guide your people towards the Singularity?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Brouillard-machine",
+      "keywords": [
+        "Machine-Fog"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Furtivité ancrée",
+      "keywords": [
+        "Grounded Stealth"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Attaque croisée",
+      "keywords": [
+        "Crossing Attack"
+      ]
+    },
+    {
+      "name": "Laceration",
+      "keywords": [
+        "Lacerate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Piercing Debuff",
+      "description": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which loses AP(+1) when attacking once (next time the effect would apply).",
+      "keywords": [
+        "Piercing Debuff"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost du Brouillard-machine",
+      "keywords": [
+        "Machine-Fog Boost"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Perforation au tir",
+      "keywords": [
+        "Rending when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Teleportation",
+      "keywords": [
+        "Teleport Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost du Brouillard-machine",
+      "keywords": [
+        "Machine-Fog Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Cyborg Assault",
+      "cost": 1,
+      "keywords": [
+        "Cyborg Assault"
+      ]
+    },
+    {
+      "name": "Power Beam",
+      "cost": 1,
+      "keywords": [
+        "Power Beam"
+      ]
+    },
+    {
+      "name": "Shrouding Incense",
+      "cost": 2,
+      "keywords": [
+        "Shrouding Incense"
+      ]
+    },
+    {
+      "name": "Searing Shrapnel",
+      "cost": 2,
+      "keywords": [
+        "Searing Shrapnel"
+      ]
+    },
+    {
+      "name": "Corrode Weapons",
+      "cost": 3,
+      "keywords": [
+        "Corrode Weapons"
+      ]
+    },
+    {
+      "name": "Crushing Force",
+      "cost": 3,
+      "keywords": [
+        "Crushing Force"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "High Cyborg-Priest",
+      "size": 1,
+      "cost": 155,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Brouillard-machine",
+        "Coriace(6)",
+        "Arpenteur"
+      ],
+      "weapons": [
+        {
+          "name": "Revolver",
+          "range": "12\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Axe-Halberd",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Macro Pistol",
+              "details": "12\", A3",
+              "cost": "+15pts"
+            },
+            {
+              "name": "P-Repeater",
+              "details": "18\", A2, Laceration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Supersonic Cannon",
+              "details": "12\", A1, PA(1), Explosion, Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Eradicator",
+              "details": "24\", A1, PA(1), Explosion",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rail Gun",
+              "details": "18\", A1, PA(3), Mortel",
+              "cost": "+40pts"
+            },
+            {
+              "name": "V-Blaster",
+              "details": "24\", A3, Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Machine-Preserver",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Preacher",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Guérison",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Canticle Chanter",
+              "details": "Aura de Boost du Brouillard-machine",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Deacon",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Master Psy-Hacker",
+              "details": "Lanceur de sorts",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Cult Assault",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sect Leader",
+      "size": 1,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace(3)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Leader F-Blaster",
+          "range": "9\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Leader Taser Sword",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Leader F-Blaster and Leader Taser Sword",
+          "options": [
+            {
+              "name": "Leader Dual S-Blades",
+              "details": "A4, PA(1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Leader S-Razor & Claw",
+              "details": "A4, PA(2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Burst Carbine",
+              "details": "18\", A3",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Stalker",
+              "details": "Rapide, Furieux",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Infiltrator",
+              "details": "Furtivité ancrée, Éclaireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Machine-Preserver",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Preacher",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Machine-Modifier",
+              "details": "Aura de Teleportation",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Deacon",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Leader",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Arpenteur",
+        "Coriace(3)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Leader R-Pistol",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Tech-Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Leader R-Pistol",
+          "options": [
+            {
+              "name": "Leader P-Pistol",
+              "details": "9\", A3, Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Revolver",
+              "details": "12\", A2, PA(1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader Arc Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader R-Fusil",
+              "details": "18\", A2, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Leader G-Rifle",
+              "details": "30\", A2, PA(1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Leader Uranium Rifle",
+              "details": "30\", A2, PA(1), Lacération, Fiable, Élimination",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Leader R-Jezzail",
+              "details": "30\", A4, Lacération, Fiable, Élimination",
+              "cost": "+85pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Tech-Sword",
+          "options": [
+            {
+              "name": "Taser Sword",
+              "details": "A2, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "R-Sword",
+              "details": "A2, PA(1), Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Arc Sword",
+              "details": "A2, PA(1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Axe-Halberd",
+              "details": "A2, PA(4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Shock Priests Leader",
+              "details": "Furieux, Tueur en mêlée, Régénération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Stalker Wings",
+              "details": "Embuscade, Attaque croisée, Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Sentinel Stilts",
+              "details": "Furtif, Bond",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Cyborg Horse",
+              "details": "Rapide, Coriace",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Raider Horse",
+              "details": "Éclaireur, Coriace",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Machine-Preserver",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Guérison",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Canticle Chanter",
+              "details": "Aura de Boost du Brouillard-machine",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Machine-Modifier",
+              "details": "Aura de Teleportation",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Deacon",
+              "details": "Aura de Perforation au tir",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Cult Assault",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Rangers",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "R-Fusil",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all R-Fusils",
+          "options": [
+            {
+              "name": "G-Rifle",
+              "details": "30\", A1, PA(1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one R-Fusil",
+          "options": [
+            {
+              "name": "Arc Gun",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion, Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA(4), Mortel",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plasma Carbine",
+              "details": "18\", A2, PA(4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Uranium Rifle",
+              "details": "30\", A1, PA(1), Lacération, Fiable, Élimination",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one R-Fusil and CCW",
+          "options": [
+            {
+              "name": "R-Pistol",
+              "details": "9\", A1, Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace R-Pistol",
+          "options": [
+            {
+              "name": "P-Pistol",
+              "details": "9\", A2, Laceration",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Revolver",
+              "details": "12\", A1, PA(1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Arc Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "G-Rifle",
+              "details": "30\", A1, PA(1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Taser Sword",
+          "options": [
+            {
+              "name": "R-Sword",
+              "details": "A2, PA(1), Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Arc Sword",
+              "details": "A2, PA(1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Axe-Halberd",
+              "details": "A2, PA(4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Machine-Creed Canticles",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shock Priests",
+      "size": 5,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Régénération",
+        "Brouillard-machine",
+        "Tueur en mêlée"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Staff",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Shock Staffs",
+          "options": [
+            {
+              "name": "Taser Gauntlet",
+              "details": "A2, Surcharge",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Machine-Creed Canticles",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sect Stalkers",
+      "size": 5,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Arpenteur",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Dual S-Blades",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual S-Blades",
+          "options": [
+            {
+              "name": "S-Razor & Claw",
+              "details": "A2, PA(2)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Metal Spike",
+              "details": "A1, PA(1), Mortel, Limité",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sect Infiltrators",
+      "size": 5,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Furtivité ancrée",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "F-Blaster",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Taser Sword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all F-Blasters and Taser Swords",
+          "options": [
+            {
+              "name": "Burst Carbine",
+              "details": "18\", A2",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sky Stalkers",
+      "size": 5,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "F-Carbine",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all F-Carbines",
+          "options": [
+            {
+              "name": "P-Thrower",
+              "details": "12\", A2, Fiable, Laceration",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one F-Carbine and CCW",
+          "options": [
+            {
+              "name": "F-Blaster",
+              "details": "9\", A2",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sky-Grenadier",
+              "details": "Attaque croisée",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raider Cavalry",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace(3)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Twin P-Pistol",
+          "range": "9\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Twin P-Pistol",
+          "options": [
+            {
+              "name": "G-Carbine",
+              "details": "18\", A2, PA(1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one G-Carbine",
+          "options": [
+            {
+              "name": "Twin P-Blaster",
+              "details": "18\", A4, Laceration",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one G-Carbine and CCW",
+          "options": [
+            {
+              "name": "Raider Sabre",
+              "details": "A3, PA(1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "P-Pistol",
+              "details": "9\", A2, Laceration",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "P-Breath",
+              "details": "6\", A2, Limité, Laceration",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Cyborg Hooves",
+          "options": [
+            {
+              "name": "Raider Hooves",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Machine-Creed Canticles",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Gunners",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Brouillard-machine",
+        "Implacable",
+        "Coriace(3)"
+      ],
+      "weapons": [
+        {
+          "name": "Eraser Beam",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion(3)"
+        },
+        {
+          "name": "Strike",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Eraser Beam",
+          "options": [
+            {
+              "name": "Neutron Laser",
+              "details": "36\", A1, PA(3), Mortel",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Light P-Pistol",
+              "details": "9\", A1, Laceration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Light Arc Pistol",
+              "details": "9\", A1, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Machine-Creed Canticles",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Destroyer Cyborgs",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace(3)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "G-Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Explosion(3)"
+        },
+        {
+          "name": "Cyborg Claw",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any G-Cannon",
+          "options": [
+            {
+              "name": "Plasma Cannon",
+              "details": "30\", A1, PA(4), Explosion",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one G-Cannon",
+          "options": [
+            {
+              "name": "P-Blaster",
+              "details": "18\", A2, Laceration",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion, Fiable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breacher Cyborgs",
+      "size": 3,
+      "cost": 270,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace(3)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Contortion Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel(3)"
+        },
+        {
+          "name": "Cyborg Claw",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Contortion Cannon",
+          "options": [
+            {
+              "name": "Heavy Arc Gun",
+              "details": "36\", A3, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Cyborg Claws",
+          "options": [
+            {
+              "name": "Arc Claw",
+              "details": "A3, PA(1), Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Landing Craft",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact(3)",
+        "Arpenteur",
+        "Coriace(6)",
+        "Transport(11)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Twin P-Machinegun",
+          "range": "30\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Twin P-Machinegun",
+              "details": "30\", A4, Laceration",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Craft",
+      "size": 1,
+      "cost": 405,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact(6)",
+        "Arpenteur",
+        "Coriace(12)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion(3), Indirect"
+        },
+        {
+          "name": "Triple P-Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Energy Cannon",
+          "options": [
+            {
+              "name": "Iron Cannon",
+              "details": "36\", A2, PA(2), Mortel, Inarrêtable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Disruption Missile",
+              "details": "24\", A3, PA(1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Cult Assault",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crawler Tank",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace(12)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Eraser Beam",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion(3)"
+        },
+        {
+          "name": "Twin P-Machinegun",
+          "range": "30\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Crushing Legs",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Eraser Beam",
+          "options": [
+            {
+              "name": "Twin P-Cannon",
+              "details": "24\", A8, Laceration",
+              "cost": "+-15pts"
+            },
+            {
+              "name": "P-Machinegun",
+              "details": "30\", A2, Laceration",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Icarus AA-System",
+              "details": "36\", A6, PA(3), Inarrêtable",
+              "cost": "+105pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Repair Arm",
+              "details": "Régénération",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Cult Assault",
+              "details": "Attaque polyvalente",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragoon Walker",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant(1)",
+        "Arpenteur",
+        "Coriace(6)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Taser Lance",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Surcharge, Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Taser Lance",
+          "options": [
+            {
+              "name": "R-Jezzail",
+              "details": "30\", A3, Lacération, Fiable, Élimination",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "P-Repeater",
+              "details": "18\", A2, Laceration",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Power Hacker",
+              "details": "Piercing Debuff",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Robot",
+      "size": 1,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant(1)",
+        "Sans peur",
+        "Coriace(6)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion(3), Fiable"
+        },
+        {
+          "name": "Dual Energy Fists",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Energy Fist and Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin P-Cannon",
+              "details": "24\", A8, Laceration",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "P-Cannon",
+              "details": "24\", A4, Laceration",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Robot Smith",
+              "details": "Régénération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Power Hacker",
+              "details": "Piercing Debuff",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Walker",
+      "size": 1,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant(1)",
+        "Arpenteur",
+        "Coriace(6)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Laser Cannon",
+          "range": "36\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel(3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Laser Cannon",
+          "options": [
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA(2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Power Hacker",
+              "details": "Piercing Debuff",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arch Fighter",
+      "size": 1,
+      "cost": 235,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace(6)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "Twin P-Machinegun",
+          "range": "30\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Bomb Rack",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion(3), Mitraillage"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Assault Module",
+              "details": "Transport",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arch Gunship",
+      "size": 1,
+      "cost": 285,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Coriace(6)",
+        "Brouillard-machine"
+      ],
+      "weapons": [
+        {
+          "name": "P-Machinegun",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Laceration"
+        },
+        {
+          "name": "Rear Laser Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "3",
+          "special": "Mortel(3)"
+        },
+        {
+          "name": "Twin P-Blaster",
+          "range": "18\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Laceration"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

@@ -1,0 +1,1719 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/BubhE1kUpgYbqZvW?armyName=Saurians",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/BubhE1kUpgYbqZvW?armyName=Saurians",
+  "sourceBookUid": "BubhE1kUpgYbqZvW",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Sauriens",
+  "version": "3.5.3",
+  "introduction": "Les armées de Sauriens sont issues d'une improbable coalition de reptiles humanoïdes, dirigées par des Grenouilles-Mages. Ils combattent aux côtés d'une variété de puissantes créatures ressemblant à des dinosaures provenant des jungles de leur plan astral d'origine.",
+  "backgroundStory": "Les Grenouilles-Mages affirment être venus à l'existence dans un âge très ancien, bien avant l'apparition de toute autre espèce en Tyria. Ils devinrent sages et puissants grâce à l'usage d'eaux magiques, développant une magie redoutable. Entourés de créatures dénuées de pensée, ils commencèrent à leur transmettre leur savoir. Peu à peu, ces animaux changèrent de corps et d'esprit, devinrent intelligents, apprirent à marcher et à manier des outils, et en vinrent à révérer les Grenouilles-Mages comme des dieux.\n\nLa maîtrise magique des Grenouilles-Mages attira bientôt l'attention des Dieux du Havoc, qui convoitaient leur puissance. Une longue guerre éclata entre les Sauriens et les Démons du Havoc, et s'enlisa bientôt dans une impasse sans issue visible.\n\nLes Grenouilles-Mages se tournèrent alors vers la prophétie pour trouver une voie de salut. Ils annoncèrent à leur peuple trois Grandes Prophéties : Sans les Sauriens, le monde brûlera. Sans eux, le monde guérira. Sans eux, le monde se brisera.\n\nNe voyant aucun moyen de vaincre les Démons, les Sauriens ouvrirent des Portails du Vide et se retirèrent dans un plan où ils pourraient leur échapper. Ils plongèrent dans une longue hibernation, tandis que les Dieux du Havoc ravageaient et incendiaient leur monde d'origine. Ils espéraient qu'à leur réveil, leur patrie aurait eu le temps de guérir et que leur retour empêcherait le monde de se briser tant qu'ils y demeureraient.\n\nÀ présent, les Sauriens éveillés commencent à revenir en Tyria. Ils ont appris avec tristesse la libération des Dieux du Havoc et l'apparition de la Faille. Certains pensent qu'il s'agit du signe que les Grenouilles-Mages ont échoué à empêcher l'accomplissement de la troisième partie de la prophétie et que la victoire du Havoc est désormais inévitable. D'autres redoutent qu'une menace plus grande encore ne guette l'avenir, et que les Grenouilles-Mages cherchent toujours à la prévenir.\n\nL'incertitude est un sentiment étrange pour les Sauriens et leurs Grenouilles-Mages, mais ils n'y sont pas pour autant mal préparés. Guerriers expérimentés, héritiers d'une fière tradition de lutte contre le Havoc, ils sont prêts à affronter tous les périls que Tyria placera sur leur route, même si cela doit les mener à leur perte.\n\nComment feras-tu face à ton destin ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Primal",
+      "keywords": [
+        "Primal"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Cible désignée",
+      "keywords": [
+        "Precision Target"
+      ]
+    },
+    {
+      "name": "Protection mutuelle",
+      "keywords": [
+        "Protection Feat"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Bonus de Boost Primal",
+      "keywords": [
+        "Primal Boost Buff"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Marque de lacération",
+      "keywords": [
+        "Shred Mark"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    },
+    {
+      "name": "Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter"
+      ]
+    },
+    {
+      "name": "Frappe en mouvement",
+      "keywords": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Boost de Primal",
+      "keywords": [
+        "Primal Boost"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Contre-attaque",
+      "keywords": [
+        "Counter-Attack Aura"
+      ]
+    },
+    {
+      "name": "Aura de perforant en mêlée",
+      "keywords": [
+        "Rending in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir en mouvement",
+      "keywords": [
+        "Hit & Run Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge véloce",
+      "keywords": [
+        "Rapid Charge Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Brume Empoisonnée",
+      "cost": 1,
+      "keywords": [
+        "Poison Mist"
+      ]
+    },
+    {
+      "name": "Nuée de piranhas",
+      "cost": 1,
+      "keywords": [
+        "Piranha Swarm"
+      ]
+    },
+    {
+      "name": "Guide providentiel",
+      "cost": 2,
+      "keywords": [
+        "Fateful Guidance"
+      ]
+    },
+    {
+      "name": "Jaguar bondissant",
+      "cost": 2,
+      "keywords": [
+        "Jaguar Pounce"
+      ]
+    },
+    {
+      "name": "Rugissement Primordial",
+      "cost": 3,
+      "keywords": [
+        "Primordial Roar"
+      ]
+    },
+    {
+      "name": "Œuf de Serpent",
+      "cost": 3,
+      "keywords": [
+        "Serpent Egg"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Frog-Mage",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Lanceur de sorts (3)",
+        "Effrayant (1)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (6)",
+        "Primal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Shock",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Magic Pulse",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Magic Shock",
+          "options": [
+            {
+              "name": "Magic Blast",
+              "details": "12\", A3, Perforant",
+              "cost": "Free"
+            },
+            {
+              "name": "Magic Beam",
+              "details": "12\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Ancient Palanquin",
+              "details": "Magic Pulse, Lanceur de sorts (1), Coriace (3)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Queztalcoatl",
+              "details": "Coriace (18), Effrayant (3), Stomp, Volant, Mystic Strike",
+              "cost": "+770pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Guidance",
+              "details": "Bonus de Boost Primal",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Holy Spawn",
+              "details": "Aura de Charge véloce",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Enlightened Mage",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gator Veteran",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Obsidian Great Weapon",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Obsidian Great Weapon",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A6, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Roar",
+              "details": "Bonus de Boost Primal",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Holy Spawn",
+              "details": "Aura de Charge véloce",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Veteran",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Obsidian Great Weapon",
+              "details": "A3, Désintegration",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Raptor",
+              "details": "Ravage (1), Rapide, Impact (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Tyrannosaur",
+              "details": "Crushing Jaws, Stomp, Effrayant (2), Bonus de Boost Primal, Coriace (12)",
+              "cost": "+295pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Holy Spawn",
+              "details": "Aura de Charge véloce",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Chief",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gecko Champion",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Hand Weapon",
+          "options": [
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A4, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Lance",
+              "details": "A3, Fléau, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Champion Fire Bolas",
+              "details": "12\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Javelin",
+              "details": "12\", A2, PA (1), Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Blowpipe",
+              "details": "18\", A2, Fléau",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Deinonychus",
+              "details": "Impact (1), Bond",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Chameleon Breed",
+              "details": "Bon tireur, Éclaireur, Esquive",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Starseer Palanquin",
+              "details": "Magic Pulse, Coriace (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Pterodactyl",
+              "details": "Claws, Rock Barrage, Embuscade, Volant, Impact (1), Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Ripjawdactyl",
+              "details": "Embuscade, Volant, Impact lourd (3), Cible désignée (1), Coriace (3)",
+              "cost": "+90pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Primal Hunter",
+              "details": "Bonus de Boost Primal",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Skirmisher",
+              "details": "Aura de Tir en mouvement",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Priest",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Temple Guardian",
+              "details": "Aura de Contre-attaque",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Chief",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Warriors",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Primal",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geckos",
+      "size": 5,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Javelin",
+              "details": "12\", A1, PA (1), Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Blowpipe",
+              "details": "18\", A1, Fléau",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saurian Guardians",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Obsidian Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Obsidian Great Weapons",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A1, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chameleons",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bon tireur",
+        "Éclaireur",
+        "Arpenteur",
+        "Primal",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Fire Bolas",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Fire Bolas",
+          "options": [
+            {
+              "name": "Blowpipe",
+              "details": "18\", A1, Fléau",
+              "cost": "+-5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deinonychus Riders",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Bond",
+        "Impact (1)",
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau, Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1, Fléau",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raptor Riders",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Rapide",
+        "Sans peur",
+        "Impact (1)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Lance",
+              "details": "A1, Percée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pterodactyl Riders",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Impact (1)",
+        "Primal",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Javelin",
+              "details": "12\", A2, PA (1), Fléau",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Fire Bolas",
+              "details": "12\", A4",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Rock Barrage",
+              "details": "A1, PA (1), Explosion (3), Limité, Mitraillage",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ripjawdactyl Riders",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Impact lourd (3)",
+        "Primal",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Javelin",
+              "details": "12\", A2, PA (1), Fléau",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Fire Bolas",
+              "details": "12\", A4",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Hunting Bait",
+              "details": "Cible désignée (1)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gators",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Obsidian Great Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Désintegration"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Obsidian Great Weapons",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacred Destiny",
+              "details": "Protection mutuelle",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snake Swarms",
+      "size": 3,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Vulturedactyls",
+      "size": 3,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Primal",
+        "Coriace (3)",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Spiked Lizard",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Sans peur",
+        "Renforcé",
+        "Coriace (6)",
+        "Arpenteur",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Shoot Spikes",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Lizard Handlers",
+              "details": "Implacable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vanguard Lizard Handlers",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Prophetic Vision",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Lizard",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Sans peur",
+        "Primal",
+        "Régénération",
+        "Arpenteur",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Spit Flames",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Lizard Handlers",
+              "details": "Implacable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Vanguard Lizard Handlers",
+              "details": "Éclaireur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Prophetic Vision",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Triceratops",
+      "size": 1,
+      "cost": 275,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Javelin Crew",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fléau"
+        },
+        {
+          "name": "Horns",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Javelin Crew",
+          "options": [
+            {
+              "name": "Giant Blowpipe",
+              "details": "18\", A6, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Bolt Thrower",
+              "details": "24\", A2, PA (2), Mortel (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Javelin Crew",
+              "details": "12\", A6, PA (1), Fléau",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Trample",
+              "details": "Impact (3)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spinosaurus",
+      "size": 1,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Spit Venom",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Toxic Bite",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Primal Roar",
+              "details": "Bonus de Boost Primal",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Priest Rider",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ankylosaurus",
+      "size": 1,
+      "cost": 305,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Javelin Crew",
+          "range": "12\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fléau"
+        },
+        {
+          "name": "Obsidian Tail",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Mortel (3), Désintegration"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Javelin Crew",
+          "options": [
+            {
+              "name": "Serpent Ark",
+              "details": "Génération (Snake Swarms [3])",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Solar Beam",
+              "details": "24\", A2, PA (2), Explosion (3)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Obsidian Tail",
+          "options": [
+            {
+              "name": "Mace Tail",
+              "details": "A4, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Prophetic Vision",
+              "details": "Marque de lacération",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dread Titan",
+      "size": 1,
+      "cost": 660,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Coriace (18)",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Vicious Jaws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dread Gator",
+          "options": [
+            {
+              "name": "Dread Pterodactyl",
+              "details": "Drop Rocks, Lanceur de sorts (2), Volant",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Dread Behemoth Fighter",
+              "details": "Tail Strike, Coriace (6)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Dread Behemoth Carrier",
+              "details": "Coriace (6), Transport (21)",
+              "cost": "+110pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hakatlo",
+      "size": 1,
+      "cost": 180,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Héros",
+        "Coriace (6)",
+        "Unique",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Sun Clubs",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Teqi",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lanceur de sorts (2)",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Unique",
+        "Primal"
+      ],
+      "weapons": [
+        {
+          "name": "Celestial Staff",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

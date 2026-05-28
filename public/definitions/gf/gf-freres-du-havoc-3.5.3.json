@@ -1,0 +1,2518 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/7o6om21wxlvvy3hq?armyName=Havoc+Brothers",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/7o6om21wxlvvy3hq?armyName=Havoc+Brothers",
+  "sourceBookUid": "7o6om21wxlvvy3hq",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Frères du Havoc",
+  "version": "3.5.3",
+  "introduction": "Les Frères du Havoc sont ce qu'il reste des Frères de Bataille corrompus par les forces du havoc. Efficaces et résistants, ils amènent au combat une grande variété de guerriers et de monstres, chacun doté de bénédictions uniques accordées par le dieu qu'il sert.\n\nLorsque la flotte du Fondateur fut dispersée dans le Secteur Sirius, elle dut affronter de nouveaux périls dans une galaxie inconnue, et certains survivants désespérés trouvèrent de nouveaux mécènes qui leur offrirent la possibilité de s'adapter en échange de leur allégeance. Les Frères du Havoc embrassèrent les philosophies de leurs maîtres divins, taillant pour eux-mêmes un nouveau foyer parmi des étoiles étrangères.",
+  "backgroundStory": "À leur arrivée dans le Secteur Sirius, la flotte du Fondateur fut dispersée et endommagée. Beaucoup de ces vaisseaux et de leurs équipages furent tenus pour détruits, alors qu'ils avaient en réalité atteint Sirius loin du reste de l'humanité. Nombre de ces survivants se crurent les seuls rescapés de la flotte, peut-être même les seuls humains de cette étrange galaxie. Sans aucun espoir concret de retour vers la Terre, la plupart de ces Frères de Bataille isolés durent affronter la perspective de mourir dans un univers inconnu.\n\nMais l'humanité n'était pas seule dans cette galaxie, et l'arrivée de ces intrus attira l'attention de puissantes entités du Secteur Sirius : les Dieux du Havoc. Ceux-ci attendirent leur heure et tendirent la main aux Frères de Bataille dans leurs moments les plus désespérés. Les Dieux du Havoc leur offrirent une chance de survie dans leur nouveau foyer, à condition qu'ils jurent fidélité à leurs nouveaux mécènes et renoncent à leurs liens avec leur Fondateur.\n\nBeaucoup acceptèrent le pacte sans hésiter, devenant les premiers Frères du Havoc. Ces Frères du Havoc recherchèrent ensuite leurs semblables dispersés pour leur proposer le même choix qui leur avait été offert : l'espoir de survivre grâce à la puissance des Dieux du Havoc, ou la mort. Ils survécurent par la récupération et la piraterie, prenant tout ce qu'ils pouvaient aux vaisseaux aliens vulnérables et à leurs anciens frères d'armes qui refusaient de les rejoindre.\n\nAvec le temps, les Frères du Havoc rencontrèrent le reste de l'humanité et leurs parents longtemps perdus chez les Frères de Bataille. Le conflit éclata rapidement lorsque les Frères de Bataille prirent la mesure de la trahison de leurs anciens camarades. Pourtant, certains exclus parmi les Frères de Bataille saisirent cette occasion pour rejoindre les Frères du Havoc et adopter leurs dieux. Certains vinrent seuls, d'autres désertèrent en Détachements entiers. Bientôt, les domaines des Frères du Havoc formèrent une mosaïque de bandes de pillards, de planètes et de fiefs dispersés à travers le Secteur Sirius.\n\nLes Frères du Havoc agissent principalement en bandes de guerre indépendantes, vaguement alliées à d'autres groupes voués au même Dieu du Havoc. Ces bandes vont de petits pirates et mercenaires à de vastes empires couvrant plusieurs systèmes. Beaucoup craignent qu'un jour, poussées par la nécessité, par la volonté d'un dirigeant puissant ou celle de leurs dieux, ces bandes s'unissent et menacent d'engloutir tout le Secteur Sirius. Pour l'heure, la plupart restent divisées, déterminées à se forger leur propre voie parmi les étoiles.\n\nComment gagneras-tu la faveur de ton dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lie au Chaos",
+      "keywords": [
+        "Havocbound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Terrain Dangereux",
+      "keywords": [
+        "Dangerous Terrain Debuff"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Renforcement Lie au Chaos",
+      "keywords": [
+        "Havocbound Boost"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Défense versatile",
+      "keywords": [
+        "Versatile Defense"
+      ]
+    },
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Renforcement Lie au Chaos",
+      "keywords": [
+        "Havocbound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Défense versatile",
+      "keywords": [
+        "Versatile Defense Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura d’Éclaireur",
+      "keywords": [
+        "Scout Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inebranlable",
+      "keywords": [
+        "Steadfast Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Foulee Maudite",
+      "cost": 1,
+      "keywords": [
+        "Cursed Stride"
+      ]
+    },
+    {
+      "name": "Havoc Trauma",
+      "cost": 1,
+      "keywords": [
+        "Havoc Trauma"
+      ]
+    },
+    {
+      "name": "Sombre Assault",
+      "cost": 2,
+      "keywords": [
+        "Dark Assault"
+      ]
+    },
+    {
+      "name": "Havoc Terror",
+      "cost": 2,
+      "keywords": [
+        "Havoc Terror"
+      ]
+    },
+    {
+      "name": "Havoc Boon",
+      "cost": 3,
+      "keywords": [
+        "Havoc Boon"
+      ]
+    },
+    {
+      "name": "Havoc Fog",
+      "cost": 3,
+      "keywords": [
+        "Havoc Fog"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Havoc Destroyer Champion",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Embuscade",
+        "Héros",
+        "Coriace (6)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Champion Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Champion Heavy Rifle and CCW",
+          "options": [
+            {
+              "name": "Dual Energy Claws",
+              "details": "A8, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Rapid Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Champion Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A2, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A4, PA (4)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Executioner",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Apostle",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Icon Bearer",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Dark Smith",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of Havoc",
+              "details": "Aura de Renforcement Lie au Chaos",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Master Warlock",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chosen Havoc Champion",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lie au Chaos",
+        "Attaque polyvalente"
+      ],
+      "weapons": [
+        {
+          "name": "Flamer Pistol",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Flamer Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flamer Pistol",
+          "options": [
+            {
+              "name": "Champion Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Champion Storm Rifle",
+              "details": "24\", A4, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Champion Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Twin Heavy Rifle, Coriace (3), Rapide",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Executioner",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Icon Bearer",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Agitator",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Dark Smith",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of Havoc",
+              "details": "Aura de Renforcement Lie au Chaos",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Master Warlock",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Champion",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Flamer Pistol",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Flamer Pistol and CCW",
+          "options": [
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flamer Pistol",
+          "options": [
+            {
+              "name": "Champion Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Champion Storm Rifle",
+              "details": "24\", A4, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Champion Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Twin Heavy Rifle, Coriace (3), Rapide",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Executioner",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Icon Bearer",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Agitator",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Dark Smith",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Warlock",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lord of Havoc",
+              "details": "Aura de Renforcement Lie au Chaos",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Master Warlock",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultist Champion",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Champion Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Champion Pistol and CCW",
+          "options": [
+            {
+              "name": "Cursed Blade",
+              "details": "A3, PA (2), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Champion Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Rifle",
+              "details": "24\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Shred Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Shotgun",
+              "details": "12\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Sniper Rifle",
+              "details": "30\", A2, PA (1), Élimination, Fiable",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Executioner",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Apostle",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Icon Bearer",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Agitator",
+              "details": "Aura d’Éclaireur",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Psy-Witch",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Havoc",
+      "size": 1,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Daemon Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Daemon Hammer",
+          "options": [
+            {
+              "name": "Daemon Chain",
+              "details": "12\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Daemon Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Daemon Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Daemon Gauntlet",
+              "details": "A3, PA (4)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Lore of Havoc",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultists",
+      "size": 10,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rifles and CCWS",
+          "options": [
+            {
+              "name": "Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Rifles",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Grenade Launcher",
+              "details": "24\", A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Machinegun",
+              "details": "30\", A3",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Sniper Rifle",
+              "details": "30\", A1, PA (1), Élimination, Fiable",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Brothers",
+      "size": 5,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Rifles and CCWS",
+          "options": [
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Reaper Cannon",
+              "details": "24\", A4, Lacération",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chosen Havoc Brothers",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Chaos",
+        "Attaque polyvalente"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Rifle and CCW",
+          "options": [
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Rifle",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Reaper Cannon",
+              "details": "24\", A4, Lacération",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may take one Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shred-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Talon Raptors",
+      "size": 5,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Furieux",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Energy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Energy Claws",
+          "options": [
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Soul Spawn",
+      "size": 3,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Lie au Chaos",
+        "Éclaireur"
+      ],
+      "weapons": [
+        {
+          "name": "Mutated Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Mutated Claws",
+          "options": [
+            {
+              "name": "Heavy Havoc Sword",
+              "details": "A3, Perforant",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Support",
+      "size": 3,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Reaper Cannon",
+              "details": "24\", A4, Lacération",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Destroyers",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Energy Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Energy Claws",
+          "options": [
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Flamer-Mod",
+          "options": [
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred-Mod",
+              "details": "18\", A2, Perforant, Limité",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Storm Rifle",
+          "options": [
+            {
+              "name": "Reaper Cannon",
+              "details": "24\", A4, Lacération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+-15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A3, PA (4)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Havoc Favour",
+              "details": "Aura d'Inebranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Icon of Havoc",
+              "details": "Aura de Défense versatile",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mutated Cultists",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Mutated Brothers",
+      "size": 5,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Combattant imprévisible",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Mutant Legs",
+          "options": [
+            {
+              "name": "Mutant Wings",
+              "details": "Embuscade, Volant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greater Mutated",
+      "size": 3,
+      "cost": 245,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Combattant imprévisible",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Mutated Destroyer",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Embuscade",
+        "Coriace (6)",
+        "Imprévisible",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Mutated Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Dual Mutated Claws",
+          "options": [
+            {
+              "name": "Mutated Claw",
+              "details": "A3, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Summoned Tendrils",
+              "details": "Affaiblissement de Terrain Dangereux",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Bikers",
+      "size": 3,
+      "cost": 290,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Pistols and CCWs",
+          "options": [
+            {
+              "name": "Heavy Rifle",
+              "details": "24\", A1, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Rifle",
+          "options": [
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc APC",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Coriace (6)",
+        "Transport (11)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Storm Rifle",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Havoc Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Spiked Ram",
+              "details": "Impact (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Tank",
+      "size": 1,
+      "cost": 490,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Demolition Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Explosion (6), Indirect"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Havoc Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Spiked Ram",
+              "details": "Impact (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Demolition Cannon",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Rapid Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+-10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Machineguns",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Heavy Tank",
+      "size": 1,
+      "cost": 870,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Impact (9)",
+        "Coriace (18)",
+        "Transport (11)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Quad Laser Cannon",
+          "range": "36\"",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Rapid Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Havoc Missiles",
+              "details": "24\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Spiked Ram",
+              "details": "Impact (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dozer Blade",
+              "details": "Arpenteur",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infernal Brute",
+      "size": 1,
+      "cost": 290,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Brute Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Brute Hammer",
+          "options": [
+            {
+              "name": "Missile Array",
+              "details": "30\", A4, PA (2), Inarrêtable",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Brute Hammer",
+          "options": [
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Heavy Reaper Cannon",
+              "details": "24\", A6, PA (1), Lacération",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Brute Hammer",
+          "options": [
+            {
+              "name": "Brute Flail",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Brute Axe",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Brute Fist",
+              "details": "A4, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade any Brute Fist with one",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Mech-Fiend",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Régénération",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Fiend Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Steel Tails",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Steel Tail",
+          "options": [
+            {
+              "name": "Dual Maul Cutters",
+              "details": "A6, PA (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Steel Tail and Fiend Claw",
+          "options": [
+            {
+              "name": "Twin Fiend Autocannon",
+              "details": "36\", A8, PA (2)",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Twin Ecto-Cannons",
+              "details": "24\", A4, PA (4), Explosion (3)",
+              "cost": "+155pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infernal Stalker",
+      "size": 1,
+      "cost": 405,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Arpenteur",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Bane Flamethrower",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Virus Injector",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "3",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Bane Flamethrower",
+          "options": [
+            {
+              "name": "Rapid Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Virus Injector",
+          "options": [
+            {
+              "name": "Heavy Maul Cutter",
+              "details": "A9, PA (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Summoned Tendrils",
+              "details": "Affaiblissement de Terrain Dangereux",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spider Walker",
+      "size": 1,
+      "cost": 445,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Régénération",
+        "Arpenteur",
+        "Coriace (12)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Pain Cannons",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Spider Fangs",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Summoned Tendrils",
+              "details": "Affaiblissement de Terrain Dangereux",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Daemon Engine",
+              "details": "Résistance",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Despoiler Walker",
+      "size": 1,
+      "cost": 660,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Régénération",
+        "Coriace (18)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Plasma Cannon",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Despoiler Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "3",
+          "special": "-"
+        },
+        {
+          "name": "Hell Flail",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Plasma Cannon",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Hell Flail",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Havoc Missiles",
+              "details": "24\", A2, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Heavy Reaper Cannon",
+              "details": "24\", A6, PA (1), Lacération",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+80pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Pain Cannons",
+              "details": "24\", A2, Explosion (3)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Dual Maul Cutters",
+              "details": "A6, PA (3)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+125pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Havoc Dragon",
+      "size": 1,
+      "cost": 265,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Aéronef",
+      "specialRules": [
+        "Aéronef",
+        "Régénération",
+        "Coriace (6)",
+        "Lie au Chaos"
+      ],
+      "weapons": [
+        {
+          "name": "Forge Flamethrower",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Forge Flamethrower",
+          "options": [
+            {
+              "name": "Forge Cannon",
+              "details": "30\", A8, PA (3)",
+              "cost": "+115pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

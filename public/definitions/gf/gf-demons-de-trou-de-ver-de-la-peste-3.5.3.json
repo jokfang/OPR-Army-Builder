@@ -1,0 +1,1465 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/fmuqw5lr5l6dq0mq?armyName=Daemons+of+Plague",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/fmuqw5lr5l6dq0mq?armyName=Daemons+of+Plague",
+  "sourceBookUid": "fmuqw5lr5l6dq0mq",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Démons de Trou de Ver de la Peste",
+  "version": "3.5.3",
+  "introduction": "Les Démons de Trou de Ver sont les monstrueux serviteurs des Dieux du Havoc qui surgissent d'une autre dimension à travers toute la galaxie. Leurs formes varient énormément selon le dieu qu'ils servent.\n\nLes Démons de Trou de Ver sont les rejetons de dieux mourants qui espèrent désespérément gagner encore un peu de temps. Ils émergent brusquement des trous de ver disséminés dans la galaxie pour accomplir la volonté eldritch de leurs maîtres, puis disparaissent tout aussi vite une fois leur tâche terminée. Leurs dieux sont prêts à ne laisser derrière eux que havoc et destruction dans l'espoir de prolonger leur existence un peu plus longtemps.",
+  "backgroundStory": "Durant des éons, de puissantes entités résidèrent dans un lieu au-delà de l'espace, entre les trous de ver. Pures consciences psychiques, elles étaient dépourvues de forme physique et vivaient sans connaître la douleur ni la mort. On ne peut rien affirmer avec certitude sur ces êtres ou sur leurs origines, tant leur existence précède même les archives des plus anciennes civilisations connues de la galaxie. Elles observaient passivement le développement de la galaxie, n'intervenant que rarement auprès des espèces qui y vivaient.\n\nTout changea soudainement lorsque l'une des leurs mourut. Beaucoup ont spéculé sur la cause de cette mort, mais le mystère demeure entier. C'était la première fois qu'un membre de leur espèce faisait l'expérience de la mort, et les autres réagirent d'abord avec curiosité, puis avec horreur. Cette horreur ne fit que croître à mesure que la mort se propageait. Les disparitions se multiplièrent, et les survivants commencèrent à reconnaître en eux-mêmes les signes de l'entropie et de la décrépitude.\n\nChaque entité réagit à sa manière, mais la plupart finirent par succomber, à quelques exceptions près. Celle que l'on connaît désormais sous le nom de Luxure chercha à se retrancher d'elle-même, coupant tout signe d'imperfection ou de faiblesse. Une autre, appelée Changement, chercha à accumuler le savoir plus vite qu'il ne pouvait se perdre. La Peste trouva son salut dans la forme physique, utilisant son pouvoir pour se répandre et réassimiler tout ce qu'elle infectait. Enfin, la Guerre apprit à tirer sa force de ceux qu'elle abattait.\n\nBientôt, ces êtres tournèrent leur attention vers le monde matériel, espérant y retarder un peu leur fin. Désespérés de survivre, ils cherchèrent des fidèles parmi les perdus et les désespérés, leur offrant du pouvoir en échange de leur service et de leur adoration. Ceux qui rejetèrent ces dieux finirent par les appeler Dieux du Havoc, à cause du fanatisme de leurs fidèles et du chaos qu'ils répandaient.\n\nCes dieux peuvent manifester leur volonté dans le monde physique par l'intermédiaire d'aspects, fragments de leur puissance et de leur conscience, que la plupart désignent comme leurs Démons. Une fois manifestés, ces aspects sont mortels, vulnérables à la douleur et à la mort, ont besoin de se nourrir pour survivre, et peuvent même évoluer avec l'expérience. Les dieux doivent sacrifier une part de leur propre pouvoir pour créer ces Démons, les plus puissants exigeant une plus grande portion de leur essence. Ainsi, chaque Dieu du Havoc ne peut manifester qu'un nombre limité de Démons à la fois, et doit abandonner une fraction de sa puissance pour le faire, qu'il ne récupère qu'à la mort de ceux-ci.\n\nLorsqu'ils ne mettent pas en œuvre la volonté de leurs dieux, les Démons demeurent souvent dans un étrange espace entre les trous de ver. Leur maîtrise de ces passages leur permet d'apparaître et de disparaître rapidement dans l'espace physique, exécutant ainsi les desseins de leur dieu sans craindre de représailles.\n\nComment serviras-tu la volonté de ton dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lie a la peste",
+      "keywords": [
+        "Plaguebound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Inébranlable",
+      "keywords": [
+        "Steadfast"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Tempete de peste",
+      "keywords": [
+        "Storm of Plague"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Amelioration Attaques de precision",
+      "keywords": [
+        "Precision Attacks Buff"
+      ]
+    },
+    {
+      "name": "Croissance fortifiée",
+      "keywords": [
+        "Fortified Growth"
+      ]
+    },
+    {
+      "name": "Affaiblissement Terrain difficile",
+      "keywords": [
+        "Difficult Terrain Debuff"
+      ]
+    },
+    {
+      "name": "Amelioration de Regeneration",
+      "keywords": [
+        "Regeneration Buff"
+      ]
+    },
+    {
+      "name": "Perforant en mêlée",
+      "keywords": [
+        "Rending in Melee"
+      ]
+    },
+    {
+      "name": "Amplification Lie a la peste",
+      "keywords": [
+        "Plaguebound Boost"
+      ]
+    },
+    {
+      "name": "Projection",
+      "keywords": [
+        "Screened"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Rush"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Implacable",
+      "keywords": [
+        "Relentless Aura"
+      ]
+    },
+    {
+      "name": "Aura de perforant en mêlée",
+      "keywords": [
+        "Rending in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Amplification Lie a la peste",
+      "keywords": [
+        "Plaguebound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Projection",
+      "keywords": [
+        "Screened Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Inebranlable",
+      "keywords": [
+        "Steadfast Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Aura de Pestilence",
+      "cost": 1,
+      "keywords": [
+        "Aura of Pestilence"
+      ]
+    },
+    {
+      "name": "Putrefaction Rapide",
+      "cost": 1,
+      "keywords": [
+        "Rapid Putrefaction"
+      ]
+    },
+    {
+      "name": "Virus Beni",
+      "cost": 2,
+      "keywords": [
+        "Blessed Virus"
+      ]
+    },
+    {
+      "name": "Malediction de la Peste",
+      "cost": 2,
+      "keywords": [
+        "Plague Malediction"
+      ]
+    },
+    {
+      "name": "Don de la Peste",
+      "cost": 3,
+      "keywords": [
+        "Plague Boon"
+      ]
+    },
+    {
+      "name": "Vague de Putrefaction",
+      "cost": 3,
+      "keywords": [
+        "Rot Wave"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Avatar of Plague",
+      "size": 1,
+      "cost": 645,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (3)",
+        "Héros",
+        "Coriace (18)",
+        "Sans peur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Exalted Plague Hammer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Exalted Plague Hammer",
+          "options": [
+            {
+              "name": "Exalted Infected Sword",
+              "details": "A9, Surcharge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Exalted Plague Spear",
+              "details": "A3, PA (1), Mortel (3), Fléau",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Exalted Scatter-Sling",
+              "details": "12\", A12, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Exalted Plague Sword",
+              "details": "A9, Fléau, Perforant",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Exalted Sling",
+              "details": "18\", A6, PA (1), Fléau",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Exalted Plague Gauntlet",
+              "details": "A9, PA (3), Fléau",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Plague God's Power",
+              "details": "Tempete de peste",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Plague Favour",
+              "details": "Amplification Lie a la peste",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Envoy of Plague",
+              "details": "Perforant en mêlée",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Gift of Plague",
+              "details": "Régénération",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Lore of Plague",
+              "details": "Lanceur de sorts (5)",
+              "cost": "+120pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ascended Harbinger of Plague",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Héros",
+        "Coriace (12)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Great Plague Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Great Plague Hammer",
+          "options": [
+            {
+              "name": "Great Infected Sword",
+              "details": "A6, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Plague Spear",
+              "details": "A2, PA (1), Mortel (3), Fléau",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Great Scatter-Sling",
+              "details": "12\", A8, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Sling",
+              "details": "18\", A4, PA (1), Fléau",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Plague Sword",
+              "details": "A6, Fléau, Perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Plague Gauntlet",
+              "details": "A6, PA (3), Fléau",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Curse of Plague",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Symbol of Plague",
+              "details": "Inébranlable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Plague Favour",
+              "details": "Amplification Lie a la peste",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Gift of Plague",
+              "details": "Régénération",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Lore of Plague",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Plague",
+      "size": 1,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Plague Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Plague Hammer",
+          "options": [
+            {
+              "name": "Heavy Infected Sword",
+              "details": "A3, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Scatter-Sling",
+              "details": "12\", A4, Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Sling",
+              "details": "18\", A2, PA (1), Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Plague Sword",
+              "details": "A3, Perforant, Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plague Spear",
+              "details": "A1, PA (2), Mortel (3), Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plague Gauntlet",
+              "details": "A3, PA (3), Fléau",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fury Wings",
+              "details": "Volant, Éclaireur",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Symbol of Plague",
+              "details": "Aura d'Inebranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plague Favour",
+              "details": "Aura d'Amplification Lie a la peste",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gift of Plague",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy of Plague",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lore of Plague",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion of Plague",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Plague Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Sword and Plague Hammer",
+          "options": [
+            {
+              "name": "2x Infected Sword",
+              "details": "A2, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Scatter-Sling",
+              "details": "12\", A4, Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plague Spear",
+              "details": "A1, PA (2), Mortel (3), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Sling",
+              "details": "18\", A2, PA (1), Fléau",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Infected Sword",
+          "options": [
+            {
+              "name": "Plague Gauntlet",
+              "details": "A2, PA (1), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Plague Sword",
+              "details": "A2, Fléau, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Throne of Plague",
+              "details": "Claws, Coriace (3)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Giant Snail",
+              "details": "Toxic Maw, Lent, Coriace (6)",
+              "cost": "+90pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Icon of Plague",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Symbol of Plague",
+              "details": "Aura d'Inebranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Plague Favour",
+              "details": "Aura d'Amplification Lie a la peste",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Envoy of Plague",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lore of Plague",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fury Champion of Plague",
+      "size": 1,
+      "cost": 40,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Plague Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fléau"
+        },
+        {
+          "name": "Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Sword and Plague Hammer",
+          "options": [
+            {
+              "name": "2x Infected Sword",
+              "details": "A2, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plague Spear",
+              "details": "A1, PA (2), Mortel (3), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Scatter-Sling",
+              "details": "12\", A4, Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Sling",
+              "details": "18\", A2, PA (1), Fléau",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Infected Sword",
+          "options": [
+            {
+              "name": "Plague Gauntlet",
+              "details": "A2, PA (1), Fléau",
+              "cost": "Free"
+            },
+            {
+              "name": "Plague Sword",
+              "details": "A2, Fléau, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Icon of Plague",
+              "details": "Aura d'Implacable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Symbol of Plague",
+              "details": "Aura d'Inebranlable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Gift of Plague",
+              "details": "Aura de Régénération",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Envoy of Plague",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Harvester",
+      "size": 1,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Lanceur de sorts (1)",
+        "Héros",
+        "Coriace (3)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Plague Scythe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Furies",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Infected Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Infected Claws",
+          "options": [
+            {
+              "name": "Armblades",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rending Claws",
+              "details": "A2, Fléau, Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Warriors",
+      "size": 5,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Infected Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Infected Swords",
+          "options": [
+            {
+              "name": "Hand Weapon",
+              "details": "A1, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Fléau, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Fléau, Contre-charge",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2, Fléau",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2), Fléau",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Banner of Plague",
+              "details": "Aura de perforant en mêlée",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sling-Furies",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Scatter-Sling",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Scatter-Slings",
+          "options": [
+            {
+              "name": "Sling",
+              "details": "18\", A1, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Slingers",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Scatter-Sling",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Scatter-Slings",
+          "options": [
+            {
+              "name": "Sling",
+              "details": "18\", A1, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Swarms",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Plague Soul Spawns",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Mutated Infected Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Mutated Infected Claws",
+          "options": [
+            {
+              "name": "Mutated Claws",
+              "details": "A4, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plague Sword",
+              "details": "A3, Perforant, Fléau",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Fly Riders",
+      "size": 3,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Stinger",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Infected Sword",
+              "details": "A1, Surcharge",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Stingers",
+          "options": [
+            {
+              "name": "Poisoned Stinger",
+              "details": "A3, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with any",
+          "options": [
+            {
+              "name": "Plague Boon",
+              "details": "Croissance fortifiée",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Poisoned Spit",
+              "details": "12\", A3, Fléau",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plague Beast",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Furieux",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Toxic Maw",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Toxic Spit",
+              "details": "18\", A2, Mortel (3), Inarrêtable, Fléau",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Toxic Vomit",
+              "details": "12\", A2, Explosion (3), Fléau, Fiable",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Plague",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Slug",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (9)",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Crew Attacks",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Plague",
+              "details": "Affaiblissement Terrain difficile",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul Daemon of Plague",
+      "size": 1,
+      "cost": 665,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Plague Cannon",
+          "range": "24\"",
+          "attacks": "A9",
+          "ap": "-",
+          "special": "Fléau"
+        },
+        {
+          "name": "Giant Infected Sword",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Giant Infected Sword",
+          "options": [
+            {
+              "name": "Plague Sword",
+              "details": "A18, Fléau",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Plague Gauntlet",
+              "details": "A12, PA (2), Fléau",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plague Cannon",
+          "options": [
+            {
+              "name": "Heavy Plague Cannon",
+              "details": "24\", A6, PA (2), Fléau",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Infected Cannon",
+              "details": "18\", A18, Surcharge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poisonzeal",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "9",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (9)",
+        "Unique",
+        "Lie a la peste"
+      ],
+      "weapons": [
+        {
+          "name": "Sever & Cleaver",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Toxic Maw",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Fungusfester",
+      "size": 1,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Lie a la peste",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Miasma Mortar",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Indirect, Fléau"
+        },
+        {
+          "name": "Fungal Fist",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

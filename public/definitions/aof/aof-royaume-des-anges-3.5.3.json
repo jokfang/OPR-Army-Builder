@@ -1,0 +1,1463 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/RgHxqAlAXnUuF3ty?armyName=Kingdom+of+Angels",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/age-of-fantasy/RgHxqAlAXnUuF3ty?armyName=Kingdom+of+Angels",
+  "sourceBookUid": "RgHxqAlAXnUuF3ty",
+  "systemCode": "AOF",
+  "systemName": "Age of Fantasy",
+  "armyName": "Royaume des Anges",
+  "version": "3.5.3",
+  "introduction": "Le Royaume des Anges est une faction composée majoritairement d'Humains au service de puissantes créatures angéliques. Leur infanterie zélée est protégée par la magie divine et soutenue par des Anges qui déploient de puissantes auras sur le champ de bataille.\n\nLorsque la Grande Faille s'ouvrit, le peuple de ce royaume fut épargné par la destruction grâce à l'arrivée des Anges. Ceux-ci conduisirent les survivants en sécurité au-delà de Tyria et leur enseignèrent le culte de nouveaux Dieux Jumeaux. Désormais de retour en Tyria sous le regard vigilant des Anges, ils reçoivent protection en échange d'une obéissance absolue.",
+  "backgroundStory": "Lorsque la Grande Faille s'ouvrit, ses conséquences se firent sentir dans toute Tyria. Pourtant, dans une province reculée située le long de la frontière sud de l'Empire, les ravages furent particulièrement sévères. Les habitants furent confrontés à une succession de catastrophes : inondations, grêle et incendies ravagèrent la région, détruisant maisons et récoltes, tandis que la Faille les coupait du reste de l'Empire et de leurs voisins.\n\nC'est dans ce temps de désastre que les Anges se révélèrent. Ils se présentèrent au peuple et proposèrent d'emmener tous ceux qui accepteraient de les suivre vers une cité céleste, loin de la destruction, afin qu'ils puissent un jour revenir reconstruire leur monde en harmonie avec eux. Le peuple donna à ce refuge le nom de Cité Céleste et se mit rapidement à vénérer les Dieux Jumeaux des Anges, obéissant à leur volonté telle qu'elle leur était transmise par leurs guides angéliques. Ils s'employèrent à perfectionner leur nouvelle cité, toujours sous l'œil attentif de leurs sauveurs. Les jeunes générations furent élevées dans la conviction que les Anges étaient à la fois leurs sauveurs et leurs protecteurs, et qu'il fallait se fier pleinement à leurs paroles. Après presque deux générations passées loin de leur terre, les Anges revinrent enfin en Tyria avec leurs fidèles.\n\nLe peuple retrouva ses anciens foyers abandonnés et en ruine, et les Anges lui ordonnèrent de détruire ce qu'il en restait et de rompre tout lien avec la vie de ses ancêtres. Sous leur surveillance constante, les habitants élevèrent de nouveaux temples et de nouvelles maisons dans le style de la Cité Céleste. Ces villes devinrent le cœur de leur nouveau royaume en Tyria, et bientôt les Anges furent prêts à étendre leur troupeau.\n\nLes Anges et leurs armées entreprirent alors de convertir ceux qui étaient venus occuper ces terres en leur absence. Ils accordaient faveurs et récompenses à ceux qui adoptaient volontairement leur foi, et écrasaient sans pitié quiconque se rebellait. Très vite, le Royaume Angélique commença à regarder au-delà des limites de son ancienne province, à la recherche de reliques magiques étranges et de nouveaux adeptes, obtenus par la prédication ou par la conquête. Ils veillent étroitement sur leur peuple, l'encourageant sans cesse vers une foi toujours plus grande en échange de son salut.\n\nSi leurs fidèles proclament la bienveillance de leurs maîtres angéliques, bien d'autres en Tyria observent avec suspicion leur contrôle étroit et leurs ordres inflexibles. Certains en viennent même à se demander si les Anges ne poursuivent pas des desseins secrets qui échappent à leurs propres adorateurs.\n\nComment répandras-tu cette nouvelle foi '",
+  "armyWideSpecialRule": [
+    {
+      "name": "Benediction Angelique",
+      "keywords": [
+        "Angelic Blessing"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Frappe Mortelle",
+      "keywords": [
+        "Deathstrike"
+      ]
+    },
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Attaque de souffle",
+      "keywords": [
+        "Breath Attack"
+      ]
+    },
+    {
+      "name": "Conduit de Sort",
+      "keywords": [
+        "Spell Conduit"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Dechirure",
+      "keywords": [
+        "Tear"
+      ]
+    },
+    {
+      "name": "Mitraillage",
+      "keywords": [
+        "Strafing"
+      ]
+    },
+    {
+      "name": "Marque de Tueur",
+      "keywords": [
+        "Slayer Mark"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Precision",
+      "keywords": [
+        "Precision Debuff"
+      ]
+    },
+    {
+      "name": "Bonus d'Attaque Polyvalente",
+      "keywords": [
+        "Versatile Attack Buff"
+      ]
+    },
+    {
+      "name": "Bonus de Renforcement de Benediction Angelique",
+      "keywords": [
+        "Angelic Blessing Boost Buff"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Renforcement de Benediction Angelique",
+      "keywords": [
+        "Angelic Blessing Boost"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Chasseur perforant",
+      "keywords": [
+        "Piercing Hunter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Furieux",
+      "keywords": [
+        "Furious Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fortification",
+      "keywords": [
+        "Fortified Aura"
+      ]
+    },
+    {
+      "name": "Aura Pas de retraite",
+      "keywords": [
+        "No Retreat Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Guidance Celeste",
+      "cost": 1,
+      "keywords": [
+        "Heavenly Guidance"
+      ]
+    },
+    {
+      "name": "Éclair",
+      "cost": 1,
+      "keywords": [
+        "Lightning Bolt"
+      ]
+    },
+    {
+      "name": "Benediction Stellaire",
+      "cost": 2,
+      "keywords": [
+        "Star Blessing"
+      ]
+    },
+    {
+      "name": "Tempete Angelique",
+      "cost": 2,
+      "keywords": [
+        "Angelic Storm"
+      ]
+    },
+    {
+      "name": "Energie de Choc",
+      "cost": 3,
+      "keywords": [
+        "Shock Energy"
+      ]
+    },
+    {
+      "name": "Frappe de Tonnerre",
+      "cost": 3,
+      "keywords": [
+        "Thunder Strike"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "High Angel",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (6)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Blessed Greatsword",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Mortel (3), Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Blessed Greatsword",
+          "options": [
+            {
+              "name": "Heavy Flame Sword",
+              "details": "A6, PA (1), Fléau",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Heavy Ice Halberd",
+              "details": "A6, Lacération, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Ice Blade",
+              "details": "A6, PA (1), Lacération",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A6, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Flame Spear",
+              "details": "A6, Fléau, Contre-charge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Greatbow",
+              "details": "24\", A6",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Blessed Greatbow",
+              "details": "24\", A2, Mortel (3), Dechirure",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ember Strike",
+              "details": "A1, PA (1), Explosion (3), Limité, Mitraillage",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Frost Strike",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Angelic Protector",
+              "details": "Bonus de Renforcement de Benediction Angelique",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Angelic Benefactor",
+              "details": "Bonus d'Attaque Polyvalente",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Overseer",
+              "details": "Aura de Furieux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Guardian",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Tyrant",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Judge",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Sorcerer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master Sorcerer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Hand Weapon",
+          "options": [
+            {
+              "name": "Blessed Greatsword",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Hand Weapons",
+              "details": "A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Lance",
+              "details": "A3, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Crossbow",
+              "details": "24\", A2, Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "War Horse",
+              "details": "Rapide, Impact (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Lion",
+              "details": "Heavy Claws, Rapide, Effrayant (1), Coriace (3)",
+              "cost": "+85pts"
+            },
+            {
+              "name": "Griffon",
+              "details": "Perforant Claws, Armure (3), Rapide, Effrayant (1), Volant, Coriace (6)",
+              "cost": "+205pts"
+            },
+            {
+              "name": "Dragon",
+              "details": "Heavy Claws, Stomp, Armure (3), Attaque de souffle, Effrayant (2), Volant, Coriace (12)",
+              "cost": "+345pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Furieux",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Defender",
+              "details": "Aura de Fortification",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Retributor",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Enforcer",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Battle Mage",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abbess",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Blessed Glaive",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Mortel (3), Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Blessed Glaive",
+          "options": [
+            {
+              "name": "Heavy Flail",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Bow",
+              "details": "24\", A2",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Scout Leader",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Panther",
+              "details": "Claws, Rapide, Arpenteur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Panther Chariot",
+              "details": "Claws, Armure (3), Rapide, Impact (4), Arpenteur, Coriace (6)",
+              "cost": "+155pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Captain",
+              "details": "Aura de Furieux",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Priest",
+              "details": "Conduit de Sort",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Angelic Envoy",
+              "details": "Bonus de Renforcement de Benediction Angelique",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Retributor",
+              "details": "Aura Pas de retraite",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Enforcer",
+              "details": "Aura de Chasseur perforant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Penitents",
+      "size": 10,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Sacrificial Devotee",
+              "details": "Frappe Mortelle (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infantry",
+      "size": 10,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Nuns",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Flail",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paladins",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Great Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Great Weapon",
+          "options": [
+            {
+              "name": "Blessed Greatsword",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palace Guard",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Blessed Greatsword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Mortel (3), Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blessed Greatswords",
+          "options": [
+            {
+              "name": "Heavy Halberd",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frozen Angels",
+      "size": 3,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Ice Halberd",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Perforant, Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Ice Halberds",
+          "options": [
+            {
+              "name": "Ice Blade",
+              "details": "A3, PA (1), Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Frost Strike",
+              "details": "Affaiblissement de Precision",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burning Angels",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Flame Sword",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Fléau"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Flame Swords",
+          "options": [
+            {
+              "name": "Flame Spear",
+              "details": "A3, Fléau, Contre-charge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Ember Strike",
+              "details": "A1, PA (1), Explosion (3), Limité, Mitraillage",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Angels",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Blessed Greatsword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Mortel (3), Dechirure"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Blessed Greatswords",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A3, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Greatbow",
+              "details": "24\", A3",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Blessed Greatbow",
+              "details": "24\", A1, Mortel (3), Dechirure",
+              "cost": "+105pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Angelic Protector",
+              "details": "Bonus de Renforcement de Benediction Angelique",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Angelic Benefactor",
+              "details": "Bonus d'Attaque Polyvalente",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marksmen",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Crossbow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Scout Nuns",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furieux",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Bow",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Panthers",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Panther Riders",
+      "size": 5,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Arpenteur",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Shortbow",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Shortbows",
+          "options": [
+            {
+              "name": "Heavy Glaive",
+              "details": "A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paladin Knights",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Impact (1)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Lance",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lances",
+          "options": [
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Great Weapon",
+          "options": [
+            {
+              "name": "Blessed Greatsword",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire Phoenix Knight",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Régénération",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Ember Storm",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Mitraillage"
+        },
+        {
+          "name": "Flame Claws",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Fiable, Fléau"
+        },
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Ice Phoenix Knight",
+      "size": 1,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Volant",
+        "Coriace (6)",
+        "Régénération",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Hand Weapon",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Ice Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Panther Chariot",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Impact (4)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Halberd Crew",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Halberd Crew",
+          "options": [
+            {
+              "name": "Blessed Glaive Crew",
+              "details": "A1, Mortel (3), Dechirure",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Shortbow Crew",
+              "details": "18\", A6",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Smite the Heretic",
+              "details": "Marque de Tueur",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angelic Artillery",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Coriace (3)",
+        "Benediction Angelique"
+      ],
+      "weapons": [
+        {
+          "name": "Light Bolt Thrower",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Light Bolt Thrower",
+          "options": [
+            {
+              "name": "Repeater Bolt Thrower",
+              "details": "30\", A6, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Smite the Heretic",
+              "details": "Marque de Tueur",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

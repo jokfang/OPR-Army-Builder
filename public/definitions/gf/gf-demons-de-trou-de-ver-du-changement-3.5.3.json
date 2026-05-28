@@ -1,0 +1,1644 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/04z57ua0bwth37zh?armyName=Daemons+of+Change",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/04z57ua0bwth37zh?armyName=Daemons+of+Change",
+  "sourceBookUid": "04z57ua0bwth37zh",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Démons de Trou de Ver du Changement",
+  "version": "3.5.3",
+  "introduction": "Les Démons de Trou de Ver sont les monstrueux serviteurs des Dieux du Havoc qui surgissent d'une autre dimension à travers toute la galaxie. Leurs formes varient énormément selon le dieu qu'ils servent.\n\nLes Démons de Trou de Ver sont les rejetons de dieux mourants qui espèrent désespérément gagner encore un peu de temps. Ils émergent brusquement des trous de ver disséminés dans la galaxie pour accomplir la volonté eldritch de leurs maîtres, puis disparaissent tout aussi vite une fois leur tâche terminée. Leurs dieux sont prêts à ne laisser derrière eux que havoc et destruction dans l'espoir de prolonger leur existence un peu plus longtemps.",
+  "backgroundStory": "Durant des éons, de puissantes entités résidèrent dans un lieu au-delà de l'espace, entre les trous de ver. Pures consciences psychiques, elles étaient dépourvues de forme physique et vivaient sans connaître la douleur ni la mort. On ne peut rien affirmer avec certitude sur ces êtres ou sur leurs origines, tant leur existence précède même les archives des plus anciennes civilisations connues de la galaxie. Elles observaient passivement le développement de la galaxie, n'intervenant que rarement auprès des espèces qui y vivaient.\n\nTout changea soudainement lorsque l'une des leurs mourut. Beaucoup ont spéculé sur la cause de cette mort, mais le mystère demeure entier. C'était la première fois qu'un membre de leur espèce faisait l'expérience de la mort, et les autres réagirent d'abord avec curiosité, puis avec horreur. Cette horreur ne fit que croître à mesure que la mort se propageait. Les disparitions se multiplièrent, et les survivants commencèrent à reconnaître en eux-mêmes les signes de l'entropie et de la décrépitude.\n\nChaque entité réagit à sa manière, mais la plupart finirent par succomber, à quelques exceptions près. Celle que l'on connaît désormais sous le nom de Luxure chercha à se retrancher d'elle-même, coupant tout signe d'imperfection ou de faiblesse. Une autre, appelée Changement, chercha à accumuler le savoir plus vite qu'il ne pouvait se perdre. La Peste trouva son salut dans la forme physique, utilisant son pouvoir pour se répandre et réassimiler tout ce qu'elle infectait. Enfin, la Guerre apprit à tirer sa force de ceux qu'elle abattait.\n\nBientôt, ces êtres tournèrent leur attention vers le monde matériel, espérant y retarder un peu leur fin. Désespérés de survivre, ils cherchèrent des fidèles parmi les perdus et les désespérés, leur offrant du pouvoir en échange de leur service et de leur adoration. Ceux qui rejetèrent ces dieux finirent par les appeler Dieux du Havoc, à cause du fanatisme de leurs fidèles et du chaos qu'ils répandaient.\n\nCes dieux peuvent manifester leur volonté dans le monde physique par l'intermédiaire d'aspects, fragments de leur puissance et de leur conscience, que la plupart désignent comme leurs Démons. Une fois manifestés, ces aspects sont mortels, vulnérables à la douleur et à la mort, ont besoin de se nourrir pour survivre, et peuvent même évoluer avec l'expérience. Les dieux doivent sacrifier une part de leur propre pouvoir pour créer ces Démons, les plus puissants exigeant une plus grande portion de leur essence. Ainsi, chaque Dieu du Havoc ne peut manifester qu'un nombre limité de Démons à la fois, et doit abandonner une fraction de sa puissance pour le faire, qu'il ne récupère qu'à la mort de ceux-ci.\n\nLorsqu'ils ne mettent pas en œuvre la volonté de leurs dieux, les Démons demeurent souvent dans un étrange espace entre les trous de ver. Leur maîtrise de ces passages leur permet d'apparaître et de disparaître rapidement dans l'espace physique, exécutant ainsi les desseins de leur dieu sans craindre de représailles.\n\nComment serviras-tu la volonté de ton dieu ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Lie au Changement",
+      "keywords": [
+        "Changebound"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Sergent",
+      "keywords": [
+        "Sergeant"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Armure",
+      "keywords": [
+        "Armor"
+      ]
+    },
+    {
+      "name": "Accumulateur de Sorts",
+      "keywords": [
+        "Spell Accumulator"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Inarretable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Renforcement Lie au Changement",
+      "keywords": [
+        "Changebound Boost"
+      ]
+    },
+    {
+      "name": "Scission",
+      "keywords": [
+        "Split"
+      ]
+    },
+    {
+      "name": "Tempete du Changement",
+      "keywords": [
+        "Storm of Change"
+      ]
+    },
+    {
+      "name": "Résistance",
+      "keywords": [
+        "Resistance"
+      ]
+    },
+    {
+      "name": "Malus de magie",
+      "keywords": [
+        "Casting Debuff"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Bond",
+      "keywords": [
+        "Bounding"
+      ]
+    },
+    {
+      "name": "Protege",
+      "keywords": [
+        "Protected"
+      ]
+    },
+    {
+      "name": "Fleau au Tir",
+      "keywords": [
+        "Bane when Shooting"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Teleportation",
+      "keywords": [
+        "Teleport Aura"
+      ]
+    },
+    {
+      "name": "Aura de Résistance",
+      "keywords": [
+        "Resistance Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Intr?pide",
+      "keywords": [
+        "Fearless Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Lie au Changement",
+      "keywords": [
+        "Changebound Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tir Indirect",
+      "keywords": [
+        "Indirect when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Bond",
+      "keywords": [
+        "Bounding Aura"
+      ]
+    },
+    {
+      "name": "Aura Imparable en mêlée",
+      "keywords": [
+        "Unstoppable in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de protection",
+      "keywords": [
+        "Protected Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Forme Changeante",
+      "cost": 1,
+      "keywords": [
+        "Shifting Form"
+      ]
+    },
+    {
+      "name": "Brasier Celeste",
+      "cost": 1,
+      "keywords": [
+        "Sky Blaze"
+      ]
+    },
+    {
+      "name": "Souffle du Changement",
+      "cost": 2,
+      "keywords": [
+        "Breath of Change"
+      ]
+    },
+    {
+      "name": "Inferno Mutant",
+      "cost": 2,
+      "keywords": [
+        "Mutating Inferno"
+      ]
+    },
+    {
+      "name": "Don du Changement",
+      "cost": 3,
+      "keywords": [
+        "Change Boon"
+      ]
+    },
+    {
+      "name": "Eclair de Puissance",
+      "cost": 3,
+      "keywords": [
+        "Power Bolt"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Avatar of Change",
+      "size": 1,
+      "cost": 795,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "2+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Volant",
+        "Héros",
+        "Coriace (18)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Exalted Power Hammer",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Exalted Power Hammer",
+          "options": [
+            {
+              "name": "Exalted Hexed Chakram",
+              "details": "18\", A9, Surcharge",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Exalted Power Spear",
+              "details": "A3, PA (1), Mortel (3), Lacération",
+              "cost": "+-10pts"
+            },
+            {
+              "name": "Exalted Power Staff",
+              "details": "A9, Perforant, Lacération",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Exalted Magic Bolt",
+              "details": "18\", A6, PA (1), Lacération",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Exalted Magic Blast",
+              "details": "12\", A12, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Exalted Power Gauntlet",
+              "details": "A9, PA (3), Lacération",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of Change",
+              "details": "Inarretable en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Change God's Power",
+              "details": "Tempete du Changement",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Gift of Change",
+              "details": "Résistance",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Change Favour",
+              "details": "Renforcement Lie au Changement",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Lore of Change",
+              "details": "Lanceur de sorts (5)",
+              "cost": "+115pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ascended Harbinger of Change",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (2)",
+        "Volant",
+        "Héros",
+        "Coriace (12)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Great Power Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Great Power Hammer",
+          "options": [
+            {
+              "name": "Great Hexed Chakram",
+              "details": "18\", A6, Surcharge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Great Power Spear",
+              "details": "A2, PA (1), Mortel (3), Lacération",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Great Magic Bolt",
+              "details": "18\", A4, PA (1), Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Magic Blast",
+              "details": "12\", A8, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Power Staff",
+              "details": "A6, Perforant, Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Great Power Gauntlet",
+              "details": "A6, PA (3), Lacération",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Embuscade",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Curse of Change",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Symbol of Change",
+              "details": "Sans peur",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Gift of Change",
+              "details": "Résistance",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Change Favour",
+              "details": "Renforcement Lie au Changement",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lore of Change",
+              "details": "Lanceur de sorts (4)",
+              "cost": "+95pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Change",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Effrayant (1)",
+        "Héros",
+        "Coriace (6)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Power Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Power Hammer",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A1, PA (1), Mortel (3), Lacération",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Heavy Hexed Chakram",
+              "details": "18\", A3, Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Magic Bolt",
+              "details": "18\", A2, PA (1), Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Power Staff",
+              "details": "A3, Perforant, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magic Blast",
+              "details": "12\", A4, Lacération",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Power Gauntlet",
+              "details": "A3, PA (3), Lacération",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Wings",
+              "details": "Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Fury Wings",
+              "details": "Volant, Éclaireur",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of Change",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Symbol of Change",
+              "details": "Aura d'Intr?pide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gift of Change",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Change Favour",
+              "details": "Aura de Renforcement Lie au Changement",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lore of Change",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champion of Change",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Power Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Staff",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Power Hammer and Staff",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A1, PA (1), Mortel (3), Lacération",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "2x Power Staff",
+              "details": "A2, Perforant, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magic Bolt",
+              "details": "18\", A2, PA (1), Lacération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hexed Chakram",
+              "details": "18\", A3, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Magic Blast",
+              "details": "12\", A4, Lacération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Power Staff",
+          "options": [
+            {
+              "name": "Power Gauntlet",
+              "details": "A2, PA (3), Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Daemonic Incursion",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Disc of Change",
+              "details": "Rapide, Arpenteur, Coriace (3)",
+              "cost": "+60pts"
+            },
+            {
+              "name": "Screecher Chariot",
+              "details": "Sharp Beak, Armure (3), Rapide, Arpenteur, Coriace (6)",
+              "cost": "+170pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of Change",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Army Standard Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Symbol of Change",
+              "details": "Aura d'Intr?pide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Icon of Change",
+              "details": "Aura de Tir Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Change Favour",
+              "details": "Aura de Renforcement Lie au Changement",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Lore of Change",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fury Champion of Change",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Volant",
+        "Héros",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Power Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Staff",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Power Hammer and Staff",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A1, PA (1), Mortel (3), Lacération",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "2x Power Staff",
+              "details": "A2, Perforant, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magic Bolt",
+              "details": "18\", A2, PA (1), Lacération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Magic Blast",
+              "details": "12\", A4, Lacération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hexed Chakram",
+              "details": "18\", A3, Surcharge",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Power Staff",
+          "options": [
+            {
+              "name": "Power Gauntlet",
+              "details": "A2, PA (3), Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Envoy of Change",
+              "details": "Aura Imparable en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Symbol of Change",
+              "details": "Aura d'Intr?pide",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Icon of Change",
+              "details": "Aura de Tir Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Gift of Change",
+              "details": "Aura de Résistance",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Horror Champion of Change",
+      "size": 1,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Scission (Lesser Change Horrors [5])",
+        "Coriace (3)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Power Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Lacération"
+        },
+        {
+          "name": "Staff",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Power Hammer and Staff",
+          "options": [
+            {
+              "name": "Power Spear",
+              "details": "A1, PA (1), Mortel (3), Lacération",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "2x Power Staff",
+              "details": "A2, Perforant, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Magic Bolt",
+              "details": "18\", A2, PA (1), Lacération",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Hexed Chakram",
+              "details": "18\", A3, Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Magic Blast",
+              "details": "12\", A4, Lacération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Power Staff",
+          "options": [
+            {
+              "name": "Power Gauntlet",
+              "details": "A2, PA (3), Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Change Furies",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Armblades",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Armblades",
+          "options": [
+            {
+              "name": "Rending Claws",
+              "details": "A2, Perforant, Lacération",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Change Warriors",
+      "size": 5,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Fireballs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Hand Weapons",
+          "options": [
+            {
+              "name": "Halberd",
+              "details": "A1, Perforant, Lacération",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Spear",
+              "details": "A1, Contre-charge, Lacération",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Great Weapon",
+              "details": "A1, PA (2), Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Hand Weapons",
+              "details": "A2, Lacération",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Wizard",
+              "details": "Lanceur de sorts (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with any",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Banner of Change",
+              "details": "Aura de Bond",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Change Horrors",
+      "size": 5,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Scission (Lesser Change Horrors [5])",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Fireballs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lesser Change Horrors",
+      "size": 5,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Changement",
+        "Scission (Changelings [10])"
+      ],
+      "weapons": [
+        {
+          "name": "Fireballs",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Changelings",
+      "size": 10,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "6+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Fireballs",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Hex-Furies",
+      "size": 5,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Éclaireur",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Blast",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Magic Blasts",
+          "options": [
+            {
+              "name": "Magic Bolt",
+              "details": "18\", A1, PA (1), Lacération",
+              "cost": "Free"
+            },
+            {
+              "name": "Hexed Chakram",
+              "details": "18\", A2, Surcharge",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Change Hexers",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Magic Bolt",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Lacération"
+        },
+        {
+          "name": "Hand Weapon",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade up to three models with one",
+          "options": [
+            {
+              "name": "Sergeant",
+              "details": "Sergent",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Banner",
+              "details": "Bannière",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Musician",
+              "details": "Musicien",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Magic Bolts",
+          "options": [
+            {
+              "name": "Magic Blast",
+              "details": "12\", A2, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hexed Chakram",
+              "details": "18\", A2, Surcharge",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Change Boon",
+              "details": "Accumulateur de Sorts (1)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Change Soul Spawns",
+      "size": 3,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Éclaireur",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Hexed Spikes",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Hexed Spikes and Claws",
+          "options": [
+            {
+              "name": "Mutated Claws",
+              "details": "A4, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Magic Blast",
+              "details": "12\", A4, Lacération",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Screechers",
+      "size": 3,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (3)",
+        "Lie au Changement",
+        "Avant-garde"
+      ],
+      "weapons": [
+        {
+          "name": "Sharp Beak",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Scorchers",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Spout Flames",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Great Scorcher",
+      "size": 1,
+      "cost": 145,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Infernal Blaze",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Mortel (3), Inarrêtable"
+        },
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Change",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Screecher Chariot",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Great Scorcher Blaze",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Mortel (3), Inarrêtable"
+        },
+        {
+          "name": "Sharp Beak",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Scorcher Blaze",
+          "options": [
+            {
+              "name": "Great Scorcher Flame",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Curse of Change",
+              "details": "Malus de magie",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soul Daemon of Change",
+      "size": 1,
+      "cost": 715,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Change Cannon",
+          "range": "24\"",
+          "attacks": "A9",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Change Sword",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "-",
+          "special": "Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Change Sword",
+          "options": [
+            {
+              "name": "Heavy Change Axe",
+              "details": "A12, PA (2), Lacération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Change Cannon",
+          "options": [
+            {
+              "name": "Heavy Change Cannon",
+              "details": "24\", A6, PA (2), Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Hexed Cannon",
+              "details": "18\", A18, Surcharge",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Swiftclaw",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Unique",
+        "Lie au Changement"
+      ],
+      "weapons": [
+        {
+          "name": "Dimension Slicer",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Surcharge"
+        },
+        {
+          "name": "Needle",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Eonflux",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Lie au Changement",
+        "Héros",
+        "Coriace (3)",
+        "Unique"
+      ],
+      "weapons": [
+        {
+          "name": "Tainted Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Ignore Régénération"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

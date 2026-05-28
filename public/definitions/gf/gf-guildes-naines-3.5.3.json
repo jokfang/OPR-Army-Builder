@@ -1,0 +1,2588 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/fk1mkbp8apvltu0z?armyName=Dwarf+Guilds",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/fk1mkbp8apvltu0z?armyName=Dwarf+Guilds",
+  "sourceBookUid": "fk1mkbp8apvltu0z",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Guildes Naines",
+  "version": "3.5.3",
+  "introduction": "Les Nains sont de petits humanoïdes unis sous la bannière d'un conglomérat de méga-corporations. Leurs armées se composent de guerriers lents mais lourdement armés, qui compensent leur faible mobilité par une planification rigoureuse sur le long terme.\n\nLes Guildes Naines se sont rapidement étendues depuis leur monde natal, dans l'espoir de s'approprier toujours plus de ressources galactiques. Cette ambition les mena finalement à déclencher une guerre qu'elles ne pouvaient pas gagner. Le désespoir les poussa alors à activer une machine qui finit par détruire une grande partie du Secteur Sirius. Désormais, les survivants dispersés cherchent à reconstruire avec la même ambition que leurs prédécesseurs.",
+  "backgroundStory": "Les Nains sont originaires d'un monde riche en minerais mais particulièrement hostile. Pour échapper à la rudesse de la surface, leur civilisation se développa dans les profondeurs, où les conditions étaient plus stables. À mesure qu'ils grandissaient, ils découvrirent de nouveaux usages pour les métaux et ressources mis au jour par leurs excavations. Des guildes de mineurs apparurent pour revendiquer ces richesses, et les Seigneurs de Guilde devinrent bientôt les Nains les plus riches et les plus puissants de leur planète, détenant un contrôle absolu sur les minerais dont dépendait toute leur société.\n\nLes Guildes étaient poussées par une quête de croissance constante et une compétition acharnée contre leurs rivales, si bien qu'elles creusèrent toujours plus profondément la croûte de leur monde natal. Elles finirent par presque l'épuiser entièrement, avant de tourner leur regard vers l'espace. Leur expansion fut rapide, et leur richesse augmenta à mesure que les Guildes se disputaient de nouveaux systèmes à exploiter.\n\nCette croissance ne ralentit qu'au moment où les Nains commencèrent à rencontrer des factions plus puissantes. Après quelques tensions initiales, ils conclurent une alliance avec les Elfes. Ceux-ci cédèrent plusieurs mondes frontaliers aux Nains, tandis que le commerce prospérait entre les différentes factions de Sirius. Constatant la désunion des Orques, les Guildes utilisèrent quelques raids orques comme prétexte pour commencer à s'étendre dans leurs territoires.\n\nAprès leurs premiers succès, les Guildes devinrent toujours plus ambitieuses et poussèrent profondément dans l'espace orque. Les Orques s'unifièrent contre elles et inversèrent rapidement le cours de la guerre. Les Nains, désespérés de récupérer les ressources à mesure qu'ils reculaient, dépouillèrent de nombreuses planètes jusqu'à l'os. Toujours plus avides de ressources, ils cherchèrent alors à créer un trou de ver qui leur permettrait d'extraire rapidement des richesses depuis des mondes lointains, voire d'autres galaxies.\n\nLorsque leur machine fut activée, quelque chose tourna horriblement mal. La Cascade de Radiance balaya une grande partie de Sirius en un instant, détruisant la plupart de leurs mondes et tuant la majorité de ceux qui vivaient en territoire des Guildes. Les survivants furent surtout des mineurs travaillant dans des systèmes situés aux marges de leur espace. Après la Cascade, les Guildes s'empressèrent d'évacuer les rescapés et de s'adapter à une vie née dans le vide.\n\nLa plupart des Nains vivent désormais au sein de flottes minières mobiles. Ces flottes traversent leur territoire, extrayant tout ce qu'elles peuvent d'un système avant de l'abandonner. Les Nains portent également un grand intérêt à la Zone, affirmant qu'ils y possèdent des droits de récupération exclusifs.\n\nComment extrairas-tu ta fortune du Secteur Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Coriace",
+      "keywords": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Vif",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Infiltration",
+      "keywords": [
+        "Infiltrate"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Déchiquetage au tir",
+      "keywords": [
+        "Shred when Shooting"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Renforcé",
+      "keywords": [
+        "Fortified"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Déferlement au tir",
+      "keywords": [
+        "Surge when Shooting"
+      ]
+    },
+    {
+      "name": "Ignore le couvert au tir",
+      "keywords": [
+        "Ignores Cover when Shooting"
+      ]
+    },
+    {
+      "name": "Frénésie de précision",
+      "keywords": [
+        "Precision Frenzy"
+      ]
+    },
+    {
+      "name": "Affaiblissement de vitesse",
+      "keywords": [
+        "Speed Debuff"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Renforcement Coriace",
+      "keywords": [
+        "Sturdy Boost"
+      ]
+    },
+    {
+      "name": "Ignore le couvert",
+      "keywords": [
+        "Ignores Cover"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura d'Infiltration",
+      "keywords": [
+        "Infiltrate Aura"
+      ]
+    },
+    {
+      "name": "Aura Vive?",
+      "keywords": [
+        "Swift Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Augmentation de la portée de tir",
+      "keywords": [
+        "Increased Shooting Range Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement Coriace",
+      "keywords": [
+        "Sturdy Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Ignore-couvert au tir",
+      "keywords": [
+        "Ignores Cover when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de furtivité",
+      "keywords": [
+        "Stealth Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Battle Rune",
+      "cost": 1,
+      "keywords": [
+        "Battle Rune"
+      ]
+    },
+    {
+      "name": "Breaking Rune",
+      "cost": 1,
+      "keywords": [
+        "Breaking Rune"
+      ]
+    },
+    {
+      "name": "Armor Rune",
+      "cost": 2,
+      "keywords": [
+        "Armor Rune"
+      ]
+    },
+    {
+      "name": "Smiting Rune",
+      "cost": 2,
+      "keywords": [
+        "Smiting Rune"
+      ]
+    },
+    {
+      "name": "Deceleration Rune",
+      "cost": 3,
+      "keywords": [
+        "Deceleration Rune"
+      ]
+    },
+    {
+      "name": "Cleaving Rune",
+      "cost": 3,
+      "keywords": [
+        "Cleaving Rune"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Powersuit Champion",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Infiltration",
+        "Lent",
+        "Coriace",
+        "Coriace (6)"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield",
+          "options": [
+            {
+              "name": "Champion H-Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Champion Iron Pistol",
+              "details": "9\", A4, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Champion Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rapid Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Shock Hammer",
+          "options": [
+            {
+              "name": "Plasma Sword",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Axe",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shock Gauntlet",
+              "details": "A4, PA (4)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Exo-GL",
+              "details": "18\", A1, Explosion (3), Limité",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Guild Lord",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Foreman",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Runesmith",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Forge Master",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rune Master",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Champion",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield and CCW",
+          "options": [
+            {
+              "name": "Champion Twin Glove-Pistols",
+              "details": "12\", A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Heat Hammer",
+              "details": "A1, PA (2), Lacération, Explosion (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Combat Shield",
+          "options": [
+            {
+              "name": "Champion Pistol",
+              "details": "12\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "Free"
+            },
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion H-Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Champion Iron Shotgun",
+              "details": "6\", A4, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Rifle",
+              "details": "24\", A2",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Iron Pistol",
+              "details": "9\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Champion Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Champion Iron Blaster",
+              "details": "18\", A3, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Shock Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shock Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heat Spear",
+              "details": "A3, Contre-charge, Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A3, PA (1), Contre-charge",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite",
+              "details": "Sans peur, Renforcé",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Mining Gear",
+              "details": "Infiltration",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant, Vif",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Rapide, Vif, Coriace (3), Auto-Gun",
+              "cost": "+100pts"
+            },
+            {
+              "name": "Pioneer Bike",
+              "details": "Auto-Gun, Éclaireur, Vif, Coriace (3)",
+              "cost": "+100pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Artillerist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Guild Lord",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Foreman",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rage Lord",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Forge Master",
+              "details": "Aura d'Augmentation de la portée de tir",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rune Master",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker Veteran",
+      "size": 1,
+      "cost": 45,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Tueur en mêlée",
+        "Lent",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Great Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Great Axe",
+          "options": [
+            {
+              "name": "Great Heat Hammer",
+              "details": "A1, PA (2), Lacération, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Heavy Berserker Axes",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Heavy Heat Axes",
+              "details": "A4, PA (1), Lacération",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Cyber-Augments",
+              "details": "Régénération",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Guild Lord",
+              "details": "Aura de Renforcement Coriace",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Foreman",
+              "details": "Aura Vive?",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rage Lord",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Runesmith",
+              "details": "Aura de furtivité",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guardians",
+      "size": 5,
+      "cost": 70,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Renforcé",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and Bashes",
+          "options": [
+            {
+              "name": "CCW",
+              "details": "A2",
+              "cost": "Free"
+            },
+            {
+              "name": "Heat Spear",
+              "details": "A1, Contre-charge, Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Spear",
+              "details": "A1, PA (1), Contre-charge",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Warriors",
+      "size": 5,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Rifles",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Iron Blaster",
+              "details": "18\", A2, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle",
+          "options": [
+            {
+              "name": "Auto H-Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Rail M-Rifle",
+              "details": "24\", A1, PA (2), Mortel (3), Lacération",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Spectrum Scanner",
+              "details": "Aura d'Ignore-couvert au tir",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "H-Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Iron Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plasma Sword",
+          "options": [
+            {
+              "name": "Shock Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserkers",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Tueur en mêlée",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Great Axe",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Great Axes",
+          "options": [
+            {
+              "name": "Heavy Heat Axe",
+              "details": "A1, PA (1), Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Berserker Axes",
+              "details": "A2",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Great Axe",
+          "options": [
+            {
+              "name": "Assault Grenade Launcher",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Cyber-Augments",
+              "details": "Régénération",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Veterans",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Iron Shotgun",
+          "range": "6\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Iron Shotguns",
+          "options": [
+            {
+              "name": "Iron Blaster",
+              "details": "18\", A2, PA (1)",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Shotgun",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "C-Beamer",
+              "details": "24\", A3, PA (1), Surcharge",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "Spectrum Scanner",
+              "details": "Aura d'Ignore-couvert au tir",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Shotgun and CCW",
+          "options": [
+            {
+              "name": "Sgt. Iron Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Iron Pistol",
+          "options": [
+            {
+              "name": "H-Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plasma Sword",
+          "options": [
+            {
+              "name": "Shock Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miners",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Infiltration",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Iron Pistol",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Iron Pistol",
+          "options": [
+            {
+              "name": "Iron Shotgun",
+              "details": "6\", A2, PA (2)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Pistol",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Drill M-Platform",
+              "details": "18\", A1, PA (2), Mortel (3), Lacération",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Pistol and CCW",
+          "options": [
+            {
+              "name": "Drill A-Platform",
+              "details": "A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Iron Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Iron Pistol",
+          "options": [
+            {
+              "name": "H-Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Plasma Sword",
+          "options": [
+            {
+              "name": "Shock Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetpack Warriors",
+      "size": 5,
+      "cost": 115,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and CCWS",
+          "options": [
+            {
+              "name": "Twin Glove-Pistols",
+              "details": "12\", A2",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Pistols",
+          "options": [
+            {
+              "name": "Iron Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Iron Shotgun",
+              "details": "6\", A2, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two CCWS",
+          "options": [
+            {
+              "name": "Plasma Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shock Gauntlet",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Shock Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elites",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Renforcé",
+        "Lent",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heat Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heat Hammer",
+          "options": [
+            {
+              "name": "Heat Axe",
+              "details": "A2, Lacération",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heat Hammer",
+          "options": [
+            {
+              "name": "Great Heat Hammer",
+              "details": "A1, PA (2), Lacération, Explosion (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sniper Team",
+      "size": 3,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Lent",
+        "Furtif",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with one",
+          "options": [
+            {
+              "name": "Beamer Ammo",
+              "details": "Déferlement au tir",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heat Ammo",
+              "details": "Déchiquetage au tir",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thunder Support",
+      "size": 3,
+      "cost": 170,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Mortar",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Mortar",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "C-Beamer",
+              "details": "24\", A3, PA (1), Surcharge",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Gravity H-Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Autocannon",
+              "details": "36\", A3, PA (2)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Spectrum Scanner",
+              "details": "Aura d'Ignore-couvert au tir",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Powersuit Guard",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Infiltration",
+        "Lent",
+        "Coriace",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Combat Shields",
+          "options": [
+            {
+              "name": "Iron Pistol",
+              "details": "9\", A2, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Iron Pistol",
+          "options": [
+            {
+              "name": "H-Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Iron Pistol",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rail M-Rifle",
+              "details": "24\", A1, PA (2), Mortel (3), Lacération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (3)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Shock Hammer",
+          "options": [
+            {
+              "name": "Plasma Axe",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shock Gauntlet",
+              "details": "A3, PA (4)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Exo-GL",
+              "details": "18\", A1, Explosion (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mine-Bot Guard",
+      "size": 3,
+      "cost": 230,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Lent",
+        "Coriace (3)",
+        "Coriace",
+        "Sans peur"
+      ],
+      "weapons": [
+        {
+          "name": "Light Iron Cannon",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Light Iron Cannons and CCWS",
+          "options": [
+            {
+              "name": "Heavy Burst Pistol",
+              "details": "12\", A3, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Burst Pistol",
+              "details": "12\", A3, PA (1)",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Bikers",
+      "size": 3,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Auto-Gun",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Iron Pistol",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Iron Pistol",
+          "options": [
+            {
+              "name": "Iron Shotgun",
+              "details": "6\", A2, PA (2)",
+              "cost": "Free"
+            },
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Lead Foots",
+          "options": [
+            {
+              "name": "Pioneer",
+              "details": "Éclaireur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Guild Bounty",
+              "details": "Frénésie de précision",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Trike",
+      "size": 1,
+      "cost": 135,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Coriace (6)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Auto-Gun",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Iron Pistol",
+          "range": "9\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "C-Beamer",
+              "details": "24\", A3, PA (1), Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Lead Foot",
+          "options": [
+            {
+              "name": "Pioneer",
+              "details": "Éclaireur",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Spectrum Scanner",
+              "details": "Ignore le couvert au tir",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Deceleration Rune",
+              "details": "Affaiblissement de vitesse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APC",
+      "size": 1,
+      "cost": 210,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Coriace (6)",
+        "Impact (3)",
+        "Transport (11)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Machinegun",
+          "options": [
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "H-Beam Cannon",
+              "details": "18\", A3, PA (4), Surcharge",
+              "cost": "Free"
+            },
+            {
+              "name": "Sagittarius Missiles",
+              "details": "36\", A2, PA (4), Inarrêtable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Vehicle",
+      "size": 1,
+      "cost": 200,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Arpenteur",
+        "Coriace (6)",
+        "Impact (3)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Rail M-Cannon",
+              "details": "36\", A1, PA (2), Mortel (6), Lacération",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Quad Attack Machinegun",
+              "details": "30\", A8, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Deceleration Rune",
+              "details": "Affaiblissement de vitesse",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battle Tank",
+      "size": 1,
+      "cost": 370,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Coriace (12)",
+        "Impact (6)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Twin Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flame Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Quad Attack Machinegun",
+              "details": "30\", A8, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (3), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assault Drill",
+      "size": 1,
+      "cost": 365,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Coriace (12)",
+        "Impact (6)",
+        "Transport (11)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Tunneling Drill",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Land Train",
+      "size": 1,
+      "cost": 430,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Coriace (12)",
+        "Impact (6)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Light AA-Gun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Inarrêtable"
+        },
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with up to two",
+          "options": [
+            {
+              "name": "Transport Carriage",
+              "details": "Coriace (6), Transport (11)",
+              "cost": "+165pts"
+            },
+            {
+              "name": "Transport Carriage",
+              "details": "Transport (6), Heavy Machinegun, Coriace (6)",
+              "cost": "+190pts"
+            },
+            {
+              "name": "Weapon Carriage",
+              "details": "Coriace (6), Twin Heavy Fusion Rifle",
+              "cost": "+200pts"
+            },
+            {
+              "name": "Weapon Carriage",
+              "details": "Twin Fusion AA-Gun, Coriace (6)",
+              "cost": "+220pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Twin Light AA-Gun",
+          "options": [
+            {
+              "name": "Twin Light Fusion AA-Gun",
+              "details": "24\", A2, PA (4), Mortel (3), Inarrêtable",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Machinegun",
+          "options": [
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "H-Beam Cannon",
+              "details": "18\", A3, PA (4), Surcharge",
+              "cost": "Free"
+            },
+            {
+              "name": "Sagittarius Missiles",
+              "details": "36\", A2, PA (4), Inarrêtable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Twin Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flame Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Quad Attack Machinegun",
+              "details": "30\", A8, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (3), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fortress Tank",
+      "size": 1,
+      "cost": 640,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Coriace (18)",
+        "Impact (9)",
+        "Transport (16)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy C-Beamer",
+          "range": "30\"",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "Surcharge"
+        },
+        {
+          "name": "Minigun",
+          "range": "24\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy C-Beamer",
+          "options": [
+            {
+              "name": "Rail M-Cannon",
+              "details": "36\", A1, PA (2), Mortel (6), Lacération",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Iron Cannon",
+              "details": "24\", A3, PA (1), Explosion (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Twin Heavy Rifle",
+          "options": [
+            {
+              "name": "Light C-Beamer",
+              "details": "24\", A2, PA (1), Surcharge",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Swarm Mortar",
+              "details": "24\", A3, Indirect",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Rocket Mortar",
+              "details": "24\", A1, PA (1), Explosion (3), Indirect",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Drill Mortar",
+              "details": "24\", A1, PA (2), Mortel (3), Indirect",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dwarf Walker",
+      "size": 1,
+      "cost": 280,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Coriace (12)",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Shock Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Shock Hammer",
+          "options": [
+            {
+              "name": "Plasma Sword",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Light Walker Fist",
+              "details": "A4, PA (2)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma Axe",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Shock Gauntlet",
+              "details": "A4, PA (4)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Heavy Fusion Rifle",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+75pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade any Light Walker Fist with one",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artillery Gun",
+      "size": 1,
+      "cost": 130,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Coriace",
+        "Coriace (3)"
+      ],
+      "weapons": [
+        {
+          "name": "Drill-Bomb Launcher",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Drill-Bomb Launcher",
+          "options": [
+            {
+              "name": "Twin Heavy Hail-Gun",
+              "details": "24\", A6, PA (1), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Heavy AA-Gun",
+              "details": "30\", A6, PA (1), Inarrêtable",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Twin Fusion AA-Gun",
+              "details": "24\", A2, PA (4), Mortel (3), Inarrêtable",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mining Titan",
+      "size": 1,
+      "cost": 605,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (18)",
+        "Sans peur",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Grabbing Claws",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (6)"
+        },
+        {
+          "name": "Piercing M-Drill",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3), Lacération"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Tunneling Drill",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Combat Excavator",
+      "size": 1,
+      "cost": 930,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Coriace (24)",
+        "Impact (12)",
+        "Sans peur",
+        "Coriace"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Twin Light AA-Gun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Inarrêtable"
+        },
+        {
+          "name": "Twin Heavy Fusion Rifle",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Heavy Excavator",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "Tunneling Drill",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Twin Heavy Fusion Rifle",
+          "options": [
+            {
+              "name": "Anti-Tank Cannon",
+              "details": "30\", A1, PA (3), Mortel (6)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flame Cannon",
+              "details": "18\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Quad Attack Machinegun",
+              "details": "30\", A8, PA (1)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (3), Inarrêtable",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Machinegun",
+          "options": [
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Missile Launcher",
+              "details": "30\", A1, PA (2), Mortel (3), Inarrêtable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "H-Beam Cannon",
+              "details": "18\", A3, PA (4), Surcharge",
+              "cost": "Free"
+            },
+            {
+              "name": "Sagittarius Missiles",
+              "details": "36\", A2, PA (4), Inarrêtable",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Twin Light AA-Gun",
+          "options": [
+            {
+              "name": "Twin Light Fusion AA-Gun",
+              "details": "24\", A2, PA (4), Mortel (3), Inarrêtable",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hadrund oth Irnwuld",
+      "size": 1,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Lent",
+        "Coriace (3)",
+        "Unique",
+        "Coriace",
+        "Sans peur",
+        "Renforcé"
+      ],
+      "weapons": [
+        {
+          "name": "Boulderbreaker",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "2",
+          "special": "Lacération"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}

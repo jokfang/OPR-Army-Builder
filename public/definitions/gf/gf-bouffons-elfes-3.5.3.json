@@ -1,0 +1,788 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/nyh41t82jugcdq8m?armyName=Elven+Jesters",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/nyh41t82jugcdq8m?armyName=Elven+Jesters",
+  "sourceBookUid": "nyh41t82jugcdq8m",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Bouffons Elfes",
+  "version": "3.5.3",
+  "introduction": "Les Bouffons Elfes sont des guerriers-artistes extravagamment vêtus, prêts à servir quiconque accepte de les employer. Leur armure légère leur permet de se déplacer rapidement à travers le champ de bataille pour porter des coups précis à courte portée, tandis qu'ils comptent sur leurs employeurs pour compenser leurs faiblesses.\n\nAlors que les Elfes ayant survécu au soulèvement robotique se regroupaient en hautes flottes ou en gangs obscurs, certains ne trouvaient leur place dans aucun de ces mondes. Ils s'adaptèrent en fondant leurs propres bandes, devenant mercenaires et artistes ambulants, voyageant de lieu en lieu avant que leurs hôtes ne se lassent d'eux, condamnés à vivre en éternels marginaux.",
+  "backgroundStory": "L'Empire Elfe fut autrefois une puissance dominante du Secteur Sirius, doté à la fois de puissants pouvoirs psychiques et d'une technologie extrêmement avancée. Mais lorsque leurs Robots serviteurs gagnèrent une conscience, un conflit éclata et les Elfes furent forcés d'évacuer leurs mondes d'origine. Tous les survivants ne furent pourtant ni de hauts nobles elfes ni membres des gangs qui allaient former les Elfes Noirs. Certains se trouvaient loin des mondes elfes lorsque le conflit débuta, ou parvinrent à s'échapper par d'autres moyens, et cherchèrent refuge auprès des factions voisines.\n\nCes survivants se regroupèrent rapidement pour bâtir de petites communautés. Celles-ci se trouvaient souvent en marge de leurs nouveaux mondes, beaucoup craignant qu'elles n'attirent la colère des Légions Robotiques, ou qu'elles ne soient secrètement liées aux Raiders Elfes Noirs. Ces communautés travaillèrent dur pour prouver leur valeur à leurs hôtes d'adoption et obtenir une place d'invités plutôt que d'être considérées comme des parias ou des vagabonds. Elles gagnèrent bientôt une réputation d'artistes, de mécaniciens, d'amuseurs et de guerriers aussi talentueux les uns que les autres. Ces Elfes s'efforcèrent sans cesse de se rendre indispensables et précieux à leurs hôtes, au moins jusqu'à ce qu'ils trouvent leur prochain foyer.\n\nPeu à peu, ces communautés reprirent contact avec leurs semblables parmi les Hautes Flottes Elfes puis chez les Elfes Noirs. Pourtant, beaucoup ne se sentirent vraiment à leur place ni chez les uns ni chez les autres. Comme avec leurs autres hôtes, ils gardèrent leurs distances et offrirent leurs services à juste prix. Certains trouvèrent un foyer durable au sein de ces factions elfiques, mais la plupart repartirent un jour, comme ils l'avaient toujours fait ailleurs. Ceux qui continuèrent ainsi à aller de monde en monde prirent le nom de Bouffons Elfes, car ils se présentaient volontiers avant tout comme des artistes plutôt que comme des mercenaires ou des marchands.\n\nDepuis la perte de leurs mondes d'origine, les bandes de Bouffons sillonnent inlassablement le Secteur Sirius. Ils croient que rester trop longtemps au même endroit les rendrait complaisants et émousserait leurs talents, jusqu'à les rendre inutiles. À la place, ils recherchent sans cesse de nouveaux savoirs, de nouvelles techniques et de nouvelles histoires pour se réinventer, et c'est cette diversité de talents qui rend leurs services si prisés par de nombreuses autres factions.\n\nComment trouveras-tu ta voie dans le Secteur Sirius ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Téléportation rapide",
+      "keywords": [
+        "Rapid Blink"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Surcharge à bout portant",
+      "keywords": [
+        "Point-Blank Surge"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Désintegration",
+      "keywords": [
+        "Disintegrate"
+      ]
+    },
+    {
+      "name": "Marque de Tueur",
+      "keywords": [
+        "Slayer Mark"
+      ]
+    },
+    {
+      "name": "Redeploiement en Embuscade",
+      "keywords": [
+        "Ambush Re-Deployment"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Téléportation",
+      "keywords": [
+        "Teleport"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Imprévisible",
+      "keywords": [
+        "Unpredictable"
+      ]
+    },
+    {
+      "name": "Ignore Regeneration",
+      "keywords": [
+        "Ignores Regeneration"
+      ]
+    },
+    {
+      "name": "Defense",
+      "keywords": [
+        "Defense"
+      ]
+    },
+    {
+      "name": "Tueur",
+      "keywords": [
+        "Slayer"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Boost de la téléportation rapide",
+      "keywords": [
+        "Rapid Blink Boost"
+      ]
+    },
+    {
+      "name": "Contre-attaque",
+      "keywords": [
+        "Counter-Attack"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Dechiquetage au Tir",
+      "keywords": [
+        "Shred when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Teleportation",
+      "keywords": [
+        "Teleport Aura"
+      ]
+    },
+    {
+      "name": "Aura de Combattant Imprévisible",
+      "keywords": [
+        "Unpredictable Fighter Aura"
+      ]
+    },
+    {
+      "name": "Aura de Blindage",
+      "keywords": [
+        "Shielded Aura"
+      ]
+    },
+    {
+      "name": "Aura de Boost de la Téléportation rapide",
+      "keywords": [
+        "Rapid Blink Boost Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Asphyxiating Fog",
+      "cost": 1,
+      "keywords": [
+        "Asphyxiating Fog"
+      ]
+    },
+    {
+      "name": "Blades of Discord",
+      "cost": 1,
+      "keywords": [
+        "Blades of Discord"
+      ]
+    },
+    {
+      "name": "Shadow Dance",
+      "cost": 2,
+      "keywords": [
+        "Shadow Dance"
+      ]
+    },
+    {
+      "name": "Light Fragments",
+      "cost": 2,
+      "keywords": [
+        "Light Fragments"
+      ]
+    },
+    {
+      "name": "Veil of Madness",
+      "cost": 3,
+      "keywords": [
+        "Veil of Madness"
+      ]
+    },
+    {
+      "name": "Fatal Sorrow",
+      "cost": 3,
+      "keywords": [
+        "Fatal Sorrow"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Master Jester",
+      "size": 1,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Master Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Dagger",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Deathly Touch",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Master Fragment Pistol",
+          "options": [
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Hallucination-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Neuron Pistol",
+              "details": "12\", A3, Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Jester Sniper Rifle",
+              "details": "24\", A2, Désintegration, Fiable, Élimination",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Dagger and Deathly Touch",
+          "options": [
+            {
+              "name": "2x CCW",
+              "details": "A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Deathly Kiss",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Deathly Caress",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Deathly Embrace",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Twisted Illusion",
+              "details": "Redeploiement en Embuscade",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Joker Hoverpack",
+              "details": "Volant, Surcharge à bout portant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Prankster Suit",
+              "details": "Embuscade, Régénération",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Jetbike",
+              "details": "Fragment Cannon, Rapide, Arpenteur, Coriace (3)",
+              "cost": "+125pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Stage Master",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Solitaire Assassin",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Death Dealer",
+              "details": "Aura de Dechiquetage au Tir",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Troupe Lord",
+              "details": "Aura de Boost de la Téléportation rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Apex Killer",
+              "details": "Aura de Combattant Imprévisible",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Jester Seer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Jester Seer",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fool Champion",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Coriace (3)",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Master Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Stage Master",
+              "details": "Aura de Blindage",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Death Dealer",
+              "details": "Aura de Dechiquetage au Tir",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Troupe Lord",
+              "details": "Aura de Boost de la Téléportation rapide",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Jester Seer",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Harlequin",
+              "details": "Aura de Teleportation",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fools",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Jesters",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Fragment Pistol",
+          "options": [
+            {
+              "name": "Neuron Pistol",
+              "details": "12\", A2, Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Fragment Pistol",
+          "options": [
+            {
+              "name": "Fusion Pistol",
+              "details": "6\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Deathly Caress",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Deathly Embrace",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Deathly Touch",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Deathly Kiss",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Twisted Illusion",
+              "details": "Redeploiement en Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pranksters",
+      "size": 5,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Furieux",
+        "Régénération",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Energy Glaive",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Twisted Illusion",
+              "details": "Redeploiement en Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jokers",
+      "size": 3,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Volant",
+        "Furieux",
+        "Surcharge à bout portant",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Exploding Bolas",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Twisted Illusion",
+              "details": "Redeploiement en Embuscade",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetbikes",
+      "size": 3,
+      "cost": 285,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Arpenteur",
+        "Coriace (3)",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Exploding Bolas",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Exploding Bolas",
+          "options": [
+            {
+              "name": "Energy Glaive",
+              "details": "A2, PA (1), Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Light EMP Cannon",
+              "details": "24\", A3, Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Fragment Cannon",
+              "details": "24\", A3, PA (1), Désintegration",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Jetbike",
+      "size": 1,
+      "cost": 250,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Furieux",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (6)",
+        "Téléportation rapide",
+        "Esquive"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Fragment Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Désintegration"
+        },
+        {
+          "name": "Energy Glaive",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "1",
+          "special": "Percée"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Energy Glaive",
+          "options": [
+            {
+              "name": "Twin Light Fragment Cannon",
+              "details": "24\", A4, PA (1), Désintegration",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Fragment Pistol",
+          "options": [
+            {
+              "name": "Light EMP Cannon",
+              "details": "24\", A3, Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Focus Cannon",
+              "details": "24\", A1, PA (2), Explosion (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Light Laser Cannon",
+              "details": "24\", A1, PA (3), Mortel (3)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with any",
+          "options": [
+            {
+              "name": "Open Back",
+              "details": "Transport (6)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spectacle of Death",
+              "details": "Marque de Tueur",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

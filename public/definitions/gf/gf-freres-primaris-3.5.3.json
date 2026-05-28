@@ -1,0 +1,3041 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/oqnnu0gk8q6hyyny?armyName=Prime+Brothers",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/oqnnu0gk8q6hyyny?armyName=Prime+Brothers",
+  "sourceBookUid": "oqnnu0gk8q6hyyny",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Frères Primaris",
+  "version": "3.5.3",
+  "introduction": "Les Frères Primaris représentent l'apogée de la science génétique : un petit nombre de surhommes dotés d'armures et d'armes avancées, qui s'appuient sur leur talent et leur endurance pour remporter la victoire contre toute attente.\n\nLes Frères Primaris sont améliorés par les dernières modifications génétiques, adaptées à partir des découvertes réalisées après l'arrivée dans Sirius. Le processus qui crée les Frères Primaris détruit cependant peu à peu leur corps, réduisant fortement leur espérance de vie. Malgré cela, de nombreux jeunes soldats choisissent encore de devenir Frères Primaris, consacrant fièrement leur courte existence au Conduit et à sa cause.",
+  "backgroundStory": "Les Frères de Bataille furent créés par un scientifique visionnaire connu sous le nom de Fondateur, qui utilisa une série de modifications génétiques afin d'améliorer des soldats bien au-delà des limites humaines. Les Frères de Bataille furent rapidement déployés pour maintenir l'unité et la paix sur Terre et dans ses colonies proches. Ces modifications se révélèrent extrêmement efficaces, et beaucoup cherchèrent à rejoindre leurs rangs.\n\nLorsque l'humanité arriva dans Sirius, elle dut affronter de nouveaux défis : phénomènes inconnus, technologies étrangères et menaces inédites y étaient monnaie courante. Pour s'y adapter, les modifications génétiques des Frères de Bataille furent retravaillées afin d'accroître encore davantage leurs capacités. Les résultats de ces expériences furent bientôt diffusés à chaque Détachement, qui put alors former et équiper des recrues destinées à devenir des Frères Primaris.\n\nUne fois leur entraînement achevé, les Frères Primaris furent regroupés dans de nouveaux Détachements et déployés vers la Frontière. Plutôt que de renforcer les forces existantes des Frères de Bataille, ils furent envoyés explorer et combattre loin du cœur de la galaxie.\n\nNombre de Frères Primaris commencèrent cependant à montrer des dégâts aux muscles, aux articulations et aux os, leurs corps étant incapables de s'adapter pleinement aux modifications génétiques. Ces défauts furent retrouvés chez tous, mais leur évolution était plus ou moins lente selon les individus : chez certains, les pires effets ne se manifestaient qu'au bout de plusieurs décennies. Jusqu'à ce point, chacun demeurait pourtant un guerrier redoutablement efficace.\n\nLes Frères Primaris continuèrent malgré tout à se battre après la découverte de ces effets secondaires. Contre l'avis des Gardiens, ils rendirent même ces conséquences publiques. Cela n'empêcha pas nombre de recrues d'accepter les risques pour rejoindre leurs rangs. Les Frères Primaris savent qu'ils risquent davantage de mourir de leur détérioration physique qu'au combat, si bien que beaucoup acceptent des risques que d'autres jugeraient insensés. Cela n'a fait que renforcer leur réputation de héros et attirer de nouveaux volontaires qui les admirent.\n\nEn raison de leur vie écourtée, les Frères Primaris manquent souvent de l'organisation et de l'expérience personnelle des Frères de Bataille, et comptent donc sur leur technologie avancée et leur héroïsme individuel pour compenser ce désavantage. Si certains Frères de Bataille les jugent téméraires, d'autres ont développé un profond respect pour leur bravoure et leur sens du sacrifice.\n\nComment ta courte existence servira-t-elle la vision du Fondateur ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Primeborn",
+      "keywords": [
+        "Primeborn"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Precise",
+      "keywords": [
+        "Precise"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Redéploiement",
+      "keywords": [
+        "Re-Deployment"
+      ]
+    },
+    {
+      "name": "Riposte",
+      "keywords": [
+        "Retaliate"
+      ]
+    },
+    {
+      "name": "Attaque polyvalente",
+      "keywords": [
+        "Versatile Attack"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Marque Imparable",
+      "keywords": [
+        "Unstoppable Mark"
+      ]
+    },
+    {
+      "name": "Repositionnement d'Artillerie",
+      "keywords": [
+        "Re-Position Artillery"
+      ]
+    },
+    {
+      "name": "Fracasse",
+      "keywords": [
+        "Shatter"
+      ]
+    },
+    {
+      "name": "Guérison",
+      "keywords": [
+        "Mend"
+      ]
+    },
+    {
+      "name": "Tueur en mêlée",
+      "keywords": [
+        "Melee Slayer"
+      ]
+    },
+    {
+      "name": "Portée polyvalente",
+      "keywords": [
+        "Versatile Reach"
+      ]
+    },
+    {
+      "name": "Charge rapide",
+      "keywords": [
+        "Rapid Rush"
+      ]
+    },
+    {
+      "name": "Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Fléau au Tir",
+      "keywords": [
+        "Bane when Shooting Aura"
+      ]
+    },
+    {
+      "name": "Aura de Régénération",
+      "keywords": [
+        "Regeneration Aura"
+      ]
+    },
+    {
+      "name": "Aura de Fleau en mêlée",
+      "keywords": [
+        "Bane in Melee Aura"
+      ]
+    },
+    {
+      "name": "Aura de Portée polyvalente",
+      "keywords": [
+        "Versatile Reach Aura"
+      ]
+    },
+    {
+      "name": "Aura de Courage",
+      "keywords": [
+        "Courage Aura"
+      ]
+    },
+    {
+      "name": "Aura de Charge rapide",
+      "keywords": [
+        "Rapid Rush Aura"
+      ]
+    },
+    {
+      "name": "Aura de Voile de mêlée",
+      "keywords": [
+        "Melee Shrouding Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Vision accrue",
+      "cost": 1,
+      "keywords": [
+        "Advanced Sight"
+      ]
+    },
+    {
+      "name": "Mind Wound",
+      "cost": 1,
+      "keywords": [
+        "Mind Wound"
+      ]
+    },
+    {
+      "name": "Munitions bénies",
+      "cost": 2,
+      "keywords": [
+        "Blessed Ammo"
+      ]
+    },
+    {
+      "name": "Brouillard fulgurant",
+      "cost": 2,
+      "keywords": [
+        "Lightning Fog"
+      ]
+    },
+    {
+      "name": "Protective Dome",
+      "cost": 3,
+      "keywords": [
+        "Protective Dome"
+      ]
+    },
+    {
+      "name": "Terreur psychique",
+      "cost": 3,
+      "keywords": [
+        "Psychic Terror"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Grave Prime Master",
+      "size": 1,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (6)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield and CCW",
+          "options": [
+            {
+              "name": "Master Grave Heavy Pistol",
+              "details": "12\", A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Energy Claws",
+              "details": "A8, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Dual Energy Swords",
+              "details": "A8, PA (1), Perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Fist-Flamer",
+              "details": "6\", A2, Explosion (3), Fiable",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Fist-Pistol",
+              "details": "12\", A6",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Master Grave Heavy Pistol",
+          "options": [
+            {
+              "name": "Master Grave Plasma Pistol",
+              "details": "12\", A4, PA (4)",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Master Grave Precision Rifle",
+              "details": "24\", A4, Precise",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Master Grave Auto-Rifle",
+              "details": "18\", A8",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Master Grave Heavy Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A2, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Chain-Fist",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Greatsword",
+              "details": "A6, PA (1), Perforant",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Xenos Hunter",
+              "details": "Tueur en mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Honor Guard",
+              "details": "Ravage (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "The Founder's Avenger",
+              "details": "Riposte (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Destroyer Armor",
+              "details": "Embuscade",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ancient Protector",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Judge",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Lieutenant",
+              "details": "Aura de Charge rapide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Archivist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Archivist",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veteran Prime Master",
+      "size": 1,
+      "cost": 65,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Sans peur",
+        "Attaque polyvalente",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Rapide, Coriace (3), Twin Heavy Rifle",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ancient Protector",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Artillerist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Judge",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Lieutenant",
+              "details": "Aura de Charge rapide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Archivist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Archivist",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Combat Shield and CCW",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Chainsaw Sword",
+              "details": "A4, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flamer Pistol",
+          "options": [
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Auto-Rifle",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Marksman Carbine",
+              "details": "18\", A2, Perforant, Élimination",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Precision Rifle",
+              "details": "24\", A2, Precise",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade Master Marksman Carbine with",
+          "options": [
+            {
+              "name": "Scope",
+              "details": "Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Relic Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prime Master",
+      "size": 1,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Combat Shield and CCW",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flamer Pistol",
+          "options": [
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Auto-Rifle",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Marksman Carbine",
+              "details": "18\", A2, Perforant, Élimination",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Precision Rifle",
+              "details": "24\", A2, Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade Master Marksman Carbine with",
+          "options": [
+            {
+              "name": "Scope",
+              "details": "Precise",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Relic Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Jetpack",
+              "details": "Embuscade, Volant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Combat Bike",
+              "details": "Rapide, Coriace (3), Twin Heavy Rifle",
+              "cost": "+115pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ancient Protector",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Artillerist",
+              "details": "Repositionnement d'Artillerie",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Judge",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Lieutenant",
+              "details": "Aura de Charge rapide",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Engineer",
+              "details": "Guérison",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Archivist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Master Archivist",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Raider",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Furieux",
+        "Héros",
+        "Arpenteur",
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Flamer Pistol",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Ancient Protector",
+              "details": "Aura de Voile de mêlée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Judge",
+              "details": "Aura de Fleau en mêlée",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Captain",
+              "details": "Aura de Fléau au Tir",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Archivist",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Commander",
+              "details": "Redéploiement",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Flamer Pistol",
+          "options": [
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Heavy Pistol",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Master Auto-Rifle",
+              "details": "18\", A3",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Precision Rifle",
+              "details": "24\", A2, Precise",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Master Plasma Pistol",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Marksman Carbine",
+              "details": "18\", A2, Perforant, Élimination",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Master Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade Master Marksman Carbine with",
+          "options": [
+            {
+              "name": "Scope",
+              "details": "Precise",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Relic Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Infiltration Gear",
+              "details": "Éclaireur",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Orbital Drop",
+              "details": "Embuscade",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infiltration Brothers",
+      "size": 5,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Arpenteur",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Marksman Carbine",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Perforant, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all Marksman Carbines with",
+          "options": [
+            {
+              "name": "Scopes",
+              "details": "Precise",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raider Brothers",
+      "size": 5,
+      "cost": 120,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Arpenteur",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Heavy Pistol and CCW",
+          "options": [
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Chainsaw Sword",
+              "details": "A4, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Orbital Drop",
+              "details": "Embuscade",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prime Brothers",
+      "size": 5,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Precision Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Precise"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "The Founder's Banner",
+              "details": "Aura de Portée polyvalente",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Detachment Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Precision Rifle",
+          "options": [
+            {
+              "name": "Heavy Rifle",
+              "details": "24\", A1, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Auto-Rifle",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Precision Rifle",
+          "options": [
+            {
+              "name": "Anti-Gravity Rifle",
+              "details": "18\", A1, Fracasse",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Take one Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Grenade-Mod",
+              "details": "24\", A1, Explosion (3), Limité",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Precision Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assault Prime Brothers",
+      "size": 5,
+      "cost": 165,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "The Founder's Banner",
+              "details": "Aura de Portée polyvalente",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Detachment Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Relic Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetpacks",
+              "details": "Embuscade, Volant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veteran Prime Brothers",
+      "size": 3,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Attaque polyvalente",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Anti-Gravity Rifle",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Fracasse"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "The Founder's Banner",
+              "details": "Aura de Portée polyvalente",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Detachment Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Anti-Gravity Rifle",
+          "options": [
+            {
+              "name": "Heavy Rifle",
+              "details": "24\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Auto-Rifle",
+              "details": "18\", A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Precision Rifle",
+              "details": "24\", A1, Precise",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Anti-Gravity Rifle",
+          "options": [
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Rifle",
+              "details": "24\", A1, PA (4)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Fusion Rifle",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Any model may take one Heavy Rifle attachment",
+          "options": [
+            {
+              "name": "Flamer-Mod",
+              "details": "12\", A1, Explosion (3), Fiable, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plasma-Mod",
+              "details": "24\", A1, PA (4), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Anti-Gravity-Mod",
+              "details": "18\", A2, Fracasse, Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Grenade-Mod",
+              "details": "24\", A1, Explosion (3), Limité",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Fusion-Mod",
+              "details": "12\", A1, PA (4), Mortel (3), Limité",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Anti-Gravity Rifle and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "Free"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Energy Sword",
+          "options": [
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veteran Assault Prime Brothers",
+      "size": 3,
+      "cost": 90,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Attaque polyvalente",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "The Founder's Banner",
+              "details": "Aura de Portée polyvalente",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Detachment Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Pistol and Combat Shield",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Chainsaw Sword",
+              "details": "A4, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Anti-Gravity Pistol",
+              "details": "9\", A2, Fracasse",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Energy Hammer",
+          "options": [
+            {
+              "name": "Heavy CCW",
+              "details": "A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Relic Sword",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Jetpacks",
+              "details": "Embuscade, Volant",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desolator Brothers",
+      "size": 5,
+      "cost": 195,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "HE-Launcher",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any HE-Launcher",
+          "options": [
+            {
+              "name": "AT-Launcher",
+              "details": "30\", A1, PA (2), Inarrêtable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one HE-Launcher",
+          "options": [
+            {
+              "name": "Vengeance HE-Launcher",
+              "details": "30\", A1, Explosion (3), Indirect",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Vengeance AT-Launcher",
+              "details": "30\", A1, PA (2), Mortel (3)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Mini-GL",
+              "details": "18\", A1, Indirect, Limité",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blaster Brothers",
+      "size": 5,
+      "cost": 220,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Plasma Rifle",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Plasma Rifle",
+          "options": [
+            {
+              "name": "Heavy Plasma Rifle",
+              "details": "30\", A1, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plasma Auto-Rifle",
+              "details": "24\", A2, PA (4)",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infernal Brothers",
+      "size": 3,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Elimination Brothers",
+      "size": 3,
+      "cost": 150,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Sans peur",
+        "Arpenteur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Rifle",
+          "range": "30\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Sniper Rifle",
+          "options": [
+            {
+              "name": "Laser Sniper Rifle",
+              "details": "30\", A1, PA (2), Mortel (3), Élimination, Fiable",
+              "cost": "+85pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suppression Brothers",
+      "size": 3,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Volant",
+        "Embuscade",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Assault Autocannon",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Heavy Prime Brothers",
+      "size": 3,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Grave Precision Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Precise"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Grave Precision Rifle",
+          "options": [
+            {
+              "name": "Grave Auto-Rifle",
+              "details": "18\", A4",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Grave Heavy Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Grave Precision Rifle",
+          "options": [
+            {
+              "name": "Grave Heavy Machinegun",
+              "details": "30\", A4, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Destroyers",
+      "size": 3,
+      "cost": 225,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Embuscade",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Combat Shields and CCWS",
+          "options": [
+            {
+              "name": "Dual Energy Claws",
+              "details": "A4, Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Storm Rifle",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Minigun",
+              "details": "24\", A4, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Storm Rifle",
+              "details": "24\", A3, PA (1)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any CCW",
+          "options": [
+            {
+              "name": "Energy Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+-5pts"
+            },
+            {
+              "name": "Chain-Fist",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Energy Fist",
+              "details": "A3, PA (4)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with one",
+          "options": [
+            {
+              "name": "The Founder's Banner",
+              "details": "Aura de Portée polyvalente",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Detachment Banner",
+              "details": "Aura de Courage",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Medical Training",
+              "details": "Aura de Régénération",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jetpack Brothers",
+      "size": 3,
+      "cost": 260,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Embuscade",
+        "Volant",
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Assault Blaster",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Twin Assault Blasters",
+          "options": [
+            {
+              "name": "Twin Plasma Blaster",
+              "details": "12\", A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guard Brothers",
+      "size": 3,
+      "cost": 255,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Relic Sword",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "2",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Relic Swords and Combat Shields",
+          "options": [
+            {
+              "name": "Dual Energy Swords",
+              "details": "A4, PA (1), Perforant",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Relic Sword",
+          "options": [
+            {
+              "name": "Energy Sword",
+              "details": "A3, PA (1), Perforant",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Pistol",
+          "options": [
+            {
+              "name": "Plasma Pistol",
+              "details": "12\", A1, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace all Xenos Hunters",
+          "options": [
+            {
+              "name": "The Founder's Avenger",
+              "details": "Riposte (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Honor Guard",
+              "details": "Ravage (3)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eradication Brothers",
+      "size": 3,
+      "cost": 240,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Implacable",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Fusion Rifle",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "4",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Fusion Rifle",
+          "options": [
+            {
+              "name": "Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Fusion Rifle",
+          "options": [
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aggro Brothers",
+      "size": 3,
+      "cost": 310,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Fist-Flamers",
+          "range": "6\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Dual Energy Fists",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "4",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Twin Fist-Flamer",
+          "options": [
+            {
+              "name": "Twin Fist-Pistols",
+              "details": "12\", A3",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Shoulder-GL",
+              "details": "18\", A1, PA (2)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prime Brother Bikers",
+      "size": 3,
+      "cost": 295,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Rapide",
+        "Coriace (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Prime ATV",
+      "size": 1,
+      "cost": 245,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Éclaireur",
+        "Arpenteur",
+        "Coriace (6)",
+        "Impact (3)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Rifle",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Gatling Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Gatling Gun",
+          "options": [
+            {
+              "name": "Super-Heavy Fusion Rifle",
+              "details": "18\", A1, PA (4), Mortel (6)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Array",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Grav APC",
+      "size": 1,
+      "cost": 300,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (9)",
+        "Transport (11)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Frag-GL",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Frag-GLs",
+          "options": [
+            {
+              "name": "Twin Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Artillery Relay",
+              "details": "36\", A1, Explosion (6), Indirect",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Twin AA-MG",
+              "details": "30\", A6, Inarrêtable",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Shield Projector",
+              "details": "Furtif",
+              "cost": "+95pts"
+            },
+            {
+              "name": "Missile Array",
+              "details": "30\", A2, PA (3), Mortel (3)",
+              "cost": "+125pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prime Drop Pod",
+      "size": 1,
+      "cost": 205,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Sans peur",
+        "Immobile",
+        "Coriace (9)",
+        "Transport (11)",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Death Launcher",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (6)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Death Launcher",
+          "options": [
+            {
+              "name": "Rapid Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Array",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anti-Grav Tank",
+      "size": 1,
+      "cost": 500,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Arpenteur",
+        "Coriace (15)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Frag-GL",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Twin Light Gatling Gun",
+          "range": "18\"",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Light Gatling Gun",
+          "options": [
+            {
+              "name": "Twin Laser Talon",
+              "details": "24\", A6, PA (3)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+75pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Frag-GLs",
+          "options": [
+            {
+              "name": "Twin Storm Rifle",
+              "details": "24\", A6, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Tempest Rifle",
+              "details": "18\", A8, PA (1)",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Heavy Fusion Rifle",
+              "details": "18\", A2, PA (4), Mortel (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "AA-Pod",
+              "details": "24\", A2, PA (2), Inarrêtable",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Anti-Grav Transport Tank",
+      "size": 1,
+      "cost": 735,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Impact (9)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Transport (11)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Gatling Gun",
+          "range": "18\"",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Proximity Defense Array",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Inarrêtable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Gatling Gun",
+          "options": [
+            {
+              "name": "Rapid Laser Talon",
+              "details": "24\", A6, PA (3)",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Machinegun",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Gatling Gun",
+              "details": "18\", A6",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+50pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heavy Anti-Grav Destroyer Tank",
+      "size": 1,
+      "cost": 825,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Rapide",
+        "Impact (9)",
+        "Arpenteur",
+        "Coriace (18)",
+        "Transport (6)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Heavy Anti-Gravity Cannon",
+          "range": "24\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "Fracasse"
+        },
+        {
+          "name": "Heavy Gatling Gun",
+          "range": "18\"",
+          "attacks": "A8",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Proximity Defense Array",
+          "range": "18\"",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "Inarrêtable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Anti-Gravity Cannon",
+          "options": [
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Laser Cannon",
+              "details": "36\", A1, PA (3), Mortel (6)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Heavy Gatling Gun",
+          "options": [
+            {
+              "name": "Rapid Laser Talon",
+              "details": "24\", A6, PA (3)",
+              "cost": "+70pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Machinegun",
+          "options": [
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attack Speeder",
+      "size": 1,
+      "cost": 345,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Rapide",
+        "Impact (3)",
+        "Arpenteur",
+        "Coriace (9)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Gatling Gun",
+          "range": "18\"",
+          "attacks": "A6",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "Strike Missiles",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "3",
+          "special": "Mortel (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Gatling Gun",
+          "options": [
+            {
+              "name": "Fusion Destroyer",
+              "details": "12\", A2, PA (4), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Laser Talon",
+              "details": "24\", A3, PA (3)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Strike Missile",
+          "options": [
+            {
+              "name": "AA-Pod",
+              "details": "24\", A2, PA (2), Inarrêtable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Frag-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rocket-GL",
+              "details": "18\", A2, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Fury Missiles",
+              "details": "24\", A1, PA (2), Mortel (3)",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Array",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Walker",
+      "size": 1,
+      "cost": 315,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Éclaireur",
+        "Coriace (9)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Walker Pistol",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Incendiary Cannon",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Incendiary Cannon",
+          "options": [
+            {
+              "name": "Twin Iron-Cannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+90pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Walker Pistol",
+          "options": [
+            {
+              "name": "Light Fist",
+              "details": "A4, PA (2)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Frag-GL",
+              "details": "18\", A1, Explosion (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Walker-MG",
+              "details": "24\", A4, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Walker",
+      "size": 1,
+      "cost": 490,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "2+",
+      "tough": "15",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (3)",
+        "Coriace (15)",
+        "Sans peur",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Chest-GL",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A5",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Walker Claw",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace one Walker Claw",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Light Gatling Cannon",
+              "details": "24\", A10",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Heavy Anti-Gravity Cannon",
+              "details": "24\", A6, Fracasse",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Heavy Plasma Cannon",
+              "details": "30\", A1, PA (4), Explosion (6)",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Twin Laser Cannon",
+              "details": "36\", A2, PA (3), Mortel (3)",
+              "cost": "+85pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Walker Claw",
+          "options": [
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Missile Array",
+              "details": "30\", A4, PA (2), Inarrêtable",
+              "cost": "+50pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Rifle",
+              "details": "24\", A2, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Light Gatling Gun",
+              "details": "18\", A4",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Chest-GL",
+          "options": [
+            {
+              "name": "Chest-Gun",
+              "details": "24\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chest-Fuser",
+              "details": "12\", A1, PA (4), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Chest-MG",
+              "details": "30\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "AA-Pod",
+              "details": "24\", A2, PA (2), Inarrêtable",
+              "cost": "+50pts"
+            },
+            {
+              "name": "AA-MG",
+              "details": "30\", A3, PA (1), Inarrêtable",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Support Turret",
+      "size": 1,
+      "cost": 215,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "3+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Artillerie",
+        "Sans peur",
+        "Coriace (3)",
+        "Primeborn"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Thunder Cannon",
+          "range": "24\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Explosion (3), Indirect"
+        },
+        {
+          "name": "Turret Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Thunder Cannon",
+          "options": [
+            {
+              "name": "Twin Crack Cannon",
+              "details": "24\", A6, PA (1), Perforant, Indirect",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Laser Talon",
+              "details": "24\", A6, PA (3)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Twin Autocannon",
+              "details": "36\", A6, PA (2)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Targeting Array",
+              "details": "Marque Imparable",
+              "cost": "+25pts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

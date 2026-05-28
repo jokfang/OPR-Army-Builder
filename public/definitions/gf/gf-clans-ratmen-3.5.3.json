@@ -1,0 +1,2214 @@
+{
+  "sourcePdf": "https://army-forge.onepagerules.com/army-info/grimdark-future/hk70l4d471plza00?armyName=Ratmen+Clans",
+  "sourceUrl": "https://army-forge.onepagerules.com/army-info/grimdark-future/hk70l4d471plza00?armyName=Ratmen+Clans",
+  "sourceBookUid": "hk70l4d471plza00",
+  "systemCode": "GF",
+  "systemName": "Grimdark Future",
+  "armyName": "Clans Ratmen",
+  "version": "3.5.3",
+  "introduction": "Les Clans Ratmen sont des rats humanoïdes, créés à l'origine comme sous-produit accidentel d'une science génétique avancée. Dépourvus de l'organisation et du savoir-faire d'autres factions, ils comptent sur leur nombre écrasant et une grande variété d'armes pour vaincre leurs ennemis.\n\nLorsque les Ratmen se révélèrent à leurs créateurs comme des êtres conscients, ils furent accueillis avec peur et violence, et durent vivre cachés en pillant et en récupérant ce qu'ils pouvaient jusqu'à pouvoir fuir leur monde natal. Maintenant qu'ils ont enfin trouvé refuge sur des mondes isolés et abandonnés où leur population croît rapidement, ils cherchent à aider les autres, même si beaucoup les considèrent encore comme de la vermine.",
+  "backgroundStory": "Peu après leur arrivée dans Sirius, les fidèles du Conduit se tournèrent vers l'expérimentation génétique afin de s'adapter aux défis de leur nouvelle réalité. Leurs scientifiques commencèrent à expérimenter sur les rongeurs qui s'étaient glissés clandestinement dans leur flotte, mais ils durent composer avec un nombre limité de sujets de test, les utilisant à répétition au fil de nombreuses expériences.\n\nCes sujets commencèrent à grandir, développant des réflexes et une force bien supérieurs à ceux de rats ordinaires. Certains scientifiques signalèrent bientôt des comportements de coopération, l'usage d'outils, voire de véritables tentatives de communication entre les rongeurs. Des rumeurs circulèrent aussi à propos de sujets s'étant échappés des laboratoires. Ces rapports furent ignorés et balayés par des supérieurs désireux d'obtenir de nouvelles avancées pour les modifications génétiques des Frères de Bataille.\n\nDes colonies sauvages de rats commencèrent alors à se former hors des laboratoires, là où les descendants des premiers sujets continuaient à croître en taille et en intelligence. L'espèce qui en résulta devint pleinement consciente et finit par se présenter à ses créateurs comme leur égale. Les Humains qui les avaient créés réagirent pourtant avec horreur et dégoût, et les Ratmen furent forcés de se cacher tandis que l'humanité les traquait comme de la vermine et de simples échecs de laboratoire.\n\nLes Ratmen décidèrent bientôt qu'ils devaient quitter ce monde s'ils voulaient éviter d'être découverts et anéantis. Ils commencèrent à piller des vaisseaux peu défendus et des champs de ferraille afin d'assembler lentement leur propre flotte. Mais avant de partir, ils convinrent qu'ils ne pouvaient s'échapper en abandonnant les autres rats à leur sort. Ensemble, ils lancèrent un raid sur les laboratoires où ils avaient été créés et, malgré de lourdes pertes, réussirent à s'enfuir avec les derniers sujets de test survivants.\n\nLa flotte ratmen en fuite trouva finalement un système lointain et inhabité où bâtir un nouveau foyer. Certains choisirent d'y rester et de demeurer cachés aux Frères de Bataille et à tous ceux qui leur ressemblaient. D'autres décidèrent au contraire qu'ils ne voulaient plus se terrer face à la galaxie. Ces Ratmen se regroupèrent alors en clans familiaux à bord de leurs vaisseaux et partirent explorer les étoiles.\n\nÀ mesure que les clans Ratmen rencontrèrent d'autres factions, ils reconnurent chez bien des opprimés et des prisonniers la détresse qu'ils avaient eux-mêmes autrefois connue. Les clans mettent désormais leurs talents au service des fugitifs, aidant les autres à s'évader ou sabotant ceux qu'ils considèrent comme des oppresseurs. Certaines factions les voient désormais comme des ennemis et des nuisibles qu'il faut traquer sans relâche.\n\nComment survivras-tu dans un secteur qui te considère comme de la vermine ?",
+  "armyWideSpecialRule": [
+    {
+      "name": "Detale",
+      "keywords": [
+        "Scurry"
+      ]
+    }
+  ],
+  "specialRules": [
+    {
+      "name": "Dangereux",
+      "keywords": [
+        "Hazardous"
+      ]
+    },
+    {
+      "name": "Reajustement Rapide",
+      "keywords": [
+        "Quick Readjustment"
+      ]
+    },
+    {
+      "name": "Combattant imprévisible",
+      "keywords": [
+        "Unpredictable Fighter"
+      ]
+    },
+    {
+      "name": "Unique",
+      "keywords": [
+        "Unique"
+      ]
+    },
+    {
+      "name": "Frappe de mise à terre",
+      "keywords": [
+        "Takedown Strike"
+      ]
+    },
+    {
+      "name": "Impact lourd",
+      "keywords": [
+        "Heavy Impact"
+      ]
+    },
+    {
+      "name": "Bon tireur",
+      "keywords": [
+        "Good Shot"
+      ]
+    },
+    {
+      "name": "Blindé",
+      "keywords": [
+        "Shielded"
+      ]
+    },
+    {
+      "name": "Lacération",
+      "keywords": [
+        "Shred"
+      ]
+    },
+    {
+      "name": "Ravage",
+      "keywords": [
+        "Ravage"
+      ]
+    },
+    {
+      "name": "Auto-Destruction",
+      "keywords": [
+        "Self-Destruct"
+      ]
+    },
+    {
+      "name": "Surcharge",
+      "keywords": [
+        "Surge"
+      ]
+    },
+    {
+      "name": "Génération",
+      "keywords": [
+        "Spawn"
+      ]
+    },
+    {
+      "name": "Renfort",
+      "keywords": [
+        "Reinforcement"
+      ]
+    },
+    {
+      "name": "Pas de retraite",
+      "keywords": [
+        "No Retreat"
+      ]
+    },
+    {
+      "name": "Avant-garde",
+      "keywords": [
+        "Vanguard"
+      ]
+    },
+    {
+      "name": "Affaiblissement de Defense",
+      "keywords": [
+        "Defense Debuff"
+      ]
+    },
+    {
+      "name": "Tir d'exécution",
+      "keywords": [
+        "Takedown Shot"
+      ]
+    },
+    {
+      "name": "Esquive",
+      "keywords": [
+        "Evasive"
+      ]
+    },
+    {
+      "name": "Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion"
+      ]
+    },
+    {
+      "name": "Renforcement de Detale",
+      "keywords": [
+        "Scurry Boost"
+      ]
+    },
+    {
+      "name": "Assaut perforant",
+      "keywords": [
+        "Piercing Assault"
+      ]
+    },
+    {
+      "name": "Prédateur",
+      "keywords": [
+        "Predator"
+      ]
+    },
+    {
+      "name": "Tireur prédateur",
+      "keywords": [
+        "Predator Shooter"
+      ]
+    }
+  ],
+  "auraSpecialRules": [
+    {
+      "name": "Aura de Tireur de Precision",
+      "keywords": [
+        "Precision Shooter Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Embuscade",
+      "keywords": [
+        "Ambush Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Evasion",
+      "keywords": [
+        "Evasive Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Esquive en mêlée",
+      "keywords": [
+        "Melee Evasion Aura"
+      ]
+    },
+    {
+      "name": "Aura de Renforcement de Detale",
+      "keywords": [
+        "Scurry Boost Aura"
+      ]
+    },
+    {
+      "name": "Aura d'Assaut perforant",
+      "keywords": [
+        "Piercing Assault Aura"
+      ]
+    },
+    {
+      "name": "Aura de Tireur prédateur",
+      "keywords": [
+        "Predator Shooter Aura"
+      ]
+    }
+  ],
+  "armySpells": [
+    {
+      "name": "Weapon Renforcementer",
+      "cost": 1,
+      "keywords": [
+        "Weapon Booster"
+      ]
+    },
+    {
+      "name": "Focused Shock",
+      "cost": 1,
+      "keywords": [
+        "Focused Shock"
+      ]
+    },
+    {
+      "name": "Tech-Sickness",
+      "cost": 2,
+      "keywords": [
+        "Tech-Sickness"
+      ]
+    },
+    {
+      "name": "System Takeover",
+      "cost": 2,
+      "keywords": [
+        "System Takeover"
+      ]
+    },
+    {
+      "name": "Enhance Serum",
+      "cost": 3,
+      "keywords": [
+        "Enhance Serum"
+      ]
+    },
+    {
+      "name": "Power Surge",
+      "cost": 3,
+      "keywords": [
+        "Power Surge"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "name": "Rat Ogre Handler",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "6",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Héros",
+        "Coriace (6)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Great Electro-Hammer",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Great Electro-Hammer",
+          "options": [
+            {
+              "name": "Great Electro-Flail",
+              "details": "A2, PA (1), Explosion (3), Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Great Electro-Spear",
+              "details": "A2, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Dual Great Electro-Swords",
+              "details": "A8, PA (1), Perforant",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Great Burst Carbine",
+              "details": "18\", A6, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Great Fist-Gun",
+              "details": "12\", A6, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Dual Great Electro-Fists",
+              "details": "A8, PA (4)",
+              "cost": "+60pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Great Fist-Gun",
+          "options": [
+            {
+              "name": "Great Fist-Flamer",
+              "details": "12\", A2, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Great Electro-Sword",
+          "options": [
+            {
+              "name": "Great Electro-Fist",
+              "details": "A4, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Raid Master",
+              "details": "Aura de Renforcement de Detale",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Technician",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Agitator",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Director",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Handler",
+      "size": 1,
+      "cost": 50,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Sans peur",
+        "Héros",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Elite Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Elite Heavy Pistol",
+          "options": [
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "Free"
+            },
+            {
+              "name": "Elite Shred Pistol",
+              "details": "9\", A3, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rocket Pistol",
+              "details": "9\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Shotgun",
+              "details": "12\", A3, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Plas-Burst Pistol",
+              "details": "12\", A3, Dangereux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Heavy Carbine",
+              "details": "18\", A3, PA (1)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Electro-Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Flail",
+              "details": "A2, PA (1), Surcharge",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Whip",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mecha-Beast",
+              "details": "Rapide, Ravage (1), Arpenteur",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Master Infiltrator",
+              "details": "Éclaireur, Furtif, Arpenteur",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Spy-Assassin Hitman",
+              "details": "Frappe de mise à terre",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Icon Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Raid Master",
+              "details": "Aura de Renforcement de Detale",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Agitator",
+              "details": "Aura d'Assaut perforant",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Intelligence Officer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Director",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            },
+            {
+              "name": "Master Psy-Hacker",
+              "details": "Lanceur de sorts (3)",
+              "cost": "+70pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clan Handler",
+      "size": 1,
+      "cost": 30,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro",
+      "specialRules": [
+        "Héros",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Master Pistol",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Master Pistol",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Burst Pistol",
+              "details": "12\", A2, Dangereux",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Rocket Pistol",
+              "details": "9\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Flamer Pistol",
+              "details": "6\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Carbine",
+              "details": "18\", A3",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Elite Sniper Carbine",
+              "details": "18\", A2, PA (1), Fiable, Élimination",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Elite Plas-Burst Sniper Carbine",
+              "details": "18\", A2, Fiable, Élimination, Dangereux",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace CCW",
+          "options": [
+            {
+              "name": "Electro-Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Whip",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Flail",
+              "details": "A2, PA (1), Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Mecha-Beast",
+              "details": "Rapide, Ravage (1), Arpenteur",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Master Infiltrator",
+              "details": "Éclaireur, Furtif, Arpenteur",
+              "cost": "+15pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Icon Bearer",
+              "details": "Effrayant (2)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Spy-Assassin Sniper",
+              "details": "Tir d'exécution",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Raid Master",
+              "details": "Aura de Renforcement de Detale",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Technician",
+              "details": "Aura d'Esquive en mêlée",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Intelligence Officer",
+              "details": "Aura d'Embuscade",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Director",
+              "details": "Aura de Tireur de Precision",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Psy-Hacker",
+              "details": "Lanceur de sorts (2)",
+              "cost": "+45pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stalkers",
+      "size": 10,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Electro-Flail",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Surcharge"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Electro-Flails",
+          "options": [
+            {
+              "name": "Dual CCWs",
+              "details": "A2",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Whip",
+              "details": "A1, PA (1), Fléau",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Electro-Flails",
+          "options": [
+            {
+              "name": "Electro-Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Clan Backup",
+              "details": "Renfort",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Operators",
+      "size": 10,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and CCWS",
+          "options": [
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace up to two Pistols and CCWS",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plas-Burst Rifle",
+              "details": "24\", A2, Dangereux",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Rocket Launcher",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Pistol",
+              "details": "12\", A1",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Burst Pistol",
+              "details": "12\", A2, Dangereux",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Electro-Sword",
+          "options": [
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Clan Backup",
+              "details": "Renfort",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saboteurs",
+      "size": 5,
+      "cost": 75,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Reajustement Rapide",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Electro-Bombs",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Indirect, Fléau"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Electro-Bombs",
+          "options": [
+            {
+              "name": "Sling-Bombs",
+              "details": "12\", A2, PA (1), Indirect",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plas-Bombs",
+              "details": "12\", A2, Indirect, Dangereux",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Clan Backup",
+              "details": "Renfort",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infiltrators",
+      "size": 5,
+      "cost": 125,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and CCWS",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Carbine",
+              "details": "18\", A2",
+              "cost": "+20pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade one model with",
+          "options": [
+            {
+              "name": "Smoke Grenades",
+              "details": "Aura d'Evasion",
+              "cost": "+40pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elite Operators",
+      "size": 5,
+      "cost": 110,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Pistols and CCWS",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Carbine",
+              "details": "18\", A2, PA (1)",
+              "cost": "+35pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Pistol and CCW",
+          "options": [
+            {
+              "name": "Shred Rifle",
+              "details": "18\", A2, Perforant",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Plas-Burst Rifle",
+              "details": "24\", A2, Dangereux",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Rocket Launcher",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+30pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one Heavy Pistol and CCW",
+          "options": [
+            {
+              "name": "Sgt. Heavy Pistol",
+              "details": "12\", A1, PA (1)",
+              "cost": "+-5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Sgt. Heavy Pistol",
+          "options": [
+            {
+              "name": "Shred Pistol",
+              "details": "9\", A2, Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Burst Pistol",
+              "details": "12\", A2, Dangereux",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Electro-Sword",
+          "options": [
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Clan Backup",
+              "details": "Renfort",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooters",
+      "size": 3,
+      "cost": 100,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Éclaireur",
+        "Furtif",
+        "Arpenteur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Sniper Carbine",
+          "range": "18\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Fiable, Élimination"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Sniper Carbines",
+          "options": [
+            {
+              "name": "Plas-Burst Sniper Carbine",
+              "details": "18\", A1, Fiable, Élimination, Dangereux",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weapon Experts",
+      "size": 3,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Implacable",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace any Heavy Flamer",
+          "options": [
+            {
+              "name": "Rocket Launcher",
+              "details": "18\", A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Plas-Burst Cannon",
+              "details": "30\", A1, Explosion (3), Dangereux",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Heavy Machinegun",
+              "details": "30\", A3, PA (1)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Shred Cannon",
+              "details": "24\", A4, Perforant",
+              "cost": "+30pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mecha-Beast Riders",
+      "size": 5,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Ravage (1)",
+        "Rapide",
+        "Arpenteur",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Pistol",
+          "range": "12\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Pistols and CCWS",
+          "options": [
+            {
+              "name": "Shotgun",
+              "details": "12\", A2, PA (1)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Electro-Lance",
+              "details": "A2, PA (1), Percée",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace one CCW",
+          "options": [
+            {
+              "name": "Electro-Hammer",
+              "details": "A1, Explosion (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Sword",
+              "details": "A2, PA (1), Perforant",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Whip",
+              "details": "A2, PA (1), Fléau",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+10pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rat Ogre Bodyguards",
+      "size": 3,
+      "cost": 140,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Sans peur",
+        "Furieux",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Electro-Hammer",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "1",
+          "special": "Explosion (3)"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Heavy Electro-Hammers",
+          "options": [
+            {
+              "name": "Heavy Electro-Flail",
+              "details": "A1, PA (1), Explosion (3), Surcharge",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Electro-Spear",
+              "details": "A1, PA (2), Mortel (3)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Heavy Burst Carbine",
+              "details": "18\", A3, PA (1)",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rat Ogre Agents",
+      "size": 3,
+      "cost": 185,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "4+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Furieux",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Electro-Swords",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Perforant"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace all Dual Electro-Swords",
+          "options": [
+            {
+              "name": "Fist-Gun",
+              "details": "12\", A3, PA (1)",
+              "cost": "Free"
+            },
+            {
+              "name": "Dual Electro-Fists",
+              "details": "A4, PA (4)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Fist-Gun",
+          "options": [
+            {
+              "name": "Fist-Flamer",
+              "details": "12\", A1, Explosion (3), Fiable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace any Electro-Sword",
+          "options": [
+            {
+              "name": "Electro-Fist",
+              "details": "A2, PA (4)",
+              "cost": "+5pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mine-Drones",
+      "size": 5,
+      "cost": 60,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "6+",
+      "defense": "6+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Pas de retraite",
+        "Auto-Destruction (2)",
+        "Lent"
+      ],
+      "weapons": [
+        {
+          "name": "Bash",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "Rat Swarms",
+      "size": 3,
+      "cost": 80,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "6+",
+      "tough": "3",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Coriace (3)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Swarm Attacks",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Pathfinder Rat Master",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Rat Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giant Rats",
+      "size": 10,
+      "cost": 105,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "",
+      "unitType": "Unité de base",
+      "specialRules": [
+        "Arpenteur",
+        "Rapide",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Claws",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade all models with",
+          "options": [
+            {
+              "name": "Pathfinder Rat Master",
+              "details": "Avant-garde",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Combat Rat Master",
+              "details": "Combattant imprévisible",
+              "cost": "+15pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Death Wheel",
+      "size": 1,
+      "cost": 175,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Rapide",
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Detale"
+      ],
+      "weapons": [],
+      "upgrades": [
+        {
+          "type": "Replace Electro-Pike",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+25pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Weak Spot Triangulator",
+              "details": "Affaiblissement de Defense",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burrower Tank",
+      "size": 1,
+      "cost": 285,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "9",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Embuscade",
+        "Impact (3)",
+        "Detale",
+        "Coriace (9)",
+        "Transport (11)"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Machinegun",
+          "range": "30\"",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Heavy Machinegun",
+          "options": [
+            {
+              "name": "Heavy Burrower",
+              "details": "A8, PA (4)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (1), Inarrêtable",
+              "cost": "+10pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Combat Tank",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Rapide",
+        "Impact (6)",
+        "Coriace (12)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Plas-Burst Cannon",
+          "range": "30\"",
+          "attacks": "A2",
+          "ap": "-",
+          "special": "Explosion (3), Dangereux"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Plas-Burst Cannon",
+          "options": [
+            {
+              "name": "Battle Cannon",
+              "details": "30\", A2, PA (2), Explosion (3)",
+              "cost": "Free"
+            },
+            {
+              "name": "Heavy Mortar Gun",
+              "details": "30\", A2, PA (1), Explosion (3), Indirect",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (1), Inarrêtable",
+              "cost": "+5pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mecha-Ogre",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Sans peur",
+        "Furieux",
+        "Coriace (6)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Upgrade with one",
+          "options": [
+            {
+              "name": "Combat Scythes",
+              "details": "Ravage (3)",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Heavy Flamer",
+              "details": "12\", A1, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Mine-Drone Launcher",
+              "details": "Génération (Mine-Drones [5])",
+              "cost": "+65pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Weak Spot Triangulator",
+              "details": "Affaiblissement de Defense",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light Mecha-Walker",
+      "size": 1,
+      "cost": 160,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "6",
+      "unitType": "Véhicule léger / Petit monstre",
+      "specialRules": [
+        "Effrayant (1)",
+        "Coriace (6)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Rocket Launcher",
+          "range": "18\"",
+          "attacks": "A2",
+          "ap": "2",
+          "special": "Mortel (3)"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Twin Rocket Launcher",
+          "options": [
+            {
+              "name": "Twin Heavy Flamer",
+              "details": "12\", A2, PA (1), Explosion (3), Fiable",
+              "cost": "Free"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            },
+            {
+              "name": "Twin Plas-Burst Cannon",
+              "details": "30\", A2, Explosion (3), Dangereux",
+              "cost": "+25pts"
+            },
+            {
+              "name": "Twin Shred Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Weak Spot Triangulator",
+              "details": "Affaiblissement de Defense",
+              "cost": "+35pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Mecha-Beast",
+      "size": 1,
+      "cost": 380,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "12",
+      "unitType": "Véhicule / Monstre",
+      "specialRules": [
+        "Effrayant (2)",
+        "Sans peur",
+        "Coriace (12)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Heavy Claws",
+          "range": "-",
+          "attacks": "A12",
+          "ap": "1",
+          "special": "-"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Heavy Claw",
+          "options": [
+            {
+              "name": "Twin Shred Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Heavy Claws",
+              "details": "A6, PA (1)",
+              "cost": "+35pts"
+            },
+            {
+              "name": "Heavy Rocket Array",
+              "details": "24\", A3, PA (2), Mortel (3)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Triple Flamer Cannon",
+              "details": "18\", A3, PA (1), Explosion (3), Fiable",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Titan Mecha-Beast",
+      "size": 1,
+      "cost": 660,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "18",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (3)",
+        "Sans peur",
+        "Coriace (18)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Rapid Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A6",
+          "ap": "2",
+          "special": "-"
+        },
+        {
+          "name": "Titan Heavy Claws",
+          "range": "-",
+          "attacks": "A18",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Heavy Claws",
+          "options": [
+            {
+              "name": "Heavy Claws",
+              "details": "A9, PA (2)",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Twin Heavy Rocket Array",
+              "details": "24\", A4, PA (2), Mortel (3)",
+              "cost": "+15pts"
+            },
+            {
+              "name": "Quad Flamer Cannon",
+              "details": "18\", A4, PA (1), Explosion (3), Fiable",
+              "cost": "+30pts"
+            },
+            {
+              "name": "Twin Heavy Shred Cannon",
+              "details": "24\", A12, PA (1), Perforant",
+              "cost": "+55pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Rapid Heavy Flamer",
+          "options": [
+            {
+              "name": "Rapid Heavy Machinegun",
+              "details": "30\", A12, PA (1)",
+              "cost": "+45pts"
+            }
+          ]
+        },
+        {
+          "type": "Upgrade with",
+          "options": [
+            {
+              "name": "Mine-Drone Launcher",
+              "details": "Génération (Mine-Drones [5])",
+              "cost": "+65pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mecha-Walker Titan",
+      "size": 1,
+      "cost": 810,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "2+",
+      "tough": "24",
+      "unitType": "Titan",
+      "specialRules": [
+        "Effrayant (4)",
+        "Sans peur",
+        "Coriace (24)",
+        "Detale"
+      ],
+      "weapons": [
+        {
+          "name": "Titan Heavy Rocket Arrays",
+          "range": "24\"",
+          "attacks": "A3",
+          "ap": "2",
+          "special": "Mortel (6)"
+        },
+        {
+          "name": "Twin Heavy Flamer",
+          "range": "12\"",
+          "attacks": "A2",
+          "ap": "1",
+          "special": "Explosion (3), Fiable"
+        },
+        {
+          "name": "Stomp",
+          "range": "-",
+          "attacks": "A8",
+          "ap": "2",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Titan Heavy Rocket Array",
+          "options": [
+            {
+              "name": "Titan Flamer Cannons",
+              "details": "18\", A3, PA (1), Explosion (6), Fiable",
+              "cost": "+10pts"
+            },
+            {
+              "name": "Titan Heavy Machineguns",
+              "details": "30\", A18, PA (1)",
+              "cost": "+65pts"
+            },
+            {
+              "name": "Titan Heavy Plas-Burst Cannons",
+              "details": "30\", A6, Explosion (3), Dangereux",
+              "cost": "+70pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A18, PA (1), Inarrêtable",
+              "cost": "+90pts"
+            },
+            {
+              "name": "Titan Heavy Shred Cannons",
+              "details": "24\", A18, PA (1), Perforant",
+              "cost": "+115pts"
+            },
+            {
+              "name": "Heavy Mortar",
+              "details": "36\", A6, PA (1), Explosion (3), Indirect",
+              "cost": "+120pts"
+            }
+          ]
+        },
+        {
+          "type": "Replace Twin Heavy Flamer",
+          "options": [
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+20pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artillery Gun",
+      "size": 1,
+      "cost": 95,
+      "page": 0,
+      "uniqueHero": false,
+      "quality": "4+",
+      "defense": "3+",
+      "tough": "3",
+      "unitType": "Artillerie",
+      "specialRules": [
+        "Coriace (3)",
+        "Artillerie"
+      ],
+      "weapons": [
+        {
+          "name": "Mine-Drone Gun",
+          "range": "24\"",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "Explosion (6), Indirect, Lacération"
+        },
+        {
+          "name": "Crew",
+          "range": "-",
+          "attacks": "A3",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": [
+        {
+          "type": "Replace Mine-Drone Gun",
+          "options": [
+            {
+              "name": "Mortar Gun",
+              "details": "24\", A2, Explosion (3), Indirect",
+              "cost": "+5pts"
+            },
+            {
+              "name": "Heavy Plas-Burst Cannon",
+              "details": "30\", A2, Explosion (3), Dangereux",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Heavy Machinegun",
+              "details": "30\", A6, PA (1)",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin AA-Cannon",
+              "details": "30\", A6, PA (1), Inarrêtable",
+              "cost": "+40pts"
+            },
+            {
+              "name": "Twin Hail-Cannon",
+              "details": "24\", A6, PA (1), Indirect",
+              "cost": "+50pts"
+            },
+            {
+              "name": "Twin Shred Cannon",
+              "details": "24\", A8, Perforant",
+              "cost": "+55pts"
+            },
+            {
+              "name": "Twin Rocket Launcher Array",
+              "details": "24\", A2, PA (2), Mortel (3), Indirect",
+              "cost": "+60pts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quiprie",
+      "size": 1,
+      "cost": 55,
+      "page": 0,
+      "uniqueHero": true,
+      "quality": "5+",
+      "defense": "5+",
+      "tough": "3",
+      "unitType": "Héro Narratif",
+      "specialRules": [
+        "Héros",
+        "Detale",
+        "Coriace (3)",
+        "Unique",
+        "Bon tireur"
+      ],
+      "weapons": [
+        {
+          "name": "Dual Plas-Charge Revolvers",
+          "range": "12\"",
+          "attacks": "A4",
+          "ap": "-",
+          "special": "Dangereux"
+        },
+        {
+          "name": "CCW",
+          "range": "-",
+          "attacks": "A1",
+          "ap": "-",
+          "special": "-"
+        }
+      ],
+      "upgrades": []
+    }
+  ]
+}
