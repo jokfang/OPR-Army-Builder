@@ -14,7 +14,27 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Clone the repository, install dependencies with `npm i`, then run the development server with `npm run dev`.
+Clone the repository, install dependencies, then run the development server:
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000` in your browser.
+
+Useful commands:
+
+```bash
+npm run dev              # Start the local development server
+npm test                 # Run the Jest test suite
+npx tsc --noEmit         # Type-check the project
+npm run build            # Build the production bundle
+npm start                # Start the production server after a build
+npm run generateArmyList # Regenerate public/definitions/army-files.json
+```
+
+On Windows, the dev and build scripts already set `NODE_OPTIONS=--openssl-legacy-provider`, which is needed by this Next.js version on newer Node.js versions. If you run `next dev` manually instead of `npm run dev`, set that environment variable first.
 
 There are no database or API dependencies so the project will run locally.
 
