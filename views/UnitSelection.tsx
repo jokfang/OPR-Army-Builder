@@ -5,14 +5,35 @@ import { Fragment, useState } from "react";
 import { Accordion, AccordionDetails, AccordionSummary, IconButton, Modal, Paper, Typography } from "@mui/material";
 import AddIcon from '@mui/icons-material/Add';
 import WarningIcon from "@mui/icons-material/Warning";
-import EquipmentService from "../services/EquipmentService";
 import { dataToolVersion } from "../pages/data";
 import RuleList from "./components/RuleList";
-import { ISelectedUnit, IUnit } from "../data/interfaces";
+import { ISelectedUnit, IUnit, IUpgradeGainsWeapon } from "../data/interfaces";
 
 import { useMediaQuery } from "react-responsive";
 import FullCompactToggle from "./components/FullCompactToggle";
 import UnitService from "../services/UnitService";
+
+function EquipmentLine({ equipment }: { equipment: IUpgradeGainsWeapon }) {
+  const range = equipment.range ? `${equipment.range}"` : null;
+  const attacks = equipment.attacks ? `A${equipment.attacks}` : null;
+  const rules = equipment.specialRules || [];
+  const parts = [range, attacks].filter(Boolean);
+
+  return (
+    <>
+      {(equipment.count && equipment.count !== 1 ? `${equipment.count}x ` : "")}{equipment.label || equipment.name}
+      {(parts.length > 0 || rules.length > 0) && (
+        <>
+          {" ("}
+          {parts.join(", ")}
+          {parts.length > 0 && rules.length > 0 ? ", " : ""}
+          {rules.length > 0 && <RuleList specialRules={rules} />}
+          {")"}
+        </>
+      )}
+    </>
+  );
+}
 
 export function UnitSelection({ onSelected, addUnit = (unit: IUnit, dummy = false) => { }, mobile = false }) {
 
@@ -143,7 +164,7 @@ export function UnitSelection({ onSelected, addUnit = (unit: IUnit, dummy = fals
                         <div>
                           {u.equipment.map((eqp, i) => (
                             <p key={i}>
-                              {(eqp.count && eqp.count !== 1 ? `${eqp.count}x ` : "") + EquipmentService.formatString(eqp)}{' '}
+                              <EquipmentLine equipment={eqp as IUpgradeGainsWeapon} />
                             </p>
                           ))}
                         </div>

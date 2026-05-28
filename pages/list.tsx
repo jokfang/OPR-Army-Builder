@@ -7,6 +7,7 @@ import { useMediaQuery } from 'react-responsive';
 import MobileView from "../views/listBuilder/MobileView";
 import DesktopView from "../views/listBuilder/DesktopView";
 import { setGameRules } from "../data/armySlice";
+import DictionaryService from "../services/DictionaryService";
 
 export default function List() {
 
@@ -25,25 +26,13 @@ export default function List() {
       return;
     }
 
-    // AF to Web Companion game type mapping
-    const slug = (() => {
-      switch (army.gameSystem) {
-        case "gf": return "grimdark-future";
-        case "gff": return "grimdark-future-firefight";
-        case "aof": return "age-of-fantasy";
-        case "aofs": return "age-of-fantasy-skirmish";
-      }
-    })();
-
-    // Load army rules
-    fetch(`https://opr-list-builder.herokuapp.com/api/content/game-systems/${slug}/special-rules`)
-      .then(res => res.json())
-      .then(res => {
-        const rules = res.map(rule => ({
-          name: rule.name,
-          description: rule.description
-        }));
+    // Load common rule definitions
+    DictionaryService.getRules()
+      .then(rules => {
         dispatch(setGameRules(rules));
+      }, err => {
+        console.error("Failed to load rules dictionary:", err);
+        dispatch(setGameRules([]));
       });
   }, []);
 

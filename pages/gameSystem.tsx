@@ -9,13 +9,14 @@ export default function GameSystem() {
 
   const dispatch = useDispatch();
   const router = useRouter();
-  const isLive = typeof(window) !== "undefined"
-  ? window.location.host === "opr-army-forge.vercel.app" || window.location.host === "army-forge.onepagerules.com"
-  : true;
-
   const gameSystems = ["gf", "gff", "aof", "aofs"];
+  const disabledGameSystems = ["gff", "aofs"];
+  const isGameSystemDisabled = (gameSystem: string) => disabledGameSystems.includes(gameSystem);
 
   const selectGameSystem = (gameSystem: string) => {
+    if (isGameSystemDisabled(gameSystem))
+      return;
+
     dispatch(setGameSystem(gameSystem));
     router?.push({pathname: "/files", query: {...router.query, gameSystem: gameSystem}});
   };
@@ -24,7 +25,7 @@ export default function GameSystem() {
     if (router.query) {
       //console.log(router.query)
       let gameSystem = router.query.gameSystem as string
-      if (gameSystems.includes(gameSystem)) selectGameSystem(gameSystem)
+      if (gameSystems.includes(gameSystem) && !isGameSystemDisabled(gameSystem)) selectGameSystem(gameSystem)
     } 
   }, [])
 
@@ -62,15 +63,26 @@ export default function GameSystem() {
           <div className="columns is-multiline is-mobile">
             {
               // For each game system
-              gameSystems.map(gameSystem => (
+              gameSystems.map(gameSystem => {
+                const disabled = isGameSystemDisabled(gameSystem);
+
+                return (
                 <div key={gameSystem} className="column is-half">
                   <Paper>
-                    <img onClick={() => isLive && gameSystem !== "gf" ? false : selectGameSystem(gameSystem)} src={`img/${gameSystem}_cover.jpg`}
-                      className={"game-system-tile "+ (isLive && gameSystem !== "gf" ? "" : "interactable")}
-                      style={{ borderRadius: "4px", display: "block", filter: isLive && gameSystem !== "gf" ? "grayscale(95%)" : null }} />
+                    <img onClick={disabled ? undefined : () => selectGameSystem(gameSystem)} src={`img/${gameSystem}_cover.jpg`}
+                      aria-disabled={disabled}
+                      className={"game-system-tile "+ (disabled ? "" : "interactable")}
+                      style={{
+                        borderRadius: "4px",
+                        display: "block",
+                        filter: disabled ? "grayscale(95%)" : "none",
+                        opacity: disabled ? 0.45 : 1,
+                        cursor: disabled ? "not-allowed" : "pointer",
+                        pointerEvents: disabled ? "none" : "auto"
+                      }} />
                   </Paper>
                 </div>
-              ))
+              )})
             }
           </div>
         </div>

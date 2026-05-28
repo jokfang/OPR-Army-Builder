@@ -162,7 +162,7 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
             {
               isEdit
                 ? <Button className="mt-4" variant="contained" onClick={() => update()}>Save Changes</Button>
-                : customArmies
+                : army.data
                   ? <Button className="mt-4" variant="contained" onClick={() => create()}>Create List</Button>
                   : (
                     <div className="is-flex is-flex-direction-column is-align-items-center	">
