@@ -13,7 +13,65 @@ export default class DataParsingService {
     return null;
   }
 
+  private static normalizeUpgradeText(text: string): string {
+    const stripArticle = (value: string) => value
+      .trim()
+      .replace(/^l['’]/i, "")
+      .replace(/^(le|la|les|un|une|des|du|de la|de l['’]|d['’])\s+/i, "");
+
+    const normalizeTarget = (value: string) => stripArticle(value)
+      .replace(/\s+et\s+/gi, " and ");
+
+    const normalized = text.trim();
+    const suffix = normalized.endsWith(":") ? ":" : "";
+    const withoutSuffix = suffix ? normalized.slice(0, -1).trim() : normalized;
+
+    const upgradeMatches = [
+      [/^Améliorer avec une des options suivantes$/i, "Upgrade with one"],
+      [/^Améliorer avec l['’]un des suivants$/i, "Upgrade with any"],
+      [/^Améliorer avec$/i, "Upgrade with"],
+      [/^Améliorer tous les modèles avec$/i, "Upgrade all models with"],
+      [/^Améliorer une figurine avec l['’]une des options suivants$/i, "Upgrade one model with one"],
+      [/^Améliorer une figurine avec$/i, "Upgrade one model with"],
+    ];
+
+    for (const [pattern, replacement] of upgradeMatches as [RegExp, string][]) {
+      if (pattern.test(withoutSuffix)) return replacement + suffix;
+    }
+
+    const attachmentMatch = /^Ajouter une option au\s+(.+)$/i.exec(withoutSuffix);
+    if (attachmentMatch) {
+      return `Take one ${normalizeTarget(attachmentMatch[1])} attachment${suffix}`;
+    }
+
+    const replaceMatch = /^Remplacer\s+(.+)$/i.exec(withoutSuffix);
+    if (replaceMatch) {
+      let target = replaceMatch[1].trim();
+      const quantityMatches = [
+        [/^n['’]importe quel(?:le)?s?\s+(.+)$/i, "any"],
+        [/^tous les\s+(.+)$/i, "all"],
+        [/^toutes les\s+(.+)$/i, "all"],
+        [/^jusqu['’]à deux\s+(.+)$/i, "up to two"],
+        [/^un\s+(.+)$/i, "one"],
+        [/^une\s+(.+)$/i, "one"],
+      ];
+
+      for (const [pattern, quantity] of quantityMatches as [RegExp, string][]) {
+        const match = pattern.exec(target);
+        if (match) {
+          return `Replace ${quantity} ${normalizeTarget(match[1])}${suffix}`;
+        }
+      }
+
+      return `Replace ${normalizeTarget(target)}${suffix}`;
+    }
+
+    return text;
+  }
+
   public static parseUpgradeText(text: string): IUpgrade {
+    text = this.normalizeUpgradeText(text);
+
     // Start with some specific cases...
     const mountMatch = /mount on/i.test(text);
     if (mountMatch)

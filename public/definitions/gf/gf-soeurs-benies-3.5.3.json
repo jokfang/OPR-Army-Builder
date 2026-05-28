@@ -24,7 +24,7 @@
       ]
     },
     {
-      "name": "Conduit de Sort",
+      "name": "Canalisateur de sort",
       "keywords": [
         "Spell Conduit"
       ]
@@ -60,19 +60,19 @@
       ]
     },
     {
-      "name": "Dechiquetage en mêlée",
+      "name": "Lacération en mêlée",
       "keywords": [
         "Shred in Melee"
       ]
     },
     {
-      "name": "Désintegration",
+      "name": "Désintégration",
       "keywords": [
         "Disintegrate"
       ]
     },
     {
-      "name": "Bonus de Combattant precis",
+      "name": "Bonus de Combattant précis",
       "keywords": [
         "Precision Fighter Buff"
       ]
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Assaut perforant",
+      "name": "Assaut perçant",
       "keywords": [
         "Piercing Assault"
       ]
@@ -114,19 +114,19 @@
       ]
     },
     {
-      "name": "Ignore Regeneration",
+      "name": "Ignore la Régénération",
       "keywords": [
         "Ignores Regeneration"
       ]
     },
     {
-      "name": "Defense",
+      "name": "Défense",
       "keywords": [
         "Defense"
       ]
     },
     {
-      "name": "Perforation à bout portant",
+      "name": "Perçant bout portant",
       "keywords": [
         "Point-Blank Piercing"
       ]
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "Chasseur perforant",
+      "name": "Chasseur perçant",
       "keywords": [
         "Piercing Hunter"
       ]
@@ -146,7 +146,7 @@
   ],
   "auraSpecialRules": [
     {
-      "name": "Aura de rapiditée",
+      "name": "Aura de rapidité",
       "keywords": [
         "Fast Aura"
       ]
@@ -164,13 +164,13 @@
       ]
     },
     {
-      "name": "Aura de Fortification",
+      "name": "Aura de Renforcement",
       "keywords": [
         "Fortified Aura"
       ]
     },
     {
-      "name": "Aura de perforation à bout portant",
+      "name": "Aura de Perçant à bout portant",
       "keywords": [
         "Point-Blank Piercing Aura"
       ]
@@ -196,7 +196,7 @@
   ],
   "armySpells": [
     {
-      "name": "Brulez les hérétiques",
+      "name": "Brûlez les hérétiques",
       "cost": 1,
       "keywords": [
         "Burn the Heretic"
@@ -240,7 +240,7 @@
   ],
   "units": [
     {
-      "name": "Exo-Suit Haute soeur",
+      "name": "Sœur supérieure en exo-armure",
       "size": 1,
       "cost": 185,
       "page": 0,
@@ -248,7 +248,7 @@
       "quality": "4+",
       "defense": "3+",
       "tough": "9",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Effrayant (2)",
         "Héros",
@@ -257,14 +257,14 @@
       ],
       "weapons": [
         {
-          "name": "Great Energy Sword",
+          "name": "Grande épée énergétique",
           "range": "-",
           "attacks": "A6",
           "ap": "2",
           "special": "Perforant"
         },
         {
-          "name": "Stomp",
+          "name": "Piétinement",
           "range": "-",
           "attacks": "A3",
           "ap": "1",
@@ -273,80 +273,80 @@
       ],
       "upgrades": [
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Blessed Flamer",
-              "details": "12\", A1, Explosion (3), Désintegration, Fiable",
+              "name": "Lance-flammes béni",
+              "details": "12\", A1, Explosion (3), Désintégration, Fiable",
               "cost": "+30pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+40pts"
             },
             {
-              "name": "Super-Heavy Fusion Rifle",
+              "name": "Fusil à fusion super lourd",
               "details": "18\", A1, PA (4), Mortel (6)",
               "cost": "+70pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "GL-Mod",
+              "name": "Module Lance-grenades",
               "details": "24\", A1, Explosion (3)",
               "cost": "+20pts"
             },
             {
-              "name": "Storm-Mod",
+              "name": "Module Tempête",
               "details": "18\", A3, PA (1)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Upgrade with",
+          "type": "Améliorer avec",
           "options": [
             {
-              "name": "Backpack Missiles",
+              "name": "Missiles dorsaux",
               "details": "24\", A1, PA (1), Explosion (3), Indirect",
               "cost": "+45pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Superior",
+              "name": "Supérieure",
               "details": "Boost de Dévotion",
               "cost": "+5pts"
             },
             {
-              "name": "Priestess",
-              "details": "Dechiquetage en mêlée",
+              "name": "Prêtresse",
+              "details": "Lacération en mêlée",
               "cost": "+20pts"
             },
             {
-              "name": "Abbess",
+              "name": "Abbesse",
               "details": "Rapide",
               "cost": "+25pts"
             },
             {
-              "name": "Reverend",
+              "name": "Révérende",
               "details": "Renforcé",
               "cost": "+25pts"
             },
             {
-              "name": "Witch",
+              "name": "Sorcière",
               "details": "Lanceur de sorts (2)",
               "cost": "+40pts"
             },
             {
-              "name": "Master Witch",
+              "name": "Maîtresse sorcière",
               "details": "Lanceur de sorts (3)",
               "cost": "+60pts"
             }
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "name": "High Destroyer Sister",
+      "name": "Sœur supérieure destroyer",
       "size": 1,
       "cost": 85,
       "page": 0,
@@ -363,7 +363,7 @@
       "quality": "4+",
       "defense": "4+",
       "tough": "6",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Embuscade",
         "Héros",
@@ -372,7 +372,7 @@
       ],
       "weapons": [
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A4",
           "ap": "-",
@@ -381,75 +381,75 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Combat Shield and CCW",
+          "type": "Remplacer le Bouclier de combat et ACC",
           "options": [
             {
-              "name": "Dual Energy Claws",
+              "name": "Paire de griffes énergétiques",
               "details": "A8, Perforant",
               "cost": "+30pts"
             },
             {
-              "name": "Rapid Storm Rifle",
+              "name": "Fusil Tempête rapide",
               "details": "24\", A6, PA (1)",
               "cost": "+40pts"
             }
           ]
         },
         {
-          "type": "Replace CCW",
+          "type": "Remplacer ACC",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A4, PA (1), Perforant",
               "cost": "+15pts"
             },
             {
-              "name": "Heavy Mace",
+              "name": "Masse lourde",
               "details": "A2, PA (2), Explosion (3)",
               "cost": "+20pts"
             },
             {
-              "name": "Chain-Fist",
+              "name": "Poing tronçonneur",
               "details": "A2, PA (2), Mortel (3)",
               "cost": "+20pts"
             },
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A4, PA (4)",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Superior",
+              "name": "Supérieure",
               "details": "Aura de Boost de Dévotion",
               "cost": "+15pts"
             },
             {
-              "name": "Priestess",
+              "name": "Prêtresse",
               "details": "Aura de Lacération en mêlée",
               "cost": "+30pts"
             },
             {
-              "name": "Abbess",
-              "details": "Aura de rapiditée",
+              "name": "Abbesse",
+              "details": "Aura de rapidité",
               "cost": "+30pts"
             },
             {
-              "name": "Witch",
+              "name": "Sorcière",
               "details": "Lanceur de sorts (2)",
               "cost": "+40pts"
             },
             {
-              "name": "Canoness",
-              "details": "Aura de perforation à bout portant",
+              "name": "Chanoinesse",
+              "details": "Aura de Perçant à bout portant",
               "cost": "+50pts"
             },
             {
-              "name": "Master Witch",
+              "name": "Maîtresse Sorcière",
               "details": "Lanceur de sorts (3)",
               "cost": "+60pts"
             }
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "name": "Celestial High Sister",
+      "name": "Sœur céleste supérieure",
       "size": 1,
       "cost": 40,
       "page": 0,
@@ -466,7 +466,7 @@
       "quality": "3+",
       "defense": "4+",
       "tough": "3",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Héros",
         "Coriace (3)",
@@ -474,7 +474,7 @@
       ],
       "weapons": [
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -483,185 +483,185 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Combat Shield and CCW",
+          "type": "Remplacer le Bouclier de combat et ACC",
           "options": [
             {
-              "name": "Heavy Chainsaw Sword",
+              "name": "Épée tronçonneuse lourde",
               "details": "A4, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Holy Spear",
+              "name": "Sainte lance",
               "details": "A4, PA (2), Fiable",
               "cost": "+50pts"
             }
           ]
         },
         {
-          "type": "Replace Combat Shield",
+          "type": "Remplacer le Bouclier de combat",
           "options": [
             {
-              "name": "Flamer Pistol",
+              "name": "Pistolet lance-flamme",
               "details": "6\", A1, Explosion (3), Fiable",
               "cost": "+5pts"
             },
             {
-              "name": "Master Heavy Pistol",
+              "name": "Pistolet lourd de maître",
               "details": "12\", A2, PA (1)",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shotgun",
+              "name": "Fusil à pompe de maître",
               "details": "12\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shred Pistol",
+              "name": "Pistolet lacérateur de maître",
               "details": "9\", A4, Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Master Plasma Pistol",
+              "name": "Pistolet à plasma de maître",
               "details": "12\", A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Master Heavy Rifle",
+              "name": "Fusil lourd de maître",
               "details": "24\", A2, PA (1)",
               "cost": "+10pts"
             },
             {
-              "name": "Master Plasma Rifle",
+              "name": "Fusil à plasma de maître",
               "details": "24\", A2, PA (4)",
               "cost": "+30pts"
             },
             {
-              "name": "Master Flamer Sniper Rifle",
-              "details": "18\", A3, Désintegration, Fiable, Élimination",
+              "name": "Fusil sniper lance-flamme de maître",
+              "details": "18\", A3, Désintégration, Fiable, Élimination",
               "cost": "+50pts"
             },
             {
-              "name": "Master Storm Rifle",
+              "name": "Fusil Tempête de maître",
               "details": "24\", A4, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Take one Master Heavy Rifle attachment",
+          "type": "Ajouter une option au Fusil lourd de maître",
           "options": [
             {
-              "name": "Flamer-Mod",
+              "name": "Module lance-flamme",
               "details": "12\", A1, Explosion (3), Fiable, Limité",
               "cost": "+5pts"
             },
             {
-              "name": "Plasma-Mod",
+              "name": "Module lance-plasma",
               "details": "24\", A1, PA (4), Limité",
-              "cost": "Free"
+              "cost": "Gratuit"
             },
             {
-              "name": "Crossbow-Mod",
+              "name": "Module arbalète",
               "details": "24\", A1, PA (1), Limité, Fiable, Élimination",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion-Mod",
+              "name": "Module fusion",
               "details": "12\", A1, PA (4), Mortel (3), Limité",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one CCW",
+          "type": "Remplacer ACC",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A2, PA (1), Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Mace",
+              "name": "Masse lourde",
               "details": "A1, PA (2), Explosion (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Chain-Fist",
+              "name": "Poing tronçonneur",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Procession Sword",
+              "name": "Épée de procession",
               "details": "A2, PA (1), Perforant, Fiable",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Vanguard",
+              "name": "Avant-garde",
               "details": "Éclaireur, Arpenteur",
               "cost": "+10pts"
             },
             {
-              "name": "Jetpack",
+              "name": "Réacteur dorsal",
               "details": "Embuscade, Volant",
               "cost": "+10pts"
             },
             {
-              "name": "Holy Wings",
+              "name": "Ailes bénies",
               "details": "Volant, Embuscade, Coriace (3)",
               "cost": "+75pts"
             },
             {
-              "name": "Combat Bike",
+              "name": "Moto de combat",
               "details": "Rapide, Coriace (3)",
               "cost": "+65pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Reverend",
-              "details": "Aura de Fortification",
+              "name": "Révérende",
+              "details": "Aura de Renforcement",
               "cost": "+10pts"
             },
             {
-              "name": "Superior",
+              "name": "Supérieure",
               "details": "Aura de Boost de Dévotion",
               "cost": "+15pts"
             },
             {
-              "name": "Priestess",
+              "name": "Prêtresse",
               "details": "Aura de Lacération en mêlée",
               "cost": "+30pts"
             },
             {
-              "name": "Witch",
+              "name": "Sorcière",
               "details": "Lanceur de sorts (2)",
               "cost": "+40pts"
             },
             {
-              "name": "Canoness",
-              "details": "Aura de perforation à bout portant",
+              "name": "Chanoinesse",
+              "details": "Aura de Perçant à bout portant",
               "cost": "+50pts"
             },
             {
-              "name": "Master Witch",
+              "name": "Maîtresse Sorcière",
               "details": "Lanceur de sorts (3)",
               "cost": "+60pts"
             }
@@ -670,7 +670,7 @@
       ]
     },
     {
-      "name": "High Sister",
+      "name": "Sœur supérieure",
       "size": 1,
       "cost": 35,
       "page": 0,
@@ -678,7 +678,7 @@
       "quality": "4+",
       "defense": "4+",
       "tough": "3",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Héros",
         "Coriace (3)",
@@ -686,7 +686,7 @@
       ],
       "weapons": [
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -695,185 +695,185 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Combat Shield and CCW",
+          "type": "Remplacer le Bouclier de combat et ACC",
           "options": [
             {
-              "name": "Heavy Chainsaw Sword",
+              "name": "Épée tronçonneuse lourde",
               "details": "A4, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Holy Spear",
+              "name": "Sainte lance",
               "details": "A4, PA (2), Fiable",
               "cost": "+50pts"
             }
           ]
         },
         {
-          "type": "Replace Combat Shield",
+          "type": "Remplacer le Bouclier de combat",
           "options": [
             {
-              "name": "Flamer Pistol",
+              "name": "Pistolet lance-flamme",
               "details": "6\", A1, Explosion (3), Fiable",
               "cost": "+5pts"
             },
             {
-              "name": "Master Heavy Pistol",
+              "name": "Pistolet lourd de maître",
               "details": "12\", A2, PA (1)",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shotgun",
+              "name": "Fusil à pompe de maître",
               "details": "12\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shred Pistol",
+              "name": "Pistolet lacérateur de maître",
               "details": "9\", A4, Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Master Plasma Pistol",
+              "name": "Pistolet à plasma de maître",
               "details": "12\", A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Master Heavy Rifle",
+              "name": "Fusil lourd de maître",
               "details": "24\", A2, PA (1)",
               "cost": "+10pts"
             },
             {
-              "name": "Master Plasma Rifle",
+              "name": "Fusil à plasma de maître",
               "details": "24\", A2, PA (4)",
               "cost": "+30pts"
             },
             {
-              "name": "Master Flamer Sniper Rifle",
-              "details": "18\", A3, Désintegration, Fiable, Élimination",
+              "name": "Fusil sniper lance-flamme de maître",
+              "details": "18\", A3, Désintégration, Fiable, Élimination",
               "cost": "+50pts"
             },
             {
-              "name": "Master Storm Rifle",
+              "name": "Fusil Tempête de maître",
               "details": "24\", A4, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Take one Master Heavy Rifle attachment",
+          "type": "Ajouter une option au Fusil lourd de maître",
           "options": [
             {
-              "name": "Flamer-Mod",
+              "name": "Module lance-flamme",
               "details": "12\", A1, Explosion (3), Fiable, Limité",
               "cost": "+5pts"
             },
             {
-              "name": "Plasma-Mod",
+              "name": "Module lance-plasma",
               "details": "24\", A1, PA (4), Limité",
-              "cost": "Free"
+              "cost": "Gratuit"
             },
             {
-              "name": "Crossbow-Mod",
+              "name": "Module arbalète",
               "details": "24\", A1, PA (1), Limité, Fiable, Élimination",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion-Mod",
+              "name": "Module fusion",
               "details": "12\", A1, PA (4), Mortel (3), Limité",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one CCW",
+          "type": "Remplacer un ACC",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A2, PA (1), Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Mace",
+              "name": "Masse lourde",
               "details": "A1, PA (2), Explosion (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Chain-Fist",
+              "name": "Poing tronçonneur",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Procession Sword",
+              "name": "Épée de procession",
               "details": "A2, PA (1), Perforant, Fiable",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Vanguard",
+              "name": "Avant-garde",
               "details": "Éclaireur, Arpenteur",
               "cost": "+10pts"
             },
             {
-              "name": "Jetpack",
+              "name": "Réacteur dorsal",
               "details": "Embuscade, Volant",
               "cost": "+10pts"
             },
             {
-              "name": "Holy Wings",
+              "name": "Ailes bénies",
               "details": "Volant, Embuscade, Coriace (3)",
               "cost": "+75pts"
             },
             {
-              "name": "Combat Bike",
+              "name": "Moto de combat",
               "details": "Rapide, Coriace (3)",
               "cost": "+65pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Reverend",
-              "details": "Aura de Fortification",
+              "name": "Révérende",
+              "details": "Aura de Renforcement",
               "cost": "+10pts"
             },
             {
-              "name": "Superior",
+              "name": "Supérieure",
               "details": "Aura de Boost de Dévotion",
               "cost": "+15pts"
             },
             {
-              "name": "Priestess",
+              "name": "Prêtresse",
               "details": "Aura de Lacération en mêlée",
               "cost": "+30pts"
             },
             {
-              "name": "Witch",
+              "name": "Sorcière",
               "details": "Lanceur de sorts (2)",
               "cost": "+40pts"
             },
             {
-              "name": "Canoness",
-              "details": "Aura de perforation à bout portant",
+              "name": "Chanoinesse",
+              "details": "Aura de Perçant à bout portant",
               "cost": "+50pts"
             },
             {
-              "name": "Master Witch",
+              "name": "Maîtresse Sorcière",
               "details": "Lanceur de sorts (3)",
               "cost": "+60pts"
             }
@@ -882,7 +882,7 @@
       ]
     },
     {
-      "name": "Fanatic Superior",
+      "name": "Supérieure fanatique",
       "size": 1,
       "cost": 30,
       "page": 0,
@@ -890,17 +890,17 @@
       "quality": "5+",
       "defense": "5+",
       "tough": "3",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Dévotion",
         "Sans peur",
         "Héros",
-        "Assaut perforant",
+        "Assaut perçant",
         "Coriace (3)"
       ],
       "weapons": [
         {
-          "name": "Dual Shock Whip",
+          "name": "Double fouet à choc",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -909,61 +909,61 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Dual Shock Whip",
+          "type": "Remplacer le Double fouet à choc",
           "options": [
             {
-              "name": "Dual Plasma Whip",
+              "name": "Double fouet à plasma",
               "details": "A2, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Dual Force Whip",
+              "name": "Double fouet de force",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Superior Chainsaw Sword",
+              "name": "Épée tronçonneuse de Supérieure",
               "details": "A4, PA (1), Perforant",
               "cost": "+15pts"
             }
           ]
         },
         {
-          "type": "Upgrade with",
+          "type": "Améliorer avec",
           "options": [
             {
-              "name": "Flagellant",
+              "name": "Flagellante",
               "details": "Régénération",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Reverend",
-              "details": "Aura de Fortification",
+              "name": "Révérende",
+              "details": "Aura de Renforcement",
               "cost": "+10pts"
             },
             {
-              "name": "Deacon",
-              "details": "Conduit de Sort",
+              "name": "Diacre",
+              "details": "Canalisateur de sort",
               "cost": "+15pts"
             },
             {
-              "name": "Superior",
+              "name": "Supérieure",
               "details": "Aura de Boost de Dévotion",
               "cost": "+15pts"
             },
             {
-              "name": "Priestess",
+              "name": "Prêtresse",
               "details": "Aura de Lacération en mêlée",
               "cost": "+30pts"
             },
             {
-              "name": "Abbess",
-              "details": "Aura de rapiditée",
+              "name": "Abbesse",
+              "details": "Aura de rapidité",
               "cost": "+30pts"
             }
           ]
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "name": "Novice Leader",
+      "name": "Meneuse de Novices",
       "size": 1,
       "cost": 20,
       "page": 0,
@@ -979,7 +979,7 @@
       "quality": "5+",
       "defense": "6+",
       "tough": "3",
-      "unitType": "Héro",
+      "unitType": "Héros",
       "specialRules": [
         "Dévotion",
         "Héros",
@@ -987,7 +987,7 @@
       ],
       "weapons": [
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -996,161 +996,156 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Combat Shield and CCW",
+          "type": "Remplacer le Bouclier de combat et ACC",
           "options": [
             {
-              "name": "Heavy Chainsaw Sword",
+              "name": "Épée tronçonneuse lourde",
               "details": "A4, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Holy Spear",
+              "name": "Sainte lance",
               "details": "A4, PA (2), Fiable",
               "cost": "+50pts"
             }
           ]
         },
         {
-          "type": "Replace Combat Shield",
+          "type": "Remplacer le Bouclier de combat",
           "options": [
             {
-              "name": "Flamer Pistol",
+              "name": "Pistolet lance-flamme",
               "details": "6\", A1, Explosion (3), Fiable",
               "cost": "+5pts"
             },
             {
-              "name": "Master Heavy Pistol",
+              "name": "Pistolet lourd de maître",
               "details": "12\", A2, PA (1)",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shotgun",
+              "name": "Fusil à pompe de maître",
               "details": "12\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Master Shred Pistol",
+              "name": "Pistolet lacérateur de maître",
               "details": "9\", A4, Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Master Plasma Pistol",
+              "name": "Pistolet à plasma de maître",
               "details": "12\", A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Master Heavy Rifle",
-              "details": "24\", A2, PA (1)",
-              "cost": "+10pts"
-            },
-            {
-              "name": "Master Plasma Rifle",
+              "name": "Fusil à plasma de maître",
               "details": "24\", A2, PA (4)",
               "cost": "+30pts"
             },
             {
-              "name": "Master Flamer Sniper Rifle",
-              "details": "18\", A3, Désintegration, Fiable, Élimination",
+              "name": "Fusil sniper lance-flamme de maître",
+              "details": "18\", A3, Désintégration, Fiable, Élimination",
               "cost": "+50pts"
             },
             {
-              "name": "Master Storm Rifle",
+              "name": "Fusil Tempête de maître",
               "details": "24\", A4, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Take one Master Heavy Rifle attachment",
+          "type": "Ajouter une option au Fusil lourd de maître",
           "options": [
             {
-              "name": "Flamer-Mod",
+              "name": "Module lance-flamme",
               "details": "12\", A1, Explosion (3), Fiable, Limité",
               "cost": "+5pts"
             },
             {
-              "name": "Plasma-Mod",
+              "name": "Module lance-plasma",
               "details": "24\", A1, PA (4), Limité",
-              "cost": "Free"
+              "cost": "Gratuit"
             },
             {
-              "name": "Crossbow-Mod",
+              "name": "Module arbalète",
               "details": "24\", A1, PA (1), Limité, Fiable, Élimination",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion-Mod",
+              "name": "Module fusion",
               "details": "12\", A1, PA (4), Mortel (3), Limité",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one CCW",
+          "type": "Remplacer ACC",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A2, PA (1), Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Mace",
+              "name": "Masse lourde",
               "details": "A1, PA (2), Explosion (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Chain-Fist",
+              "name": "Poing tronçonneur",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Procession Sword",
+              "name": "Épée de procession",
               "details": "A2, PA (1), Perforant, Fiable",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Reverend",
-              "details": "Aura de Fortification",
+              "name": "Révérende",
+              "details": "Aura de Renforcement",
               "cost": "+10pts"
             },
             {
-              "name": "Deacon",
-              "details": "Conduit de Sort",
+              "name": "Diacre",
+              "details": "Canalisateur de sort",
               "cost": "+15pts"
             },
             {
-              "name": "Priestess",
+              "name": "Prêtresse",
               "details": "Aura de Lacération en mêlée",
               "cost": "+30pts"
             },
             {
-              "name": "Abbess",
-              "details": "Aura de rapiditée",
+              "name": "Abbesse",
+              "details": "Aura de rapidité",
               "cost": "+30pts"
             },
             {
-              "name": "Witch",
+              "name": "Sorcière",
               "details": "Lanceur de sorts (2)",
               "cost": "+40pts"
             },
             {
-              "name": "Canoness",
-              "details": "Aura de perforation à bout portant",
+              "name": "Chanoinesse",
+              "details": "Aura de Perçant à bout portant",
               "cost": "+50pts"
             }
           ]
@@ -1158,7 +1153,7 @@
       ]
     },
     {
-      "name": "Novice Sisters",
+      "name": "Sœurs Novices",
       "size": 10,
       "cost": 85,
       "page": 0,
@@ -1172,7 +1167,7 @@
       ],
       "weapons": [
         {
-          "name": "Dual CCWs",
+          "name": "ACC doubles",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -1181,55 +1176,55 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Dual CCWs",
+          "type": "Remplacer tous les ACC doubles",
           "options": [
             {
-              "name": "Rifle",
+              "name": "Fusil",
               "details": "24\", A1",
               "cost": "+30pts"
             },
             {
-              "name": "Pistol",
+              "name": "Pistolet",
               "details": "12\", A1",
               "cost": "+30pts"
             },
             {
-              "name": "Great Weapon",
+              "name": "Arme de poing lourde",
               "details": "A2, PA (1)",
               "cost": "+25pts"
             }
           ]
         },
         {
-          "type": "Replace up to two Pistols",
+          "type": "Remplacer jusqu'à deux Pistolets",
           "options": [
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with one",
+          "type": "Améliorer une figurine avec l'une des options suivants",
           "options": [
             {
-              "name": "Sacred Banner",
+              "name": "Bannière Sacrée",
               "details": "Aura de Courage",
               "cost": "+10pts"
             },
             {
-              "name": "Canticle Megaphone",
+              "name": "Mégaphone de Cantique",
               "details": "Cible désignée (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Medical Training",
+              "name": "Entraînement Médical",
               "details": "Aura de Régénération",
               "cost": "+40pts"
             }
@@ -1238,7 +1233,7 @@
       ]
     },
     {
-      "name": "Fanatic Sisters",
+      "name": "Sœurs Fanatiques",
       "size": 5,
       "cost": 85,
       "page": 0,
@@ -1250,11 +1245,11 @@
       "specialRules": [
         "Sans peur",
         "Dévotion",
-        "Assaut perforant"
+        "Assaut perçant"
       ],
       "weapons": [
         {
-          "name": "Chainsaw Sword",
+          "name": "Épée tronçonneuse",
           "range": "-",
           "attacks": "A2",
           "ap": "1",
@@ -1263,20 +1258,20 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Chainsaw Swords",
+          "type": "Remplacer toutes les Épées tronçonneuses",
           "options": [
             {
-              "name": "Dual Arc-Flails",
+              "name": "Double fouet à arc",
               "details": "A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Upgrade all models with",
+          "type": "Améliorer tous les modèles avec",
           "options": [
             {
-              "name": "Flagellants",
+              "name": "Flagellantes",
               "details": "Régénération",
               "cost": "+15pts"
             }
@@ -1285,7 +1280,7 @@
       ]
     },
     {
-      "name": "Warrior Sisters",
+      "name": "Sœurs Guerrières",
       "size": 5,
       "cost": 110,
       "page": 0,
@@ -1299,14 +1294,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Rifle",
+          "name": "Fusil lourd",
           "range": "24\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -1315,100 +1310,100 @@
       ],
       "upgrades": [
         {
-          "type": "Replace one Heavy Rifle",
+          "type": "Remplacer un Fusil lourd",
           "options": [
             {
-              "name": "Plasma Rifle",
+              "name": "Fusil à plasma",
               "details": "24\", A1, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Shred Rifle",
+              "name": "Fusil lacérateur",
               "details": "18\", A2, Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Blessed Flamer",
-              "details": "12\", A1, Explosion (3), Désintegration, Fiable",
+              "name": "Lance-flammes béni",
+              "details": "12\", A1, Explosion (3), Désintégration, Fiable",
               "cost": "+15pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+25pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Rifle and CCW",
+          "type": "Remplacer un Fusil lourd et l'ACC",
           "options": [
             {
-              "name": "Sgt. Heavy Pistol",
+              "name": "Pistolet lourd de Sergent",
               "details": "12\", A1, PA (1)",
-              "cost": "Free"
+              "cost": "Gratuit"
             }
           ]
         },
         {
-          "type": "Replace Sgt. Heavy Pistol",
+          "type": "Remplacer le Pistolet lourd de Sergent",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Shred Pistol",
+              "name": "Pistolet lacérateur",
               "details": "9\", A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace Energy Sword",
+          "type": "Remplacer l'Épée énergétique",
           "options": [
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with one",
+          "type": "Améliorer une figurine avec l'une des options suivants",
           "options": [
             {
-              "name": "Sacred Banner",
+              "name": "Bannière Sacrée",
               "details": "Aura de Courage",
               "cost": "+10pts"
             },
             {
-              "name": "Canticle Megaphone",
+              "name": "Mégaphone de Cantique",
               "details": "Cible désignée (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Medical Training",
+              "name": "Entraînement Médical",
               "details": "Aura de Régénération",
               "cost": "+40pts"
             }
@@ -1417,7 +1412,7 @@
       ]
     },
     {
-      "name": "Vanguard Sisters",
+      "name": "Sœurs d'Avant-garde",
       "size": 5,
       "cost": 135,
       "page": 0,
@@ -1433,14 +1428,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Rifle",
+          "name": "Fusil lourd",
           "range": "24\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -1449,85 +1444,85 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Heavy Rifles",
+          "type": "Remplacer tous les Fusils lourds",
           "options": [
             {
-              "name": "Shotgun",
+              "name": "Fusil à pompe",
               "details": "12\", A2, PA (1)",
-              "cost": "Free"
+              "cost": "Gratuit"
             }
           ]
         },
         {
-          "type": "Replace up to two Heavy Rifles",
+          "type": "Remplacer jusqu'à deux Fusils lourds",
           "options": [
             {
-              "name": "Plasma Rifle",
+              "name": "Fusil à plasma",
               "details": "24\", A1, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Shred Rifle",
+              "name": "Fusil lacérateur",
               "details": "18\", A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Rifle",
+          "type": "Remplacer un Fusil lourd",
           "options": [
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Flamer Sniper Rifle",
-              "details": "18\", A2, Désintegration, Fiable, Élimination",
+              "name": "Fusil sniper lance-flamme",
+              "details": "18\", A2, Désintégration, Fiable, Élimination",
               "cost": "+25pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Rifle and CCW",
+          "type": "Remplacer un Fusil lourd et l'ACC",
           "options": [
             {
-              "name": "Sgt. Heavy Pistol",
+              "name": "Pistolet lourd de Sergent",
               "details": "12\", A1, PA (1)",
-              "cost": "Free"
+              "cost": "Gratuit"
             }
           ]
         },
         {
-          "type": "Replace Sgt. Heavy Pistol",
+          "type": "Remplacer le Pistolet lourd de Sergent",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Shred Pistol",
+              "name": "Pistolet lacérateur",
               "details": "9\", A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace Energy Sword",
+          "type": "Remplacer l'Épée énergétique",
           "options": [
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             }
@@ -1536,7 +1531,7 @@
       ]
     },
     {
-      "name": "Protector Sisters",
+      "name": "Sœurs Protectrices",
       "size": 5,
       "cost": 135,
       "page": 0,
@@ -1551,14 +1546,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Pistol",
+          "name": "Pistolet lourd",
           "range": "12\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "Halberd",
+          "name": "Hallebarde",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -1567,85 +1562,85 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Halberds and Heavy Pistols",
+          "type": "Remplacer toutes les Hallebardes et Pistolets lourds",
           "options": [
             {
-              "name": "Procession Sword",
+              "name": "Épée de procession",
               "details": "A2, PA (1), Perforant, Fiable",
               "cost": "+40pts"
             }
           ]
         },
         {
-          "type": "Replace all Halberds",
+          "type": "Remplacer toutes les Hallebardes",
           "options": [
             {
-              "name": "Spear",
+              "name": "Lance",
               "details": "A2, Contre-charge",
               "cost": "+15pts"
             },
             {
-              "name": "Mace",
+              "name": "Masse",
               "details": "A2, PA (2)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Replace one Halberd",
+          "type": "Remplacer une Hallebarde",
           "options": [
             {
-              "name": "Sacred Spear",
+              "name": "Lance Sacrée",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Pistol",
+          "type": "Remplacer un Pistolet lourd",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Blessed Flamer Pistol",
-              "details": "6\", A1, Explosion (3), Fiable, Désintegration",
+              "name": "Pistolet lance-flamme béni",
+              "details": "6\", A1, Explosion (3), Fiable, Désintégration",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with",
+          "type": "Améliorer une figurine avec",
           "options": [
             {
-              "name": "Procession Banner",
+              "name": "Bannière de Procession",
               "details": "Effrayant (2)",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with one",
+          "type": "Améliorer une figurine avec l'une des options suivants",
           "options": [
             {
-              "name": "Sacred Banner",
+              "name": "Bannière Sacrée",
               "details": "Aura de Courage",
               "cost": "+10pts"
             },
             {
-              "name": "Canticle Megaphone",
+              "name": "Mégaphone de Cantique",
               "details": "Cible désignée (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Medical Training",
+              "name": "Entraînement Médical",
               "details": "Aura de Régénération",
               "cost": "+40pts"
             }
@@ -1654,7 +1649,7 @@
       ]
     },
     {
-      "name": "Pistoleer Sisters",
+      "name": "Sœurs Pistoletières",
       "size": 5,
       "cost": 145,
       "page": 0,
@@ -1671,14 +1666,14 @@
       ],
       "weapons": [
         {
-          "name": "Twin Heavy Pistol",
+          "name": "Pistolet lourd double",
           "range": "12\"",
           "attacks": "A2",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -1687,50 +1682,50 @@
       ],
       "upgrades": [
         {
-          "type": "Replace up to two Twin Heavy Pistols",
+          "type": "Remplacer jusqu'à deux Pistolets lourds doubles",
           "options": [
             {
-              "name": "Twin Light Blessed Flamer Pistols",
-              "details": "6\", A2, Fiable, Désintegration",
-              "cost": "+-5pts"
+              "name": "Pistolet lance-flammes béni léger double",
+              "details": "6\", A2, Fiable, Désintégration",
+              "cost": "-5pts"
             },
             {
-              "name": "Twin Light Fusion Pistols",
+              "name": "Pistolets à fusion légers doubles",
               "details": "6\", A2, PA (4)",
-              "cost": "Free"
+              "cost": "Gratuit"
             },
             {
-              "name": "Twin Light Plasma Pistols",
+              "name": "Pistolets à plasma légers doubles",
               "details": "12\", A2, PA (2)",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace one Twin Heavy Pistols and CCW",
+          "type": "Remplacer un Pistolet lourd double et l'ACC",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A2, PA (1), Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace Sgt. Heavy Pistol",
+          "type": "Remplacer le Pistolet lourd de Sergent",
           "options": [
             {
-              "name": "Flamer Pistol",
+              "name": "Pistolet lance-flamme",
               "details": "6\", A1, Explosion (3), Fiable",
               "cost": "+5pts"
             },
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             }
@@ -1739,7 +1734,7 @@
       ]
     },
     {
-      "name": "Assault Sisters",
+      "name": "Sœurs d'Assaut",
       "size": 5,
       "cost": 175,
       "page": 0,
@@ -1755,14 +1750,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Pistol",
+          "name": "Pistolet lourd",
           "range": "12\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "Energy Sword",
+          "name": "Épée énergétique",
           "range": "-",
           "attacks": "A2",
           "ap": "1",
@@ -1771,21 +1766,21 @@
       ],
       "upgrades": [
         {
-          "type": "Replace one Heavy Pistol",
+          "type": "Remplacer un Pistolet lourd",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Fusion Pistol",
+              "name": "Pistolet à fusion",
               "details": "6\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Blessed Flamer Pistol",
-              "details": "6\", A1, Explosion (3), Fiable, Désintegration",
+              "name": "Pistolet lance-flamme béni",
+              "details": "6\", A1, Explosion (3), Fiable, Désintégration",
               "cost": "+5pts"
             }
           ]
@@ -1793,7 +1788,7 @@
       ]
     },
     {
-      "name": "Celestial Warrior Sisters",
+      "name": "Sœurs Guerrières Célestes",
       "size": 3,
       "cost": 80,
       "page": 0,
@@ -1807,14 +1802,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Rifle",
+          "name": "Fusil lourd",
           "range": "24\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -1823,100 +1818,100 @@
       ],
       "upgrades": [
         {
-          "type": "Replace any Heavy Rifle",
+          "type": "Remplacer n'importe quel Fusil lourd",
           "options": [
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+10pts"
             },
             {
-              "name": "Shred Rifle",
+              "name": "Fusil lacérateur",
               "details": "18\", A2, Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Plasma Rifle",
+              "name": "Fusil à plasma",
               "details": "24\", A1, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Blessed Flamer",
-              "details": "12\", A1, Explosion (3), Désintegration, Fiable",
+              "name": "Lance-flammes béni",
+              "details": "12\", A1, Explosion (3), Désintégration, Fiable",
               "cost": "+15pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+25pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Rifle and CCW",
+          "type": "Remplacer un Fusil lourd et l'ACC",
           "options": [
             {
-              "name": "Sgt. Heavy Pistol",
+              "name": "Pistolet lourd de Sergent",
               "details": "12\", A1, PA (1)",
-              "cost": "Free"
+              "cost": "Gratuit"
             }
           ]
         },
         {
-          "type": "Replace Sgt. Heavy Pistol",
+          "type": "Remplacer le Pistolet lourd de Sergent",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Shred Pistol",
+              "name": "Pistolet lacérateur",
               "details": "9\", A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace Energy Sword",
+          "type": "Remplacer l'Épée énergétique",
           "options": [
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with one",
+          "type": "Améliorer une figurine avec l'une des options suivants",
           "options": [
             {
-              "name": "Sacred Banner",
+              "name": "Bannière Sacrée",
               "details": "Aura de Courage",
               "cost": "+10pts"
             },
             {
-              "name": "Canticle Megaphone",
+              "name": "Mégaphone de Cantique",
               "details": "Cible désignée (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Medical Training",
+              "name": "Entraînement Médical",
               "details": "Aura de Régénération",
               "cost": "+40pts"
             }
@@ -1925,7 +1920,7 @@
       ]
     },
     {
-      "name": "Support Sisters",
+      "name": "Sœurs de Soutien",
       "size": 3,
       "cost": 125,
       "page": 0,
@@ -1940,14 +1935,14 @@
       ],
       "weapons": [
         {
-          "name": "Blessed Flamer",
+          "name": "Lance-flammes béni",
           "range": "12\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A1",
           "ap": "-",
@@ -1956,15 +1951,15 @@
       ],
       "upgrades": [
         {
-          "type": "Replace any Blessed Flamer",
+          "type": "Remplacer n'importe quel Lance-flammes béni",
           "options": [
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+10pts"
             }
@@ -1973,7 +1968,7 @@
       ]
     },
     {
-      "name": "Destroyer Sisters",
+      "name": "Sœurs Destructrices",
       "size": 3,
       "cost": 140,
       "page": 0,
@@ -1989,7 +1984,7 @@
       ],
       "weapons": [
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A3",
           "ap": "-",
@@ -1998,80 +1993,80 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Combat Shields and CCWS",
+          "type": "Remplacer tous les Boucliers de combat et ACC",
           "options": [
             {
-              "name": "Dual Energy Claws",
+              "name": "Paire de griffes énergétiques",
               "details": "A4, Perforant",
               "cost": "+35pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+50pts"
             }
           ]
         },
         {
-          "type": "Replace one Storm Rifle",
+          "type": "Remplacer un Fusil Tempête",
           "options": [
             {
-              "name": "Twin Blessed Flamer",
-              "details": "12\", A2, Explosion (3), Désintegration, Fiable",
+              "name": "Double lance-flammes béni",
+              "details": "12\", A2, Explosion (3), Désintégration, Fiable",
               "cost": "+20pts"
             },
             {
-              "name": "Twin Heavy Fusion Rifle",
+              "name": "Double fusil à fusion lourd",
               "details": "18\", A2, PA (4), Mortel (3)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Replace any CCW",
+          "type": "Remplacer n'importe quel ACC",
           "options": [
             {
-              "name": "Energy Hammer",
+              "name": "Marteau énergétique",
               "details": "A1, Explosion (3)",
-              "cost": "Free"
+              "cost": "Gratuit"
             },
             {
-              "name": "Heavy Mace",
+              "name": "Masse lourde",
               "details": "A1, PA (2), Explosion (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Chain-Fist",
+              "name": "Poing tronçonneur",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A3, PA (1), Perforant",
               "cost": "+10pts"
             },
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A3, PA (4)",
               "cost": "+15pts"
             }
           ]
         },
         {
-          "type": "Upgrade one model with one",
+          "type": "Améliorer une figurine avec l'une des options suivants",
           "options": [
             {
-              "name": "Sacred Banner",
+              "name": "Bannière Sacrée",
               "details": "Aura de Courage",
               "cost": "+10pts"
             },
             {
-              "name": "Canticle Megaphone",
+              "name": "Mégaphone de Cantique",
               "details": "Cible désignée (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Medical Training",
+              "name": "Entraînement Médical",
               "details": "Aura de Régénération",
               "cost": "+40pts"
             }
@@ -2080,7 +2075,7 @@
       ]
     },
     {
-      "name": "Biker Fanatics",
+      "name": "Moto-Fanatiques",
       "size": 3,
       "cost": 205,
       "page": 0,
@@ -2094,18 +2089,18 @@
         "Sans peur",
         "Coriace (3)",
         "Dévotion",
-        "Assaut perforant"
+        "Assaut perçant"
       ],
       "weapons": [
         {
-          "name": "Twin Heavy Rifle",
+          "name": "Fusil lourd double",
           "range": "24\"",
           "attacks": "A2",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "Heavy Chainsaw Sword",
+          "name": "Épée tronçonneuse lourde",
           "range": "-",
           "attacks": "A4",
           "ap": "1",
@@ -2115,7 +2110,7 @@
       "upgrades": []
     },
     {
-      "name": "Biker Sisters",
+      "name": "Sœurs à Moto",
       "size": 3,
       "cost": 205,
       "page": 0,
@@ -2131,21 +2126,21 @@
       ],
       "weapons": [
         {
-          "name": "Twin Heavy Rifle",
+          "name": "Fusil lourd double",
           "range": "24\"",
           "attacks": "A2",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "Heavy Pistol",
+          "name": "Pistolet lourd",
           "range": "12\"",
           "attacks": "A1",
           "ap": "1",
           "special": "-"
         },
         {
-          "name": "CCW",
+          "name": "ACC",
           "range": "-",
           "attacks": "A2",
           "ap": "-",
@@ -2154,70 +2149,70 @@
       ],
       "upgrades": [
         {
-          "type": "Replace all Heavy Pistols and CCWs",
+          "type": "Remplacer tous les Pistolets lourds et ACC",
           "options": [
             {
-              "name": "CCW",
+              "name": "ACC",
               "details": "A1",
               "cost": "+5pts"
             },
             {
-              "name": "Energy Lance",
-              "details": "A2, PA (1), Percée",
-              "cost": "+-5pts"
+              "name": "Lance énergétique",
+              "details": "A2, PA (1), Perforant",
+              "cost": "-5pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Rifle",
+          "type": "Remplacer un Fusil lourd",
           "options": [
             {
-              "name": "Plasma Rifle",
+              "name": "Fusil à plasma",
               "details": "24\", A1, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+10pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+15pts"
             }
           ]
         },
         {
-          "type": "Replace one Heavy Pistol and CCW",
+          "type": "Remplacer un Pistolet lourd et l'ACC",
           "options": [
             {
-              "name": "Sgt. Heavy Pistol",
+              "name": "Pistolet lourd de Sergent",
               "details": "12\", A1, PA (1)",
-              "cost": "Free"
+              "cost": "Gratuit"
             }
           ]
         },
         {
-          "type": "Replace Sgt. Heavy Pistol",
+          "type": "Remplacer le Pistolet lourd de Sergent",
           "options": [
             {
-              "name": "Plasma Pistol",
+              "name": "Pistolet à plasma",
               "details": "12\", A1, PA (4)",
               "cost": "+5pts"
             },
             {
-              "name": "Shred Pistol",
+              "name": "Pistolet lacérateur",
               "details": "9\", A2, Perforant",
               "cost": "+5pts"
             }
           ]
         },
         {
-          "type": "Replace Energy Sword",
+          "type": "Remplacer l'Épée énergétique",
           "options": [
             {
-              "name": "Energy Fist",
+              "name": "Poing énergétique",
               "details": "A2, PA (4)",
               "cost": "+10pts"
             }
@@ -2244,7 +2239,7 @@
       ],
       "weapons": [
         {
-          "name": "Storm Rifle",
+          "name": "Fusil Tempête",
           "range": "24\"",
           "attacks": "A3",
           "ap": "1",
@@ -2253,35 +2248,35 @@
       ],
       "upgrades": [
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+20pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+25pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Upgrade with any",
+          "type": "Améliorer avec l'un des suivants",
           "options": [
             {
-              "name": "Hunter Missiles",
+              "name": "Missiles Chasseurs",
               "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
               "cost": "+10pts"
             },
             {
-              "name": "Dozer Blade",
+              "name": "Lame de bulldozer",
               "details": "Arpenteur",
               "cost": "+10pts"
             }
@@ -2290,7 +2285,7 @@
       ]
     },
     {
-      "name": "Procession Altar",
+      "name": "Autel de Procession",
       "size": 1,
       "cost": 230,
       "page": 0,
@@ -2309,40 +2304,40 @@
       ],
       "weapons": [
         {
-          "name": "Holy Statue's Flame Strikes",
+          "name": "Frappe de flamme de la Statue Sacrée",
           "range": "-",
           "attacks": "A5",
           "ap": "-",
-          "special": "Fiable, Désintegration"
+          "special": "Fiable, Désintégration"
         }
       ],
       "upgrades": [
         {
-          "type": "Replace Holy Statue's Flame Strikes and Holy Statue of Judgement",
+          "type": "Remplacer la Frappe de flamme de la Statue Sacrée et la Statue Sacrée du Jugement",
           "options": [
             {
-              "name": "Holy Statue's Flame Blasts",
-              "details": "12\", A2, Explosion (3), Fiable, Désintegration",
+              "name": "Souffle de flamme de la Statue Sacrée",
+              "details": "12\", A2, Explosion (3), Fiable, Désintégration",
               "cost": "+15pts"
             }
           ]
         },
         {
-          "type": "Upgrade with any",
+          "type": "Améliorer avec l'un des suivants",
           "options": [
             {
-              "name": "God-Queen's Curse",
+              "name": "Malédiction de la Reine-Déesse",
               "details": "Malus de magie",
               "cost": "+10pts"
             },
             {
-              "name": "Extended Cargo",
+              "name": "Soute étendue",
               "details": "Transport (6)",
               "cost": "+20pts"
             },
             {
-              "name": "Angelic High Sister",
-              "details": "Holy Spear, Coriace (3)",
+              "name": "Grande Sœur Angélique",
+              "details": "Sainte lance, Coriace (3)",
               "cost": "+110pts"
             }
           ]
@@ -2350,7 +2345,7 @@
       ]
     },
     {
-      "name": "Infernal APC",
+      "name": "APC Infernal",
       "size": 1,
       "cost": 260,
       "page": 0,
@@ -2368,91 +2363,91 @@
       ],
       "weapons": [
         {
-          "name": "Blessed Flamer",
+          "name": "Lance-flammes béni",
           "range": "12\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         },
         {
-          "name": "Twin Blessed Flamer",
+          "name": "Double lance-flammes béni",
           "range": "12\"",
           "attacks": "A2",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         }
       ],
       "upgrades": [
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+20pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+25pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Replace Twin Blessed Flamer",
+          "type": "Remplacer le Double lance-flammes béni",
           "options": [
             {
-              "name": "Twin Heavy Fusion Rifle",
+              "name": "Double fusil à fusion lourd",
               "details": "18\", A2, PA (4), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Twin Heavy Machinegun",
+              "name": "Double mitrailleuse lourde",
               "details": "30\", A6, PA (1)",
               "cost": "+20pts"
             },
             {
-              "name": "Twin Blessed Flamer Cannon",
-              "details": "18\", A2, Explosion (3), Désintegration, Fiable",
+              "name": "Double canon lance-flammes béni",
+              "details": "18\", A2, Explosion (3), Désintégration, Fiable",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Replace any Blessed Flamer",
+          "type": "Remplacer n'importe quel Lance-flammes béni",
           "options": [
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade with any",
+          "type": "Améliorer avec l'un des suivants",
           "options": [
             {
-              "name": "Hunter Missiles",
+              "name": "Missiles Chasseurs",
               "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
               "cost": "+10pts"
             },
             {
-              "name": "Dozer Blade",
+              "name": "Lame de bulldozer",
               "details": "Arpenteur",
               "cost": "+10pts"
             }
@@ -2461,7 +2456,7 @@
       ]
     },
     {
-      "name": "Organ Tank",
+      "name": "Char Orgue",
       "size": 1,
       "cost": 320,
       "page": 0,
@@ -2478,71 +2473,71 @@
       ],
       "weapons": [
         {
-          "name": "Organ Heavy Missile",
+          "name": "Missile lourd d'Orgue",
           "range": "30\"",
           "attacks": "A3",
           "ap": "2",
           "special": "Mortel (3), Inarrêtable"
         },
         {
-          "name": "Blessed Flamer",
+          "name": "Lance-flammes béni",
           "range": "12\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         }
       ],
       "upgrades": [
         {
-          "type": "Replace Organ Heavy Missiles",
+          "type": "Remplacer les Missiles lourds d'Orgue",
           "options": [
             {
-              "name": "Organ Mortar Array",
+              "name": "Battery de mortiers d'Orgue",
               "details": "36\", A3, PA (1), Explosion (3), Indirect",
               "cost": "+20pts"
             }
           ]
         },
         {
-          "type": "Replace any Blessed Flamer",
+          "type": "Remplacer n'importe quel Lance-flammes béni",
           "options": [
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade with any",
+          "type": "Améliorer avec l'un des suivants",
           "options": [
             {
-              "name": "Hunter Missiles",
+              "name": "Missiles Chasseurs",
               "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
               "cost": "+10pts"
             },
             {
-              "name": "Dozer Blade",
+              "name": "Lame de bulldozer",
               "details": "Arpenteur",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade with",
+          "type": "Améliorer avec",
           "options": [
             {
-              "name": "God-Queen's Curse",
+              "name": "Malédiction de la Reine-Déesse",
               "details": "Malus de magie",
               "cost": "+10pts"
             }
@@ -2551,7 +2546,7 @@
       ]
     },
     {
-      "name": "Battle Tank",
+      "name": "Char de Bataille",
       "size": 1,
       "cost": 365,
       "page": 0,
@@ -2568,86 +2563,86 @@
       ],
       "weapons": [
         {
-          "name": "Anti-Tank Cannon",
+          "name": "Canon Antichar",
           "range": "30\"",
           "attacks": "A1",
           "ap": "3",
           "special": "Mortel (6)"
         },
         {
-          "name": "Blessed Flamer",
+          "name": "Lance-flammes béni",
           "range": "12\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         }
       ],
       "upgrades": [
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Flamer",
+              "name": "Lance-flammes",
               "details": "12\", A1, Explosion (3), Fiable",
               "cost": "+20pts"
             },
             {
-              "name": "Fusion Rifle",
+              "name": "Fusil à fusion",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+25pts"
             },
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+35pts"
             }
           ]
         },
         {
-          "type": "Replace Anti-Tank Cannon",
+          "type": "Remplacer le Canon Antichar",
           "options": [
             {
-              "name": "Battle Cannon",
+              "name": "Canon de Bataille",
               "details": "30\", A2, PA (2), Explosion (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Twin Autocannon",
+              "name": "Canon automatique double",
               "details": "36\", A6, PA (2)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Replace any Blessed Flamer",
+          "type": "Remplacer n'importe quel Lance-flammes béni",
           "options": [
             {
-              "name": "Storm Rifle",
+              "name": "Fusil Tempête",
               "details": "24\", A3, PA (1)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+10pts"
             }
           ]
         },
         {
-          "type": "Upgrade with any",
+          "type": "Améliorer avec l'un des suivants",
           "options": [
             {
-              "name": "Hunter Missiles",
+              "name": "Missiles Chasseurs",
               "details": "24\", A1, PA (2), Mortel (3), Inarrêtable, Limité",
               "cost": "+10pts"
             },
             {
-              "name": "Dozer Blade",
+              "name": "Lame de bulldozer",
               "details": "Arpenteur",
               "cost": "+10pts"
             }
@@ -2656,7 +2651,7 @@
       ]
     },
     {
-      "name": "Exo-Suit",
+      "name": "Exo-Armure",
       "size": 1,
       "cost": 95,
       "page": 0,
@@ -2672,14 +2667,14 @@
       ],
       "weapons": [
         {
-          "name": "Energy Mace",
+          "name": "Masse énergétique",
           "range": "-",
           "attacks": "A1",
           "ap": "2",
           "special": "Explosion (3)"
         },
         {
-          "name": "Stomp",
+          "name": "Piétinement",
           "range": "-",
           "attacks": "A2",
           "ap": "1",
@@ -2688,65 +2683,65 @@
       ],
       "upgrades": [
         {
-          "type": "Replace Energy Mace",
+          "type": "Remplacer la Masse énergétique",
           "options": [
             {
-              "name": "Energy Sword",
+              "name": "Épée énergétique",
               "details": "A3, PA (1), Perforant",
               "cost": "+5pts"
             },
             {
-              "name": "Heavy Energy Mace",
+              "name": "Masse énergétique lourde",
               "details": "A2, PA (2), Explosion (3)",
               "cost": "+20pts"
             },
             {
-              "name": "Heavy Energy Sword",
+              "name": "Grande épée énergétique",
               "details": "A6, PA (1), Perforant",
               "cost": "+25pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "Blessed Flamer",
-              "details": "12\", A1, Explosion (3), Désintegration, Fiable",
+              "name": "Lance-flammes béni",
+              "details": "12\", A1, Explosion (3), Désintégration, Fiable",
               "cost": "+30pts"
             },
             {
-              "name": "Heavy Fusion Rifle",
+              "name": "Fusil à fusion lourd",
               "details": "18\", A1, PA (4), Mortel (3)",
               "cost": "+40pts"
             },
             {
-              "name": "Heavy Machinegun",
+              "name": "Mitrailleuse lourde",
               "details": "30\", A3, PA (1)",
               "cost": "+40pts"
             }
           ]
         },
         {
-          "type": "Upgrade with one",
+          "type": "Améliorer avec une des options suivantes",
           "options": [
             {
-              "name": "GL-Mod",
+              "name": "Module Lance-grenades",
               "details": "24\", A1, Explosion (3)",
               "cost": "+20pts"
             },
             {
-              "name": "Storm-Mod",
+              "name": "Module Tempête",
               "details": "18\", A3, PA (1)",
               "cost": "+30pts"
             }
           ]
         },
         {
-          "type": "Upgrade with",
+          "type": "Améliorer avec",
           "options": [
             {
-              "name": "God-Queen's Curse",
+              "name": "Malédiction de la Reine-Déesse",
               "details": "Malus de magie",
               "cost": "+10pts"
             }
@@ -2755,7 +2750,7 @@
       ]
     },
     {
-      "name": "Assault Walker",
+      "name": "Marcheur d'Assaut",
       "size": 1,
       "cost": 275,
       "page": 0,
@@ -2771,18 +2766,18 @@
         "Éclaireur",
         "Coriace (9)",
         "Dévotion",
-        "Assaut perforant"
+        "Assaut perçant"
       ],
       "weapons": [
         {
-          "name": "Heavy Flail",
+          "name": "Fléau lourd",
           "range": "-",
           "attacks": "A1",
           "ap": "1",
           "special": "Explosion (3)"
         },
         {
-          "name": "Stomp",
+          "name": "Piétinement",
           "range": "-",
           "attacks": "A3",
           "ap": "1",
@@ -2791,55 +2786,55 @@
       ],
       "upgrades": [
         {
-          "type": "Replace any Heavy Flail",
+          "type": "Remplacer n'importe quel Fléau lourd",
           "options": [
             {
-              "name": "Heavy Chainsaw",
+              "name": "Tronçonneuse lourde",
               "details": "A1, PA (4), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Heavy Claw",
+              "name": "Griffe lourde",
               "details": "A4, PA (1), Perforant",
               "cost": "+15pts"
             },
             {
-              "name": "Heavy Fist",
+              "name": "Poing lourd",
               "details": "A4, PA (4)",
               "cost": "+25pts"
             }
           ]
         },
         {
-          "type": "Replace any Heavy Flail",
+          "type": "Remplacer n'importe quel Fléau lourd",
           "options": [
             {
-              "name": "Rapid Blessed Flamer",
-              "details": "12\", A2, Explosion (3), Désintegration, Fiable",
+              "name": "Lance-flammes béni rapide",
+              "details": "12\", A2, Explosion (3), Désintégration, Fiable",
               "cost": "+50pts"
             }
           ]
         },
         {
-          "type": "Replace any Bash",
+          "type": "Remplacer n'importe quel Impact (Bash)",
           "options": [
             {
-              "name": "Light Flail",
+              "name": "Fléau léger",
               "details": "A1, Explosion (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Light Claw",
+              "name": "Griffe légère",
               "details": "A2, PA (1), Perforant",
               "cost": "+10pts"
             },
             {
-              "name": "Light Fist",
+              "name": "Poing léger",
               "details": "A2, PA (4)",
               "cost": "+15pts"
             },
             {
-              "name": "Light Chainsaw",
+              "name": "Tronçonneuse légère",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+15pts"
             }
@@ -2848,7 +2843,7 @@
       ]
     },
     {
-      "name": "Support Walker",
+      "name": "Marcheur de Soutien",
       "size": 1,
       "cost": 250,
       "page": 0,
@@ -2868,14 +2863,14 @@
       ],
       "weapons": [
         {
-          "name": "Heavy Flail",
+          "name": "Fléau lourd",
           "range": "-",
           "attacks": "A1",
           "ap": "1",
           "special": "Explosion (3)"
         },
         {
-          "name": "Stomp",
+          "name": "Piétinement",
           "range": "-",
           "attacks": "A3",
           "ap": "1",
@@ -2884,55 +2879,55 @@
       ],
       "upgrades": [
         {
-          "type": "Replace any Heavy Flail",
+          "type": "Remplacer n'importe quel Fléau lourd",
           "options": [
             {
-              "name": "Heavy Chainsaw",
+              "name": "Tronçonneuse lourde",
               "details": "A1, PA (4), Mortel (3)",
               "cost": "+10pts"
             },
             {
-              "name": "Heavy Claw",
+              "name": "Griffe lourde",
               "details": "A4, PA (1), Perforant",
               "cost": "+15pts"
             },
             {
-              "name": "Heavy Fist",
+              "name": "Poing lourd",
               "details": "A4, PA (4)",
               "cost": "+25pts"
             }
           ]
         },
         {
-          "type": "Replace any Heavy Flail",
+          "type": "Remplacer n'importe quel Fléau lourd",
           "options": [
             {
-              "name": "Rapid Heavy Machinegun",
+              "name": "Mitrailleuse lourde rapide",
               "details": "30\", A6, PA (1)",
               "cost": "+80pts"
             }
           ]
         },
         {
-          "type": "Replace any Bash",
+          "type": "Remplacer n'importe quel Impact (Bash)",
           "options": [
             {
-              "name": "Light Flail",
+              "name": "Fléau léger",
               "details": "A1, Explosion (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Light Claw",
+              "name": "Griffe légère",
               "details": "A2, PA (1), Perforant",
               "cost": "+10pts"
             },
             {
-              "name": "Light Chainsaw",
+              "name": "Tronçonneuse légère",
               "details": "A1, PA (2), Mortel (3)",
               "cost": "+15pts"
             },
             {
-              "name": "Light Fist",
+              "name": "Poing léger",
               "details": "A2, PA (4)",
               "cost": "+15pts"
             }
@@ -2941,7 +2936,7 @@
       ]
     },
     {
-      "name": "Blessed Titan",
+      "name": "Titan Béni",
       "size": 1,
       "cost": 790,
       "page": 0,
@@ -2958,21 +2953,21 @@
       ],
       "weapons": [
         {
-          "name": "Blessed Hull-Flamer",
+          "name": "Lance-flammes de coque béni",
           "range": "12\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         },
         {
-          "name": "Stomp",
+          "name": "Piétinement",
           "range": "-",
           "attacks": "A8",
           "ap": "2",
           "special": "-"
         },
         {
-          "name": "Titan Flail",
+          "name": "Fléau de Titan",
           "range": "-",
           "attacks": "A4",
           "ap": "-",
@@ -2981,65 +2976,65 @@
       ],
       "upgrades": [
         {
-          "type": "Replace any Titan Flail",
+          "type": "Remplacer n'importe quel Fléau de Titan",
           "options": [
             {
-              "name": "Titan Claw",
+              "name": "Griffe de Titan",
               "details": "A12, PA (1)",
               "cost": "+25pts"
             },
             {
-              "name": "Titan Sword",
+              "name": "Épée de Titan",
               "details": "A10, PA (1), Perforant",
               "cost": "+35pts"
             },
             {
-              "name": "Titan Chainsaw",
+              "name": "Tronçonneuse de Titan",
               "details": "A4, PA (2), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Titan Fist",
+              "name": "Poing de Titan",
               "details": "A8, PA (4)",
               "cost": "+10pts"
             },
             {
-              "name": "Titan Anti-Tank Cannon",
+              "name": "Canon Antichar de Titan",
               "details": "30\", A2, PA (3), Mortel (6)",
               "cost": "+160pts"
             },
             {
-              "name": "Titan Battle Cannon",
+              "name": "Canon de Bataille de Titan",
               "details": "30\", A4, PA (2), Explosion (3)",
               "cost": "+150pts"
             },
             {
-              "name": "Titan Missile Array",
+              "name": "Batterie de Missiles de Titan",
               "details": "30\", A4, PA (2), Mortel (3), Inarrêtable",
               "cost": "+210pts"
             },
             {
-              "name": "Titan Autocannon",
+              "name": "Canon Automatique de Titan",
               "details": "36\", A12, PA (2)",
               "cost": "+230pts"
             }
           ]
         },
         {
-          "type": "Replace any Blessed Hull-Flamer",
+          "type": "Remplacer n'importe quel Lance-flammes de coque béni",
           "options": [
             {
-              "name": "Heavy Hull-Flamer",
+              "name": "Lance-flammes de coque lourd",
               "details": "12\", A1, PA (1), Explosion (3), Fiable",
               "cost": "+5pts"
             },
             {
-              "name": "Hull-Fuser",
+              "name": "Fuseur de coque",
               "details": "12\", A1, PA (4), Mortel (3)",
               "cost": "+5pts"
             },
             {
-              "name": "Hull-Machinegun",
+              "name": "Mitrailleuse de coque",
               "details": "30\", A3, PA (1)",
               "cost": "+25pts"
             }
@@ -3056,7 +3051,7 @@
       "quality": "4+",
       "defense": "4+",
       "tough": "3",
-      "unitType": "Héro Narratif",
+      "unitType": "Héros Narratif",
       "specialRules": [
         "Héros",
         "Éclaireur",
@@ -3067,14 +3062,14 @@
       ],
       "weapons": [
         {
-          "name": "Blessed Flamer Pistol",
+          "name": "Pistolet lance-flamme béni",
           "range": "6\"",
           "attacks": "A1",
           "ap": "-",
-          "special": "Explosion (3), Fiable, Désintegration"
+          "special": "Explosion (3), Fiable, Désintégration"
         },
         {
-          "name": "Energy Sword",
+          "name": "Épée énergétique",
           "range": "-",
           "attacks": "A2",
           "ap": "1",

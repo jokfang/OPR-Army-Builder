@@ -54,9 +54,13 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
   // Update default name once data comes in
   useEffect(() => {
     if (!isEdit && army.data && army.data.name) {
-      var armyName = (army.data.uid && customArmies) ? customArmies?.find(t => t.uid === army.data.uid).name : army.data.name
-      setArmyName(armyName);
-      setSelectedChild(armyName);
+      const matchingArmy = army.data.uid && customArmies
+        ? customArmies.find(t => t.uid === army.data.uid)
+        : null;
+      const selectedArmyName = matchingArmy?.name || army.data.name;
+
+      setArmyName(selectedArmyName);
+      setSelectedChild(selectedArmyName);
       setPointsLimit(pointPresets[0]);
     }
   }, [army.data, customArmies, isEdit]);
@@ -79,6 +83,9 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
     if (factionRelation) {
 
       const childArmy = army.childData.find(child => child.name === selectedChild);
+      if (!childArmy) {
+        return alert("Must select a " + factionRelation);
+      }
 
       DataService.getApiData(childArmy.uid, afData => {
 

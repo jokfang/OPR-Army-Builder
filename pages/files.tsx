@@ -81,12 +81,16 @@ export default function Files() {
         // No error handling? fingers crossed
         setDriveArmies(res.files.map(f => {
           const name = f.name.substring(f.name.indexOf("-") + 1).trim();
-          const match = /(.+)\sv(\d+\.\d+)/.exec(name);
+          const match = /(.+)\sv(\d+(?:\.\d+)+)/.exec(name);
+          if (!match) {
+            console.warn("Could not parse Drive army file name:", f.name);
+            return null;
+          }
           return {
             name: match[1],
             version: match[2]
           };
-        }));
+        }).filter(Boolean));
       }, console.error);
 
     // AF to Web Companion game type mapping
@@ -100,9 +104,15 @@ export default function Files() {
     })();
 
     // Load custom data books from Web Companion
-    let dataSourceUrl = router.query.dataSourceUrl ? `https://${router.query.dataSourceUrl}.herokuapp.com/api` : webCompanionUrl
+    const dataSourceName = Array.isArray(router.query.dataSourceUrl) ? router.query.dataSourceUrl[0] : router.query.dataSourceUrl;
+    let dataSourceUrl = dataSourceName ? `https://${dataSourceName}.herokuapp.com/api` : webCompanionUrl
     fetch(dataSourceUrl + "/army-books?gameSystemSlug=" + slug)
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`Failed to load army books (${res.status})`);
+        }
+        return res.json();
+      })
       .then((data) => {
         //console.log(data);
         const valid = data
@@ -112,6 +122,10 @@ export default function Files() {
         setCustomArmies(valid);
         return valid
       })
+      .catch((err) => {
+        console.error("Failed to load custom armies:", err);
+        setCustomArmies([]);
+      });
   }, [army.gameSystem]);
 
   useEffect(() => {

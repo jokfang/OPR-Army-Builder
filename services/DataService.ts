@@ -31,9 +31,15 @@ export default class DataService {
 
   public static getApiData(armyId: string, callback: (armyData: any) => void, fallback?: (err: string) => void) {
 
-    let dataSourceUrl = router.query.dataSourceUrl ? `https://${router.query.dataSourceUrl}.herokuapp.com/api` : this.webCompanionUrl
+    const dataSourceName = Array.isArray(router.query.dataSourceUrl) ? router.query.dataSourceUrl[0] : router.query.dataSourceUrl;
+    let dataSourceUrl = dataSourceName ? `https://${dataSourceName}.herokuapp.com/api` : this.webCompanionUrl
     fetch(dataSourceUrl + `/army-books/${armyId}`)
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`Failed to load army book (${res.status})`);
+        }
+        return res.json();
+      })
       .then((data) => {
         
         //console.log(data);
@@ -42,6 +48,10 @@ export default class DataService {
 
         callback(afData);
       })
+      .catch((err) => {
+        console.error("Failed to load army book:", err);
+        if (typeof (fallback) == "function") fallback(err);
+      });
   }
 
   public static transformApiData(input, fallback?: (err: string) => void) {
