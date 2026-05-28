@@ -2,7 +2,7 @@ import { useState, forwardRef, useEffect, Fragment } from "react";
 import { useSelector, useDispatch } from 'react-redux'
 import { RootState } from '../data/store'
 import { useRouter } from 'next/router';
-import { Button, CircularProgress, Dialog, List, ListItem, ListItemText, Slide, TextField } from "@mui/material";
+import { Button, CircularProgress, Dialog, List, ListItem, ListItemText, Slide, TextField, ToggleButton, ToggleButtonGroup } from "@mui/material";
 import { AppBar, IconButton, Toolbar, Typography, FormGroup, FormControlLabel, Checkbox, Radio } from '@mui/material';
 import ClearIcon from '@mui/icons-material/Clear';
 import { createList, updateListSettings } from "../data/listSlice";
@@ -28,6 +28,7 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
 
   const [armyName, setArmyName] = useState(isEdit ? list.name : "");
   const [pointsLimit, setPointsLimit] = useState(isEdit ? list.pointsLimit : null);
+  const [pointsMode, setPointsMode] = useState<"preset" | "custom">(isEdit ? "custom" : "preset");
   const [autoSave, setAutoSave] = useState(true);
   const [selectedChild, setSelectedChild] = useState(null);
   const dispatch = useDispatch();
@@ -38,6 +39,17 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
     : true;
 
   const factionRelation = army.childData?.filter(c => c.factionRelation)[0]?.factionRelation;
+  const pointPresets = (() => {
+    switch (army.gameSystem) {
+      case "gff":
+      case "aofs":
+        return [150, 300];
+      case "gf":
+      case "aof":
+      default:
+        return [1000, 2000];
+    }
+  })();
 
   // Update default name once data comes in
   useEffect(() => {
@@ -45,6 +57,7 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
       var armyName = (army.data.uid && customArmies) ? customArmies?.find(t => t.uid === army.data.uid).name : army.data.name
       setArmyName(armyName);
       setSelectedChild(armyName);
+      setPointsLimit(pointPresets[0]);
     }
   }, [army.data, customArmies, isEdit]);
 
@@ -140,7 +153,35 @@ export default function ListConfigurationDialog({ isEdit, open, setOpen, customA
               <ArmyImage name={army.data?.name} />
             </div>
             <TextField variant="filled" label="List Name" className="mb-4" value={armyName} onChange={(e) => setArmyName(e.target.value)} />
-            <TextField variant="filled" label="Points Limit" type="number" className="mb-4" value={pointsLimit ?? ""} onChange={(e) => setPointsLimit(e.target.value ? parseInt(e.target.value) : null)} />
+            <ToggleButtonGroup
+              exclusive
+              fullWidth
+              className="mb-4"
+              value={pointsMode === "custom" ? "custom" : pointsLimit}
+              onChange={(_, value) => {
+                if (value === null)
+                  return;
+
+                if (value === "custom") {
+                  setPointsMode("custom");
+                  setPointsLimit(null);
+                } else {
+                  setPointsMode("preset");
+                  setPointsLimit(value);
+                }
+              }}>
+              {pointPresets.map(points => (
+                <ToggleButton key={points} value={points}>
+                  {points} pts
+                </ToggleButton>
+              ))}
+              <ToggleButton value="custom">
+                Custom
+              </ToggleButton>
+            </ToggleButtonGroup>
+            {pointsMode === "custom" && (
+              <TextField variant="filled" label="Points Limit" type="number" className="mb-4" value={pointsLimit ?? ""} onChange={(e) => setPointsLimit(e.target.value ? parseInt(e.target.value) : null)} />
+            )}
             {!isEdit && <FormGroup className="mb-0 is-flex-direction-row is-align-items-center">
               <FormControlLabel control={
                 <Checkbox checked={autoSave} onClick={() => setAutoSave(!autoSave)} />

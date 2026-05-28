@@ -49,38 +49,16 @@ export function UnitSelection({ onSelected, addUnit = (unit: IUnit, dummy = fals
   if (!armyData.loaded)
     return null;
 
-  // Group army units by category
-  const isTough = (u: IUnit, threshold) => u.specialRules.some(r => {
-    if (r.name !== "Tough")
-      return false;
-    const toughness = parseInt(r.rating);
-    return toughness >= threshold;
-  });
-  const hasRule = (u: IUnit, rule: string) => u.specialRules.some(r => r.name === rule);
+  // Group army units by their source unit type.
+  const unitGroups = army.units.reduce((groups, unit) => {
+    const category = unit.category || "Core Units";
 
-  const unitGroups = {
-    "Heroes": [],
-    "Core Units": [],
-    "Vehicles / Monsters": [],
-    "Artillery": [],
-    "Titans": [],
-    "Aircraft": [],
-  };
+    if (!groups[category])
+      groups[category] = [];
 
-  for (let unit of army.units) {
-    if (hasRule(unit, "Hero"))
-      unitGroups["Heroes"].push(unit);
-    else if (hasRule(unit, "Aircraft"))
-      unitGroups["Aircraft"].push(unit);
-    else if (hasRule(unit, "Artillery"))
-      unitGroups["Artillery"].push(unit);
-    else if (isTough(unit, 18) && unit.defense == "2")
-      unitGroups["Titans"].push(unit);
-    else if (isTough(unit, 6) && unit.defense == "2")
-      unitGroups["Vehicles / Monsters"].push(unit);
-    else
-      unitGroups["Core Units"].push(unit);
-  }
+    groups[category].push(unit);
+    return groups;
+  }, {});
 
   const handleAddClick = (unit: IUnit) => {
     addUnit(unit);
